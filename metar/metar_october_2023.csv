@@ -1,0 +1,1514 @@
+Day,Hour,Condition,Temperature,Wind,Relative_hum,Pressure
+Sunday 1 October 2023,00:00,Clear,20°,4,73%,1025 hPa
+Sunday 1 October 2023,00:30,Clear,19°,6,78%,1025 hPa
+Sunday 1 October 2023,01:00,Clear,19°,6,78%,1025 hPa
+Sunday 1 October 2023,01:30,Clear,19°,6,73%,1025 hPa
+Sunday 1 October 2023,02:00,Clear,18°,6,77%,1025 hPa
+Sunday 1 October 2023,02:30,Clear,18°,7,77%,1025 hPa
+Sunday 1 October 2023,03:00,Clear,17°,7,77%,1025 hPa
+Sunday 1 October 2023,03:30,Clear,17°,7,77%,1025 hPa
+Sunday 1 October 2023,04:00,Clear,16°,6,82%,1025 hPa
+Sunday 1 October 2023,04:30,Clear,16°,6,82%,1025 hPa
+Sunday 1 October 2023,05:00,Clear,15°,4,88%,1025 hPa
+Sunday 1 October 2023,05:30,Clear,15°,6,88%,1025 hPa
+Sunday 1 October 2023,06:00,Clear,15°,7,82%,1025 hPa
+Sunday 1 October 2023,06:30,Clear,15°,7,82%,1025 hPa
+Sunday 1 October 2023,07:00,Clear,15°,6,82%,1025 hPa
+Sunday 1 October 2023,07:30,Clear,14°,4,82%,1025 hPa
+Sunday 1 October 2023,08:00,Clear,13°,4,94%,1025 hPa
+Sunday 1 October 2023,08:30,Clear,13°,4,88%,1025 hPa
+Sunday 1 October 2023,09:00,Clear,15°,4,82%,1026 hPa
+Sunday 1 October 2023,09:30,Clear,16°,2,77%,1026 hPa
+Sunday 1 October 2023,10:00,Clear,17°,2,72%,1026 hPa
+Sunday 1 October 2023,10:30,Clear,18°,2,68%,1026 hPa
+Sunday 1 October 2023,11:00,Clear,20°,4,64%,1026 hPa
+Sunday 1 October 2023,11:30,Clear,22°,2,57%,1026 hPa
+Sunday 1 October 2023,12:00,Clear,24°,Calm,54%,1026 hPa
+Sunday 1 October 2023,12:30,Clear,26°,2,51%,1026 hPa
+Sunday 1 October 2023,13:00,Clear,27°,4,42%,1026 hPa
+Sunday 1 October 2023,13:30,Clear,28°,4,40%,1026 hPa
+Sunday 1 October 2023,14:00,Clear,29°,2,31%,1025 hPa
+Sunday 1 October 2023,14:30,Clear,30°,Calm,33%,1025 hPa
+Sunday 1 October 2023,15:00,Clear,30°,2,29%,1025 hPa
+Sunday 1 October 2023,15:30,Clear,31°,2,26%,1024 hPa
+Sunday 1 October 2023,16:00,Clear,31°,Calm,29%,1024 hPa
+Sunday 1 October 2023,16:30,Clear,31°,2,27%,1023 hPa
+Sunday 1 October 2023,17:00,Clear,32°,7,28%,1023 hPa
+Sunday 1 October 2023,17:30,Clear,33°,4,23%,1023 hPa
+Sunday 1 October 2023,18:00,Clear,32°,6,28%,1023 hPa
+Sunday 1 October 2023,18:30,Clear,32°,4,23%,1023 hPa
+Sunday 1 October 2023,19:00,Clear,32°,6,23%,1022 hPa
+Sunday 1 October 2023,19:30,Clear,29°,4,31%,1022 hPa
+Sunday 1 October 2023,20:00,Clear,26°,2,37%,1022 hPa
+Sunday 1 October 2023,20:30,Clear,24°,6,44%,1022 hPa
+Sunday 1 October 2023,21:00,Clear,25°,4,41%,1022 hPa
+Sunday 1 October 2023,21:30,Clear,24°,4,47%,1023 hPa
+Sunday 1 October 2023,22:00,Clear,23°,6,50%,1023 hPa
+Sunday 1 October 2023,22:30,Clear,21°,9,60%,1023 hPa
+Sunday 1 October 2023,23:00,Clear,20°,7,64%,1023 hPa
+Sunday 1 October 2023,23:30,Clear,20°,6,60%,1023 hPa
+Monday 2 October 2023,00:00,Clear,20°,4,60%,1024 hPa
+Monday 2 October 2023,00:30,Clear,19°,7,64%,1024 hPa
+Monday 2 October 2023,01:00,Clear,18°,6,68%,1024 hPa
+Monday 2 October 2023,01:30,Clear,17°,4,72%,1024 hPa
+Monday 2 October 2023,02:00,Clear,17°,Calm,72%,1024 hPa
+Monday 2 October 2023,02:30,Clear,17°,6,72%,1024 hPa
+Monday 2 October 2023,03:00,Clear,16°,6,77%,1024 hPa
+Monday 2 October 2023,03:30,Clear,16°,6,72%,1024 hPa
+Monday 2 October 2023,04:00,Clear,16°,9,72%,1024 hPa
+Monday 2 October 2023,04:30,Clear,15°,9,77%,1024 hPa
+Monday 2 October 2023,05:00,Clear,15°,9,72%,1023 hPa
+Monday 2 October 2023,05:30,Clear,15°,9,72%,1023 hPa
+Monday 2 October 2023,06:00,Clear,14°,4,77%,1023 hPa
+Monday 2 October 2023,06:30,Clear,14°,6,77%,1023 hPa
+Monday 2 October 2023,07:00,Clear,14°,4,77%,1023 hPa
+Monday 2 October 2023,07:30,Clear,14°,4,77%,1024 hPa
+Monday 2 October 2023,08:00,Clear,13°,6,77%,1024 hPa
+Monday 2 October 2023,08:30,Clear,13°,4,82%,1024 hPa
+Monday 2 October 2023,09:00,Clear,14°,4,77%,1024 hPa
+Monday 2 October 2023,09:30,Clear,15°,6,77%,1025 hPa
+Monday 2 October 2023,10:00,Clear,16°,4,68%,1025 hPa
+Monday 2 October 2023,10:30,Clear,18°,6,68%,1025 hPa
+Monday 2 October 2023,11:00,Clear,19°,6,60%,1025 hPa
+Monday 2 October 2023,11:30,Clear,21°,6,53%,1025 hPa
+Monday 2 October 2023,12:00,Clear,23°,2,50%,1025 hPa
+Monday 2 October 2023,12:30,Clear,24°,2,47%,1025 hPa
+Monday 2 October 2023,13:00,Clear,26°,4,39%,1024 hPa
+Monday 2 October 2023,13:30,Clear,27°,Calm,32%,1024 hPa
+Monday 2 October 2023,14:00,Clear,28°,4,30%,1024 hPa
+Monday 2 October 2023,14:30,Clear,28°,2,35%,1024 hPa
+Monday 2 October 2023,15:00,Clear,29°,2,31%,1023 hPa
+Monday 2 October 2023,15:30,Clear,29°,6,33%,1023 hPa
+Monday 2 October 2023,16:00,Clear,29°,7,31%,1023 hPa
+Monday 2 October 2023,16:30,Clear,30°,7,29%,1022 hPa
+Monday 2 October 2023,17:00,Clear,31°,2,27%,1022 hPa
+Monday 2 October 2023,17:30,Clear,30°,6,25%,1022 hPa
+Monday 2 October 2023,18:00,Clear,31°,6,22%,1022 hPa
+Monday 2 October 2023,18:30,Clear,30°,6,25%,1022 hPa
+Monday 2 October 2023,19:00,Clear,30°,7,27%,1022 hPa
+Monday 2 October 2023,19:30,Clear,28°,6,37%,1022 hPa
+Monday 2 October 2023,20:00,Clear,26°,4,37%,1022 hPa
+Monday 2 October 2023,20:30,Clear,26°,4,37%,1022 hPa
+Monday 2 October 2023,21:00,Clear,23°,Calm,47%,1023 hPa
+Monday 2 October 2023,21:30,Clear,24°,Calm,41%,1023 hPa
+Monday 2 October 2023,22:00,Clear,22°,7,50%,1023 hPa
+Monday 2 October 2023,22:30,Clear,21°,6,60%,1023 hPa
+Monday 2 October 2023,23:00,Clear,20°,7,60%,1024 hPa
+Monday 2 October 2023,23:30,Clear,20°,9,60%,1024 hPa
+Tuesday 3 October 2023,00:00,Clear,19°,9,64%,1024 hPa
+Tuesday 3 October 2023,00:30,Clear,19°,6,64%,1024 hPa
+Tuesday 3 October 2023,01:00,Clear,18°,6,68%,1024 hPa
+Tuesday 3 October 2023,01:30,Clear,17°,6,72%,1024 hPa
+Tuesday 3 October 2023,02:00,Clear,17°,6,68%,1024 hPa
+Tuesday 3 October 2023,02:30,Clear,17°,6,68%,1024 hPa
+Tuesday 3 October 2023,03:00,Clear,16°,6,72%,1024 hPa
+Tuesday 3 October 2023,03:30,Clear,16°,4,72%,1024 hPa
+Tuesday 3 October 2023,04:00,Clear,16°,6,72%,1024 hPa
+Tuesday 3 October 2023,04:30,Clear,15°,4,77%,1024 hPa
+Tuesday 3 October 2023,05:00,Clear,15°,4,77%,1024 hPa
+Tuesday 3 October 2023,05:30,Clear,14°,6,82%,1024 hPa
+Tuesday 3 October 2023,06:00,Clear,14°,6,77%,1024 hPa
+Tuesday 3 October 2023,06:30,Clear,14°,6,77%,1024 hPa
+Tuesday 3 October 2023,07:00,Clear,14°,9,77%,1024 hPa
+Tuesday 3 October 2023,07:30,Clear,13°,4,82%,1024 hPa
+Tuesday 3 October 2023,08:00,Clear,13°,2,82%,1024 hPa
+Tuesday 3 October 2023,08:30,Clear,13°,Calm,82%,1025 hPa
+Tuesday 3 October 2023,09:00,Clear,14°,4,77%,1025 hPa
+Tuesday 3 October 2023,09:30,Clear,14°,4,82%,1025 hPa
+Tuesday 3 October 2023,10:00,Clear,16°,4,72%,1025 hPa
+Tuesday 3 October 2023,10:30,Clear,18°,Calm,64%,1026 hPa
+Tuesday 3 October 2023,11:00,Clear,18°,4,64%,1026 hPa
+Tuesday 3 October 2023,11:30,Clear,20°,4,60%,1026 hPa
+Tuesday 3 October 2023,12:00,Clear,22°,2,53%,1026 hPa
+Tuesday 3 October 2023,12:30,Clear,23°,2,53%,1026 hPa
+Tuesday 3 October 2023,13:00,Clear,25°,2,47%,1026 hPa
+Tuesday 3 October 2023,13:30,Clear,26°,2,42%,1026 hPa
+Tuesday 3 October 2023,14:00,Clear,26°,2,45%,1025 hPa
+Tuesday 3 October 2023,14:30,Clear,27°,4,42%,1025 hPa
+Tuesday 3 October 2023,15:00,Clear,28°,4,37%,1025 hPa
+Tuesday 3 October 2023,15:30,Clear,28°,4,40%,1024 hPa
+Tuesday 3 October 2023,16:00,Clear,29°,Calm,27%,1024 hPa
+Tuesday 3 October 2023,16:30,Clear,29°,2,33%,1024 hPa
+Tuesday 3 October 2023,17:00,Clear,30°,9,27%,1024 hPa
+Tuesday 3 October 2023,17:30,Clear,31°,4,27%,1024 hPa
+Tuesday 3 October 2023,18:00,Clear,29°,7,35%,1024 hPa
+Tuesday 3 October 2023,18:30,Clear,30°,9,29%,1023 hPa
+Tuesday 3 October 2023,19:00,Clear,30°,9,27%,1024 hPa
+Tuesday 3 October 2023,19:30,Clear,29°,6,31%,1024 hPa
+Tuesday 3 October 2023,20:00,Clear,26°,6,39%,1024 hPa
+Tuesday 3 October 2023,20:30,Clear,27°,7,37%,1024 hPa
+Tuesday 3 October 2023,21:00,Clear,24°,2,44%,1024 hPa
+Tuesday 3 October 2023,21:30,Clear,22°,Calm,50%,1024 hPa
+Tuesday 3 October 2023,22:00,Clear,23°,6,50%,1025 hPa
+Tuesday 3 October 2023,22:30,Clear,22°,6,53%,1025 hPa
+Tuesday 3 October 2023,23:00,Clear,21°,4,60%,1025 hPa
+Tuesday 3 October 2023,23:30,Clear,20°,4,68%,1025 hPa
+Wednesday 4 October 2023,00:00,Clear,19°,6,68%,1026 hPa
+Wednesday 4 October 2023,00:30,Clear,19°,4,68%,1026 hPa
+Wednesday 4 October 2023,01:00,Clear,19°,7,68%,1026 hPa
+Wednesday 4 October 2023,01:30,Clear,18°,11,73%,1026 hPa
+Wednesday 4 October 2023,02:00,Clear,19°,9,68%,1026 hPa
+Wednesday 4 October 2023,02:30,Clear,18°,7,68%,1026 hPa
+Wednesday 4 October 2023,03:00,Clear,18°,6,68%,1026 hPa
+Wednesday 4 October 2023,03:30,Clear,17°,2,77%,1026 hPa
+Wednesday 4 October 2023,04:00,Clear,16°,Calm,77%,1026 hPa
+Wednesday 4 October 2023,04:30,Clear,16°,4,82%,1026 hPa
+Wednesday 4 October 2023,05:00,Clear,16°,Calm,82%,1026 hPa
+Wednesday 4 October 2023,05:30,Clear,16°,Calm,82%,1026 hPa
+Wednesday 4 October 2023,06:00,Clear,16°,Calm,82%,1026 hPa
+Wednesday 4 October 2023,06:30,Clear,15°,2,82%,1026 hPa
+Wednesday 4 October 2023,07:00,Clear,15°,6,82%,1026 hPa
+Wednesday 4 October 2023,07:30,Clear,14°,4,88%,1026 hPa
+Wednesday 4 October 2023,08:00,Clear,14°,2,82%,1027 hPa
+Wednesday 4 October 2023,08:30,Clear,14°,2,82%,1027 hPa
+Wednesday 4 October 2023,09:00,Clear,14°,Calm,88%,1027 hPa
+Wednesday 4 October 2023,09:30,Clear,17°,Calm,82%,1028 hPa
+Wednesday 4 October 2023,10:00,Clear,17°,4,77%,1028 hPa
+Wednesday 4 October 2023,10:30,Clear,18°,Calm,73%,1028 hPa
+Wednesday 4 October 2023,11:00,Clear,19°,4,68%,1028 hPa
+Wednesday 4 October 2023,11:30,Clear,21°,4,64%,1028 hPa
+Wednesday 4 October 2023,12:00,Clear,22°,2,60%,1028 hPa
+Wednesday 4 October 2023,12:30,Clear,23°,2,57%,1028 hPa
+Wednesday 4 October 2023,13:00,Clear,24°,7,54%,1028 hPa
+Wednesday 4 October 2023,13:30,Clear,25°,7,50%,1027 hPa
+Wednesday 4 October 2023,14:00,Clear,26°,4,48%,1027 hPa
+Wednesday 4 October 2023,14:30,Clear,26°,4,48%,1027 hPa
+Wednesday 4 October 2023,15:00,Clear,26°,Calm,51%,1026 hPa
+Wednesday 4 October 2023,15:30,Clear,27°,4,45%,1026 hPa
+Wednesday 4 October 2023,16:00,Clear,27°,2,48%,1026 hPa
+Wednesday 4 October 2023,16:30,Clear,28°,2,42%,1025 hPa
+Wednesday 4 October 2023,17:00,Clear,28°,2,42%,1025 hPa
+Wednesday 4 October 2023,17:30,Clear,28°,6,48%,1025 hPa
+Wednesday 4 October 2023,18:00,Clear,29°,6,40%,1025 hPa
+Wednesday 4 October 2023,18:30,Clear,29°,6,40%,1025 hPa
+Wednesday 4 October 2023,19:00,Clear,28°,7,40%,1025 hPa
+Wednesday 4 October 2023,19:30,Clear,28°,7,40%,1025 hPa
+Wednesday 4 October 2023,20:00,Clear,26°,4,45%,1025 hPa
+Wednesday 4 October 2023,20:30,Clear,24°,Calm,54%,1025 hPa
+Wednesday 4 October 2023,21:00,Clear,23°,4,57%,1025 hPa
+Wednesday 4 October 2023,21:30,Clear,23°,6,57%,1025 hPa
+Wednesday 4 October 2023,22:00,Clear,22°,4,60%,1025 hPa
+Wednesday 4 October 2023,22:30,Clear,21°,7,64%,1025 hPa
+Wednesday 4 October 2023,23:00,Clear,20°,6,68%,1026 hPa
+Wednesday 4 October 2023,23:30,Clear,20°,4,68%,1026 hPa
+Thursday 5 October 2023,00:00,Clear,19°,6,73%,1026 hPa
+Thursday 5 October 2023,00:30,Clear,19°,4,73%,1026 hPa
+Thursday 5 October 2023,01:00,Clear,18°,6,77%,1026 hPa
+Thursday 5 October 2023,01:30,Clear,18°,6,77%,1026 hPa
+Thursday 5 October 2023,02:00,Clear,17°,6,82%,1026 hPa
+Thursday 5 October 2023,02:30,Clear,18°,4,77%,1026 hPa
+Thursday 5 October 2023,03:00,Clear,17°,6,77%,1026 hPa
+Thursday 5 October 2023,03:30,Clear,17°,4,77%,1026 hPa
+Thursday 5 October 2023,04:00,Clear,16°,6,82%,1025 hPa
+Thursday 5 October 2023,04:30,Clear,16°,6,82%,1025 hPa
+Thursday 5 October 2023,05:00,Clear,16°,6,82%,1025 hPa
+Thursday 5 October 2023,05:30,Clear,15°,4,82%,1025 hPa
+Thursday 5 October 2023,06:00,Clear,15°,7,88%,1025 hPa
+Thursday 5 October 2023,06:30,Clear,14°,Calm,88%,1025 hPa
+Thursday 5 October 2023,07:00,Clear,14°,6,88%,1026 hPa
+Thursday 5 October 2023,07:30,Clear,14°,6,88%,1026 hPa
+Thursday 5 October 2023,08:00,Clear,14°,4,82%,1026 hPa
+Thursday 5 October 2023,08:30,Clear,14°,4,82%,1026 hPa
+Thursday 5 October 2023,09:00,Clear,14°,4,88%,1026 hPa
+Thursday 5 October 2023,09:30,Clear,15°,4,82%,1027 hPa
+Thursday 5 October 2023,10:00,Clear,16°,4,77%,1027 hPa
+Thursday 5 October 2023,10:30,Clear,18°,2,73%,1027 hPa
+Thursday 5 October 2023,11:00,Clear,19°,4,68%,1027 hPa
+Thursday 5 October 2023,11:30,Clear,21°,4,64%,1027 hPa
+Thursday 5 October 2023,12:00,Clear,23°,Calm,57%,1027 hPa
+Thursday 5 October 2023,12:30,Clear,24°,Calm,57%,1027 hPa
+Thursday 5 October 2023,13:00,Clear,25°,4,54%,1027 hPa
+Thursday 5 October 2023,13:30,Clear,27°,2,48%,1027 hPa
+Thursday 5 October 2023,14:00,Clear,28°,4,42%,1026 hPa
+Thursday 5 October 2023,14:30,Clear,28°,2,42%,1026 hPa
+Thursday 5 October 2023,15:00,Clear,29°,2,37%,1025 hPa
+Thursday 5 October 2023,15:30,Clear,30°,Calm,38%,1025 hPa
+Thursday 5 October 2023,16:00,Clear,30°,Calm,33%,1025 hPa
+Thursday 5 October 2023,16:30,Clear,30°,2,33%,1025 hPa
+Thursday 5 October 2023,17:00,Clear,31°,6,26%,1024 hPa
+Thursday 5 October 2023,17:30,Clear,31°,4,24%,1024 hPa
+Thursday 5 October 2023,18:00,Clear,31°,Calm,26%,1024 hPa
+Thursday 5 October 2023,18:30,Clear,31°,2,24%,1024 hPa
+Thursday 5 October 2023,19:00,Clear,30°,Calm,38%,1024 hPa
+Thursday 5 October 2023,19:30,Clear,28°,Calm,30%,1024 hPa
+Thursday 5 October 2023,20:00,Clear,26°,Calm,32%,1024 hPa
+Thursday 5 October 2023,20:30,Clear,24°,Calm,41%,1024 hPa
+Thursday 5 October 2023,21:00,Clear,22°,2,46%,1024 hPa
+Thursday 5 October 2023,21:30,Clear,23°,6,47%,1024 hPa
+Thursday 5 October 2023,22:00,Clear,22°,6,53%,1025 hPa
+Thursday 5 October 2023,22:30,Clear,21°,9,56%,1025 hPa
+Thursday 5 October 2023,23:00,Clear,20°,9,60%,1025 hPa
+Thursday 5 October 2023,23:30,Clear,19°,6,64%,1025 hPa
+Friday 6 October 2023,00:00,Clear,19°,7,64%,1025 hPa
+Friday 6 October 2023,00:30,Clear,19°,6,64%,1025 hPa
+Friday 6 October 2023,01:00,Clear,19°,4,60%,1025 hPa
+Friday 6 October 2023,01:30,Clear,17°,4,68%,1025 hPa
+Friday 6 October 2023,02:00,Clear,17°,4,72%,1025 hPa
+Friday 6 October 2023,02:30,Clear,16°,7,72%,1026 hPa
+Friday 6 October 2023,03:00,Clear,15°,9,77%,1025 hPa
+Friday 6 October 2023,03:30,Clear,16°,7,77%,1025 hPa
+Friday 6 October 2023,04:00,Clear,16°,6,72%,1025 hPa
+Friday 6 October 2023,04:30,Clear,15°,6,77%,1025 hPa
+Friday 6 October 2023,05:00,Clear,16°,9,72%,1025 hPa
+Friday 6 October 2023,05:30,Clear,15°,7,77%,1025 hPa
+Friday 6 October 2023,06:00,Clear,14°,4,82%,1025 hPa
+Friday 6 October 2023,06:30,Clear,14°,4,82%,1025 hPa
+Friday 6 October 2023,07:00,Clear,14°,4,77%,1026 hPa
+Friday 6 October 2023,07:30,Clear,14°,2,77%,1026 hPa
+Friday 6 October 2023,08:00,Clear,13°,Calm,82%,1026 hPa
+Friday 6 October 2023,08:30,Clear,13°,6,82%,1026 hPa
+Friday 6 October 2023,09:00,Clear,14°,2,82%,1026 hPa
+Friday 6 October 2023,09:30,Clear,15°,4,77%,1027 hPa
+Friday 6 October 2023,10:00,Clear,17°,2,68%,1027 hPa
+Friday 6 October 2023,10:30,Clear,18°,2,68%,1027 hPa
+Friday 6 October 2023,11:00,Clear,20°,Calm,56%,1027 hPa
+Friday 6 October 2023,11:30,Clear,22°,Calm,57%,1027 hPa
+Friday 6 October 2023,12:00,Clear,23°,2,50%,1027 hPa
+Friday 6 October 2023,12:30,Clear,25°,2,41%,1027 hPa
+Friday 6 October 2023,13:00,Clear,27°,Calm,39%,1027 hPa
+Friday 6 October 2023,13:30,Clear,28°,2,35%,1026 hPa
+Friday 6 October 2023,14:00,Clear,29°,4,29%,1026 hPa
+Friday 6 October 2023,14:30,Clear,30°,4,25%,1025 hPa
+Friday 6 October 2023,15:00,Clear,30°,4,25%,1025 hPa
+Friday 6 October 2023,15:30,Clear,31°,6,24%,1025 hPa
+Friday 6 October 2023,16:00,Clear,31°,4,26%,1025 hPa
+Friday 6 October 2023,16:30,Clear,31°,4,22%,1024 hPa
+Friday 6 October 2023,17:00,Clear,32°,Calm,24%,1024 hPa
+Friday 6 October 2023,17:30,Clear,32°,2,23%,1024 hPa
+Friday 6 October 2023,18:00,Clear,31°,4,21%,1024 hPa
+Friday 6 October 2023,18:30,Clear,32°,Calm,26%,1024 hPa
+Friday 6 October 2023,19:00,Clear,30°,Calm,35%,1024 hPa
+Friday 6 October 2023,19:30,Clear,28°,4,35%,1024 hPa
+Friday 6 October 2023,20:00,Clear,26°,9,37%,1024 hPa
+Friday 6 October 2023,20:30,Clear,25°,7,39%,1024 hPa
+Friday 6 October 2023,21:00,Clear,22°,7,46%,1024 hPa
+Friday 6 October 2023,21:30,Clear,21°,7,53%,1024 hPa
+Friday 6 October 2023,22:00,Clear,21°,Calm,49%,1024 hPa
+Friday 6 October 2023,22:30,Clear,21°,6,49%,1025 hPa
+Friday 6 October 2023,23:00,Clear,21°,7,49%,1025 hPa
+Friday 6 October 2023,23:30,Clear,19°,13,56%,1025 hPa
+Saturday 7 October 2023,00:00,Clear,18°,4,59%,1025 hPa
+Saturday 7 October 2023,00:30,Clear,18°,7,59%,1025 hPa
+Saturday 7 October 2023,01:00,Clear,18°,4,59%,1025 hPa
+Saturday 7 October 2023,01:30,Clear,17°,4,59%,1025 hPa
+Saturday 7 October 2023,02:00,Clear,16°,6,68%,1025 hPa
+Saturday 7 October 2023,02:30,Clear,16°,7,63%,1025 hPa
+Saturday 7 October 2023,03:00,Clear,16°,7,63%,1025 hPa
+Saturday 7 October 2023,03:30,Clear,15°,7,67%,1025 hPa
+Saturday 7 October 2023,04:00,Clear,15°,6,67%,1025 hPa
+Saturday 7 October 2023,04:30,Clear,15°,6,67%,1025 hPa
+Saturday 7 October 2023,05:00,Clear,14°,6,67%,1025 hPa
+Saturday 7 October 2023,05:30,Clear,14°,7,67%,1025 hPa
+Saturday 7 October 2023,06:00,Clear,14°,6,67%,1025 hPa
+Saturday 7 October 2023,06:30,Clear,13°,4,72%,1025 hPa
+Saturday 7 October 2023,07:00,Clear,14°,6,72%,1025 hPa
+Saturday 7 October 2023,07:30,Clear,13°,6,72%,1025 hPa
+Saturday 7 October 2023,08:00,Clear,13°,6,72%,1025 hPa
+Saturday 7 October 2023,08:30,Clear,13°,7,72%,1026 hPa
+Saturday 7 October 2023,09:00,Clear,14°,4,72%,1026 hPa
+Saturday 7 October 2023,09:30,Clear,15°,4,67%,1026 hPa
+Saturday 7 October 2023,10:00,Clear,16°,2,63%,1027 hPa
+Saturday 7 October 2023,10:30,Clear,17°,7,59%,1027 hPa
+Saturday 7 October 2023,11:00,Clear,19°,7,56%,1027 hPa
+Saturday 7 October 2023,11:30,Clear,21°,6,53%,1027 hPa
+Saturday 7 October 2023,12:00,Clear,23°,7,47%,1027 hPa
+Saturday 7 October 2023,12:30,Clear,24°,6,44%,1027 hPa
+Saturday 7 October 2023,13:00,Clear,26°,4,39%,1026 hPa
+Saturday 7 October 2023,13:30,Clear,26°,4,39%,1026 hPa
+Saturday 7 October 2023,14:00,Clear,27°,4,34%,1026 hPa
+Saturday 7 October 2023,14:30,Clear,28°,2,32%,1025 hPa
+Saturday 7 October 2023,15:00,Clear,29°,2,31%,1025 hPa
+Saturday 7 October 2023,15:30,Clear,29°,6,27%,1025 hPa
+Saturday 7 October 2023,16:00,Clear,30°,4,27%,1025 hPa
+Saturday 7 October 2023,16:30,Clear,30°,4,27%,1024 hPa
+Saturday 7 October 2023,17:00,Clear,31°,4,24%,1024 hPa
+Saturday 7 October 2023,17:30,Clear,31°,6,22%,1024 hPa
+Saturday 7 October 2023,18:00,Clear,31°,4,22%,1024 hPa
+Saturday 7 October 2023,18:30,Clear,31°,2,22%,1024 hPa
+Saturday 7 October 2023,19:00,Clear,30°,6,24%,1024 hPa
+Saturday 7 October 2023,19:30,Clear,28°,6,30%,1024 hPa
+Saturday 7 October 2023,20:00,Clear,26°,4,30%,1024 hPa
+Saturday 7 October 2023,20:30,Clear,24°,7,38%,1024 hPa
+Saturday 7 October 2023,21:00,Clear,23°,6,41%,1024 hPa
+Saturday 7 October 2023,21:30,Clear,22°,9,43%,1025 hPa
+Saturday 7 October 2023,22:00,Clear,21°,9,53%,1025 hPa
+Saturday 7 October 2023,22:30,Clear,20°,7,56%,1025 hPa
+Saturday 7 October 2023,23:00,Clear,20°,7,53%,1025 hPa
+Saturday 7 October 2023,23:30,Clear,19°,7,56%,1025 hPa
+Sunday 8 October 2023,00:00,Clear,19°,6,56%,1025 hPa
+Sunday 8 October 2023,00:30,Clear,18°,6,59%,1025 hPa
+Sunday 8 October 2023,01:00,Clear,18°,6,56%,1025 hPa
+Sunday 8 October 2023,01:30,Clear,18°,7,56%,1025 hPa
+Sunday 8 October 2023,02:00,Clear,16°,4,68%,1025 hPa
+Sunday 8 October 2023,02:30,Clear,16°,Calm,63%,1025 hPa
+Sunday 8 October 2023,03:00,Clear,16°,Calm,63%,1025 hPa
+Sunday 8 October 2023,03:30,Clear,15°,6,67%,1025 hPa
+Sunday 8 October 2023,04:00,Clear,15°,6,67%,1025 hPa
+Sunday 8 October 2023,04:30,Clear,15°,6,67%,1025 hPa
+Sunday 8 October 2023,05:00,Clear,14°,6,67%,1025 hPa
+Sunday 8 October 2023,05:30,Clear,14°,6,67%,1025 hPa
+Sunday 8 October 2023,06:00,Clear,13°,6,72%,1025 hPa
+Sunday 8 October 2023,06:30,Clear,13°,6,72%,1025 hPa
+Sunday 8 October 2023,07:00,Clear,13°,4,72%,1025 hPa
+Sunday 8 October 2023,07:30,Clear,13°,4,77%,1026 hPa
+Sunday 8 October 2023,08:00,Clear,13°,6,72%,1026 hPa
+Sunday 8 October 2023,08:30,Clear,12°,6,76%,1026 hPa
+Sunday 8 October 2023,09:00,Clear,13°,7,72%,1026 hPa
+Sunday 8 October 2023,09:30,Clear,14°,6,67%,1026 hPa
+Sunday 8 October 2023,10:00,Clear,15°,Calm,67%,1027 hPa
+Sunday 8 October 2023,10:30,Clear,17°,4,59%,1027 hPa
+Sunday 8 October 2023,11:00,Clear,19°,Calm,52%,1027 hPa
+Sunday 8 October 2023,11:30,Clear,20°,Calm,49%,1027 hPa
+Sunday 8 October 2023,12:00,Clear,22°,Calm,46%,1027 hPa
+Sunday 8 October 2023,12:30,Clear,23°,2,44%,1027 hPa
+Sunday 8 October 2023,13:00,Clear,24°,2,41%,1026 hPa
+Sunday 8 October 2023,13:30,Clear,26°,2,32%,1026 hPa
+Sunday 8 October 2023,14:00,Clear,27°,Calm,34%,1026 hPa
+Sunday 8 October 2023,14:30,Clear,28°,4,30%,1026 hPa
+Sunday 8 October 2023,15:00,Clear,29°,2,27%,1025 hPa
+Sunday 8 October 2023,15:30,Clear,30°,2,25%,1025 hPa
+Sunday 8 October 2023,16:00,Clear,30°,Calm,27%,1024 hPa
+Sunday 8 October 2023,16:30,Clear,31°,2,22%,1024 hPa
+Sunday 8 October 2023,17:00,Clear,31°,Calm,21%,1024 hPa
+Sunday 8 October 2023,17:30,Clear,32°,Calm,21%,1024 hPa
+Sunday 8 October 2023,18:00,Clear,31°,Calm,19%,1024 hPa
+Sunday 8 October 2023,18:30,Clear,32°,Calm,18%,1024 hPa
+Sunday 8 October 2023,19:00,Clear,29°,6,25%,1024 hPa
+Sunday 8 October 2023,19:30,Clear,27°,4,28%,1024 hPa
+Sunday 8 October 2023,20:00,Clear,25°,2,32%,1024 hPa
+Sunday 8 October 2023,20:30,Clear,24°,7,34%,1024 hPa
+Sunday 8 October 2023,21:00,Clear,23°,6,38%,1024 hPa
+Sunday 8 October 2023,21:30,Clear,22°,4,43%,1024 hPa
+Sunday 8 October 2023,22:00,Clear,22°,6,43%,1025 hPa
+Sunday 8 October 2023,22:30,Clear,20°,7,53%,1025 hPa
+Sunday 8 October 2023,23:00,Clear,20°,9,49%,1025 hPa
+Sunday 8 October 2023,23:30,Clear,20°,2,53%,1025 hPa
+Monday 9 October 2023,00:00,Clear,19°,4,56%,1025 hPa
+Monday 9 October 2023,00:30,Clear,19°,9,52%,1025 hPa
+Monday 9 October 2023,01:00,Clear,18°,4,59%,1026 hPa
+Monday 9 October 2023,01:30,Clear,18°,4,56%,1026 hPa
+Monday 9 October 2023,02:00,Clear,16°,6,63%,1026 hPa
+Monday 9 October 2023,02:30,Clear,16°,Calm,63%,1026 hPa
+Monday 9 October 2023,03:00,Clear,17°,Calm,59%,1026 hPa
+Monday 9 October 2023,03:30,Clear,17°,7,59%,1026 hPa
+Monday 9 October 2023,04:00,Clear,16°,7,59%,1026 hPa
+Monday 9 October 2023,04:30,Clear,16°,7,59%,1026 hPa
+Monday 9 October 2023,05:00,Clear,16°,4,55%,1026 hPa
+Monday 9 October 2023,05:30,Clear,14°,4,67%,1026 hPa
+Monday 9 October 2023,06:00,Clear,14°,4,63%,1026 hPa
+Monday 9 October 2023,06:30,Clear,14°,6,63%,1026 hPa
+Monday 9 October 2023,07:00,Clear,14°,6,63%,1026 hPa
+Monday 9 October 2023,07:30,Clear,13°,6,67%,1027 hPa
+Monday 9 October 2023,08:00,Clear,13°,6,67%,1027 hPa
+Monday 9 October 2023,08:30,Clear,13°,6,67%,1027 hPa
+Monday 9 October 2023,09:00,Clear,13°,6,72%,1027 hPa
+Monday 9 October 2023,09:30,Clear,14°,4,67%,1027 hPa
+Monday 9 October 2023,10:00,Clear,15°,2,67%,1027 hPa
+Monday 9 October 2023,10:30,Clear,17°,Calm,55%,1027 hPa
+Monday 9 October 2023,11:00,Clear,18°,2,56%,1027 hPa
+Monday 9 October 2023,11:30,Clear,20°,Calm,53%,1027 hPa
+Monday 9 October 2023,12:00,Clear,21°,6,46%,1027 hPa
+Monday 9 October 2023,12:30,Clear,23°,2,44%,1027 hPa
+Monday 9 October 2023,13:00,Clear,24°,2,38%,1027 hPa
+Monday 9 October 2023,13:30,Clear,25°,2,39%,1026 hPa
+Monday 9 October 2023,14:00,Clear,26°,4,30%,1026 hPa
+Monday 9 October 2023,14:30,Clear,26°,Calm,32%,1025 hPa
+Monday 9 October 2023,15:00,Clear,28°,Calm,30%,1025 hPa
+Monday 9 October 2023,15:30,Clear,28°,4,30%,1024 hPa
+Monday 9 October 2023,16:00,Clear,28°,Calm,30%,1024 hPa
+Monday 9 October 2023,16:30,Clear,29°,4,29%,1024 hPa
+Monday 9 October 2023,17:00,Clear,29°,4,27%,1023 hPa
+Monday 9 October 2023,17:30,Clear,29°,2,27%,1023 hPa
+Monday 9 October 2023,18:00,Clear,28°,4,32%,1023 hPa
+Monday 9 October 2023,18:30,Clear,28°,6,28%,1023 hPa
+Monday 9 October 2023,19:00,Clear,28°,6,30%,1023 hPa
+Monday 9 October 2023,19:30,Clear,28°,6,28%,1023 hPa
+Monday 9 October 2023,20:00,Clear,24°,4,38%,1023 hPa
+Monday 9 October 2023,20:30,Clear,23°,2,44%,1023 hPa
+Monday 9 October 2023,21:00,Clear,21°,Calm,53%,1024 hPa
+Monday 9 October 2023,21:30,Clear,22°,4,50%,1024 hPa
+Monday 9 October 2023,22:00,Clear,21°,7,53%,1024 hPa
+Monday 9 October 2023,22:30,Clear,20°,9,60%,1024 hPa
+Monday 9 October 2023,23:00,Clear,20°,9,60%,1024 hPa
+Monday 9 October 2023,23:30,Clear,19°,Calm,60%,1024 hPa
+Tuesday 10 October 2023,00:00,Clear,18°,4,64%,1024 hPa
+Tuesday 10 October 2023,00:30,Clear,17°,Calm,68%,1025 hPa
+Tuesday 10 October 2023,01:00,Clear,16°,Calm,72%,1025 hPa
+Tuesday 10 October 2023,01:30,Clear,17°,Calm,68%,1024 hPa
+Tuesday 10 October 2023,02:00,Clear,15°,6,77%,1025 hPa
+Tuesday 10 October 2023,02:30,Clear,14°,9,72%,1025 hPa
+Tuesday 10 October 2023,03:00,Clear,15°,6,67%,1025 hPa
+Tuesday 10 October 2023,03:30,Clear,15°,6,67%,1025 hPa
+Tuesday 10 October 2023,04:00,Clear,14°,7,63%,1024 hPa
+Tuesday 10 October 2023,04:30,Clear,14°,7,63%,1024 hPa
+Tuesday 10 October 2023,05:00,Clear,14°,6,58%,1024 hPa
+Tuesday 10 October 2023,05:30,Clear,13°,6,62%,1024 hPa
+Tuesday 10 October 2023,06:00,Clear,13°,4,58%,1024 hPa
+Tuesday 10 October 2023,06:30,Clear,13°,6,58%,1024 hPa
+Tuesday 10 October 2023,07:00,Clear,13°,6,58%,1024 hPa
+Tuesday 10 October 2023,07:30,Clear,12°,6,62%,1024 hPa
+Tuesday 10 October 2023,08:00,Clear,12°,4,67%,1024 hPa
+Tuesday 10 October 2023,08:30,Clear,12°,6,62%,1024 hPa
+Tuesday 10 October 2023,09:00,Clear,12°,7,67%,1025 hPa
+Tuesday 10 October 2023,09:30,Clear,13°,6,62%,1025 hPa
+Tuesday 10 October 2023,10:00,Clear,14°,6,63%,1025 hPa
+Tuesday 10 October 2023,10:30,Clear,16°,2,55%,1025 hPa
+Tuesday 10 October 2023,11:00,Clear,17°,2,52%,1025 hPa
+Tuesday 10 October 2023,11:30,Clear,19°,4,46%,1025 hPa
+Tuesday 10 October 2023,12:00,Clear,20°,2,43%,1025 hPa
+Tuesday 10 October 2023,12:30,Clear,22°,Calm,41%,1025 hPa
+Tuesday 10 October 2023,13:00,Clear,23°,Calm,47%,1025 hPa
+Tuesday 10 October 2023,13:30,Clear,24°,Calm,38%,1024 hPa
+Tuesday 10 October 2023,14:00,Clear,24°,4,41%,1024 hPa
+Tuesday 10 October 2023,14:30,Clear,25°,6,39%,1023 hPa
+Tuesday 10 October 2023,15:00,Clear,26°,4,37%,1023 hPa
+Tuesday 10 October 2023,15:30,Clear,26°,4,34%,1023 hPa
+Tuesday 10 October 2023,16:00,Clear,27°,4,32%,1022 hPa
+Tuesday 10 October 2023,16:30,Clear,28°,4,30%,1022 hPa
+Tuesday 10 October 2023,17:00,Clear,28°,6,30%,1022 hPa
+Tuesday 10 October 2023,17:30,Clear,28°,4,26%,1022 hPa
+Tuesday 10 October 2023,18:00,Clear,28°,4,28%,1022 hPa
+Tuesday 10 October 2023,18:30,Clear,27°,7,30%,1022 hPa
+Tuesday 10 October 2023,19:00,Clear,27°,7,30%,1022 hPa
+Tuesday 10 October 2023,19:30,Clear,26°,6,34%,1022 hPa
+Tuesday 10 October 2023,20:00,Clear,24°,2,36%,1022 hPa
+Tuesday 10 October 2023,20:30,Clear,24°,4,34%,1022 hPa
+Tuesday 10 October 2023,21:00,Clear,24°,6,36%,1022 hPa
+Tuesday 10 October 2023,21:30,Clear,20°,2,46%,1022 hPa
+Tuesday 10 October 2023,22:00,Clear,20°,6,49%,1022 hPa
+Tuesday 10 October 2023,22:30,Clear,19°,4,56%,1023 hPa
+Tuesday 10 October 2023,23:00,Clear,16°,7,68%,1023 hPa
+Tuesday 10 October 2023,23:30,Clear,18°,6,59%,1023 hPa
+Wednesday 11 October 2023,00:00,Clear,17°,7,63%,1023 hPa
+Wednesday 11 October 2023,00:30,Clear,16°,7,68%,1023 hPa
+Wednesday 11 October 2023,01:00,Clear,15°,9,67%,1023 hPa
+Wednesday 11 October 2023,01:30,Clear,16°,6,59%,1023 hPa
+Wednesday 11 October 2023,02:00,Clear,15°,7,63%,1023 hPa
+Wednesday 11 October 2023,02:30,Clear,15°,6,63%,1023 hPa
+Wednesday 11 October 2023,03:00,Clear,13°,4,72%,1023 hPa
+Wednesday 11 October 2023,03:30,Clear,14°,6,63%,1023 hPa
+Wednesday 11 October 2023,04:00,Clear,14°,6,63%,1023 hPa
+Wednesday 11 October 2023,04:30,Clear,13°,6,67%,1023 hPa
+Wednesday 11 October 2023,05:00,Clear,13°,7,62%,1022 hPa
+Wednesday 11 October 2023,05:30,Clear,13°,6,62%,1023 hPa
+Wednesday 11 October 2023,06:00,Clear,12°,4,67%,1023 hPa
+Wednesday 11 October 2023,06:30,Clear,12°,4,67%,1023 hPa
+Wednesday 11 October 2023,07:00,Clear,11°,6,71%,1023 hPa
+Wednesday 11 October 2023,07:30,Clear,11°,4,71%,1023 hPa
+Wednesday 11 October 2023,08:00,Clear,10°,4,76%,1023 hPa
+Wednesday 11 October 2023,08:30,Clear,11°,6,71%,1023 hPa
+Wednesday 11 October 2023,09:00,Clear,11°,6,71%,1024 hPa
+Wednesday 11 October 2023,09:30,Clear,12°,6,71%,1024 hPa
+Wednesday 11 October 2023,10:00,Clear,13°,6,62%,1024 hPa
+Wednesday 11 October 2023,10:30,Clear,15°,6,59%,1024 hPa
+Wednesday 11 October 2023,11:00,Clear,16°,4,55%,1024 hPa
+Wednesday 11 October 2023,11:30,Clear,18°,Calm,49%,1024 hPa
+Wednesday 11 October 2023,12:00,Clear,20°,Calm,43%,1024 hPa
+Wednesday 11 October 2023,12:30,Clear,21°,4,43%,1024 hPa
+Wednesday 11 October 2023,13:00,Clear,22°,4,43%,1024 hPa
+Wednesday 11 October 2023,13:30,Clear,23°,4,41%,1024 hPa
+Wednesday 11 October 2023,14:00,Clear,24°,6,38%,1023 hPa
+Wednesday 11 October 2023,14:30,Clear,25°,2,36%,1023 hPa
+Wednesday 11 October 2023,15:00,Clear,26°,2,34%,1022 hPa
+Wednesday 11 October 2023,15:30,Clear,27°,2,32%,1022 hPa
+Wednesday 11 October 2023,16:00,Clear,27°,4,30%,1022 hPa
+Wednesday 11 October 2023,16:30,Clear,27°,6,32%,1021 hPa
+Wednesday 11 October 2023,17:00,Clear,28°,7,30%,1021 hPa
+Wednesday 11 October 2023,17:30,Clear,28°,4,30%,1021 hPa
+Wednesday 11 October 2023,18:00,Clear,28°,Calm,30%,1021 hPa
+Wednesday 11 October 2023,18:30,Clear,28°,7,25%,1021 hPa
+Wednesday 11 October 2023,19:00,Clear,27°,4,26%,1021 hPa
+Wednesday 11 October 2023,19:30,Clear,25°,Calm,32%,1021 hPa
+Wednesday 11 October 2023,20:00,Clear,23°,Calm,38%,1021 hPa
+Wednesday 11 October 2023,20:30,Clear,22°,Calm,38%,1021 hPa
+Wednesday 11 October 2023,21:00,Clear,21°,Calm,43%,1022 hPa
+Wednesday 11 October 2023,21:30,Clear,21°,9,46%,1022 hPa
+Wednesday 11 October 2023,22:00,Clear,20°,6,46%,1022 hPa
+Wednesday 11 October 2023,22:30,Clear,19°,2,52%,1022 hPa
+Wednesday 11 October 2023,23:00,Clear,18°,2,56%,1022 hPa
+Wednesday 11 October 2023,23:30,Clear,17°,6,63%,1022 hPa
+Thursday 12 October 2023,00:00,Clear,17°,4,59%,1022 hPa
+Thursday 12 October 2023,00:30,Clear,17°,6,59%,1022 hPa
+Thursday 12 October 2023,01:00,Clear,15°,7,67%,1022 hPa
+Thursday 12 October 2023,01:30,Clear,15°,6,63%,1022 hPa
+Thursday 12 October 2023,02:00,Clear,15°,6,63%,1022 hPa
+Thursday 12 October 2023,02:30,Clear,14°,7,67%,1022 hPa
+Thursday 12 October 2023,03:00,Clear,14°,6,63%,1022 hPa
+Thursday 12 October 2023,03:30,Clear,12°,2,71%,1023 hPa
+Thursday 12 October 2023,04:00,Clear,12°,Calm,76%,1022 hPa
+Thursday 12 October 2023,04:30,Clear,12°,Calm,71%,1022 hPa
+Thursday 12 October 2023,05:00,Clear,12°,Calm,71%,1022 hPa
+Thursday 12 October 2023,05:30,Clear,12°,Calm,71%,1022 hPa
+Thursday 12 October 2023,06:00,Clear,12°,Calm,67%,1022 hPa
+Thursday 12 October 2023,06:30,Clear,11°,Calm,76%,1022 hPa
+Thursday 12 October 2023,07:00,Clear,11°,Calm,76%,1023 hPa
+Thursday 12 October 2023,07:30,Clear,11°,Calm,71%,1023 hPa
+Thursday 12 October 2023,08:00,Clear,10°,Calm,76%,1023 hPa
+Thursday 12 October 2023,08:30,Clear,11°,Calm,71%,1023 hPa
+Thursday 12 October 2023,09:00,Clear,11°,4,71%,1024 hPa
+Thursday 12 October 2023,09:30,Clear,12°,4,71%,1024 hPa
+Thursday 12 October 2023,10:00,Clear,13°,Calm,67%,1024 hPa
+Thursday 12 October 2023,10:30,Clear,16°,Calm,51%,1024 hPa
+Thursday 12 October 2023,11:00,Clear,19°,Calm,46%,1024 hPa
+Thursday 12 October 2023,11:30,Clear,19°,Calm,46%,1024 hPa
+Thursday 12 October 2023,12:00,Clear,21°,2,43%,1024 hPa
+Thursday 12 October 2023,12:30,Clear,21°,Calm,43%,1024 hPa
+Thursday 12 October 2023,13:00,Clear,23°,4,36%,1024 hPa
+Thursday 12 October 2023,13:30,Clear,24°,2,36%,1023 hPa
+Thursday 12 October 2023,14:00,Clear,24°,4,34%,1023 hPa
+Thursday 12 October 2023,14:30,Clear,26°,2,30%,1022 hPa
+Thursday 12 October 2023,15:00,Clear,26°,2,30%,1022 hPa
+Thursday 12 October 2023,15:30,Clear,27°,Calm,26%,1022 hPa
+Thursday 12 October 2023,16:00,Clear,27°,4,28%,1021 hPa
+Thursday 12 October 2023,16:30,Clear,28°,7,25%,1021 hPa
+Thursday 12 October 2023,17:00,Clear,28°,6,25%,1021 hPa
+Thursday 12 October 2023,17:30,Clear,28°,6,25%,1021 hPa
+Thursday 12 October 2023,18:00,Clear,28°,4,26%,1021 hPa
+Thursday 12 October 2023,18:30,Clear,28°,4,25%,1020 hPa
+Thursday 12 October 2023,19:00,Clear,27°,Calm,26%,1021 hPa
+Thursday 12 October 2023,19:30,Clear,25°,2,30%,1021 hPa
+Thursday 12 October 2023,20:00,Clear,22°,Calm,38%,1021 hPa
+Thursday 12 October 2023,20:30,Clear,22°,Calm,38%,1021 hPa
+Thursday 12 October 2023,21:00,Clear,22°,Calm,35%,1021 hPa
+Thursday 12 October 2023,21:30,Clear,20°,Calm,43%,1021 hPa
+Thursday 12 October 2023,22:00,Clear,19°,4,49%,1021 hPa
+Thursday 12 October 2023,22:30,Clear,19°,6,52%,1021 hPa
+Thursday 12 October 2023,23:00,Clear,18°,9,56%,1021 hPa
+Thursday 12 October 2023,23:30,Clear,18°,6,52%,1021 hPa
+Friday 13 October 2023,00:00,Clear,17°,7,55%,1021 hPa
+Friday 13 October 2023,00:30,Clear,16°,4,63%,1021 hPa
+Friday 13 October 2023,01:00,Clear,16°,7,59%,1021 hPa
+Friday 13 October 2023,01:30,Clear,17°,4,55%,1021 hPa
+Friday 13 October 2023,02:00,Clear,16°,6,59%,1021 hPa
+Friday 13 October 2023,02:30,Clear,16°,4,59%,1021 hPa
+Friday 13 October 2023,03:00,Clear,16°,4,59%,1021 hPa
+Friday 13 October 2023,03:30,Clear,15°,4,63%,1021 hPa
+Friday 13 October 2023,04:00,Clear,15°,2,63%,1021 hPa
+Friday 13 October 2023,04:30,Clear,15°,Calm,67%,1021 hPa
+Friday 13 October 2023,05:00,Clear,14°,6,67%,1021 hPa
+Friday 13 October 2023,05:30,Clear,14°,4,67%,1021 hPa
+Friday 13 October 2023,06:00,Clear,14°,Calm,67%,1021 hPa
+Friday 13 October 2023,06:30,Clear,14°,4,67%,1021 hPa
+Friday 13 October 2023,07:00,Clear,14°,2,67%,1021 hPa
+Friday 13 October 2023,07:30,Clear,13°,6,72%,1021 hPa
+Friday 13 October 2023,08:00,Clear,13°,6,72%,1021 hPa
+Friday 13 October 2023,08:30,Clear,12°,Calm,76%,1021 hPa
+Friday 13 October 2023,09:00,Clear,13°,2,72%,1021 hPa
+Friday 13 October 2023,09:30,Clear,14°,2,72%,1022 hPa
+Friday 13 October 2023,10:00,Clear,15°,2,67%,1022 hPa
+Friday 13 October 2023,10:30,Clear,17°,Calm,59%,1022 hPa
+Friday 13 October 2023,11:00,Clear,18°,Calm,52%,1022 hPa
+Friday 13 October 2023,11:30,Clear,21°,Calm,46%,1022 hPa
+Friday 13 October 2023,12:00,Clear,21°,4,49%,1022 hPa
+Friday 13 October 2023,12:30,Clear,22°,Calm,43%,1022 hPa
+Friday 13 October 2023,13:00,Clear,23°,Calm,44%,1022 hPa
+Friday 13 October 2023,13:30,Clear,24°,4,38%,1022 hPa
+Friday 13 October 2023,14:00,Clear,25°,4,39%,1021 hPa
+Friday 13 October 2023,14:30,Clear,25°,6,36%,1021 hPa
+Friday 13 October 2023,15:00,Clear,26°,6,34%,1021 hPa
+Friday 13 October 2023,15:30,Clear,26°,6,34%,1020 hPa
+Friday 13 October 2023,16:00,Clear,26°,9,32%,1020 hPa
+Friday 13 October 2023,16:30,Clear,26°,15,30%,1020 hPa
+Friday 13 October 2023,17:00,Clear,27°,13,28%,1020 hPa
+Friday 13 October 2023,17:30,Clear,27°,13,28%,1020 hPa
+Friday 13 October 2023,18:00,Clear,26°,11,32%,1020 hPa
+Friday 13 October 2023,18:30,Clear,26°,15,32%,1020 hPa
+Friday 13 October 2023,19:00,Clear,26°,13,30%,1020 hPa
+Friday 13 October 2023,19:30,Clear,25°,9,34%,1020 hPa
+Friday 13 October 2023,20:00,Clear,25°,9,34%,1020 hPa
+Friday 13 October 2023,20:30,Clear,24°,15,34%,1021 hPa
+Friday 13 October 2023,21:00,Clear,24°,19,36%,1021 hPa
+Friday 13 October 2023,21:30,Clear,23°,17,38%,1021 hPa
+Friday 13 October 2023,22:00,Fair,22°,17,41%,1021 hPa
+Friday 13 October 2023,22:30,Drizzle,22°,4,43%,1021 hPa
+Friday 13 October 2023,23:00,Fair,22°,6,43%,1021 hPa
+Friday 13 October 2023,23:30,Fair,21°,Calm,46%,1021 hPa
+Saturday 14 October 2023,00:00,Fair,21°,4,46%,1021 hPa
+Saturday 14 October 2023,00:30,Fair,20°,2,49%,1021 hPa
+Saturday 14 October 2023,01:00,Fair,21°,4,46%,1021 hPa
+Saturday 14 October 2023,01:30,Fair,20°,6,53%,1021 hPa
+Saturday 14 October 2023,02:00,Fair,20°,15,56%,1022 hPa
+Saturday 14 October 2023,02:30,Fair,17°,7,77%,1022 hPa
+Saturday 14 October 2023,03:00,Drizzle,16°,Calm,88%,1022 hPa
+Saturday 14 October 2023,03:30,Drizzle,16°,Calm,88%,1022 hPa
+Saturday 14 October 2023,04:00,Drizzle,16°,2,94%,1023 hPa
+Saturday 14 October 2023,04:30,Drizzle,17°,9,88%,1023 hPa
+Saturday 14 October 2023,05:00,Drizzle,16°,7,82%,1023 hPa
+Saturday 14 October 2023,05:30,Drizzle,16°,4,88%,1023 hPa
+Saturday 14 October 2023,06:00,Drizzle,15°,7,94%,1022 hPa
+Saturday 14 October 2023,06:30,Light Rain,15°,6,94%,1022 hPa
+Saturday 14 October 2023,07:00,Light Rain,15°,4,94%,1022 hPa
+Saturday 14 October 2023,07:30,Fair,15°,6,94%,1023 hPa
+Saturday 14 October 2023,08:00,Partly Cloudy,15°,6,94%,1023 hPa
+Saturday 14 October 2023,08:30,Mostly Cloudy,15°,4,94%,1023 hPa
+Saturday 14 October 2023,09:00,Mostly Cloudy,15°,Calm,94%,1023 hPa
+Saturday 14 October 2023,09:30,Partly Cloudy,15°,2,94%,1023 hPa
+Saturday 14 October 2023,10:00,Partly Cloudy,15°,2,94%,1023 hPa
+Saturday 14 October 2023,10:30,Partly Cloudy,16°,4,88%,1023 hPa
+Saturday 14 October 2023,11:00,Fair,16°,2,88%,1023 hPa
+Saturday 14 October 2023,11:30,Fair,17°,7,82%,1023 hPa
+Saturday 14 October 2023,12:00,Partly Cloudy,18°,4,77%,1023 hPa
+Saturday 14 October 2023,12:30,Mostly Cloudy,19°,4,73%,1023 hPa
+Saturday 14 October 2023,13:00,Mostly Cloudy,19°,Calm,68%,1023 hPa
+Saturday 14 October 2023,13:30,Mostly Cloudy,19°,4,68%,1023 hPa
+Saturday 14 October 2023,14:00,Partly Cloudy,21°,4,69%,1022 hPa
+Saturday 14 October 2023,14:30,Partly Cloudy,20°,6,68%,1022 hPa
+Saturday 14 October 2023,15:00,Fair,20°,2,64%,1022 hPa
+Saturday 14 October 2023,15:30,Fair,21°,4,60%,1021 hPa
+Saturday 14 October 2023,16:00,Fair,21°,2,60%,1021 hPa
+Saturday 14 October 2023,16:30,Fair,22°,2,57%,1021 hPa
+Saturday 14 October 2023,17:00,Fair,22°,Calm,57%,1021 hPa
+Saturday 14 October 2023,17:30,Fair,21°,6,56%,1021 hPa
+Saturday 14 October 2023,18:00,Fair,23°,Calm,53%,1021 hPa
+Saturday 14 October 2023,18:30,Fair,21°,2,56%,1021 hPa
+Saturday 14 October 2023,19:00,Fair,21°,6,56%,1021 hPa
+Saturday 14 October 2023,19:30,Fair,20°,2,64%,1021 hPa
+Saturday 14 October 2023,20:00,Fair,20°,6,68%,1021 hPa
+Saturday 14 October 2023,20:30,Fair,19°,4,78%,1021 hPa
+Saturday 14 October 2023,21:00,Fair,19°,7,78%,1021 hPa
+Saturday 14 October 2023,21:30,Fair,19°,6,73%,1021 hPa
+Saturday 14 October 2023,22:00,Fair,18°,Calm,77%,1021 hPa
+Saturday 14 October 2023,22:30,Fair,17°,Calm,82%,1022 hPa
+Saturday 14 October 2023,23:00,Fair,17°,6,82%,1022 hPa
+Saturday 14 October 2023,23:30,Clear,17°,4,82%,1022 hPa
+Sunday 15 October 2023,00:00,Clear,16°,2,82%,1022 hPa
+Sunday 15 October 2023,00:30,Fair,16°,Calm,82%,1022 hPa
+Sunday 15 October 2023,01:00,Fair,15°,2,82%,1021 hPa
+Sunday 15 October 2023,01:30,Fair,15°,4,88%,1021 hPa
+Sunday 15 October 2023,02:00,Fair,15°,2,88%,1021 hPa
+Sunday 15 October 2023,02:30,Fair,14°,4,94%,1021 hPa
+Sunday 15 October 2023,03:00,Fair,14°,7,94%,1021 hPa
+Sunday 15 October 2023,03:30,Fair,14°,6,88%,1021 hPa
+Sunday 15 October 2023,04:00,Fair,13°,4,94%,1021 hPa
+Sunday 15 October 2023,04:30,Fair,13°,4,94%,1021 hPa
+Sunday 15 October 2023,05:00,Fair,13°,Calm,88%,1021 hPa
+Sunday 15 October 2023,05:30,Fair,13°,Calm,88%,1020 hPa
+Sunday 15 October 2023,06:00,Fair,12°,4,94%,1020 hPa
+Sunday 15 October 2023,06:30,Fair,12°,2,94%,1020 hPa
+Sunday 15 October 2023,07:00,Fair,12°,2,94%,1020 hPa
+Sunday 15 October 2023,07:30,Fair,11°,4,100%,1020 hPa
+Sunday 15 October 2023,08:00,Fair,11°,6,100%,1020 hPa
+Sunday 15 October 2023,08:30,Partly Cloudy,11°,2,94%,1020 hPa
+Sunday 15 October 2023,09:00,Fair,11°,2,94%,1020 hPa
+Sunday 15 October 2023,09:30,Clear,12°,2,94%,1020 hPa
+Sunday 15 October 2023,10:00,Clear,13°,4,94%,1021 hPa
+Sunday 15 October 2023,10:30,Clear,15°,Calm,88%,1020 hPa
+Sunday 15 October 2023,11:00,Clear,16°,4,82%,1021 hPa
+Sunday 15 October 2023,11:30,Clear,16°,2,82%,1021 hPa
+Sunday 15 October 2023,12:00,Clear,19°,2,68%,1020 hPa
+Sunday 15 October 2023,12:30,Clear,19°,2,68%,1020 hPa
+Sunday 15 October 2023,13:00,Clear,21°,Calm,64%,1020 hPa
+Sunday 15 October 2023,13:30,Clear,20°,7,64%,1019 hPa
+Sunday 15 October 2023,14:00,Fair,21°,7,64%,1019 hPa
+Sunday 15 October 2023,14:30,Fair,21°,7,64%,1018 hPa
+Sunday 15 October 2023,15:00,Fair,22°,6,57%,1018 hPa
+Sunday 15 October 2023,15:30,Chance of Showers,21°,7,56%,1017 hPa
+Sunday 15 October 2023,16:00,Chance of Showers,22°,6,53%,1017 hPa
+Sunday 15 October 2023,16:30,Partly Cloudy,22°,6,57%,1017 hPa
+Sunday 15 October 2023,17:00,Partly Cloudy,21°,7,56%,1016 hPa
+Sunday 15 October 2023,17:30,Partly Cloudy,21°,9,60%,1016 hPa
+Sunday 15 October 2023,18:00,Fair,22°,7,53%,1016 hPa
+Sunday 15 October 2023,18:30,Partly Cloudy,22°,9,50%,1016 hPa
+Sunday 15 October 2023,19:00,Partly Cloudy,21°,9,56%,1016 hPa
+Sunday 15 October 2023,19:30,Partly Cloudy,21°,11,56%,1016 hPa
+Sunday 15 October 2023,20:00,Light Rain,21°,7,56%,1016 hPa
+Sunday 15 October 2023,20:30,Light Rain,20°,7,64%,1016 hPa
+Sunday 15 October 2023,20:39,Rain,20°,9,64%,1016 hPa
+Sunday 15 October 2023,21:00,Rain,19°,9,68%,1016 hPa
+Sunday 15 October 2023,21:30,Light Rain,18°,11,73%,1016 hPa
+Sunday 15 October 2023,22:00,Drizzle,18°,9,77%,1016 hPa
+Sunday 15 October 2023,22:30,Drizzle,17°,6,88%,1016 hPa
+Sunday 15 October 2023,23:00,Drizzle,18°,7,77%,1017 hPa
+Sunday 15 October 2023,23:30,Light Rain,17°,6,82%,1017 hPa
+Monday 16 October 2023,00:00,Light Rain,16°,9,88%,1017 hPa
+Monday 16 October 2023,00:30,Drizzle,15°,Calm,94%,1016 hPa
+Monday 16 October 2023,01:00,Mostly Cloudy,15°,Calm,94%,1016 hPa
+Monday 16 October 2023,01:30,Cloudy,15°,4,94%,1016 hPa
+Monday 16 October 2023,02:00,Mostly Cloudy,15°,Calm,94%,1016 hPa
+Monday 16 October 2023,02:30,Mostly Cloudy,15°,2,94%,1016 hPa
+Monday 16 October 2023,03:00,Mostly Cloudy,15°,2,94%,1016 hPa
+Monday 16 October 2023,03:30,Mostly Cloudy,15°,7,94%,1015 hPa
+Monday 16 October 2023,03:42,Drizzle,15°,4,94%,1015 hPa
+Monday 16 October 2023,04:00,Cloudy,15°,4,94%,1015 hPa
+Monday 16 October 2023,04:30,Mostly Cloudy,15°,6,94%,1015 hPa
+Monday 16 October 2023,05:00,Mostly Cloudy,15°,Calm,94%,1015 hPa
+Monday 16 October 2023,05:30,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,06:00,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,06:30,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,07:00,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,07:30,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,08:00,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,08:30,Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,09:00,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,09:30,Mostly Cloudy,15°,Calm,94%,1014 hPa
+Monday 16 October 2023,10:00,Mostly Cloudy,16°,9,94%,1015 hPa
+Monday 16 October 2023,10:30,Mostly Cloudy,16°,9,88%,1015 hPa
+Monday 16 October 2023,11:00,Mostly Cloudy,17°,15,77%,1015 hPa
+Monday 16 October 2023,11:30,Mostly Cloudy,17°,11,77%,1015 hPa
+Monday 16 October 2023,12:00,Mostly Cloudy,19°,9,73%,1015 hPa
+Monday 16 October 2023,12:30,Partly Cloudy,19°,11,68%,1014 hPa
+Monday 16 October 2023,13:00,Partly Cloudy,19°,17,64%,1014 hPa
+Monday 16 October 2023,13:30,Mostly Cloudy,19°,15,64%,1014 hPa
+Monday 16 October 2023,14:00,Mostly Cloudy,20°,19,60%,1014 hPa
+Monday 16 October 2023,14:30,Mostly Cloudy,21°,22,56%,1013 hPa
+Monday 16 October 2023,15:00,Mostly Cloudy,21°,20,>,43 56% 1013 hPa
+Monday 16 October 2023,15:30,Mostly Cloudy,21°,17,56%,1013 hPa
+Monday 16 October 2023,16:00,Mostly Cloudy,21°,13,56%,1013 hPa
+Monday 16 October 2023,16:30,Partly Cloudy,21°,11,56%,1012 hPa
+Monday 16 October 2023,17:00,Partly Cloudy,21°,15,56%,1012 hPa
+Monday 16 October 2023,17:30,Mostly Cloudy,21°,13,56%,1012 hPa
+Monday 16 October 2023,18:00,Partly Cloudy,21°,15,53%,1012 hPa
+Monday 16 October 2023,18:30,Partly Cloudy,21°,13,56%,1012 hPa
+Monday 16 October 2023,19:00,Partly Cloudy,21°,15,56%,1012 hPa
+Monday 16 October 2023,19:30,Fair,20°,13,60%,1012 hPa
+Monday 16 October 2023,20:00,Fair,20°,9,60%,1012 hPa
+Monday 16 October 2023,20:30,Clear,20°,7,60%,1012 hPa
+Monday 16 October 2023,21:00,Clear,19°,4,64%,1012 hPa
+Monday 16 October 2023,21:30,Clear,18°,Calm,73%,1012 hPa
+Monday 16 October 2023,22:00,Clear,18°,Calm,73%,1012 hPa
+Monday 16 October 2023,22:30,Clear,18°,Calm,73%,1012 hPa
+Monday 16 October 2023,23:00,Fair,18°,6,73%,1013 hPa
+Monday 16 October 2023,23:30,Fair,18°,6,73%,1013 hPa
+Tuesday 17 October 2023,00:00,Fair,18°,6,77%,1013 hPa
+Tuesday 17 October 2023,00:30,Fair,17°,6,82%,1012 hPa
+Tuesday 17 October 2023,01:00,Fair,17°,2,82%,1012 hPa
+Tuesday 17 October 2023,01:30,Fair,17°,Calm,82%,1012 hPa
+Tuesday 17 October 2023,02:00,Fair,17°,6,82%,1012 hPa
+Tuesday 17 October 2023,02:30,Fair,16°,2,88%,1012 hPa
+Tuesday 17 October 2023,03:00,Fair,16°,Calm,88%,1011 hPa
+Tuesday 17 October 2023,03:30,Drizzle,16°,6,88%,1011 hPa
+Tuesday 17 October 2023,04:00,Fair,16°,6,94%,1011 hPa
+Tuesday 17 October 2023,04:30,Partly Cloudy,16°,6,94%,1011 hPa
+Tuesday 17 October 2023,05:00,Fair,16°,2,88%,1011 hPa
+Tuesday 17 October 2023,05:30,Fair,15°,2,94%,1011 hPa
+Tuesday 17 October 2023,06:00,Fair,15°,4,94%,1010 hPa
+Tuesday 17 October 2023,06:30,Fair,15°,4,94%,1010 hPa
+Tuesday 17 October 2023,07:00,Partly Cloudy,15°,2,94%,1010 hPa
+Tuesday 17 October 2023,07:30,Mostly Cloudy,15°,Calm,94%,1010 hPa
+Tuesday 17 October 2023,08:00,Mostly Cloudy,15°,Calm,100%,1010 hPa
+Tuesday 17 October 2023,08:30,Partly Cloudy,15°,Calm,94%,1010 hPa
+Tuesday 17 October 2023,09:00,Partly Cloudy,16°,4,94%,1010 hPa
+Tuesday 17 October 2023,09:30,Partly Cloudy,16°,4,94%,1010 hPa
+Tuesday 17 October 2023,10:00,Partly Cloudy,17°,4,88%,1010 hPa
+Tuesday 17 October 2023,10:30,Partly Cloudy,18°,Calm,83%,1010 hPa
+Tuesday 17 October 2023,11:00,Partly Cloudy,19°,9,73%,1010 hPa
+Tuesday 17 October 2023,11:30,Partly Cloudy,19°,9,73%,1010 hPa
+Tuesday 17 October 2023,12:00,Partly Cloudy,20°,13,68%,1010 hPa
+Tuesday 17 October 2023,12:30,Fair,21°,15,64%,1010 hPa
+Tuesday 17 October 2023,13:00,Fair,22°,22,>,44 60% 1010 hPa
+Tuesday 17 October 2023,13:30,Fair,23°,22,57%,1009 hPa
+Tuesday 17 October 2023,14:00,Fair,24°,20,54%,1008 hPa
+Tuesday 17 October 2023,14:30,Fair,25°,28,47%,1007 hPa
+Tuesday 17 October 2023,15:00,Partly Cloudy,24°,30,50%,1007 hPa
+Tuesday 17 October 2023,15:30,Mostly Cloudy,24°,26,47%,1006 hPa
+Tuesday 17 October 2023,16:00,Mostly Cloudy,25°,19,44%,1006 hPa
+Tuesday 17 October 2023,16:30,Cloudy,25°,20,>,41 44% 1006 hPa
+Tuesday 17 October 2023,17:00,Mostly Cloudy,25°,35,41%,1006 hPa
+Tuesday 17 October 2023,17:30,Partly Cloudy,25°,28,>,52 44% 1006 hPa
+Tuesday 17 October 2023,18:00,Fair,24°,35,>,54 47% 1006 hPa
+Tuesday 17 October 2023,18:30,Fair,24°,39,>,57 47% 1006 hPa
+Tuesday 17 October 2023,19:00,Fair,23°,28,50%,1006 hPa
+Tuesday 17 October 2023,19:30,Clear,22°,30,53%,1006 hPa
+Tuesday 17 October 2023,20:00,Clear,22°,20,53%,1007 hPa
+Tuesday 17 October 2023,20:30,Fair,21°,24,60%,1007 hPa
+Tuesday 17 October 2023,21:00,Fair,21°,20,60%,1007 hPa
+Tuesday 17 October 2023,21:30,Partly Cloudy,21°,20,60%,1007 hPa
+Tuesday 17 October 2023,22:00,Partly Cloudy,21°,24,60%,1007 hPa
+Tuesday 17 October 2023,22:30,Partly Cloudy,21°,22,60%,1007 hPa
+Tuesday 17 October 2023,23:00,Fair,21°,26,60%,1007 hPa
+Tuesday 17 October 2023,23:30,Mostly Cloudy,20°,30,>,61 68% 1007 hPa
+Wednesday 18 October 2023,00:00,Rain,20°,28,>,50 68% 1007 hPa
+Wednesday 18 October 2023,00:30,Rain,20°,22,68%,1007 hPa
+Wednesday 18 October 2023,01:00,Mostly Cloudy,20°,20,68%,1007 hPa
+Wednesday 18 October 2023,01:21,Rain,19°,32,73%,1007 hPa
+Wednesday 18 October 2023,01:30,Rain,19°,30,73%,1007 hPa
+Wednesday 18 October 2023,02:00,Rain,17°,19,88%,1008 hPa
+Wednesday 18 October 2023,02:30,Rain,17°,19,94%,1007 hPa
+Wednesday 18 October 2023,03:00,Mostly Cloudy,17°,17,88%,1007 hPa
+Wednesday 18 October 2023,03:30,Mostly Cloudy,17°,15,94%,1007 hPa
+Wednesday 18 October 2023,04:00,Mostly Cloudy,17°,17,94%,1007 hPa
+Wednesday 18 October 2023,04:30,Mostly Cloudy,17°,15,88%,1007 hPa
+Wednesday 18 October 2023,05:00,Partly Cloudy,17°,15,94%,1007 hPa
+Wednesday 18 October 2023,05:30,Mostly Cloudy,17°,15,88%,1007 hPa
+Wednesday 18 October 2023,06:00,Mostly Cloudy,17°,17,88%,1007 hPa
+Wednesday 18 October 2023,06:30,Mostly Cloudy,17°,22,>,44 88% 1007 hPa
+Wednesday 18 October 2023,07:00,Partly Cloudy,17°,22,>,43 82% 1007 hPa
+Wednesday 18 October 2023,07:30,Partly Cloudy,17°,24,>,44 82% 1008 hPa
+Wednesday 18 October 2023,08:00,Mostly Cloudy,17°,32,82%,1008 hPa
+Wednesday 18 October 2023,08:30,Mostly Cloudy,17°,30,82%,1008 hPa
+Wednesday 18 October 2023,09:00,Mostly Cloudy,17°,24,82%,1008 hPa
+Wednesday 18 October 2023,09:30,Partly Cloudy,17°,28,82%,1009 hPa
+Wednesday 18 October 2023,10:00,Mostly Cloudy,17°,30,82%,1009 hPa
+Wednesday 18 October 2023,10:30,Mostly Cloudy,17°,32,>,57 82% 1009 hPa
+Wednesday 18 October 2023,11:00,Mostly Cloudy,18°,26,83%,1010 hPa
+Wednesday 18 October 2023,11:30,Mostly Cloudy,18°,22,>,50 83% 1010 hPa
+Wednesday 18 October 2023,12:00,Mostly Cloudy,19°,30,73%,1010 hPa
+Wednesday 18 October 2023,12:30,Mostly Cloudy,20°,24,>,43 68% 1010 hPa
+Wednesday 18 October 2023,13:00,Mostly Cloudy,20°,28,>,52 68% 1010 hPa
+Wednesday 18 October 2023,13:30,Partly Cloudy,21°,20,64%,1010 hPa
+Wednesday 18 October 2023,14:00,Partly Cloudy,21°,32,60%,1009 hPa
+Wednesday 18 October 2023,14:30,Partly Cloudy,21°,33,60%,1009 hPa
+Wednesday 18 October 2023,15:00,Partly Cloudy,21°,32,60%,1009 hPa
+Wednesday 18 October 2023,15:30,Partly Cloudy,21°,20,>,46 60% 1009 hPa
+Wednesday 18 October 2023,16:00,Partly Cloudy,21°,32,60%,1008 hPa
+Wednesday 18 October 2023,16:30,Mostly Cloudy,22°,30,53%,1008 hPa
+Wednesday 18 October 2023,17:00,Mostly Cloudy,22°,26,57%,1008 hPa
+Wednesday 18 October 2023,17:30,Partly Cloudy,22°,30,53%,1008 hPa
+Wednesday 18 October 2023,18:00,Mostly Cloudy,19°,35,68%,1008 hPa
+Wednesday 18 October 2023,18:30,Partly Cloudy,19°,24,68%,1008 hPa
+Wednesday 18 October 2023,19:00,Fair,20°,19,64%,1008 hPa
+Wednesday 18 October 2023,19:30,Mostly Cloudy,19°,26,68%,1008 hPa
+Wednesday 18 October 2023,20:00,Mostly Cloudy,18°,26,73%,1008 hPa
+Wednesday 18 October 2023,20:30,Mostly Cloudy,18°,20,77%,1008 hPa
+Wednesday 18 October 2023,21:00,Mostly Cloudy,18°,24,77%,1009 hPa
+Wednesday 18 October 2023,21:30,Mostly Cloudy,18°,30,>,48 73% 1008 hPa
+Wednesday 18 October 2023,22:00,Mostly Cloudy,18°,22,>,43 73% 1008 hPa
+Wednesday 18 October 2023,22:30,Partly Cloudy,18°,13,73%,1008 hPa
+Wednesday 18 October 2023,23:00,Mostly Cloudy,17°,19,77%,1007 hPa
+Wednesday 18 October 2023,23:30,Mostly Cloudy,17°,11,82%,1008 hPa
+Thursday 19 October 2023,00:00,Mostly Cloudy,17°,13,82%,1007 hPa
+Thursday 19 October 2023,00:30,Mostly Cloudy,17°,22,77%,1007 hPa
+Thursday 19 October 2023,01:00,Partly Cloudy,17°,26,72%,1007 hPa
+Thursday 19 October 2023,01:30,Rain,17°,26,72%,1006 hPa
+Thursday 19 October 2023,02:00,Partly Cloudy,16°,19,>,37 77% 1006 hPa
+Thursday 19 October 2023,02:30,Partly Cloudy,16°,20,77%,1006 hPa
+Thursday 19 October 2023,03:00,Partly Cloudy,16°,13,77%,1006 hPa
+Thursday 19 October 2023,03:30,Mostly Cloudy,16°,15,82%,1005 hPa
+Thursday 19 October 2023,04:00,Mostly Cloudy,16°,15,82%,1005 hPa
+Thursday 19 October 2023,04:30,Mostly Cloudy,16°,17,82%,1004 hPa
+Thursday 19 October 2023,05:00,Light Rain,15°,15,88%,1003 hPa
+Thursday 19 October 2023,05:30,Light Rain,15°,15,88%,1003 hPa
+Thursday 19 October 2023,06:00,Light Rain,14°,15,94%,1003 hPa
+Thursday 19 October 2023,06:30,Light Rain,14°,19,94%,1002 hPa
+Thursday 19 October 2023,07:00,Rain,14°,19,94%,1002 hPa
+Thursday 19 October 2023,07:30,Rain,14°,17,100%,1002 hPa
+Thursday 19 October 2023,08:00,Rain,14°,11,100%,1001 hPa
+Thursday 19 October 2023,08:30,Rain,15°,17,>,35 94% 1001 hPa
+Thursday 19 October 2023,08:39,Light Rain,15°,15,94%,1001 hPa
+Thursday 19 October 2023,09:00,Light Rain,15°,17,94%,1001 hPa
+Thursday 19 October 2023,09:30,Drizzle,15°,15,94%,1001 hPa
+Thursday 19 October 2023,10:00,Drizzle,15°,17,94%,1000 hPa
+Thursday 19 October 2023,10:30,Light Rain,15°,13,>,33 94% 1000 hPa
+Thursday 19 October 2023,11:00,Light Rain,16°,19,94%,0999 hPa
+Thursday 19 October 2023,11:30,Light Rain,15°,15,94%,0998 hPa
+Thursday 19 October 2023,12:00,Light Rain,15°,13,100%,0998 hPa
+Thursday 19 October 2023,12:30,Rain,15°,17,100%,0996 hPa
+Thursday 19 October 2023,13:00,Rain,15°,11,100%,0995 hPa
+Thursday 19 October 2023,13:30,Rain,16°,24,>,44 100% 0994 hPa
+Thursday 19 October 2023,14:00,Rain,17°,28,94%,0993 hPa
+Thursday 19 October 2023,14:30,Rain,17°,24,94%,0992 hPa
+Thursday 19 October 2023,15:00,Rain,17°,24,94%,0992 hPa
+Thursday 19 October 2023,15:30,Rain,17°,30,100%,0990 hPa
+Thursday 19 October 2023,16:00,Light Rain,18°,44,>,67 94% 0990 hPa
+Thursday 19 October 2023,16:06,Rain,17°,44,>,67 94% 0990 hPa
+Thursday 19 October 2023,16:15,Rain,17°,35,94%,0990 hPa
+Thursday 19 October 2023,16:30,Rain,17°,35,>,56 94% 0991 hPa
+Thursday 19 October 2023,17:00,Rain,13°,17,94%,0991 hPa
+Thursday 19 October 2023,17:30,Rain,13°,28,>,46 94% 0991 hPa
+Thursday 19 October 2023,18:00,Light Rain,13°,20,94%,0991 hPa
+Thursday 19 October 2023,18:30,Light Rain,13°,15,88%,0992 hPa
+Thursday 19 October 2023,19:00,Light Rain,13°,15,88%,0993 hPa
+Thursday 19 October 2023,19:30,Light Rain,13°,13,88%,0993 hPa
+Thursday 19 October 2023,20:00,Light Rain,12°,13,94%,0990 hPa
+Thursday 19 October 2023,20:30,Light Rain,13°,13,88%,0992 hPa
+Thursday 19 October 2023,21:00,Light Rain,13°,7,88%,0992 hPa
+Thursday 19 October 2023,21:30,Mostly Cloudy,13°,15,88%,0992 hPa
+Thursday 19 October 2023,21:42,Cloudy,13°,15,94%,0993 hPa
+Thursday 19 October 2023,22:00,Light Rain,13°,17,94%,0992 hPa
+Thursday 19 October 2023,22:15,Rain,13°,11,94%,0992 hPa
+Thursday 19 October 2023,22:30,Rain,13°,15,94%,0993 hPa
+Thursday 19 October 2023,22:41,Light Rain,13°,13,94%,0992 hPa
+Thursday 19 October 2023,23:00,Light Rain,13°,19,94%,0993 hPa
+Thursday 19 October 2023,23:10,Rain,13°,24,94%,0992 hPa
+Thursday 19 October 2023,23:30,Rain,13°,19,94%,0993 hPa
+Friday 20 October 2023,00:00,Rain,13°,19,88%,0993 hPa
+Friday 20 October 2023,00:15,Light Rain,13°,17,88%,0993 hPa
+Friday 20 October 2023,00:30,Mostly Cloudy,13°,15,88%,0993 hPa
+Friday 20 October 2023,01:00,Light Rain,13°,11,88%,0993 hPa
+Friday 20 October 2023,01:30,Fair,13°,11,88%,0993 hPa
+Friday 20 October 2023,02:00,Fair,13°,19,88%,0993 hPa
+Friday 20 October 2023,02:30,Partly Cloudy,12°,20,88%,0994 hPa
+Friday 20 October 2023,03:00,Partly Cloudy,12°,20,88%,0995 hPa
+Friday 20 October 2023,03:30,Mostly Cloudy,12°,17,88%,0995 hPa
+Friday 20 October 2023,04:00,Mostly Cloudy,12°,17,88%,0995 hPa
+Friday 20 October 2023,04:30,Mostly Cloudy,12°,17,88%,0995 hPa
+Friday 20 October 2023,05:00,Mostly Cloudy,12°,30,88%,0995 hPa
+Friday 20 October 2023,05:30,Partly Cloudy,12°,22,88%,0995 hPa
+Friday 20 October 2023,06:00,Partly Cloudy,12°,24,82%,0995 hPa
+Friday 20 October 2023,06:30,Partly Cloudy,12°,26,82%,0995 hPa
+Friday 20 October 2023,07:00,Partly Cloudy,12°,24,82%,0996 hPa
+Friday 20 October 2023,07:30,Mostly Cloudy,12°,20,82%,0996 hPa
+Friday 20 October 2023,08:00,Mostly Cloudy,12°,28,>,46 82% 0997 hPa
+Friday 20 October 2023,08:30,Mostly Cloudy,12°,26,82%,0997 hPa
+Friday 20 October 2023,09:00,Mostly Cloudy,12°,33,82%,0997 hPa
+Friday 20 October 2023,09:30,Partly Cloudy,12°,32,82%,0998 hPa
+Friday 20 October 2023,10:00,Partly Cloudy,12°,32,82%,0998 hPa
+Friday 20 October 2023,10:30,Partly Cloudy,13°,33,>,57 77% 0999 hPa
+Friday 20 October 2023,11:00,Partly Cloudy,13°,35,82%,0999 hPa
+Friday 20 October 2023,11:30,Partly Cloudy,14°,30,>,57 77% 0999 hPa
+Friday 20 October 2023,12:00,Partly Cloudy,14°,30,>,57 77% 1000 hPa
+Friday 20 October 2023,12:30,Partly Cloudy,15°,30,72%,1000 hPa
+Friday 20 October 2023,13:00,Partly Cloudy,15°,28,>,48 72% 1000 hPa
+Friday 20 October 2023,13:30,Mostly Cloudy,15°,28,>,46 72% 1001 hPa
+Friday 20 October 2023,14:00,Mostly Cloudy,15°,28,>,59 72% 1001 hPa
+Friday 20 October 2023,14:30,Mostly Cloudy,16°,24,68%,1001 hPa
+Friday 20 October 2023,15:00,Mostly Cloudy,16°,24,63%,1001 hPa
+Friday 20 October 2023,15:30,Mostly Cloudy,17°,33,>,59 52% 1001 hPa
+Friday 20 October 2023,16:00,Mostly Cloudy,17°,33,>,56 48% 1001 hPa
+Friday 20 October 2023,16:30,Mostly Cloudy,17°,28,>,48 48% 1002 hPa
+Friday 20 October 2023,17:00,Partly Cloudy,17°,26,45%,1002 hPa
+Friday 20 October 2023,17:30,Partly Cloudy,17°,26,42%,1002 hPa
+Friday 20 October 2023,18:00,Partly Cloudy,16°,35,>,54 42% 1003 hPa
+Friday 20 October 2023,18:30,Partly Cloudy,16°,28,42%,1003 hPa
+Friday 20 October 2023,19:00,Mostly Cloudy,15°,11,48%,1004 hPa
+Friday 20 October 2023,19:30,Mostly Cloudy,15°,15,48%,1004 hPa
+Friday 20 October 2023,20:00,Mostly Cloudy,15°,15,48%,1004 hPa
+Friday 20 October 2023,20:30,Partly Cloudy,14°,17,55%,1005 hPa
+Friday 20 October 2023,21:00,Fair,14°,11,55%,1005 hPa
+Friday 20 October 2023,21:30,Fair,14°,15,58%,1005 hPa
+Friday 20 October 2023,22:00,Fair,13°,15,67%,1006 hPa
+Friday 20 October 2023,22:30,Fair,13°,15,72%,1006 hPa
+Friday 20 October 2023,23:00,Fair,13°,19,67%,1006 hPa
+Friday 20 October 2023,23:30,Clear,13°,19,58%,1006 hPa
+Saturday 21 October 2023,00:00,Fair,12°,22,58%,1007 hPa
+Saturday 21 October 2023,00:30,Partly Cloudy,12°,17,58%,1007 hPa
+Saturday 21 October 2023,01:00,Partly Cloudy,12°,19,58%,1007 hPa
+Saturday 21 October 2023,01:30,Partly Cloudy,12°,19,58%,1007 hPa
+Saturday 21 October 2023,02:00,Fair,12°,19,58%,1007 hPa
+Saturday 21 October 2023,02:30,Fair,11°,17,66%,1007 hPa
+Saturday 21 October 2023,03:00,Fair,11°,17,66%,1007 hPa
+Saturday 21 October 2023,03:30,Fair,11°,19,66%,1007 hPa
+Saturday 21 October 2023,04:00,Fair,11°,19,62%,1008 hPa
+Saturday 21 October 2023,04:30,Fair,10°,17,66%,1007 hPa
+Saturday 21 October 2023,05:00,Fair,10°,19,71%,1008 hPa
+Saturday 21 October 2023,05:30,Clear,10°,17,71%,1008 hPa
+Saturday 21 October 2023,06:00,Clear,10°,17,66%,1008 hPa
+Saturday 21 October 2023,06:30,Clear,10°,13,66%,1008 hPa
+Saturday 21 October 2023,07:00,Clear,10°,17,66%,1008 hPa
+Saturday 21 October 2023,07:30,Clear,10°,17,66%,1008 hPa
+Saturday 21 October 2023,08:00,Clear,9°,11,71%,1009 hPa
+Saturday 21 October 2023,08:30,Clear,9°,15,71%,1009 hPa
+Saturday 21 October 2023,09:00,Clear,10°,13,66%,1009 hPa
+Saturday 21 October 2023,09:30,Clear,10°,11,71%,1009 hPa
+Saturday 21 October 2023,10:00,Clear,10°,11,76%,1010 hPa
+Saturday 21 October 2023,10:30,Clear,11°,11,71%,1010 hPa
+Saturday 21 October 2023,11:00,Clear,11°,11,71%,1010 hPa
+Saturday 21 October 2023,11:30,Clear,12°,13,71%,1010 hPa
+Saturday 21 October 2023,12:00,Fair,13°,7,62%,1010 hPa
+Saturday 21 October 2023,12:30,Fair,14°,11,55%,1010 hPa
+Saturday 21 October 2023,13:00,Partly Cloudy,14°,7,55%,1010 hPa
+Saturday 21 October 2023,13:30,Partly Cloudy,15°,7,48%,1010 hPa
+Saturday 21 October 2023,14:00,Partly Cloudy,14°,11,51%,1010 hPa
+Saturday 21 October 2023,14:30,Partly Cloudy,16°,7,>,28 48% 1010 hPa
+Saturday 21 October 2023,15:00,Partly Cloudy,16°,13,48%,1010 hPa
+Saturday 21 October 2023,15:30,Partly Cloudy,16°,11,>,30 51% 1009 hPa
+Saturday 21 October 2023,16:00,Partly Cloudy,15°,9,55%,1010 hPa
+Saturday 21 October 2023,16:30,Partly Cloudy,15°,9,51%,1010 hPa
+Saturday 21 October 2023,17:00,Mostly Cloudy,15°,11,59%,1010 hPa
+Saturday 21 October 2023,17:30,Partly Cloudy,15°,15,59%,1010 hPa
+Saturday 21 October 2023,18:00,Partly Cloudy,15°,13,55%,1010 hPa
+Saturday 21 October 2023,18:30,Partly Cloudy,15°,13,55%,1010 hPa
+Saturday 21 October 2023,19:00,Mostly Cloudy,15°,13,55%,1010 hPa
+Saturday 21 October 2023,19:30,Mostly Cloudy,14°,11,58%,1010 hPa
+Saturday 21 October 2023,20:00,Partly Cloudy,14°,9,58%,1010 hPa
+Saturday 21 October 2023,20:30,Fair,14°,7,58%,1011 hPa
+Saturday 21 October 2023,21:00,Partly Cloudy,13°,9,67%,1011 hPa
+Saturday 21 October 2023,21:30,Mostly Cloudy,12°,6,71%,1011 hPa
+Saturday 21 October 2023,22:00,Fair,12°,6,71%,1011 hPa
+Saturday 21 October 2023,22:30,Fair,12°,4,71%,1011 hPa
+Saturday 21 October 2023,23:00,Clear,12°,4,71%,1011 hPa
+Saturday 21 October 2023,23:30,Clear,12°,6,71%,1011 hPa
+Sunday 22 October 2023,00:00,Clear,11°,Calm,76%,1011 hPa
+Sunday 22 October 2023,00:30,Clear,11°,Calm,76%,1011 hPa
+Sunday 22 October 2023,01:00,Clear,11°,Calm,76%,1011 hPa
+Sunday 22 October 2023,01:30,Clear,10°,4,82%,1011 hPa
+Sunday 22 October 2023,02:00,Clear,10°,4,82%,1011 hPa
+Sunday 22 October 2023,02:30,Clear,10°,4,82%,1010 hPa
+Sunday 22 October 2023,03:00,Clear,9°,6,93%,1010 hPa
+Sunday 22 October 2023,03:30,Clear,10°,4,87%,1010 hPa
+Sunday 22 October 2023,04:00,Clear,9°,2,93%,1010 hPa
+Sunday 22 October 2023,04:30,Clear,9°,Calm,87%,1010 hPa
+Sunday 22 October 2023,05:00,Partly Cloudy,9°,7,87%,1010 hPa
+Sunday 22 October 2023,05:30,Fair,9°,4,87%,1010 hPa
+Sunday 22 October 2023,06:00,Fair,9°,6,93%,1010 hPa
+Sunday 22 October 2023,06:30,Fair,9°,7,87%,1010 hPa
+Sunday 22 October 2023,07:00,Fair,9°,6,87%,1010 hPa
+Sunday 22 October 2023,07:30,Clear,9°,4,87%,1010 hPa
+Sunday 22 October 2023,08:00,Clear,9°,7,93%,1010 hPa
+Sunday 22 October 2023,08:30,Clear,9°,9,87%,1010 hPa
+Sunday 22 October 2023,09:00,Clear,9°,9,87%,1010 hPa
+Sunday 22 October 2023,09:30,Clear,10°,7,82%,1010 hPa
+Sunday 22 October 2023,10:00,Clear,10°,6,87%,1010 hPa
+Sunday 22 October 2023,10:30,Clear,11°,2,82%,1010 hPa
+Sunday 22 October 2023,11:00,Clear,12°,7,71%,1010 hPa
+Sunday 22 October 2023,11:30,Clear,13°,6,72%,1009 hPa
+Sunday 22 October 2023,12:00,Clear,14°,11,67%,1009 hPa
+Sunday 22 October 2023,12:30,Fair,15°,9,63%,1009 hPa
+Sunday 22 October 2023,13:00,Fair,16°,6,55%,1009 hPa
+Sunday 22 October 2023,13:30,Fair,15°,11,55%,1008 hPa
+Sunday 22 October 2023,14:00,Fair,16°,9,51%,1008 hPa
+Sunday 22 October 2023,14:30,Fair,15°,20,55%,1008 hPa
+Sunday 22 October 2023,15:00,Fair,16°,17,59%,1007 hPa
+Sunday 22 October 2023,15:30,Partly Cloudy,16°,20,55%,1007 hPa
+Sunday 22 October 2023,16:00,Partly Cloudy,15°,20,59%,1007 hPa
+Sunday 22 October 2023,16:30,Partly Cloudy,15°,19,63%,1006 hPa
+Sunday 22 October 2023,17:00,Partly Cloudy,15°,13,63%,1006 hPa
+Sunday 22 October 2023,17:30,Partly Cloudy,15°,15,63%,1005 hPa
+Sunday 22 October 2023,18:00,Partly Cloudy,15°,9,63%,1004 hPa
+Sunday 22 October 2023,18:30,Partly Cloudy,15°,7,67%,1004 hPa
+Sunday 22 October 2023,19:00,Partly Cloudy,14°,7,72%,1004 hPa
+Sunday 22 October 2023,19:30,Light Rain,13°,6,77%,1004 hPa
+Sunday 22 October 2023,19:55,Rain,12°,4,88%,1004 hPa
+Sunday 22 October 2023,20:00,Rain,12°,4,88%,1004 hPa
+Sunday 22 October 2023,20:30,Rain,12°,6,88%,1003 hPa
+Sunday 22 October 2023,21:00,Rain,12°,9,88%,1003 hPa
+Sunday 22 October 2023,21:30,Rain,11°,15,94%,1003 hPa
+Sunday 22 October 2023,22:00,Rain,11°,17,94%,1002 hPa
+Sunday 22 October 2023,22:30,Rain,11°,19,94%,1001 hPa
+Sunday 22 October 2023,23:00,Rain,10°,22,100%,1001 hPa
+Sunday 22 October 2023,23:30,Rain,11°,19,94%,1000 hPa
+Monday 23 October 2023,00:00,Rain,11°,15,94%,0999 hPa
+Monday 23 October 2023,00:30,Rain,11°,13,100%,0999 hPa
+Monday 23 October 2023,01:00,Rain,11°,15,100%,0999 hPa
+Monday 23 October 2023,01:30,Rain,11°,15,100%,0999 hPa
+Monday 23 October 2023,02:00,Cloudy,12°,13,94%,1000 hPa
+Monday 23 October 2023,02:30,Cloudy,12°,13,100%,1002 hPa
+Monday 23 October 2023,03:00,Drizzle,12°,22,94%,1003 hPa
+Monday 23 October 2023,03:30,Mostly Cloudy,12°,19,94%,1004 hPa
+Monday 23 October 2023,04:00,Partly Cloudy,12°,17,94%,1004 hPa
+Monday 23 October 2023,04:30,Partly Cloudy,12°,19,94%,1005 hPa
+Monday 23 October 2023,05:00,Mostly Cloudy,12°,11,94%,1005 hPa
+Monday 23 October 2023,05:30,Mostly Cloudy,12°,15,88%,1006 hPa
+Monday 23 October 2023,06:00,Mostly Cloudy,12°,17,94%,1006 hPa
+Monday 23 October 2023,06:30,Mostly Cloudy,12°,15,88%,1006 hPa
+Monday 23 October 2023,07:00,Mostly Cloudy,12°,19,88%,1007 hPa
+Monday 23 October 2023,07:30,Mostly Cloudy,12°,17,88%,1007 hPa
+Monday 23 October 2023,08:00,Mostly Cloudy,12°,20,82%,1007 hPa
+Monday 23 October 2023,08:30,Mostly Cloudy,12°,20,>,41 82% 1008 hPa
+Monday 23 October 2023,09:00,Mostly Cloudy,11°,20,87%,1008 hPa
+Monday 23 October 2023,09:30,Partly Cloudy,11°,17,87%,1009 hPa
+Monday 23 October 2023,10:00,Partly Cloudy,11°,19,>,43 87% 1009 hPa
+Monday 23 October 2023,10:30,Partly Cloudy,12°,20,>,44 82% 1010 hPa
+Monday 23 October 2023,11:00,Fair,13°,17,82%,1010 hPa
+Monday 23 October 2023,11:30,Fair,14°,17,72%,1010 hPa
+Monday 23 October 2023,12:00,Partly Cloudy,13°,17,77%,1010 hPa
+Monday 23 October 2023,12:30,Fair,14°,11,>,35 72% 1010 hPa
+Monday 23 October 2023,13:00,Partly Cloudy,14°,13,72%,1011 hPa
+Monday 23 October 2023,13:30,Partly Cloudy,15°,15,72%,1011 hPa
+Monday 23 October 2023,14:00,Mostly Cloudy,15°,11,72%,1010 hPa
+Monday 23 October 2023,14:30,Cloudy,15°,11,72%,1010 hPa
+Monday 23 October 2023,15:00,Cloudy,15°,9,72%,1010 hPa
+Monday 23 October 2023,15:30,Cloudy,16°,7,68%,1010 hPa
+Monday 23 October 2023,16:00,Mostly Cloudy,16°,9,68%,1009 hPa
+Monday 23 October 2023,16:30,Cloudy,16°,9,68%,1009 hPa
+Monday 23 October 2023,17:00,Cloudy,16°,7,68%,1009 hPa
+Monday 23 October 2023,17:30,Light Rain,15°,7,72%,1009 hPa
+Monday 23 October 2023,18:00,Rain,14°,11,82%,1010 hPa
+Monday 23 October 2023,18:30,Light Rain,14°,11,88%,1010 hPa
+Monday 23 October 2023,19:00,Light Rain,13°,9,94%,1009 hPa
+Monday 23 October 2023,19:30,Mostly Cloudy,13°,9,94%,1010 hPa
+Monday 23 October 2023,20:00,Mostly Cloudy,13°,6,94%,1010 hPa
+Monday 23 October 2023,20:30,Partly Cloudy,14°,6,88%,1011 hPa
+Monday 23 October 2023,21:00,Fair,13°,9,88%,1011 hPa
+Monday 23 October 2023,21:30,Fair,13°,13,88%,1011 hPa
+Monday 23 October 2023,22:00,Fair,13°,17,88%,1011 hPa
+Monday 23 October 2023,22:30,Fair,13°,17,88%,1012 hPa
+Monday 23 October 2023,23:00,Fair,12°,13,94%,1012 hPa
+Monday 23 October 2023,23:30,Fair,12°,13,88%,1012 hPa
+Tuesday 24 October 2023,00:00,Fair,12°,13,88%,1012 hPa
+Tuesday 24 October 2023,00:30,Fair,12°,13,88%,1013 hPa
+Tuesday 24 October 2023,01:00,Fair,12°,11,88%,1012 hPa
+Tuesday 24 October 2023,01:30,Fair,11°,11,94%,1012 hPa
+Tuesday 24 October 2023,02:00,Mostly Cloudy,12°,15,88%,1013 hPa
+Tuesday 24 October 2023,02:30,Mostly Cloudy,12°,17,88%,1013 hPa
+Tuesday 24 October 2023,03:00,Mostly Cloudy,12°,17,82%,1013 hPa
+Tuesday 24 October 2023,03:30,Mostly Cloudy,11°,17,94%,1013 hPa
+Tuesday 24 October 2023,04:00,Mostly Cloudy,11°,22,94%,1013 hPa
+Tuesday 24 October 2023,04:30,Mostly Cloudy,11°,20,87%,1013 hPa
+Tuesday 24 October 2023,05:00,Mostly Cloudy,11°,17,87%,1013 hPa
+Tuesday 24 October 2023,05:30,Fair,11°,19,82%,1014 hPa
+Tuesday 24 October 2023,06:00,Fair,11°,15,82%,1014 hPa
+Tuesday 24 October 2023,06:30,Fair,10°,13,87%,1014 hPa
+Tuesday 24 October 2023,07:00,Fair,10°,17,87%,1014 hPa
+Tuesday 24 October 2023,07:30,Fair,10°,17,87%,1014 hPa
+Tuesday 24 October 2023,08:00,Fair,10°,17,87%,1014 hPa
+Tuesday 24 October 2023,08:30,Fair,10°,19,87%,1015 hPa
+Tuesday 24 October 2023,09:00,Fair,10°,15,87%,1015 hPa
+Tuesday 24 October 2023,09:30,Clear,10°,17,87%,1015 hPa
+Tuesday 24 October 2023,10:00,Fair,11°,17,>,35 82% 1016 hPa
+Tuesday 24 October 2023,10:30,Partly Cloudy,11°,24,>,50 82% 1016 hPa
+Tuesday 24 October 2023,11:00,Partly Cloudy,11°,20,82%,1016 hPa
+Tuesday 24 October 2023,11:30,Partly Cloudy,12°,20,>,44 76% 1016 hPa
+Tuesday 24 October 2023,12:00,Partly Cloudy,12°,20,76%,1016 hPa
+Tuesday 24 October 2023,12:30,Partly Cloudy,13°,24,72%,1016 hPa
+Tuesday 24 October 2023,13:00,Partly Cloudy,13°,22,>,52 72% 1016 hPa
+Tuesday 24 October 2023,13:30,Partly Cloudy,13°,28,67%,1016 hPa
+Tuesday 24 October 2023,14:00,Mostly Cloudy,14°,26,>,48 63% 1016 hPa
+Tuesday 24 October 2023,14:30,Mostly Cloudy,14°,24,63%,1016 hPa
+Tuesday 24 October 2023,15:00,Mostly Cloudy,14°,30,>,50 63% 1015 hPa
+Tuesday 24 October 2023,15:30,Mostly Cloudy,14°,33,63%,1015 hPa
+Tuesday 24 October 2023,16:00,Mostly Cloudy,14°,28,>,57 63% 1015 hPa
+Tuesday 24 October 2023,16:30,Mostly Cloudy,14°,24,63%,1015 hPa
+Tuesday 24 October 2023,17:00,Mostly Cloudy,14°,26,>,52 67% 1015 hPa
+Tuesday 24 October 2023,17:30,Rain,14°,28,>,48 67% 1015 hPa
+Tuesday 24 October 2023,18:00,Light Rain,13°,28,77%,1015 hPa
+Tuesday 24 October 2023,18:30,Rain,13°,15,77%,1014 hPa
+Tuesday 24 October 2023,18:41,Light Rain,13°,19,82%,1014 hPa
+Tuesday 24 October 2023,18:53,Light Rain,12°,15,82%,1014 hPa
+Tuesday 24 October 2023,19:00,Light Rain,12°,13,82%,1014 hPa
+Tuesday 24 October 2023,19:30,Light Rain,13°,13,77%,1015 hPa
+Tuesday 24 October 2023,20:00,Mostly Cloudy,13°,11,77%,1015 hPa
+Tuesday 24 October 2023,20:30,Rain,13°,13,77%,1015 hPa
+Tuesday 24 October 2023,21:00,Light Rain,13°,17,82%,1015 hPa
+Tuesday 24 October 2023,21:30,Rain,12°,11,88%,1015 hPa
+Tuesday 24 October 2023,22:00,Light Rain,12°,9,88%,1015 hPa
+Tuesday 24 October 2023,22:30,Light Rain,12°,9,88%,1015 hPa
+Tuesday 24 October 2023,23:00,Light Rain,12°,13,88%,1015 hPa
+Tuesday 24 October 2023,23:30,Rain,12°,11,88%,1015 hPa
+Wednesday 25 October 2023,00:00,Rain,12°,13,94%,1015 hPa
+Wednesday 25 October 2023,00:30,Mostly Cloudy,12°,13,94%,1015 hPa
+Wednesday 25 October 2023,01:00,Cloudy,12°,13,94%,1014 hPa
+Wednesday 25 October 2023,01:30,Mostly Cloudy,12°,11,94%,1014 hPa
+Wednesday 25 October 2023,02:00,Mostly Cloudy,12°,15,94%,1014 hPa
+Wednesday 25 October 2023,02:30,Mostly Cloudy,12°,13,94%,1014 hPa
+Wednesday 25 October 2023,03:00,Mostly Cloudy,12°,15,94%,1014 hPa
+Wednesday 25 October 2023,03:30,Partly Cloudy,12°,15,94%,1013 hPa
+Wednesday 25 October 2023,04:00,Partly Cloudy,12°,13,94%,1014 hPa
+Wednesday 25 October 2023,04:30,Partly Cloudy,12°,11,100%,1013 hPa
+Wednesday 25 October 2023,05:00,Mostly Cloudy,13°,11,94%,1013 hPa
+Wednesday 25 October 2023,05:30,Mostly Cloudy,13°,11,94%,1013 hPa
+Wednesday 25 October 2023,06:00,Mostly Cloudy,13°,13,94%,1013 hPa
+Wednesday 25 October 2023,06:30,Mostly Cloudy,13°,17,94%,1013 hPa
+Wednesday 25 October 2023,07:00,Mostly Cloudy,13°,17,94%,1013 hPa
+Wednesday 25 October 2023,07:30,Mostly Cloudy,13°,17,94%,1014 hPa
+Wednesday 25 October 2023,08:00,Mostly Cloudy,13°,22,94%,1013 hPa
+Wednesday 25 October 2023,08:30,Mostly Cloudy,13°,24,>,50 94% 1013 hPa
+Wednesday 25 October 2023,09:00,Mostly Cloudy,13°,20,94%,1014 hPa
+Wednesday 25 October 2023,09:30,Partly Cloudy,14°,19,88%,1014 hPa
+Wednesday 25 October 2023,10:00,Fair,14°,19,88%,1015 hPa
+Wednesday 25 October 2023,10:30,Fair,15°,15,>,35 82% 1015 hPa
+Wednesday 25 October 2023,11:00,Fair,15°,15,82%,1015 hPa
+Wednesday 25 October 2023,11:30,Fair,16°,19,>,43 77% 1016 hPa
+Wednesday 25 October 2023,12:00,Fair,17°,17,77%,1016 hPa
+Wednesday 25 October 2023,12:30,Fair,17°,24,>,50 77% 1016 hPa
+Wednesday 25 October 2023,13:00,Fair,17°,22,>,56 77% 1016 hPa
+Wednesday 25 October 2023,13:30,Fair,17°,19,77%,1016 hPa
+Wednesday 25 October 2023,14:00,Fair,17°,22,>,43 77% 1016 hPa
+Wednesday 25 October 2023,14:30,Fair,18°,20,73%,1016 hPa
+Wednesday 25 October 2023,15:00,Fair,18°,20,73%,1015 hPa
+Wednesday 25 October 2023,15:30,Fair,18°,19,>,39 73% 1015 hPa
+Wednesday 25 October 2023,16:00,Fair,18°,19,73%,1015 hPa
+Wednesday 25 October 2023,16:30,Fair,19°,19,68%,1015 hPa
+Wednesday 25 October 2023,17:00,Fair,18°,24,73%,1015 hPa
+Wednesday 25 October 2023,17:30,Partly Cloudy,18°,20,>,43 73% 1015 hPa
+Wednesday 25 October 2023,18:00,Partly Cloudy,17°,17,77%,1015 hPa
+Wednesday 25 October 2023,18:30,Mostly Cloudy,17°,19,77%,1015 hPa
+Wednesday 25 October 2023,19:00,Mostly Cloudy,17°,19,77%,1015 hPa
+Wednesday 25 October 2023,19:30,Mostly Cloudy,17°,17,77%,1015 hPa
+Wednesday 25 October 2023,20:00,Mostly Cloudy,17°,13,77%,1016 hPa
+Wednesday 25 October 2023,20:30,Partly Cloudy,17°,11,>,32 77% 1016 hPa
+Wednesday 25 October 2023,21:00,Mostly Cloudy,17°,15,77%,1016 hPa
+Wednesday 25 October 2023,21:30,Mostly Cloudy,17°,15,77%,1016 hPa
+Wednesday 25 October 2023,22:00,Mostly Cloudy,17°,15,77%,1016 hPa
+Wednesday 25 October 2023,22:30,Cloudy,17°,15,77%,1016 hPa
+Wednesday 25 October 2023,23:00,Cloudy,17°,17,>,37 77% 1016 hPa
+Wednesday 25 October 2023,23:30,Mostly Cloudy,17°,19,82%,1016 hPa
+Thursday 26 October 2023,00:00,Cloudy,17°,19,82%,1016 hPa
+Thursday 26 October 2023,00:30,Mostly Cloudy,17°,20,82%,1015 hPa
+Thursday 26 October 2023,01:00,Mostly Cloudy,17°,26,82%,1015 hPa
+Thursday 26 October 2023,01:30,Mostly Cloudy,16°,19,88%,1015 hPa
+Thursday 26 October 2023,02:00,Cloudy,16°,17,88%,1015 hPa
+Thursday 26 October 2023,02:30,Cloudy,16°,22,88%,1014 hPa
+Thursday 26 October 2023,03:00,Cloudy,16°,24,88%,1014 hPa
+Thursday 26 October 2023,03:30,Cloudy,16°,24,88%,1014 hPa
+Thursday 26 October 2023,04:00,Cloudy,16°,15,88%,1013 hPa
+Thursday 26 October 2023,04:30,Cloudy,16°,15,88%,1013 hPa
+Thursday 26 October 2023,05:00,Cloudy,16°,19,94%,1012 hPa
+Thursday 26 October 2023,05:30,Mostly Cloudy,16°,15,94%,1012 hPa
+Thursday 26 October 2023,05:48,Drizzle,16°,15,88%,1012 hPa
+Thursday 26 October 2023,06:00,Drizzle,16°,19,94%,1012 hPa
+Thursday 26 October 2023,06:13,Drizzle,16°,22,94%,1012 hPa
+Thursday 26 October 2023,06:30,Drizzle,16°,24,94%,1011 hPa
+Thursday 26 October 2023,07:00,Drizzle,16°,26,94%,1011 hPa
+Thursday 26 October 2023,07:30,Drizzle,16°,28,88%,1011 hPa
+Thursday 26 October 2023,07:31,Drizzle,16°,28,88%,1011 hPa
+Thursday 26 October 2023,07:45,Drizzle,16°,24,>,44 88% 1011 hPa
+Thursday 26 October 2023,08:00,Drizzle,16°,22,88%,1011 hPa
+Thursday 26 October 2023,08:30,Mostly Cloudy,17°,22,>,44 82% 1011 hPa
+Thursday 26 October 2023,09:00,Mostly Cloudy,17°,26,82%,1011 hPa
+Thursday 26 October 2023,09:30,Mostly Cloudy,17°,19,82%,1011 hPa
+Thursday 26 October 2023,10:00,Mostly Cloudy,17°,24,>,48 82% 1011 hPa
+Thursday 26 October 2023,10:30,Mostly Cloudy,17°,32,>,57 82% 1011 hPa
+Thursday 26 October 2023,11:00,Mostly Cloudy,18°,33,77%,1011 hPa
+Thursday 26 October 2023,11:30,Partly Cloudy,18°,30,>,63 73% 1010 hPa
+Thursday 26 October 2023,12:00,Partly Cloudy,18°,33,77%,1010 hPa
+Thursday 26 October 2023,12:30,Partly Cloudy,18°,32,>,54 73% 1010 hPa
+Thursday 26 October 2023,13:00,Partly Cloudy,19°,33,68%,1009 hPa
+Thursday 26 October 2023,13:30,Partly Cloudy,19°,35,>,63 73% 1009 hPa
+Thursday 26 October 2023,14:00,Drizzle,18°,26,77%,1008 hPa
+Thursday 26 October 2023,14:16,Drizzle,17°,17,88%,1008 hPa
+Thursday 26 October 2023,14:30,Drizzle,17°,20,88%,1007 hPa
+Thursday 26 October 2023,15:00,Mostly Cloudy,18°,26,88%,1006 hPa
+Thursday 26 October 2023,15:30,Mostly Cloudy,19°,28,>,52 83% 1006 hPa
+Thursday 26 October 2023,16:00,Partly Cloudy,19°,43,>,72 73% 1005 hPa
+Thursday 26 October 2023,16:30,Partly Cloudy,19°,43,>,61 73% 1006 hPa
+Thursday 26 October 2023,17:00,Rain,18°,37,>,61 77% 1006 hPa
+Thursday 26 October 2023,17:15,Rain,16°,35,>,57 77% 1007 hPa
+Thursday 26 October 2023,17:30,Rain,15°,30,>,48 94% 1007 hPa
+Thursday 26 October 2023,17:35,Light Rain,16°,26,>,50 88% 1007 hPa
+Thursday 26 October 2023,18:00,Light Rain,16°,20,>,39 82% 1007 hPa
+Thursday 26 October 2023,18:30,Light Rain,16°,24,>,48 82% 1007 hPa
+Thursday 26 October 2023,19:00,Light Rain,16°,19,77%,1007 hPa
+Thursday 26 October 2023,19:30,Fair,15°,11,88%,1007 hPa
+Thursday 26 October 2023,20:00,Fair,15°,11,88%,1007 hPa
+Thursday 26 October 2023,20:30,Fair,16°,24,72%,1008 hPa
+Thursday 26 October 2023,21:00,Fair,15°,15,82%,1008 hPa
+Thursday 26 October 2023,21:30,Fair,15°,19,77%,1009 hPa
+Thursday 26 October 2023,22:00,Fair,15°,7,72%,1009 hPa
+Thursday 26 October 2023,22:30,Fair,14°,4,82%,1010 hPa
+Thursday 26 October 2023,23:00,Fair,15°,7,67%,1010 hPa
+Thursday 26 October 2023,23:30,Fair,14°,17,67%,1010 hPa
+Friday 27 October 2023,00:00,Fair,13°,17,67%,1010 hPa
+Friday 27 October 2023,00:30,Fair,13°,15,67%,1011 hPa
+Friday 27 October 2023,01:00,Fair,12°,15,76%,1011 hPa
+Friday 27 October 2023,01:30,Fair,12°,13,76%,1011 hPa
+Friday 27 October 2023,02:00,Fair,13°,17,67%,1011 hPa
+Friday 27 October 2023,02:30,Fair,12°,15,67%,1011 hPa
+Friday 27 October 2023,03:00,Fair,12°,15,76%,1011 hPa
+Friday 27 October 2023,03:30,Fair,12°,15,82%,1011 hPa
+Friday 27 October 2023,04:00,Fair,12°,11,82%,1011 hPa
+Friday 27 October 2023,04:30,Clear,11°,11,87%,1011 hPa
+Friday 27 October 2023,05:00,Clear,11°,11,87%,1011 hPa
+Friday 27 October 2023,05:30,Clear,11°,15,87%,1011 hPa
+Friday 27 October 2023,06:00,Clear,10°,15,93%,1010 hPa
+Friday 27 October 2023,06:30,Fair,10°,15,87%,1010 hPa
+Friday 27 October 2023,07:00,Fair,10°,15,87%,1011 hPa
+Friday 27 October 2023,07:30,Fair,10°,19,87%,1011 hPa
+Friday 27 October 2023,08:00,Fair,10°,19,87%,1011 hPa
+Friday 27 October 2023,08:30,Fair,10°,19,87%,1011 hPa
+Friday 27 October 2023,09:00,Fair,10°,22,87%,1011 hPa
+Friday 27 October 2023,09:30,Mostly Cloudy,10°,24,93%,1012 hPa
+Friday 27 October 2023,10:00,Partly Cloudy,11°,20,87%,1012 hPa
+Friday 27 October 2023,10:30,Mostly Cloudy,12°,19,>,43 82% 1012 hPa
+Friday 27 October 2023,11:00,Mostly Cloudy,13°,20,>,39 82% 1013 hPa
+Friday 27 October 2023,11:30,Mostly Cloudy,13°,24,>,44 77% 1013 hPa
+Friday 27 October 2023,12:00,Partly Cloudy,14°,26,72%,1012 hPa
+Friday 27 October 2023,12:30,Partly Cloudy,15°,26,>,46 67% 1012 hPa
+Friday 27 October 2023,13:00,Mostly Cloudy,15°,28,>,50 63% 1012 hPa
+Friday 27 October 2023,13:30,Mostly Cloudy,15°,24,>,46 67% 1012 hPa
+Friday 27 October 2023,14:00,Mostly Cloudy,15°,28,67%,1012 hPa
+Friday 27 October 2023,14:30,Mostly Cloudy,16°,28,68%,1012 hPa
+Friday 27 October 2023,15:00,Mostly Cloudy,16°,28,68%,1011 hPa
+Friday 27 October 2023,15:30,Mostly Cloudy,16°,26,72%,1011 hPa
+Friday 27 October 2023,16:00,Mostly Cloudy,16°,28,>,54 68% 1011 hPa
+Friday 27 October 2023,16:30,Mostly Cloudy,16°,32,>,52 68% 1011 hPa
+Friday 27 October 2023,17:00,Mostly Cloudy,16°,28,>,56 68% 1011 hPa
+Friday 27 October 2023,17:30,Drizzle,15°,28,77%,1011 hPa
+Friday 27 October 2023,17:39,Drizzle,15°,30,77%,1011 hPa
+Friday 27 October 2023,17:47,Drizzle,15°,30,77%,1011 hPa
+Friday 27 October 2023,18:00,Drizzle,15°,24,77%,1011 hPa
+Friday 27 October 2023,18:30,Mostly Cloudy,15°,24,72%,1011 hPa
+Friday 27 October 2023,19:00,Mostly Cloudy,15°,17,77%,1011 hPa
+Friday 27 October 2023,19:30,Mostly Cloudy,15°,28,72%,1012 hPa
+Friday 27 October 2023,20:00,Mostly Cloudy,15°,24,72%,1012 hPa
+Friday 27 October 2023,20:30,Partly Cloudy,14°,15,77%,1012 hPa
+Friday 27 October 2023,21:00,Partly Cloudy,14°,15,82%,1012 hPa
+Friday 27 October 2023,21:30,Fair,14°,17,82%,1012 hPa
+Friday 27 October 2023,22:00,Fair,14°,20,77%,1012 hPa
+Friday 27 October 2023,22:30,Fair,14°,15,77%,1012 hPa
+Friday 27 October 2023,23:00,Fair,14°,15,77%,1012 hPa
+Friday 27 October 2023,23:30,Partly Cloudy,14°,19,77%,1013 hPa
+Saturday 28 October 2023,00:00,Partly Cloudy,14°,20,77%,1013 hPa
+Saturday 28 October 2023,00:30,Partly Cloudy,14°,17,77%,1013 hPa
+Saturday 28 October 2023,01:00,Partly Cloudy,13°,9,82%,1012 hPa
+Saturday 28 October 2023,01:30,Partly Cloudy,13°,11,82%,1013 hPa
+Saturday 28 October 2023,02:00,Partly Cloudy,13°,17,82%,1012 hPa
+Saturday 28 October 2023,02:30,Partly Cloudy,14°,19,82%,1012 hPa
+Saturday 28 October 2023,03:00,Partly Cloudy,13°,20,82%,1012 hPa
+Saturday 28 October 2023,03:30,Partly Cloudy,13°,13,82%,1012 hPa
+Saturday 28 October 2023,04:00,Partly Cloudy,13°,13,82%,1011 hPa
+Saturday 28 October 2023,04:30,Mostly Cloudy,13°,22,82%,1011 hPa
+Saturday 28 October 2023,05:00,Partly Cloudy,13°,22,82%,1011 hPa
+Saturday 28 October 2023,05:30,Mostly Cloudy,13°,19,82%,1011 hPa
+Saturday 28 October 2023,06:00,Mostly Cloudy,13°,17,82%,1011 hPa
+Saturday 28 October 2023,06:30,Partly Cloudy,12°,15,88%,1010 hPa
+Saturday 28 October 2023,07:00,Partly Cloudy,12°,13,88%,1011 hPa
+Saturday 28 October 2023,07:30,Mostly Cloudy,12°,11,88%,1011 hPa
+Saturday 28 October 2023,08:00,Mostly Cloudy,12°,9,88%,1011 hPa
+Saturday 28 October 2023,08:30,Mostly Cloudy,12°,9,88%,1011 hPa
+Saturday 28 October 2023,09:00,Mostly Cloudy,12°,13,88%,1011 hPa
+Saturday 28 October 2023,09:30,Mostly Cloudy,13°,17,82%,1011 hPa
+Saturday 28 October 2023,10:00,Mostly Cloudy,13°,19,>,37 82% 1011 hPa
+Saturday 28 October 2023,10:30,Mostly Cloudy,14°,24,>,44 77% 1012 hPa
+Saturday 28 October 2023,11:00,Mostly Cloudy,14°,24,77%,1012 hPa
+Saturday 28 October 2023,11:30,Mostly Cloudy,15°,20,>,52 77% 1012 hPa
+Saturday 28 October 2023,12:00,Mostly Cloudy,15°,26,>,50 72% 1012 hPa
+Saturday 28 October 2023,12:30,Mostly Cloudy,16°,28,>,54 68% 1011 hPa
+Saturday 28 October 2023,13:00,Mostly Cloudy,16°,24,>,50 68% 1012 hPa
+Saturday 28 October 2023,13:30,Mostly Cloudy,16°,26,>,50 68% 1011 hPa
+Saturday 28 October 2023,14:00,Mostly Cloudy,17°,28,>,54 68% 1011 hPa
+Saturday 28 October 2023,14:30,Partly Cloudy,17°,28,63%,1011 hPa
+Saturday 28 October 2023,15:00,Mostly Cloudy,17°,28,63%,1010 hPa
+Saturday 28 October 2023,15:30,Mostly Cloudy,17°,28,>,46 59% 1010 hPa
+Saturday 28 October 2023,16:00,Partly Cloudy,18°,28,>,54 59% 1010 hPa
+Saturday 28 October 2023,16:30,Partly Cloudy,18°,24,59%,1009 hPa
+Saturday 28 October 2023,17:00,Partly Cloudy,17°,28,63%,1009 hPa
+Saturday 28 October 2023,17:30,Partly Cloudy,17°,24,>,46 63% 1009 hPa
+Saturday 28 October 2023,18:00,Partly Cloudy,17°,22,63%,1009 hPa
+Saturday 28 October 2023,18:30,Mostly Cloudy,17°,19,63%,1009 hPa
+Saturday 28 October 2023,19:00,Mostly Cloudy,17°,17,68%,1009 hPa
+Saturday 28 October 2023,19:30,Mostly Cloudy,16°,13,72%,1009 hPa
+Saturday 28 October 2023,20:00,Mostly Cloudy,15°,15,77%,1009 hPa
+Saturday 28 October 2023,20:30,Mostly Cloudy,16°,11,72%,1009 hPa
+Saturday 28 October 2023,21:00,Mostly Cloudy,15°,13,77%,1009 hPa
+Saturday 28 October 2023,21:30,Mostly Cloudy,15°,17,77%,1010 hPa
+Saturday 28 October 2023,22:00,Partly Cloudy,15°,19,>,37 77% 1009 hPa
+Saturday 28 October 2023,22:30,Partly Cloudy,15°,20,77%,1009 hPa
+Saturday 28 October 2023,23:00,Mostly Cloudy,14°,15,82%,1009 hPa
+Saturday 28 October 2023,23:30,Mostly Cloudy,14°,15,82%,1009 hPa
+Sunday 29 October 2023,00:00,Light Rain,14°,7,88%,1009 hPa
+Sunday 29 October 2023,00:30,Mostly Cloudy,14°,15,88%,1009 hPa
+Sunday 29 October 2023,01:00,Partly Cloudy,14°,11,88%,1009 hPa
+Sunday 29 October 2023,01:30,Mostly Cloudy,14°,17,88%,1009 hPa
+Sunday 29 October 2023,02:00,Mostly Cloudy,14°,17,88%,1009 hPa
+Sunday 29 October 2023,02:30,Mostly Cloudy,14°,17,88%,1008 hPa
+Sunday 29 October 2023,03:00,Mostly Cloudy,14°,15,82%,1008 hPa
+Sunday 29 October 2023,03:30,Mostly Cloudy,14°,17,82%,1008 hPa
+Sunday 29 October 2023,04:00,Mostly Cloudy,14°,17,82%,1008 hPa
+Sunday 29 October 2023,04:30,Mostly Cloudy,14°,17,82%,1008 hPa
+Sunday 29 October 2023,05:00,Mostly Cloudy,14°,19,82%,1008 hPa
+Sunday 29 October 2023,05:30,Partly Cloudy,13°,17,88%,1008 hPa
+Sunday 29 October 2023,06:00,Mostly Cloudy,13°,13,88%,1008 hPa
+Sunday 29 October 2023,06:30,Mostly Cloudy,13°,17,88%,1008 hPa
+Sunday 29 October 2023,07:00,Mostly Cloudy,13°,19,88%,1008 hPa
+Sunday 29 October 2023,07:30,Mostly Cloudy,13°,17,88%,1008 hPa
+Sunday 29 October 2023,08:00,Mostly Cloudy,13°,17,82%,1008 hPa
+Sunday 29 October 2023,08:30,Mostly Cloudy,13°,13,82%,1008 hPa
+Sunday 29 October 2023,09:00,Mostly Cloudy,14°,13,82%,1009 hPa
+Sunday 29 October 2023,09:30,Mostly Cloudy,14°,11,82%,1009 hPa
+Sunday 29 October 2023,10:00,Mostly Cloudy,14°,19,82%,1009 hPa
+Sunday 29 October 2023,10:30,Mostly Cloudy,15°,19,77%,1009 hPa
+Sunday 29 October 2023,11:00,Mostly Cloudy,15°,19,77%,1009 hPa
+Sunday 29 October 2023,11:30,Mostly Cloudy,15°,24,77%,1008 hPa
+Sunday 29 October 2023,12:00,Mostly Cloudy,16°,22,72%,1008 hPa
+Sunday 29 October 2023,12:30,Mostly Cloudy,16°,17,72%,1008 hPa
+Sunday 29 October 2023,13:00,Mostly Cloudy,17°,17,68%,1008 hPa
+Sunday 29 October 2023,13:30,Mostly Cloudy,17°,26,68%,1007 hPa
+Sunday 29 October 2023,14:00,Mostly Cloudy,17°,19,>,37 63% 1007 hPa
+Sunday 29 October 2023,14:30,Mostly Cloudy,17°,22,63%,1007 hPa
+Sunday 29 October 2023,15:00,Mostly Cloudy,17°,19,>,50 63% 1006 hPa
+Sunday 29 October 2023,15:30,Mostly Cloudy,17°,13,>,32 63% 1006 hPa
+Sunday 29 October 2023,16:00,Mostly Cloudy,17°,20,68%,1006 hPa
+Sunday 29 October 2023,16:30,Mostly Cloudy,17°,13,>,32 68% 1006 hPa
+Sunday 29 October 2023,17:00,Mostly Cloudy,17°,19,>,37 68% 1006 hPa
+Sunday 29 October 2023,17:30,Mostly Cloudy,17°,15,68%,1005 hPa
+Sunday 29 October 2023,18:00,Mostly Cloudy,17°,19,68%,1005 hPa
+Sunday 29 October 2023,18:30,Mostly Cloudy,16°,19,72%,1005 hPa
+Sunday 29 October 2023,19:00,Partly Cloudy,16°,17,72%,1006 hPa
+Sunday 29 October 2023,19:30,Rain,16°,17,>,35 77% 1006 hPa
+Sunday 29 October 2023,20:00,Light Rain,16°,13,72%,1006 hPa
+Sunday 29 October 2023,20:30,Light Rain,16°,19,77%,1006 hPa
+Sunday 29 October 2023,21:00,Light Rain,15°,17,82%,1006 hPa
+Sunday 29 October 2023,21:30,Rain,14°,9,88%,1006 hPa
+Sunday 29 October 2023,22:00,Rain,14°,13,88%,1006 hPa
+Sunday 29 October 2023,22:30,Mostly Cloudy,14°,11,88%,1006 hPa
+Monday 30 October 2023,00:00,Rain,14°,17,82%,1005 hPa
+Monday 30 October 2023,00:30,Light Rain,14°,17,88%,1005 hPa
+Monday 30 October 2023,01:00,Rain,14°,19,88%,1005 hPa
+Monday 30 October 2023,01:30,Rain,13°,22,94%,1005 hPa
+Monday 30 October 2023,02:00,Rain,13°,20,94%,1005 hPa
+Monday 30 October 2023,02:15,Rain,13°,19,94%,1005 hPa
+Monday 30 October 2023,02:30,Rain,13°,19,94%,1005 hPa
+Monday 30 October 2023,03:00,Rain,13°,15,94%,1005 hPa
+Monday 30 October 2023,03:30,Rain,13°,17,94%,1004 hPa
+Monday 30 October 2023,04:00,Rain,13°,15,94%,1004 hPa
+Monday 30 October 2023,04:30,Rain,13°,17,94%,1004 hPa
+Monday 30 October 2023,05:00,Rain,13°,11,94%,1004 hPa
+Monday 30 October 2023,05:30,Light Rain,13°,15,94%,1003 hPa
+Monday 30 October 2023,06:00,Light Rain,13°,17,94%,1003 hPa
+Monday 30 October 2023,06:30,Light Rain,13°,19,88%,1003 hPa
+Monday 30 October 2023,07:00,Mostly Cloudy,13°,17,88%,1003 hPa
+Monday 30 October 2023,07:30,Mostly Cloudy,13°,24,>,43 94% 1004 hPa
+Monday 30 October 2023,08:00,Mostly Cloudy,13°,26,>,48 88% 1004 hPa
+Monday 30 October 2023,08:30,Mostly Cloudy,13°,22,88%,1005 hPa
+Monday 30 October 2023,09:00,Mostly Cloudy,13°,17,88%,1005 hPa
+Monday 30 October 2023,09:30,Mostly Cloudy,12°,13,82%,1006 hPa
+Monday 30 October 2023,10:00,Mostly Cloudy,13°,15,77%,1006 hPa
+Monday 30 October 2023,10:30,Mostly Cloudy,13°,17,77%,1007 hPa
+Monday 30 October 2023,11:00,Mostly Cloudy,13°,11,>,32 82% 1007 hPa
+Monday 30 October 2023,11:30,Mostly Cloudy,14°,15,72%,1007 hPa
+Monday 30 October 2023,12:00,Mostly Cloudy,14°,13,67%,1007 hPa
+Monday 30 October 2023,12:30,Partly Cloudy,15°,20,63%,1007 hPa
+Monday 30 October 2023,13:00,Partly Cloudy,14°,22,58%,1008 hPa
+Monday 30 October 2023,13:30,Partly Cloudy,14°,24,51%,1008 hPa
+Monday 30 October 2023,14:00,Partly Cloudy,15°,24,51%,1008 hPa
+Monday 30 October 2023,14:30,Partly Cloudy,15°,24,51%,1008 hPa
+Monday 30 October 2023,15:00,Partly Cloudy,16°,20,>,39 45% 1008 hPa
+Monday 30 October 2023,15:30,Mostly Cloudy,16°,20,48%,1009 hPa
+Monday 30 October 2023,16:00,Mostly Cloudy,16°,19,51%,1009 hPa
+Monday 30 October 2023,16:30,Fair,15°,17,48%,1009 hPa
+Monday 30 October 2023,17:00,Partly Cloudy,15°,19,63%,1010 hPa
+Monday 30 October 2023,17:29,T-Storm,14°,20,67%,1011 hPa
+Monday 30 October 2023,17:30,Partly Cloudy,15°,19,59%,1010 hPa
+Monday 30 October 2023,17:33,T-Storm,14°,20,67%,1011 hPa
+Monday 30 October 2023,17:47,T-Storm,12°,19,71%,1011 hPa
+Monday 30 October 2023,18:00,T-Storm,12°,15,76%,1011 hPa
+Monday 30 October 2023,18:30,Fair,12°,9,67%,1011 hPa
+Monday 30 October 2023,19:00,Clear,11°,9,71%,1012 hPa
+Monday 30 October 2023,19:30,Clear,10°,2,82%,1013 hPa
+Monday 30 October 2023,20:00,Clear,9°,2,87%,1013 hPa
+Monday 30 October 2023,20:30,Clear,11°,4,82%,1014 hPa
+Monday 30 October 2023,21:00,Clear,11°,9,76%,1014 hPa
+Monday 30 October 2023,21:30,Clear,11°,11,71%,1014 hPa
+Monday 30 October 2023,22:00,Clear,11°,11,76%,1014 hPa
+Monday 30 October 2023,22:30,Clear,10°,9,82%,1015 hPa
+Monday 30 October 2023,23:00,Clear,10°,17,82%,1015 hPa
+Monday 30 October 2023,23:30,Clear,10°,15,82%,1015 hPa
+Tuesday 31 October 2023,00:00,Clear,10°,13,82%,1016 hPa
+Tuesday 31 October 2023,00:30,Clear,10°,13,82%,1016 hPa
+Tuesday 31 October 2023,01:00,Clear,10°,13,82%,1016 hPa
+Tuesday 31 October 2023,01:30,Clear,9°,2,81%,1016 hPa
+Tuesday 31 October 2023,02:00,Clear,9°,6,81%,1016 hPa
+Tuesday 31 October 2023,02:30,Clear,8°,4,87%,1016 hPa
+Tuesday 31 October 2023,03:00,Clear,8°,7,87%,1016 hPa
+Tuesday 31 October 2023,03:30,Clear,8°,6,87%,1016 hPa
+Tuesday 31 October 2023,04:00,Clear,8°,7,87%,1016 hPa
+Tuesday 31 October 2023,04:30,Clear,7°,7,93%,1016 hPa
+Tuesday 31 October 2023,05:00,Clear,7°,4,93%,1017 hPa
+Tuesday 31 October 2023,05:30,Clear,7°,4,93%,1017 hPa
+Tuesday 31 October 2023,06:00,Clear,7°,2,93%,1017 hPa
+Tuesday 31 October 2023,06:30,Fair,6°,4,100%,1017 hPa
+Tuesday 31 October 2023,07:00,Fair,6°,Calm,100%,1017 hPa
+Tuesday 31 October 2023,07:30,Fair,6°,2,100%,1017 hPa
+Tuesday 31 October 2023,08:00,Mostly Cloudy,7°,2,93%,1018 hPa
+Tuesday 31 October 2023,08:30,Mostly Cloudy,7°,4,100%,1018 hPa
+Tuesday 31 October 2023,09:00,Cloudy,8°,2,93%,1019 hPa
+Tuesday 31 October 2023,09:30,Cloudy,8°,4,93%,1019 hPa
+Tuesday 31 October 2023,10:00,Cloudy,9°,2,93%,1019 hPa
+Tuesday 31 October 2023,10:30,Cloudy,9°,2,93%,1019 hPa
+Tuesday 31 October 2023,11:00,Cloudy,10°,Calm,93%,1019 hPa
+Tuesday 31 October 2023,11:30,Cloudy,10°,4,93%,1019 hPa
+Tuesday 31 October 2023,12:00,Cloudy,11°,2,82%,1019 hPa
+Tuesday 31 October 2023,12:30,Mostly Cloudy,11°,4,82%,1019 hPa
+Tuesday 31 October 2023,13:00,Partly Cloudy,11°,6,76%,1018 hPa
+Tuesday 31 October 2023,13:30,Fair,11°,4,82%,1018 hPa
+Tuesday 31 October 2023,14:00,Fair,12°,4,76%,1018 hPa
+Tuesday 31 October 2023,14:30,Clear,12°,Calm,76%,1017 hPa
+Tuesday 31 October 2023,15:00,Clear,13°,Calm,72%,1017 hPa
+Tuesday 31 October 2023,15:30,Clear,13°,2,72%,1017 hPa
+Tuesday 31 October 2023,16:00,Clear,13°,Calm,67%,1017 hPa
+Tuesday 31 October 2023,16:30,Clear,13°,4,72%,1017 hPa
+Tuesday 31 October 2023,17:00,Clear,13°,6,72%,1017 hPa
+Tuesday 31 October 2023,17:30,Clear,13°,4,72%,1017 hPa
+Tuesday 31 October 2023,18:00,Clear,12°,4,76%,1016 hPa
+Tuesday 31 October 2023,18:30,Clear,11°,Calm,82%,1016 hPa
+Tuesday 31 October 2023,19:00,Clear,11°,Calm,82%,1016 hPa
+Tuesday 31 October 2023,19:30,Clear,12°,6,76%,1016 hPa
+Tuesday 31 October 2023,20:00,Clear,9°,Calm,87%,1016 hPa
+Tuesday 31 October 2023,20:30,Clear,9°,2,87%,1016 hPa
+Tuesday 31 October 2023,21:00,Clear,8°,Calm,93%,1017 hPa
+Tuesday 31 October 2023,21:30,Clear,8°,Calm,93%,1017 hPa
+Tuesday 31 October 2023,22:00,Clear,8°,Calm,93%,1017 hPa
+Tuesday 31 October 2023,22:30,Fair,8°,Calm,93%,1017 hPa
+Tuesday 31 October 2023,23:00,Fair,8°,2,87%,1017 hPa
+Tuesday 31 October 2023,23:30,Fair,8°,6,93%,1017 hPa

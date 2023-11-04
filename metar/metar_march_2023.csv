@@ -1,0 +1,1500 @@
+Day,Hour,Condition,Temperature,Wind,Relative_hum,Pressure
+Wednesday 1 March 2023,00:00,Fair,1°,13,51%,1020 hPa
+Wednesday 1 March 2023,00:30,Clear,0°,7,55%,1020 hPa
+Wednesday 1 March 2023,01:00,Clear,0°,4,55%,1019 hPa
+Wednesday 1 March 2023,01:30,Clear,-1°,6,54%,1019 hPa
+Wednesday 1 March 2023,02:00,Clear,-1°,6,54%,1019 hPa
+Wednesday 1 March 2023,02:30,Clear,-2°,2,59%,1019 hPa
+Wednesday 1 March 2023,03:00,Clear,-2°,4,63%,1019 hPa
+Wednesday 1 March 2023,03:30,Clear,-1°,7,59%,1019 hPa
+Wednesday 1 March 2023,04:00,Clear,-1°,9,59%,1019 hPa
+Wednesday 1 March 2023,04:30,Clear,-1°,6,54%,1018 hPa
+Wednesday 1 March 2023,05:00,Clear,-3°,6,63%,1018 hPa
+Wednesday 1 March 2023,05:30,Fair,-2°,4,59%,1018 hPa
+Wednesday 1 March 2023,06:00,Partly Cloudy,-2°,2,63%,1018 hPa
+Wednesday 1 March 2023,06:30,Fair,-3°,4,63%,1018 hPa
+Wednesday 1 March 2023,07:00,Fair,-3°,4,63%,1017 hPa
+Wednesday 1 March 2023,07:30,Fair,-4°,7,68%,1017 hPa
+Wednesday 1 March 2023,08:00,Fair,-5°,9,73%,1017 hPa
+Wednesday 1 March 2023,08:30,Fair,-3°,6,68%,1018 hPa
+Wednesday 1 March 2023,09:00,Fair,-2°,2,63%,1018 hPa
+Wednesday 1 March 2023,09:30,Fair,0°,Calm,55%,1018 hPa
+Wednesday 1 March 2023,10:00,Fair,0°,Calm,55%,1018 hPa
+Wednesday 1 March 2023,10:30,Partly Cloudy,2°,2,51%,1018 hPa
+Wednesday 1 March 2023,11:00,Mostly Cloudy,2°,2,47%,1018 hPa
+Wednesday 1 March 2023,11:30,Partly Cloudy,3°,4,44%,1018 hPa
+Wednesday 1 March 2023,12:00,Mostly Cloudy,3°,4,48%,1018 hPa
+Wednesday 1 March 2023,12:30,Mostly Cloudy,4°,9,44%,1018 hPa
+Wednesday 1 March 2023,13:00,Mostly Cloudy,4°,7,44%,1017 hPa
+Wednesday 1 March 2023,13:30,Mostly Cloudy,4°,6,44%,1017 hPa
+Wednesday 1 March 2023,14:00,Mostly Cloudy,4°,4,41%,1016 hPa
+Wednesday 1 March 2023,14:30,Mostly Cloudy,4°,4,38%,1016 hPa
+Wednesday 1 March 2023,15:00,Mostly Cloudy,5°,4,38%,1016 hPa
+Wednesday 1 March 2023,15:30,Partly Cloudy,6°,4,39%,1015 hPa
+Wednesday 1 March 2023,16:00,Partly Cloudy,6°,6,36%,1015 hPa
+Wednesday 1 March 2023,16:30,Partly Cloudy,6°,6,36%,1015 hPa
+Wednesday 1 March 2023,17:00,Partly Cloudy,6°,7,36%,1015 hPa
+Wednesday 1 March 2023,17:30,Mostly Cloudy,8°,6,31%,1014 hPa
+Wednesday 1 March 2023,18:00,Mostly Cloudy,6°,24,36%,1014 hPa
+Wednesday 1 March 2023,18:30,Fair,6°,19,36%,1015 hPa
+Wednesday 1 March 2023,19:00,Fair,5°,19,41%,1015 hPa
+Wednesday 1 March 2023,19:30,Fair,5°,13,45%,1015 hPa
+Wednesday 1 March 2023,20:00,Fair,4°,9,48%,1016 hPa
+Wednesday 1 March 2023,20:30,Fair,3°,6,51%,1016 hPa
+Wednesday 1 March 2023,21:00,Clear,2°,7,55%,1016 hPa
+Wednesday 1 March 2023,21:30,Clear,2°,7,51%,1016 hPa
+Wednesday 1 March 2023,22:00,Clear,2°,9,51%,1016 hPa
+Wednesday 1 March 2023,22:30,Clear,1°,6,55%,1016 hPa
+Wednesday 1 March 2023,23:00,Clear,1°,9,55%,1016 hPa
+Wednesday 1 March 2023,23:30,Clear,0°,Calm,59%,1016 hPa
+Thursday 2 March 2023,00:00,Clear,-2°,4,69%,1016 hPa
+Thursday 2 March 2023,00:30,Clear,1°,4,55%,1016 hPa
+Thursday 2 March 2023,01:00,Clear,-2°,Calm,63%,1016 hPa
+Thursday 2 March 2023,01:30,Clear,-2°,2,69%,1015 hPa
+Thursday 2 March 2023,02:00,Clear,-2°,Calm,69%,1015 hPa
+Thursday 2 March 2023,02:30,Clear,-2°,Calm,69%,1015 hPa
+Thursday 2 March 2023,03:00,Clear,-3°,2,68%,1015 hPa
+Thursday 2 March 2023,03:30,Clear,-3°,2,74%,1015 hPa
+Thursday 2 March 2023,04:00,Clear,-4°,Calm,74%,1015 hPa
+Thursday 2 March 2023,04:30,Clear,-4°,2,74%,1015 hPa
+Thursday 2 March 2023,05:00,Clear,-4°,2,74%,1015 hPa
+Thursday 2 March 2023,05:30,Clear,-4°,2,74%,1015 hPa
+Thursday 2 March 2023,06:00,Clear,-5°,2,79%,1015 hPa
+Thursday 2 March 2023,06:30,Clear,-5°,Calm,79%,1016 hPa
+Thursday 2 March 2023,07:00,Clear,-5°,2,79%,1016 hPa
+Thursday 2 March 2023,07:30,Clear,-5°,4,86%,1017 hPa
+Thursday 2 March 2023,08:00,Clear,-4°,4,80%,1017 hPa
+Thursday 2 March 2023,08:30,Clear,-3°,4,74%,1017 hPa
+Thursday 2 March 2023,09:00,Clear,-1°,2,69%,1018 hPa
+Thursday 2 March 2023,09:30,Clear,0°,4,64%,1018 hPa
+Thursday 2 March 2023,10:00,Clear,1°,4,59%,1019 hPa
+Thursday 2 March 2023,10:30,Clear,3°,4,51%,1019 hPa
+Thursday 2 March 2023,11:00,Clear,4°,4,48%,1019 hPa
+Thursday 2 March 2023,11:30,Clear,4°,7,48%,1019 hPa
+Thursday 2 March 2023,12:00,Clear,5°,4,45%,1019 hPa
+Thursday 2 March 2023,12:30,Clear,6°,7,42%,1019 hPa
+Thursday 2 March 2023,13:00,Clear,6°,6,42%,1019 hPa
+Thursday 2 March 2023,13:30,Clear,8°,4,36%,1018 hPa
+Thursday 2 March 2023,14:00,Clear,8°,6,36%,1018 hPa
+Thursday 2 March 2023,14:30,Clear,8°,4,34%,1018 hPa
+Thursday 2 March 2023,15:00,Clear,9°,2,31%,1018 hPa
+Thursday 2 March 2023,15:30,Clear,9°,6,34%,1017 hPa
+Thursday 2 March 2023,16:00,Clear,10°,4,32%,1017 hPa
+Thursday 2 March 2023,16:30,Clear,10°,6,34%,1017 hPa
+Thursday 2 March 2023,17:00,Clear,11°,7,35%,1017 hPa
+Thursday 2 March 2023,17:30,Clear,11°,4,32%,1017 hPa
+Thursday 2 March 2023,18:00,Clear,10°,6,34%,1017 hPa
+Thursday 2 March 2023,18:30,Clear,10°,4,34%,1018 hPa
+Thursday 2 March 2023,19:00,Clear,8°,4,42%,1018 hPa
+Thursday 2 March 2023,19:30,Clear,8°,6,42%,1018 hPa
+Thursday 2 March 2023,20:00,Clear,5°,4,52%,1019 hPa
+Thursday 2 March 2023,20:30,Clear,6°,7,49%,1019 hPa
+Thursday 2 March 2023,21:00,Clear,6°,11,52%,1019 hPa
+Thursday 2 March 2023,21:30,Clear,6°,13,52%,1020 hPa
+Thursday 2 March 2023,22:00,Clear,6°,13,52%,1020 hPa
+Thursday 2 March 2023,22:30,Clear,6°,11,52%,1020 hPa
+Thursday 2 March 2023,23:00,Clear,4°,6,56%,1020 hPa
+Thursday 2 March 2023,23:30,Clear,3°,Calm,60%,1020 hPa
+Friday 3 March 2023,00:00,Clear,3°,7,60%,1020 hPa
+Friday 3 March 2023,00:30,Clear,2°,4,64%,1020 hPa
+Friday 3 March 2023,01:00,Clear,3°,2,60%,1020 hPa
+Friday 3 March 2023,01:30,Clear,2°,2,64%,1020 hPa
+Friday 3 March 2023,02:00,Clear,1°,Calm,69%,1020 hPa
+Friday 3 March 2023,02:30,Clear,1°,4,69%,1020 hPa
+Friday 3 March 2023,03:00,Clear,-1°,7,74%,1020 hPa
+Friday 3 March 2023,03:30,Clear,-1°,4,74%,1019 hPa
+Friday 3 March 2023,04:00,Clear,-2°,2,80%,1019 hPa
+Friday 3 March 2023,04:30,Clear,-1°,6,74%,1019 hPa
+Friday 3 March 2023,05:00,Clear,-2°,6,80%,1019 hPa
+Friday 3 March 2023,05:30,Clear,-3°,2,80%,1019 hPa
+Friday 3 March 2023,06:00,Clear,-3°,Calm,80%,1019 hPa
+Friday 3 March 2023,06:30,Clear,-3°,6,80%,1019 hPa
+Friday 3 March 2023,07:00,Clear,-4°,Calm,86%,1019 hPa
+Friday 3 March 2023,07:30,Clear,-4°,Calm,86%,1019 hPa
+Friday 3 March 2023,08:00,Clear,-3°,2,80%,1019 hPa
+Friday 3 March 2023,08:30,Clear,-3°,2,80%,1020 hPa
+Friday 3 March 2023,09:00,Clear,0°,Calm,69%,1020 hPa
+Friday 3 March 2023,09:30,Clear,1°,4,69%,1020 hPa
+Friday 3 March 2023,10:00,Clear,2°,4,64%,1020 hPa
+Friday 3 March 2023,10:30,Clear,6°,2,52%,1020 hPa
+Friday 3 March 2023,11:00,Clear,6°,4,56%,1020 hPa
+Friday 3 March 2023,11:30,Clear,7°,2,57%,1020 hPa
+Friday 3 March 2023,12:00,Clear,9°,2,46%,1020 hPa
+Friday 3 March 2023,12:30,Clear,8°,4,46%,1020 hPa
+Friday 3 March 2023,13:00,Clear,9°,7,46%,1019 hPa
+Friday 3 March 2023,13:30,Clear,10°,7,43%,1019 hPa
+Friday 3 March 2023,14:00,Clear,11°,7,37%,1018 hPa
+Friday 3 March 2023,14:30,Clear,11°,7,35%,1018 hPa
+Friday 3 March 2023,15:00,Clear,11°,7,37%,1018 hPa
+Friday 3 March 2023,15:30,Clear,11°,7,35%,1017 hPa
+Friday 3 March 2023,16:00,Fair,12°,4,30%,1017 hPa
+Friday 3 March 2023,16:30,Clear,13°,7,33%,1017 hPa
+Friday 3 March 2023,17:00,Clear,13°,4,30%,1017 hPa
+Friday 3 March 2023,17:30,Clear,13°,2,30%,1017 hPa
+Friday 3 March 2023,18:00,Clear,13°,Calm,28%,1017 hPa
+Friday 3 March 2023,18:30,Clear,12°,7,32%,1017 hPa
+Friday 3 March 2023,19:00,Clear,11°,6,35%,1018 hPa
+Friday 3 March 2023,19:30,Clear,10°,9,37%,1018 hPa
+Friday 3 March 2023,20:00,Clear,9°,13,40%,1018 hPa
+Friday 3 March 2023,20:30,Clear,8°,7,46%,1019 hPa
+Friday 3 March 2023,21:00,Clear,8°,7,46%,1019 hPa
+Friday 3 March 2023,21:30,Clear,7°,6,49%,1020 hPa
+Friday 3 March 2023,22:00,Clear,7°,6,49%,1020 hPa
+Friday 3 March 2023,22:30,Clear,6°,7,52%,1020 hPa
+Friday 3 March 2023,23:00,Clear,5°,7,56%,1020 hPa
+Friday 3 March 2023,23:30,Clear,5°,7,56%,1020 hPa
+Saturday 4 March 2023,00:00,Clear,4°,7,60%,1021 hPa
+Saturday 4 March 2023,00:30,Clear,4°,6,60%,1021 hPa
+Saturday 4 March 2023,01:00,Clear,3°,4,65%,1021 hPa
+Saturday 4 March 2023,01:30,Clear,3°,6,65%,1021 hPa
+Saturday 4 March 2023,02:00,Clear,3°,6,65%,1021 hPa
+Saturday 4 March 2023,02:30,Clear,2°,4,69%,1021 hPa
+Saturday 4 March 2023,03:00,Clear,1°,7,75%,1021 hPa
+Saturday 4 March 2023,03:30,Clear,1°,6,75%,1021 hPa
+Saturday 4 March 2023,04:00,Clear,0°,4,74%,1021 hPa
+Saturday 4 March 2023,04:30,Clear,-1°,6,80%,1021 hPa
+Saturday 4 March 2023,05:00,Clear,-1°,6,80%,1021 hPa
+Saturday 4 March 2023,05:30,Clear,-2°,4,86%,1021 hPa
+Saturday 4 March 2023,06:00,Clear,-2°,6,86%,1021 hPa
+Saturday 4 March 2023,06:30,Clear,-2°,13,86%,1021 hPa
+Saturday 4 March 2023,07:00,Clear,-2°,7,86%,1021 hPa
+Saturday 4 March 2023,07:30,Clear,-2°,6,80%,1021 hPa
+Saturday 4 March 2023,08:00,Clear,-3°,6,86%,1021 hPa
+Saturday 4 March 2023,08:30,Clear,-2°,6,80%,1022 hPa
+Saturday 4 March 2023,09:00,Clear,-1°,9,80%,1022 hPa
+Saturday 4 March 2023,09:30,Clear,0°,6,80%,1022 hPa
+Saturday 4 March 2023,10:00,Clear,2°,4,69%,1022 hPa
+Saturday 4 March 2023,10:30,Clear,4°,2,65%,1022 hPa
+Saturday 4 March 2023,11:00,Clear,6°,4,61%,1022 hPa
+Saturday 4 March 2023,11:30,Clear,7°,4,57%,1022 hPa
+Saturday 4 March 2023,12:00,Clear,9°,4,49%,1021 hPa
+Saturday 4 March 2023,12:30,Clear,10°,4,46%,1021 hPa
+Saturday 4 March 2023,13:00,Clear,10°,7,46%,1021 hPa
+Saturday 4 March 2023,13:30,Clear,11°,4,40%,1021 hPa
+Saturday 4 March 2023,14:00,Clear,10°,9,43%,1020 hPa
+Saturday 4 March 2023,14:30,Clear,11°,4,40%,1020 hPa
+Saturday 4 March 2023,15:00,Clear,12°,4,40%,1019 hPa
+Saturday 4 March 2023,15:30,Clear,12°,4,40%,1019 hPa
+Saturday 4 March 2023,16:00,Clear,13°,4,38%,1019 hPa
+Saturday 4 March 2023,16:30,Clear,12°,4,38%,1018 hPa
+Saturday 4 March 2023,17:00,Clear,12°,6,35%,1018 hPa
+Saturday 4 March 2023,17:30,Clear,13°,Calm,33%,1018 hPa
+Saturday 4 March 2023,18:00,Clear,12°,4,40%,1018 hPa
+Saturday 4 March 2023,18:30,Clear,12°,7,38%,1018 hPa
+Saturday 4 March 2023,19:00,Clear,11°,4,37%,1018 hPa
+Saturday 4 March 2023,19:30,Clear,10°,6,43%,1018 hPa
+Saturday 4 March 2023,20:00,Clear,10°,6,40%,1018 hPa
+Saturday 4 March 2023,20:30,Clear,9°,4,43%,1019 hPa
+Saturday 4 March 2023,21:00,Clear,7°,Calm,49%,1019 hPa
+Saturday 4 March 2023,21:30,Clear,8°,6,46%,1019 hPa
+Saturday 4 March 2023,22:00,Clear,7°,2,49%,1019 hPa
+Saturday 4 March 2023,22:30,Clear,5°,4,56%,1019 hPa
+Saturday 4 March 2023,23:00,Clear,4°,6,60%,1019 hPa
+Saturday 4 March 2023,23:30,Clear,3°,6,65%,1019 hPa
+Sunday 5 March 2023,00:00,Clear,3°,7,65%,1019 hPa
+Sunday 5 March 2023,00:30,Clear,2°,6,69%,1019 hPa
+Sunday 5 March 2023,01:00,Clear,2°,6,69%,1019 hPa
+Sunday 5 March 2023,01:30,Clear,1°,4,75%,1019 hPa
+Sunday 5 March 2023,02:00,Clear,1°,6,75%,1019 hPa
+Sunday 5 March 2023,02:30,Clear,0°,6,80%,1019 hPa
+Sunday 5 March 2023,03:00,Clear,0°,6,80%,1019 hPa
+Sunday 5 March 2023,03:30,Clear,0°,6,74%,1019 hPa
+Sunday 5 March 2023,04:00,Clear,-1°,6,80%,1018 hPa
+Sunday 5 March 2023,04:30,Clear,-1°,4,80%,1018 hPa
+Sunday 5 March 2023,05:00,Clear,-2°,4,86%,1018 hPa
+Sunday 5 March 2023,05:30,Clear,-2°,6,86%,1018 hPa
+Sunday 5 March 2023,06:00,Clear,-2°,4,86%,1018 hPa
+Sunday 5 March 2023,06:30,Clear,-2°,6,80%,1018 hPa
+Sunday 5 March 2023,07:00,Clear,-3°,4,86%,1018 hPa
+Sunday 5 March 2023,07:30,Clear,-3°,4,86%,1018 hPa
+Sunday 5 March 2023,08:00,Clear,-2°,6,80%,1018 hPa
+Sunday 5 March 2023,08:30,Clear,-1°,4,80%,1018 hPa
+Sunday 5 March 2023,09:00,Clear,0°,4,74%,1018 hPa
+Sunday 5 March 2023,09:30,Clear,1°,2,75%,1018 hPa
+Sunday 5 March 2023,10:00,Clear,2°,6,69%,1018 hPa
+Sunday 5 March 2023,10:30,Fair,3°,6,70%,1018 hPa
+Sunday 5 March 2023,11:00,Fair,4°,6,70%,1018 hPa
+Sunday 5 March 2023,11:30,Partly Cloudy,6°,7,56%,1018 hPa
+Sunday 5 March 2023,12:00,Mostly Cloudy,7°,6,57%,1017 hPa
+Sunday 5 March 2023,12:30,Mostly Cloudy,8°,4,53%,1017 hPa
+Sunday 5 March 2023,13:00,Mostly Cloudy,9°,6,49%,1017 hPa
+Sunday 5 March 2023,13:30,Mostly Cloudy,9°,2,46%,1016 hPa
+Sunday 5 March 2023,14:00,Mostly Cloudy,10°,2,46%,1016 hPa
+Sunday 5 March 2023,14:30,Partly Cloudy,11°,2,47%,1015 hPa
+Sunday 5 March 2023,15:00,Partly Cloudy,11°,2,47%,1015 hPa
+Sunday 5 March 2023,15:30,Mostly Cloudy,10°,15,57%,1015 hPa
+Sunday 5 March 2023,16:00,Light Rain,9°,11,61%,1014 hPa
+Sunday 5 March 2023,16:30,Light Rain,8°,4,71%,1014 hPa
+Sunday 5 March 2023,17:00,Light Rain,7°,2,81%,1014 hPa
+Sunday 5 March 2023,17:30,Light Rain,7°,11,76%,1014 hPa
+Sunday 5 March 2023,18:00,Drizzle,6°,4,87%,1014 hPa
+Sunday 5 March 2023,18:30,Drizzle,7°,6,81%,1014 hPa
+Sunday 5 March 2023,19:00,Cloudy,7°,9,81%,1014 hPa
+Sunday 5 March 2023,19:30,Cloudy,7°,7,81%,1014 hPa
+Sunday 5 March 2023,20:00,Cloudy,6°,7,87%,1014 hPa
+Sunday 5 March 2023,20:30,Cloudy,6°,11,87%,1014 hPa
+Sunday 5 March 2023,21:00,Drizzle,6°,11,87%,1014 hPa
+Sunday 5 March 2023,21:15,Drizzle,6°,9,87%,1014 hPa
+Sunday 5 March 2023,21:30,Drizzle,6°,9,87%,1014 hPa
+Sunday 5 March 2023,22:00,Light Rain,6°,7,93%,1013 hPa
+Sunday 5 March 2023,22:30,Mostly Cloudy,5°,7,100%,1013 hPa
+Sunday 5 March 2023,23:00,Drizzle,5°,7,93%,1013 hPa
+Sunday 5 March 2023,23:30,Mostly Cloudy,5°,6,100%,1013 hPa
+Monday 6 March 2023,00:00,Mist,5°,2,93%,1013 hPa
+Monday 6 March 2023,00:30,Mist,5°,2,93%,1013 hPa
+Monday 6 March 2023,01:00,Mist,5°,6,93%,1013 hPa
+Monday 6 March 2023,01:30,Mist,5°,7,100%,1013 hPa
+Monday 6 March 2023,02:00,Mist,5°,7,100%,1013 hPa
+Monday 6 March 2023,02:30,Cloudy,5°,7,93%,1013 hPa
+Monday 6 March 2023,03:00,Mist,5°,11,93%,1012 hPa
+Monday 6 March 2023,03:30,Mist,5°,7,100%,1012 hPa
+Monday 6 March 2023,04:00,Mist,5°,7,100%,1012 hPa
+Monday 6 March 2023,04:30,Mist,5°,7,93%,1012 hPa
+Monday 6 March 2023,05:00,Mist,5°,9,93%,1012 hPa
+Monday 6 March 2023,05:30,Mist,5°,9,93%,1012 hPa
+Monday 6 March 2023,06:00,Mist,5°,9,93%,1012 hPa
+Monday 6 March 2023,06:30,Mist,5°,6,93%,1012 hPa
+Monday 6 March 2023,07:00,Mist,5°,9,93%,1012 hPa
+Monday 6 March 2023,07:30,Mist,5°,2,93%,1012 hPa
+Monday 6 March 2023,08:00,Mist,5°,4,93%,1012 hPa
+Monday 6 March 2023,08:30,Mist,5°,4,100%,1013 hPa
+Monday 6 March 2023,09:00,Cloudy,5°,Calm,100%,1013 hPa
+Monday 6 March 2023,09:30,Cloudy,7°,4,87%,1013 hPa
+Monday 6 March 2023,10:00,Mostly Cloudy,7°,11,87%,1013 hPa
+Monday 6 March 2023,10:30,Mostly Cloudy,8°,9,81%,1013 hPa
+Monday 6 March 2023,11:00,Mostly Cloudy,9°,13,76%,1013 hPa
+Monday 6 March 2023,11:30,Mostly Cloudy,9°,11,81%,1013 hPa
+Monday 6 March 2023,12:00,Partly Cloudy,11°,11,71%,1013 hPa
+Monday 6 March 2023,12:30,Partly Cloudy,12°,13,71%,1013 hPa
+Monday 6 March 2023,13:00,Partly Cloudy,13°,13,67%,1013 hPa
+Monday 6 March 2023,13:30,Partly Cloudy,12°,17,>,46 67% 1012 hPa
+Monday 6 March 2023,14:00,Partly Cloudy,13°,20,>,50 62% 1012 hPa
+Monday 6 March 2023,14:30,Partly Cloudy,13°,17,62%,1012 hPa
+Monday 6 March 2023,15:00,Mostly Cloudy,13°,19,62%,1012 hPa
+Monday 6 March 2023,15:30,Mostly Cloudy,14°,19,>,37 58% 1011 hPa
+Monday 6 March 2023,16:00,Partly Cloudy,15°,20,55%,1011 hPa
+Monday 6 March 2023,16:30,Mostly Cloudy,15°,20,>,39 55% 1011 hPa
+Monday 6 March 2023,17:00,Mostly Cloudy,14°,19,55%,1011 hPa
+Monday 6 March 2023,17:30,Partly Cloudy,14°,17,58%,1011 hPa
+Monday 6 March 2023,18:00,Partly Cloudy,13°,20,62%,1011 hPa
+Monday 6 March 2023,18:30,Partly Cloudy,13°,20,58%,1010 hPa
+Monday 6 March 2023,19:00,Partly Cloudy,13°,22,58%,1011 hPa
+Monday 6 March 2023,19:30,Mostly Cloudy,12°,26,67%,1011 hPa
+Monday 6 March 2023,20:00,Mostly Cloudy,12°,17,>,37 67% 1011 hPa
+Monday 6 March 2023,20:30,Mostly Cloudy,12°,19,>,39 67% 1011 hPa
+Monday 6 March 2023,21:00,Partly Cloudy,12°,20,67%,1011 hPa
+Monday 6 March 2023,21:30,Mostly Cloudy,12°,15,67%,1011 hPa
+Monday 6 March 2023,22:00,Mostly Cloudy,12°,13,67%,1011 hPa
+Monday 6 March 2023,22:30,Mostly Cloudy,11°,11,76%,1011 hPa
+Monday 6 March 2023,23:00,Mostly Cloudy,11°,7,76%,1011 hPa
+Monday 6 March 2023,23:30,Light Rain,10°,4,82%,1011 hPa
+Monday 6 March 2023,23:48,Drizzle,10°,4,82%,1011 hPa
+Tuesday 7 March 2023,00:00,Drizzle,11°,7,82%,1011 hPa
+Tuesday 7 March 2023,00:30,Drizzle,10°,4,87%,1011 hPa
+Tuesday 7 March 2023,01:00,Mostly Cloudy,9°,4,93%,1010 hPa
+Tuesday 7 March 2023,01:30,Mostly Cloudy,9°,7,87%,1010 hPa
+Tuesday 7 March 2023,02:00,Light Rain,9°,7,93%,1010 hPa
+Tuesday 7 March 2023,02:30,Mostly Cloudy,9°,7,93%,1010 hPa
+Tuesday 7 March 2023,03:00,Cloudy,9°,9,93%,1009 hPa
+Tuesday 7 March 2023,03:30,Cloudy,9°,9,93%,1009 hPa
+Tuesday 7 March 2023,04:00,Drizzle,9°,7,93%,1009 hPa
+Tuesday 7 March 2023,04:11,Drizzle,9°,7,93%,1009 hPa
+Tuesday 7 March 2023,04:18,Drizzle,9°,6,93%,1009 hPa
+Tuesday 7 March 2023,04:30,Mist,9°,6,93%,1009 hPa
+Tuesday 7 March 2023,05:00,Mist,9°,7,93%,1009 hPa
+Tuesday 7 March 2023,05:30,Mist,9°,7,100%,1009 hPa
+Tuesday 7 March 2023,05:50,Mist,9°,7,100%,1009 hPa
+Tuesday 7 March 2023,06:00,Mostly Cloudy,9°,7,100%,1009 hPa
+Tuesday 7 March 2023,06:30,Mostly Cloudy,10°,11,93%,1009 hPa
+Tuesday 7 March 2023,07:00,Mostly Cloudy,10°,15,87%,1009 hPa
+Tuesday 7 March 2023,07:30,Mostly Cloudy,10°,19,87%,1009 hPa
+Tuesday 7 March 2023,08:00,Mostly Cloudy,10°,15,87%,1009 hPa
+Tuesday 7 March 2023,08:30,Mostly Cloudy,10°,22,87%,1009 hPa
+Tuesday 7 March 2023,09:00,Partly Cloudy,10°,32,87%,1010 hPa
+Tuesday 7 March 2023,09:30,Partly Cloudy,11°,24,82%,1010 hPa
+Tuesday 7 March 2023,10:00,Fair,11°,30,82%,1011 hPa
+Tuesday 7 March 2023,10:30,Fair,11°,28,82%,1011 hPa
+Tuesday 7 March 2023,11:00,Fair,11°,28,76%,1011 hPa
+Tuesday 7 March 2023,11:30,Fair,12°,28,>,50 71% 1011 hPa
+Tuesday 7 March 2023,12:00,Fair,12°,26,>,44 71% 1012 hPa
+Tuesday 7 March 2023,12:30,Fair,13°,26,67%,1012 hPa
+Tuesday 7 March 2023,13:00,Fair,14°,22,>,43 63% 1012 hPa
+Tuesday 7 March 2023,13:30,Fair,14°,22,>,44 58% 1012 hPa
+Tuesday 7 March 2023,14:00,Fair,14°,22,63%,1011 hPa
+Tuesday 7 March 2023,14:30,Fair,15°,20,55%,1011 hPa
+Tuesday 7 March 2023,15:00,Fair,15°,20,51%,1011 hPa
+Tuesday 7 March 2023,15:30,Partly Cloudy,16°,20,48%,1011 hPa
+Tuesday 7 March 2023,16:00,Partly Cloudy,16°,22,51%,1011 hPa
+Tuesday 7 March 2023,16:30,Partly Cloudy,15°,22,>,41 55% 1011 hPa
+Tuesday 7 March 2023,17:00,Mostly Cloudy,15°,20,>,41 55% 1011 hPa
+Tuesday 7 March 2023,18:00,Mostly Cloudy,15°,22,55%,1011 hPa
+Tuesday 7 March 2023,18:30,Mostly Cloudy,15°,22,55%,1011 hPa
+Tuesday 7 March 2023,19:00,Mostly Cloudy,14°,26,63%,1012 hPa
+Tuesday 7 March 2023,19:30,Mostly Cloudy,13°,22,>,43 67% 1012 hPa
+Tuesday 7 March 2023,20:00,Partly Cloudy,13°,22,67%,1012 hPa
+Tuesday 7 March 2023,20:30,Partly Cloudy,13°,17,>,39 67% 1012 hPa
+Tuesday 7 March 2023,21:00,Fair,13°,20,67%,1013 hPa
+Tuesday 7 March 2023,21:30,Fair,13°,20,67%,1013 hPa
+Tuesday 7 March 2023,22:00,Cloudy,13°,22,62%,1013 hPa
+Tuesday 7 March 2023,22:30,Mostly Cloudy,12°,22,67%,1013 hPa
+Tuesday 7 March 2023,23:00,Fair,12°,19,67%,1013 hPa
+Tuesday 7 March 2023,23:30,Fair,12°,15,67%,1013 hPa
+Wednesday 8 March 2023,00:00,Partly Cloudy,12°,13,67%,1014 hPa
+Wednesday 8 March 2023,00:30,Fair,10°,11,76%,1013 hPa
+Wednesday 8 March 2023,01:00,Fair,10°,13,76%,1013 hPa
+Wednesday 8 March 2023,01:30,Fair,10°,13,76%,1013 hPa
+Wednesday 8 March 2023,02:00,Fair,8°,9,87%,1013 hPa
+Wednesday 8 March 2023,02:30,Fair,9°,6,81%,1013 hPa
+Wednesday 8 March 2023,03:00,Fair,8°,Calm,87%,1013 hPa
+Wednesday 8 March 2023,03:30,Mostly Cloudy,11°,6,82%,1013 hPa
+Wednesday 8 March 2023,04:00,Cloudy,11°,15,82%,1013 hPa
+Wednesday 8 March 2023,04:30,Cloudy,11°,11,87%,1012 hPa
+Wednesday 8 March 2023,05:00,Drizzle,11°,11,87%,1012 hPa
+Wednesday 8 March 2023,05:04,Drizzle,10°,11,93%,1012 hPa
+Wednesday 8 March 2023,05:30,Drizzle,10°,9,93%,1012 hPa
+Wednesday 8 March 2023,06:00,Drizzle,10°,11,93%,1012 hPa
+Wednesday 8 March 2023,06:04,Drizzle,10°,7,93%,1012 hPa
+Wednesday 8 March 2023,06:30,Drizzle,10°,6,93%,1012 hPa
+Wednesday 8 March 2023,07:00,Drizzle,10°,4,93%,1012 hPa
+Wednesday 8 March 2023,07:30,Drizzle,10°,7,100%,1012 hPa
+Wednesday 8 March 2023,08:00,Drizzle,10°,6,100%,1012 hPa
+Wednesday 8 March 2023,08:30,Mist,11°,11,94%,1013 hPa
+Wednesday 8 March 2023,09:00,Mist,11°,13,94%,1013 hPa
+Wednesday 8 March 2023,09:30,Cloudy,12°,11,94%,1013 hPa
+Wednesday 8 March 2023,10:00,Cloudy,13°,11,88%,1013 hPa
+Wednesday 8 March 2023,10:30,Cloudy,14°,20,>,44 82% 1013 hPa
+Wednesday 8 March 2023,11:00,Cloudy,14°,20,>,44 82% 1013 hPa
+Wednesday 8 March 2023,11:30,Cloudy,15°,20,>,44 77% 1013 hPa
+Wednesday 8 March 2023,12:00,Cloudy,16°,30,72%,1013 hPa
+Wednesday 8 March 2023,12:30,Mostly Cloudy,16°,32,>,57 72% 1013 hPa
+Wednesday 8 March 2023,13:00,Mostly Cloudy,16°,28,>,59 68% 1013 hPa
+Wednesday 8 March 2023,13:30,Mostly Cloudy,17°,33,>,63 59% 1013 hPa
+Wednesday 8 March 2023,14:00,Mostly Cloudy,18°,33,>,52 56% 1012 hPa
+Wednesday 8 March 2023,14:30,Mostly Cloudy,17°,33,59%,1012 hPa
+Wednesday 8 March 2023,15:00,Mostly Cloudy,16°,35,>,56 63% 1012 hPa
+Wednesday 8 March 2023,15:30,Partly Cloudy,16°,35,63%,1012 hPa
+Wednesday 8 March 2023,16:00,Fair,16°,32,63%,1012 hPa
+Wednesday 8 March 2023,16:30,Fair,16°,33,>,57 63% 1012 hPa
+Wednesday 8 March 2023,17:00,Fair,17°,39,59%,1012 hPa
+Wednesday 8 March 2023,17:30,Fair,17°,33,59%,1012 hPa
+Wednesday 8 March 2023,18:00,Fair,16°,32,>,52 59% 1012 hPa
+Wednesday 8 March 2023,18:30,Fair,16°,26,63%,1012 hPa
+Wednesday 8 March 2023,19:00,Fair,16°,32,>,50 63% 1012 hPa
+Wednesday 8 March 2023,19:30,Clear,16°,28,>,48 63% 1012 hPa
+Wednesday 8 March 2023,20:00,Clear,15°,26,>,44 67% 1013 hPa
+Wednesday 8 March 2023,20:30,Clear,15°,22,67%,1013 hPa
+Wednesday 8 March 2023,21:00,Clear,15°,19,67%,1013 hPa
+Wednesday 8 March 2023,21:30,Clear,15°,19,67%,1014 hPa
+Wednesday 8 March 2023,22:00,Clear,14°,19,72%,1014 hPa
+Wednesday 8 March 2023,22:30,Fair,14°,15,77%,1014 hPa
+Wednesday 8 March 2023,23:00,Mostly Cloudy,14°,15,72%,1015 hPa
+Wednesday 8 March 2023,23:30,Mostly Cloudy,14°,13,72%,1014 hPa
+Thursday 9 March 2023,00:00,Mostly Cloudy,14°,13,77%,1015 hPa
+Thursday 9 March 2023,00:30,Mostly Cloudy,13°,9,82%,1014 hPa
+Thursday 9 March 2023,01:00,Mostly Cloudy,13°,9,82%,1014 hPa
+Thursday 9 March 2023,01:30,Mostly Cloudy,13°,6,82%,1014 hPa
+Thursday 9 March 2023,02:00,Mostly Cloudy,13°,7,82%,1014 hPa
+Thursday 9 March 2023,02:30,Mostly Cloudy,13°,9,82%,1014 hPa
+Thursday 9 March 2023,03:00,Mostly Cloudy,13°,7,82%,1014 hPa
+Thursday 9 March 2023,03:30,Mostly Cloudy,13°,6,82%,1013 hPa
+Thursday 9 March 2023,04:00,Rain,13°,6,88%,1013 hPa
+Thursday 9 March 2023,04:30,Light Rain,13°,13,82%,1013 hPa
+Thursday 9 March 2023,04:43,Rain,12°,17,94%,1013 hPa
+Thursday 9 March 2023,05:00,Rain,12°,15,94%,1013 hPa
+Thursday 9 March 2023,05:30,Rain,12°,13,94%,1013 hPa
+Thursday 9 March 2023,06:00,Rain,11°,2,100%,1013 hPa
+Thursday 9 March 2023,06:30,Rain,12°,9,94%,1013 hPa
+Thursday 9 March 2023,07:00,Rain,12°,17,94%,1013 hPa
+Thursday 9 March 2023,07:30,Rain,12°,9,94%,1013 hPa
+Thursday 9 March 2023,08:00,Light Rain,12°,7,94%,1013 hPa
+Thursday 9 March 2023,08:30,Mostly Cloudy,11°,6,94%,1013 hPa
+Thursday 9 March 2023,09:00,Mostly Cloudy,12°,11,94%,1013 hPa
+Thursday 9 March 2023,09:30,Mostly Cloudy,12°,9,94%,1014 hPa
+Thursday 9 March 2023,10:00,Mostly Cloudy,13°,13,88%,1014 hPa
+Thursday 9 March 2023,10:30,Mostly Cloudy,14°,17,88%,1014 hPa
+Thursday 9 March 2023,11:00,Partly Cloudy,14°,22,82%,1015 hPa
+Thursday 9 March 2023,11:30,Partly Cloudy,14°,26,>,50 77% 1015 hPa
+Thursday 9 March 2023,12:00,Partly Cloudy,16°,32,68%,1014 hPa
+Thursday 9 March 2023,12:30,Partly Cloudy,17°,33,>,54 68% 1014 hPa
+Thursday 9 March 2023,13:00,Partly Cloudy,17°,33,>,57 63% 1014 hPa
+Thursday 9 March 2023,13:30,Partly Cloudy,16°,28,63%,1014 hPa
+Thursday 9 March 2023,14:00,Partly Cloudy,17°,32,>,56 59% 1014 hPa
+Thursday 9 March 2023,14:30,Partly Cloudy,18°,43,52%,1013 hPa
+Thursday 9 March 2023,15:00,Partly Cloudy,18°,41,>,63 52% 1013 hPa
+Thursday 9 March 2023,15:30,Partly Cloudy,19°,43,>,61 49% 1012 hPa
+Thursday 9 March 2023,16:00,Partly Cloudy,19°,43,>,63 49% 1012 hPa
+Thursday 9 March 2023,16:30,Partly Cloudy,18°,39,>,57 52% 1013 hPa
+Thursday 9 March 2023,17:00,Partly Cloudy,17°,24,59%,1013 hPa
+Thursday 9 March 2023,17:30,Partly Cloudy,17°,22,59%,1013 hPa
+Thursday 9 March 2023,18:00,Partly Cloudy,16°,32,68%,1014 hPa
+Thursday 9 March 2023,18:30,Mostly Cloudy,17°,28,>,48 55% 1014 hPa
+Thursday 9 March 2023,19:00,Partly Cloudy,16°,19,51%,1014 hPa
+Thursday 9 March 2023,19:30,Partly Cloudy,16°,24,48%,1015 hPa
+Thursday 9 March 2023,20:00,Fair,15°,13,51%,1015 hPa
+Thursday 9 March 2023,20:30,Fair,15°,15,51%,1016 hPa
+Thursday 9 March 2023,21:00,Fair,14°,17,58%,1016 hPa
+Thursday 9 March 2023,21:30,Clear,14°,22,63%,1016 hPa
+Thursday 9 March 2023,22:00,Clear,14°,28,63%,1016 hPa
+Thursday 9 March 2023,22:30,Clear,14°,30,58%,1016 hPa
+Thursday 9 March 2023,23:00,Clear,13°,17,67%,1017 hPa
+Thursday 9 March 2023,23:30,Clear,13°,15,67%,1017 hPa
+Friday 10 March 2023,00:00,Clear,12°,13,76%,1017 hPa
+Friday 10 March 2023,00:30,Clear,12°,17,76%,1018 hPa
+Friday 10 March 2023,01:00,Clear,12°,15,76%,1018 hPa
+Friday 10 March 2023,01:30,Clear,12°,13,76%,1018 hPa
+Friday 10 March 2023,02:00,Clear,11°,9,76%,1019 hPa
+Friday 10 March 2023,02:30,Clear,12°,7,58%,1019 hPa
+Friday 10 March 2023,03:00,Clear,12°,19,58%,1019 hPa
+Friday 10 March 2023,03:30,Clear,12°,13,58%,1019 hPa
+Friday 10 March 2023,04:00,Clear,12°,20,58%,1019 hPa
+Friday 10 March 2023,04:30,Clear,11°,15,71%,1019 hPa
+Friday 10 March 2023,05:00,Clear,11°,33,71%,1019 hPa
+Friday 10 March 2023,05:30,Clear,11°,26,62%,1019 hPa
+Friday 10 March 2023,06:00,Clear,9°,11,81%,1019 hPa
+Friday 10 March 2023,06:30,Clear,10°,17,82%,1019 hPa
+Friday 10 March 2023,07:00,Clear,10°,28,71%,1020 hPa
+Friday 10 March 2023,07:30,Clear,11°,26,>,48 66% 1020 hPa
+Friday 10 March 2023,08:00,Clear,10°,9,71%,1020 hPa
+Friday 10 March 2023,08:30,Clear,11°,17,62%,1020 hPa
+Friday 10 March 2023,09:00,Clear,12°,17,62%,1020 hPa
+Friday 10 March 2023,09:30,Clear,13°,20,58%,1021 hPa
+Friday 10 March 2023,10:00,Clear,13°,26,58%,1021 hPa
+Friday 10 March 2023,10:30,Clear,14°,22,55%,1022 hPa
+Friday 10 March 2023,11:00,Clear,15°,28,51%,1022 hPa
+Friday 10 March 2023,11:30,Clear,16°,22,51%,1022 hPa
+Friday 10 March 2023,12:00,Clear,16°,19,51%,1022 hPa
+Friday 10 March 2023,12:30,Clear,17°,13,48%,1022 hPa
+Friday 10 March 2023,13:00,Clear,18°,15,45%,1022 hPa
+Friday 10 March 2023,13:30,Clear,18°,11,>,30 49% 1022 hPa
+Friday 10 March 2023,14:00,Clear,18°,19,49%,1022 hPa
+Friday 10 March 2023,14:30,Clear,18°,17,52%,1021 hPa
+Friday 10 March 2023,15:00,Clear,19°,24,49%,1021 hPa
+Friday 10 March 2023,15:30,Fair,19°,26,46%,1021 hPa
+Friday 10 March 2023,16:00,Fair,20°,22,>,41 43% 1021 hPa
+Friday 10 March 2023,16:30,Fair,20°,22,43%,1021 hPa
+Friday 10 March 2023,17:00,Fair,20°,15,>,50 43% 1021 hPa
+Friday 10 March 2023,17:30,Partly Cloudy,20°,15,>,37 43% 1021 hPa
+Friday 10 March 2023,18:00,Partly Cloudy,20°,11,49%,1021 hPa
+Friday 10 March 2023,18:30,Partly Cloudy,19°,11,49%,1021 hPa
+Friday 10 March 2023,19:00,Partly Cloudy,18°,13,56%,1022 hPa
+Friday 10 March 2023,19:30,Clear,17°,11,59%,1022 hPa
+Friday 10 March 2023,20:00,Clear,17°,13,59%,1022 hPa
+Friday 10 March 2023,20:30,Clear,16°,13,59%,1023 hPa
+Friday 10 March 2023,21:00,Clear,15°,15,67%,1023 hPa
+Friday 10 March 2023,21:30,Clear,15°,15,67%,1023 hPa
+Friday 10 March 2023,22:00,Clear,15°,13,67%,1023 hPa
+Friday 10 March 2023,22:30,Clear,14°,11,72%,1023 hPa
+Friday 10 March 2023,23:00,Clear,14°,13,77%,1023 hPa
+Friday 10 March 2023,23:30,Clear,13°,13,82%,1024 hPa
+Saturday 11 March 2023,00:00,Clear,13°,15,82%,1024 hPa
+Saturday 11 March 2023,00:30,Clear,13°,17,82%,1024 hPa
+Saturday 11 March 2023,01:00,Clear,12°,17,82%,1024 hPa
+Saturday 11 March 2023,01:30,Clear,12°,15,82%,1023 hPa
+Saturday 11 March 2023,02:00,Clear,12°,13,82%,1023 hPa
+Saturday 11 March 2023,02:30,Clear,12°,13,82%,1023 hPa
+Saturday 11 March 2023,03:00,Clear,12°,13,88%,1023 hPa
+Saturday 11 March 2023,03:30,Clear,12°,11,82%,1023 hPa
+Saturday 11 March 2023,04:00,Clear,10°,11,93%,1022 hPa
+Saturday 11 March 2023,04:30,Clear,10°,7,93%,1022 hPa
+Saturday 11 March 2023,05:00,Clear,10°,7,93%,1022 hPa
+Saturday 11 March 2023,05:30,Clear,10°,7,93%,1022 hPa
+Saturday 11 March 2023,06:00,Clear,10°,4,93%,1022 hPa
+Saturday 11 March 2023,06:30,Fair,9°,6,93%,1022 hPa
+Saturday 11 March 2023,07:00,Fair,9°,4,100%,1022 hPa
+Saturday 11 March 2023,07:30,Fair,10°,11,93%,1022 hPa
+Saturday 11 March 2023,08:00,Mist,9°,11,100%,1022 hPa
+Saturday 11 March 2023,08:22,Mist,10°,9,93%,1022 hPa
+Saturday 11 March 2023,08:30,Mist,10°,7,93%,1022 hPa
+Saturday 11 March 2023,08:48,Mist,10°,6,100%,1022 hPa
+Saturday 11 March 2023,09:00,Partly Cloudy,11°,11,94%,1022 hPa
+Saturday 11 March 2023,09:14,Mostly Cloudy,11°,9,94%,1022 hPa
+Saturday 11 March 2023,09:30,Mostly Cloudy,11°,9,94%,1023 hPa
+Saturday 11 March 2023,09:40,Fair,12°,11,94%,1023 hPa
+Saturday 11 March 2023,10:00,Fair,13°,15,88%,1023 hPa
+Saturday 11 March 2023,10:30,Fair,14°,13,82%,1023 hPa
+Saturday 11 March 2023,11:00,Fair,17°,24,59%,1023 hPa
+Saturday 11 March 2023,11:30,Fair,16°,24,72%,1022 hPa
+Saturday 11 March 2023,12:00,Fair,17°,26,63%,1022 hPa
+Saturday 11 March 2023,12:30,Fair,18°,22,64%,1022 hPa
+Saturday 11 March 2023,13:00,Fair,19°,15,>,33 56% 1022 hPa
+Saturday 11 March 2023,13:30,Partly Cloudy,19°,19,56%,1022 hPa
+Saturday 11 March 2023,14:00,Partly Cloudy,20°,17,46%,1021 hPa
+Saturday 11 March 2023,14:30,Partly Cloudy,20°,15,49%,1021 hPa
+Saturday 11 March 2023,15:00,Partly Cloudy,20°,15,56%,1021 hPa
+Saturday 11 March 2023,15:30,Fair,21°,15,43%,1020 hPa
+Saturday 11 March 2023,16:00,Fair,21°,22,46%,1020 hPa
+Saturday 11 March 2023,16:30,Fair,21°,24,46%,1020 hPa
+Saturday 11 March 2023,17:00,Fair,21°,28,46%,1020 hPa
+Saturday 11 March 2023,17:30,Fair,20°,26,49%,1021 hPa
+Saturday 11 March 2023,18:00,Clear,19°,22,52%,1021 hPa
+Saturday 11 March 2023,18:30,Clear,19°,26,52%,1021 hPa
+Saturday 11 March 2023,19:00,Clear,18°,26,56%,1021 hPa
+Saturday 11 March 2023,19:30,Clear,18°,20,56%,1021 hPa
+Saturday 11 March 2023,20:00,Clear,17°,20,59%,1022 hPa
+Saturday 11 March 2023,20:30,Clear,17°,17,59%,1022 hPa
+Saturday 11 March 2023,21:00,Clear,17°,19,63%,1022 hPa
+Saturday 11 March 2023,21:30,Clear,17°,20,63%,1022 hPa
+Saturday 11 March 2023,22:00,Clear,16°,19,68%,1022 hPa
+Saturday 11 March 2023,22:30,Clear,16°,20,68%,1022 hPa
+Saturday 11 March 2023,23:00,Clear,16°,19,63%,1023 hPa
+Saturday 11 March 2023,23:30,Clear,16°,17,63%,1023 hPa
+Sunday 12 March 2023,00:00,Clear,15°,15,67%,1023 hPa
+Sunday 12 March 2023,00:30,Clear,15°,15,67%,1023 hPa
+Sunday 12 March 2023,01:00,Clear,15°,17,67%,1023 hPa
+Sunday 12 March 2023,01:30,Clear,14°,15,72%,1022 hPa
+Sunday 12 March 2023,02:00,Clear,14°,13,72%,1023 hPa
+Sunday 12 March 2023,02:30,Clear,13°,9,77%,1023 hPa
+Sunday 12 March 2023,03:00,Clear,12°,4,76%,1023 hPa
+Sunday 12 March 2023,03:30,Clear,10°,4,87%,1023 hPa
+Sunday 12 March 2023,04:00,Clear,9°,2,87%,1023 hPa
+Sunday 12 March 2023,04:30,Clear,9°,2,87%,1022 hPa
+Sunday 12 March 2023,05:00,Clear,9°,4,87%,1023 hPa
+Sunday 12 March 2023,05:30,Clear,9°,2,93%,1023 hPa
+Sunday 12 March 2023,06:00,Clear,8°,7,93%,1023 hPa
+Sunday 12 March 2023,06:30,Clear,8°,Calm,93%,1023 hPa
+Sunday 12 March 2023,07:00,Clear,8°,Calm,93%,1023 hPa
+Sunday 12 March 2023,07:30,Clear,8°,Calm,93%,1023 hPa
+Sunday 12 March 2023,08:00,Clear,7°,4,100%,1023 hPa
+Sunday 12 March 2023,08:30,Clear,8°,6,93%,1023 hPa
+Sunday 12 March 2023,09:00,Clear,9°,Calm,93%,1023 hPa
+Sunday 12 March 2023,09:30,Clear,12°,Calm,76%,1024 hPa
+Sunday 12 March 2023,10:00,Clear,12°,4,82%,1024 hPa
+Sunday 12 March 2023,10:30,Clear,14°,4,77%,1024 hPa
+Sunday 12 March 2023,11:00,Clear,16°,4,63%,1023 hPa
+Sunday 12 March 2023,11:30,Clear,17°,4,63%,1023 hPa
+Sunday 12 March 2023,12:00,Clear,18°,4,59%,1023 hPa
+Sunday 12 March 2023,12:30,Clear,18°,6,59%,1023 hPa
+Sunday 12 March 2023,13:00,Clear,19°,6,52%,1023 hPa
+Sunday 12 March 2023,13:30,Clear,20°,2,53%,1022 hPa
+Sunday 12 March 2023,14:00,Clear,20°,7,56%,1022 hPa
+Sunday 12 March 2023,14:30,Clear,20°,7,53%,1021 hPa
+Sunday 12 March 2023,15:00,Clear,21°,4,49%,1021 hPa
+Sunday 12 March 2023,15:30,Clear,21°,7,53%,1021 hPa
+Sunday 12 March 2023,16:00,Clear,21°,11,53%,1020 hPa
+Sunday 12 March 2023,16:30,Clear,21°,7,49%,1020 hPa
+Sunday 12 March 2023,17:00,Clear,22°,9,50%,1020 hPa
+Sunday 12 March 2023,17:30,Clear,22°,11,46%,1020 hPa
+Sunday 12 March 2023,18:00,Clear,22°,9,50%,1019 hPa
+Sunday 12 March 2023,18:30,Clear,21°,9,49%,1019 hPa
+Sunday 12 March 2023,19:00,Clear,21°,9,53%,1020 hPa
+Sunday 12 March 2023,19:30,Clear,20°,9,56%,1019 hPa
+Sunday 12 March 2023,20:00,Clear,19°,7,56%,1020 hPa
+Sunday 12 March 2023,20:30,Clear,19°,6,56%,1020 hPa
+Sunday 12 March 2023,21:00,Clear,18°,6,59%,1020 hPa
+Sunday 12 March 2023,21:30,Clear,17°,7,63%,1020 hPa
+Sunday 12 March 2023,22:00,Clear,15°,2,72%,1020 hPa
+Sunday 12 March 2023,22:30,Clear,13°,Calm,82%,1020 hPa
+Sunday 12 March 2023,23:00,Clear,14°,2,77%,1020 hPa
+Sunday 12 March 2023,23:30,Clear,13°,Calm,82%,1020 hPa
+Monday 13 March 2023,00:00,Clear,11°,4,87%,1020 hPa
+Monday 13 March 2023,00:30,Clear,12°,4,88%,1019 hPa
+Monday 13 March 2023,01:00,Clear,11°,6,87%,1019 hPa
+Monday 13 March 2023,01:30,Clear,11°,6,94%,1019 hPa
+Monday 13 March 2023,02:00,Clear,11°,7,87%,1019 hPa
+Monday 13 March 2023,02:30,Clear,11°,7,87%,1019 hPa
+Monday 13 March 2023,03:00,Clear,10°,6,93%,1018 hPa
+Monday 13 March 2023,03:30,Clear,10°,6,87%,1018 hPa
+Monday 13 March 2023,04:00,Clear,10°,6,87%,1018 hPa
+Monday 13 March 2023,04:30,Clear,9°,6,93%,1017 hPa
+Monday 13 March 2023,05:00,Clear,10°,6,87%,1017 hPa
+Monday 13 March 2023,05:30,Clear,9°,2,93%,1017 hPa
+Monday 13 March 2023,06:00,Clear,9°,2,93%,1017 hPa
+Monday 13 March 2023,06:30,Clear,9°,6,93%,1017 hPa
+Monday 13 March 2023,07:00,Clear,8°,6,100%,1018 hPa
+Monday 13 March 2023,07:30,Clear,8°,4,93%,1017 hPa
+Monday 13 March 2023,08:00,Clear,8°,2,93%,1017 hPa
+Monday 13 March 2023,08:30,Clear,10°,Calm,93%,1017 hPa
+Monday 13 March 2023,09:00,Clear,12°,2,88%,1017 hPa
+Monday 13 March 2023,09:30,Clear,14°,6,77%,1017 hPa
+Monday 13 March 2023,10:00,Clear,15°,11,77%,1017 hPa
+Monday 13 March 2023,10:30,Clear,15°,13,77%,1017 hPa
+Monday 13 March 2023,11:00,Clear,17°,13,68%,1017 hPa
+Monday 13 March 2023,11:30,Clear,18°,13,>,32 68% 1017 hPa
+Monday 13 March 2023,12:00,Clear,19°,24,>,48 60% 1016 hPa
+Monday 13 March 2023,12:30,Clear,20°,22,53%,1016 hPa
+Monday 13 March 2023,13:00,Clear,20°,30,53%,1015 hPa
+Monday 13 March 2023,13:30,Clear,20°,33,>,52 46% 1015 hPa
+Monday 13 March 2023,14:00,Clear,20°,30,46%,1015 hPa
+Monday 13 March 2023,14:30,Clear,21°,35,40%,1014 hPa
+Monday 13 March 2023,15:00,Clear,21°,41,>,59 43% 1014 hPa
+Monday 13 March 2023,15:30,Clear,21°,39,>,65 35% 1014 hPa
+Monday 13 March 2023,16:00,Clear,21°,44,40%,1013 hPa
+Monday 13 March 2023,16:30,Clear,20°,46,>,69 46% 1013 hPa
+Monday 13 March 2023,17:00,Fair,20°,46,>,69 43% 1013 hPa
+Monday 13 March 2023,17:30,Fair,19°,48,40%,1014 hPa
+Monday 13 March 2023,18:00,Clear,18°,39,45%,1014 hPa
+Monday 13 March 2023,18:30,Clear,18°,35,49%,1014 hPa
+Monday 13 March 2023,19:00,Clear,17°,33,>,52 52% 1014 hPa
+Monday 13 March 2023,19:30,Fair,16°,32,55%,1015 hPa
+Monday 13 March 2023,20:00,Mostly Cloudy,16°,33,55%,1016 hPa
+Monday 13 March 2023,20:30,Fair,15°,26,59%,1016 hPa
+Monday 13 March 2023,21:00,Clear,15°,17,55%,1017 hPa
+Monday 13 March 2023,21:30,Clear,14°,17,47%,1017 hPa
+Monday 13 March 2023,22:00,Clear,13°,20,54%,1017 hPa
+Monday 13 March 2023,22:30,Clear,12°,11,54%,1018 hPa
+Monday 13 March 2023,23:00,Clear,12°,11,54%,1019 hPa
+Monday 13 March 2023,23:30,Clear,12°,13,54%,1019 hPa
+Tuesday 14 March 2023,00:00,Clear,12°,20,54%,1019 hPa
+Tuesday 14 March 2023,00:30,Clear,12°,32,50%,1018 hPa
+Tuesday 14 March 2023,01:00,Clear,11°,28,50%,1019 hPa
+Tuesday 14 March 2023,01:30,Clear,11°,33,50%,1019 hPa
+Tuesday 14 March 2023,02:00,Clear,11°,24,54%,1018 hPa
+Tuesday 14 March 2023,02:30,Clear,10°,6,53%,1019 hPa
+Tuesday 14 March 2023,03:00,Clear,10°,11,50%,1019 hPa
+Tuesday 14 March 2023,03:30,Clear,10°,22,>,43 53% 1019 hPa
+Tuesday 14 March 2023,04:00,Clear,10°,26,53%,1019 hPa
+Tuesday 14 March 2023,04:30,Clear,9°,24,57%,1019 hPa
+Tuesday 14 March 2023,05:00,Clear,9°,26,57%,1019 hPa
+Tuesday 14 March 2023,05:30,Clear,9°,22,57%,1019 hPa
+Tuesday 14 March 2023,06:00,Clear,9°,22,57%,1019 hPa
+Tuesday 14 March 2023,06:30,Clear,9°,19,57%,1020 hPa
+Tuesday 14 March 2023,07:00,Clear,8°,7,61%,1020 hPa
+Tuesday 14 March 2023,07:30,Clear,7°,4,66%,1020 hPa
+Tuesday 14 March 2023,08:00,Clear,7°,2,70%,1020 hPa
+Tuesday 14 March 2023,08:30,Clear,9°,Calm,66%,1021 hPa
+Tuesday 14 March 2023,09:00,Clear,10°,9,57%,1021 hPa
+Tuesday 14 March 2023,09:30,Clear,11°,15,58%,1021 hPa
+Tuesday 14 March 2023,10:00,Clear,11°,7,58%,1022 hPa
+Tuesday 14 March 2023,10:30,Clear,12°,4,54%,1022 hPa
+Tuesday 14 March 2023,11:00,Clear,13°,6,44%,1022 hPa
+Tuesday 14 March 2023,11:30,Clear,13°,6,41%,1022 hPa
+Tuesday 14 March 2023,12:00,Clear,14°,4,44%,1022 hPa
+Tuesday 14 March 2023,12:30,Clear,15°,2,41%,1022 hPa
+Tuesday 14 March 2023,13:00,Clear,15°,6,41%,1022 hPa
+Tuesday 14 March 2023,13:30,Clear,16°,4,42%,1022 hPa
+Tuesday 14 March 2023,14:00,Clear,16°,9,39%,1021 hPa
+Tuesday 14 March 2023,14:30,Clear,16°,6,34%,1021 hPa
+Tuesday 14 March 2023,15:00,Clear,16°,11,36%,1021 hPa
+Tuesday 14 March 2023,15:30,Clear,17°,11,32%,1020 hPa
+Tuesday 14 March 2023,16:00,Clear,17°,15,34%,1020 hPa
+Tuesday 14 March 2023,16:30,Clear,17°,17,34%,1020 hPa
+Tuesday 14 March 2023,17:00,Clear,17°,15,34%,1020 hPa
+Tuesday 14 March 2023,17:30,Clear,17°,17,34%,1020 hPa
+Tuesday 14 March 2023,18:00,Clear,17°,17,34%,1020 hPa
+Tuesday 14 March 2023,18:30,Clear,16°,20,36%,1020 hPa
+Tuesday 14 March 2023,19:00,Clear,16°,24,36%,1021 hPa
+Tuesday 14 March 2023,19:30,Clear,15°,17,41%,1021 hPa
+Tuesday 14 March 2023,20:00,Clear,13°,15,47%,1021 hPa
+Tuesday 14 March 2023,20:30,Clear,13°,6,47%,1021 hPa
+Tuesday 14 March 2023,21:00,Clear,13°,13,47%,1021 hPa
+Tuesday 14 March 2023,21:30,Clear,11°,6,54%,1021 hPa
+Tuesday 14 March 2023,22:00,Clear,11°,6,54%,1022 hPa
+Tuesday 14 March 2023,22:30,Clear,9°,2,57%,1022 hPa
+Tuesday 14 March 2023,23:00,Clear,9°,2,57%,1021 hPa
+Tuesday 14 March 2023,23:30,Clear,9°,6,61%,1021 hPa
+Wednesday 15 March 2023,00:00,Clear,7°,4,66%,1021 hPa
+Wednesday 15 March 2023,00:30,Clear,7°,6,70%,1022 hPa
+Wednesday 15 March 2023,01:00,Clear,7°,7,70%,1021 hPa
+Wednesday 15 March 2023,01:30,Clear,6°,6,75%,1021 hPa
+Wednesday 15 March 2023,02:00,Clear,6°,4,70%,1021 hPa
+Wednesday 15 March 2023,02:30,Clear,5°,4,75%,1021 hPa
+Wednesday 15 March 2023,03:00,Clear,5°,6,75%,1021 hPa
+Wednesday 15 March 2023,03:30,Clear,5°,6,75%,1021 hPa
+Wednesday 15 March 2023,04:00,Clear,4°,6,81%,1021 hPa
+Wednesday 15 March 2023,04:30,Clear,4°,4,81%,1020 hPa
+Wednesday 15 March 2023,05:00,Clear,4°,6,81%,1021 hPa
+Wednesday 15 March 2023,05:30,Clear,4°,6,81%,1020 hPa
+Wednesday 15 March 2023,06:00,Clear,3°,4,87%,1020 hPa
+Wednesday 15 March 2023,06:30,Clear,3°,6,81%,1020 hPa
+Wednesday 15 March 2023,07:00,Clear,3°,6,81%,1020 hPa
+Wednesday 15 March 2023,07:30,Clear,3°,6,87%,1021 hPa
+Wednesday 15 March 2023,08:00,Clear,3°,6,87%,1021 hPa
+Wednesday 15 March 2023,08:30,Clear,4°,6,81%,1021 hPa
+Wednesday 15 March 2023,09:00,Clear,6°,6,75%,1021 hPa
+Wednesday 15 March 2023,09:30,Clear,7°,4,76%,1021 hPa
+Wednesday 15 March 2023,10:00,Clear,9°,2,66%,1021 hPa
+Wednesday 15 March 2023,10:30,Clear,11°,Calm,58%,1021 hPa
+Wednesday 15 March 2023,11:00,Clear,12°,2,54%,1021 hPa
+Wednesday 15 March 2023,11:30,Clear,13°,6,51%,1021 hPa
+Wednesday 15 March 2023,12:00,Clear,15°,6,44%,1020 hPa
+Wednesday 15 March 2023,12:30,Clear,16°,6,39%,1020 hPa
+Wednesday 15 March 2023,13:00,Clear,17°,6,36%,1020 hPa
+Wednesday 15 March 2023,13:30,Clear,17°,6,39%,1020 hPa
+Wednesday 15 March 2023,14:00,Clear,18°,6,34%,1019 hPa
+Wednesday 15 March 2023,14:30,Clear,18°,2,37%,1019 hPa
+Wednesday 15 March 2023,15:00,Clear,18°,4,32%,1018 hPa
+Wednesday 15 March 2023,15:30,Clear,19°,4,30%,1018 hPa
+Wednesday 15 March 2023,16:00,Clear,20°,2,30%,1017 hPa
+Wednesday 15 March 2023,16:30,Clear,20°,7,26%,1017 hPa
+Wednesday 15 March 2023,17:00,Clear,20°,2,28%,1017 hPa
+Wednesday 15 March 2023,17:30,Clear,20°,2,26%,1017 hPa
+Wednesday 15 March 2023,18:00,Clear,20°,2,24%,1017 hPa
+Wednesday 15 March 2023,18:30,Clear,20°,4,26%,1017 hPa
+Wednesday 15 March 2023,19:00,Clear,18°,4,30%,1016 hPa
+Wednesday 15 March 2023,19:30,Clear,17°,4,32%,1017 hPa
+Wednesday 15 March 2023,20:00,Clear,15°,2,39%,1017 hPa
+Wednesday 15 March 2023,20:30,Clear,14°,Calm,41%,1017 hPa
+Wednesday 15 March 2023,21:00,Clear,13°,4,44%,1017 hPa
+Wednesday 15 March 2023,21:30,Clear,13°,6,47%,1016 hPa
+Wednesday 15 March 2023,22:00,Clear,12°,9,58%,1017 hPa
+Wednesday 15 March 2023,22:30,Clear,12°,7,58%,1017 hPa
+Wednesday 15 March 2023,23:00,Clear,11°,7,62%,1017 hPa
+Wednesday 15 March 2023,23:30,Clear,10°,6,66%,1017 hPa
+Thursday 16 March 2023,00:00,Clear,10°,6,66%,1017 hPa
+Thursday 16 March 2023,00:30,Clear,9°,6,66%,1017 hPa
+Thursday 16 March 2023,01:00,Clear,9°,7,66%,1016 hPa
+Thursday 16 March 2023,01:30,Clear,8°,4,71%,1016 hPa
+Thursday 16 March 2023,02:00,Clear,7°,6,76%,1016 hPa
+Thursday 16 March 2023,02:30,Clear,7°,4,76%,1016 hPa
+Thursday 16 March 2023,03:00,Clear,7°,6,76%,1016 hPa
+Thursday 16 March 2023,03:30,Clear,6°,6,81%,1015 hPa
+Thursday 16 March 2023,04:00,Clear,6°,4,81%,1015 hPa
+Thursday 16 March 2023,04:30,Clear,5°,4,87%,1014 hPa
+Thursday 16 March 2023,05:00,Clear,6°,6,81%,1015 hPa
+Thursday 16 March 2023,05:30,Clear,5°,6,87%,1015 hPa
+Thursday 16 March 2023,06:00,Clear,5°,4,81%,1014 hPa
+Thursday 16 March 2023,06:30,Clear,4°,4,87%,1014 hPa
+Thursday 16 March 2023,07:00,Clear,4°,6,87%,1014 hPa
+Thursday 16 March 2023,07:30,Clear,4°,6,87%,1014 hPa
+Thursday 16 March 2023,08:00,Clear,4°,6,87%,1014 hPa
+Thursday 16 March 2023,08:30,Clear,6°,6,81%,1015 hPa
+Thursday 16 March 2023,09:00,Clear,7°,7,76%,1015 hPa
+Thursday 16 March 2023,09:30,Clear,9°,9,71%,1015 hPa
+Thursday 16 March 2023,10:00,Clear,11°,7,62%,1015 hPa
+Thursday 16 March 2023,10:30,Clear,13°,6,62%,1015 hPa
+Thursday 16 March 2023,11:00,Clear,15°,2,55%,1015 hPa
+Thursday 16 March 2023,11:30,Clear,17°,2,48%,1014 hPa
+Thursday 16 March 2023,12:00,Clear,18°,4,37%,1014 hPa
+Thursday 16 March 2023,12:30,Clear,19°,7,34%,1013 hPa
+Thursday 16 March 2023,13:00,Clear,20°,6,35%,1013 hPa
+Thursday 16 March 2023,13:30,Clear,21°,4,33%,1012 hPa
+Thursday 16 March 2023,14:00,Clear,23°,7,33%,1012 hPa
+Thursday 16 March 2023,14:30,Clear,23°,15,29%,1011 hPa
+Thursday 16 March 2023,15:00,Clear,23°,13,25%,1010 hPa
+Thursday 16 March 2023,15:30,Clear,23°,15,22%,1010 hPa
+Thursday 16 March 2023,16:00,Clear,23°,15,23%,1010 hPa
+Thursday 16 March 2023,16:30,Clear,23°,15,>,33 23% 1010 hPa
+Thursday 16 March 2023,17:00,Clear,24°,9,24%,1010 hPa
+Thursday 16 March 2023,17:30,Clear,23°,9,>,30 23% 1010 hPa
+Thursday 16 March 2023,18:00,Clear,23°,15,25%,1010 hPa
+Thursday 16 March 2023,18:30,Clear,21°,13,30%,1010 hPa
+Thursday 16 March 2023,19:00,Clear,21°,9,30%,1009 hPa
+Thursday 16 March 2023,19:30,Clear,20°,7,32%,1009 hPa
+Thursday 16 March 2023,20:00,Clear,18°,6,37%,1010 hPa
+Thursday 16 March 2023,20:30,Clear,17°,7,42%,1010 hPa
+Thursday 16 March 2023,21:00,Clear,15°,4,48%,1010 hPa
+Thursday 16 March 2023,21:30,Clear,15°,6,44%,1010 hPa
+Thursday 16 March 2023,22:00,Clear,14°,4,47%,1010 hPa
+Thursday 16 March 2023,22:30,Clear,14°,6,51%,1010 hPa
+Thursday 16 March 2023,23:00,Clear,13°,4,54%,1011 hPa
+Thursday 16 March 2023,23:30,Clear,13°,7,51%,1011 hPa
+Friday 17 March 2023,00:00,Clear,14°,9,47%,1011 hPa
+Friday 17 March 2023,00:30,Clear,12°,11,54%,1011 hPa
+Friday 17 March 2023,01:00,Clear,13°,11,51%,1011 hPa
+Friday 17 March 2023,01:30,Clear,14°,13,41%,1011 hPa
+Friday 17 March 2023,02:00,Clear,12°,11,50%,1011 hPa
+Friday 17 March 2023,02:30,Clear,12°,2,50%,1011 hPa
+Friday 17 March 2023,03:00,Clear,12°,4,50%,1011 hPa
+Friday 17 March 2023,03:30,Clear,11°,2,54%,1011 hPa
+Friday 17 March 2023,04:00,Clear,11°,6,54%,1011 hPa
+Friday 17 March 2023,04:30,Clear,11°,6,54%,1011 hPa
+Friday 17 March 2023,05:00,Clear,11°,7,58%,1011 hPa
+Friday 17 March 2023,05:30,Clear,13°,9,58%,1011 hPa
+Friday 17 March 2023,06:00,Fair,13°,7,62%,1011 hPa
+Friday 17 March 2023,06:30,Mostly Cloudy,11°,7,58%,1012 hPa
+Friday 17 March 2023,07:00,Mostly Cloudy,11°,7,58%,1012 hPa
+Friday 17 March 2023,07:30,Mostly Cloudy,11°,7,58%,1012 hPa
+Friday 17 March 2023,08:00,Mostly Cloudy,13°,11,72%,1012 hPa
+Friday 17 March 2023,08:30,Mostly Cloudy,13°,11,72%,1013 hPa
+Friday 17 March 2023,09:00,Cloudy,13°,15,72%,1013 hPa
+Friday 17 March 2023,09:30,Partly Cloudy,13°,15,77%,1013 hPa
+Friday 17 March 2023,10:00,Mostly Cloudy,13°,17,67%,1014 hPa
+Friday 17 March 2023,10:30,Partly Cloudy,14°,17,67%,1014 hPa
+Friday 17 March 2023,11:00,Partly Cloudy,14°,22,58%,1014 hPa
+Friday 17 March 2023,11:30,Partly Cloudy,15°,22,>,44 55% 1014 hPa
+Friday 17 March 2023,12:00,Partly Cloudy,15°,24,48%,1014 hPa
+Friday 17 March 2023,12:30,Partly Cloudy,15°,26,>,54 51% 1014 hPa
+Friday 17 March 2023,13:00,Partly Cloudy,16°,28,>,50 42% 1014 hPa
+Friday 17 March 2023,13:30,Partly Cloudy,16°,32,>,54 45% 1014 hPa
+Friday 17 March 2023,14:00,Partly Cloudy,16°,28,45%,1014 hPa
+Friday 17 March 2023,14:30,Partly Cloudy,17°,28,42%,1014 hPa
+Friday 17 March 2023,15:00,Fair,17°,28,>,56 42% 1013 hPa
+Friday 17 March 2023,15:30,Fair,17°,30,36%,1013 hPa
+Friday 17 March 2023,16:00,Fair,17°,30,34%,1013 hPa
+Friday 17 March 2023,16:30,Fair,17°,30,>,56 36% 1013 hPa
+Friday 17 March 2023,17:00,Clear,17°,30,>,52 36% 1013 hPa
+Friday 17 March 2023,17:30,Clear,17°,32,39%,1013 hPa
+Friday 17 March 2023,18:00,Fair,16°,32,42%,1013 hPa
+Friday 17 March 2023,18:30,Fair,16°,28,39%,1013 hPa
+Friday 17 March 2023,19:00,Clear,15°,32,44%,1013 hPa
+Friday 17 March 2023,19:30,Fair,15°,30,44%,1013 hPa
+Friday 17 March 2023,20:00,Clear,15°,22,44%,1014 hPa
+Friday 17 March 2023,20:30,Clear,14°,26,>,44 51% 1014 hPa
+Friday 17 March 2023,21:00,Clear,14°,19,51%,1014 hPa
+Friday 17 March 2023,21:30,Clear,14°,15,51%,1014 hPa
+Friday 17 March 2023,22:00,Clear,13°,15,54%,1014 hPa
+Friday 17 March 2023,22:30,Clear,13°,11,54%,1014 hPa
+Friday 17 March 2023,23:00,Clear,13°,17,58%,1015 hPa
+Friday 17 March 2023,23:30,Clear,12°,26,62%,1015 hPa
+Saturday 18 March 2023,00:00,Clear,12°,24,62%,1015 hPa
+Saturday 18 March 2023,00:30,Clear,12°,20,62%,1015 hPa
+Saturday 18 March 2023,01:00,Clear,12°,22,67%,1015 hPa
+Saturday 18 March 2023,01:30,Partly Cloudy,11°,26,71%,1014 hPa
+Saturday 18 March 2023,02:00,Partly Cloudy,11°,24,71%,1014 hPa
+Saturday 18 March 2023,02:30,Partly Cloudy,10°,20,76%,1015 hPa
+Saturday 18 March 2023,03:00,Partly Cloudy,10°,17,76%,1014 hPa
+Saturday 18 March 2023,03:30,Partly Cloudy,9°,15,87%,1014 hPa
+Saturday 18 March 2023,04:00,Fair,9°,11,81%,1014 hPa
+Saturday 18 March 2023,04:30,Fair,9°,11,81%,1014 hPa
+Saturday 18 March 2023,05:00,Fair,9°,11,76%,1015 hPa
+Saturday 18 March 2023,05:30,Fair,9°,13,76%,1015 hPa
+Saturday 18 March 2023,06:00,Fair,9°,9,71%,1015 hPa
+Saturday 18 March 2023,06:30,Clear,9°,9,66%,1015 hPa
+Saturday 18 March 2023,07:00,Clear,8°,7,71%,1015 hPa
+Saturday 18 March 2023,07:30,Clear,6°,Calm,87%,1015 hPa
+Saturday 18 March 2023,08:00,Partly Cloudy,6°,4,93%,1016 hPa
+Saturday 18 March 2023,08:30,Partly Cloudy,8°,2,76%,1016 hPa
+Saturday 18 March 2023,09:00,Fair,10°,4,71%,1016 hPa
+Saturday 18 March 2023,09:30,Clear,10°,6,71%,1016 hPa
+Saturday 18 March 2023,10:00,Clear,11°,6,66%,1017 hPa
+Saturday 18 March 2023,10:30,Fair,12°,4,62%,1017 hPa
+Saturday 18 March 2023,11:00,Fair,13°,4,58%,1017 hPa
+Saturday 18 March 2023,11:30,Partly Cloudy,13°,4,58%,1017 hPa
+Saturday 18 March 2023,12:00,Partly Cloudy,14°,6,55%,1017 hPa
+Saturday 18 March 2023,12:30,Mostly Cloudy,14°,4,44%,1017 hPa
+Saturday 18 March 2023,13:00,Mostly Cloudy,15°,2,48%,1017 hPa
+Saturday 18 March 2023,13:30,Mostly Cloudy,14°,9,47%,1017 hPa
+Saturday 18 March 2023,14:00,Mostly Cloudy,14°,6,47%,1017 hPa
+Saturday 18 March 2023,14:30,Mostly Cloudy,14°,6,51%,1016 hPa
+Saturday 18 March 2023,15:00,Mostly Cloudy,15°,13,44%,1016 hPa
+Saturday 18 March 2023,15:30,Mostly Cloudy,16°,6,39%,1016 hPa
+Saturday 18 March 2023,16:00,Mostly Cloudy,16°,13,45%,1016 hPa
+Saturday 18 March 2023,16:30,Mostly Cloudy,15°,19,44%,1016 hPa
+Saturday 18 March 2023,17:00,Partly Cloudy,15°,15,51%,1016 hPa
+Saturday 18 March 2023,17:30,Fair,15°,19,48%,1016 hPa
+Saturday 18 March 2023,18:00,Fair,15°,20,48%,1016 hPa
+Saturday 18 March 2023,18:30,Mostly Cloudy,15°,19,48%,1016 hPa
+Saturday 18 March 2023,19:00,Partly Cloudy,14°,19,51%,1016 hPa
+Saturday 18 March 2023,19:30,Partly Cloudy,14°,13,51%,1017 hPa
+Saturday 18 March 2023,20:00,Fair,13°,11,54%,1017 hPa
+Saturday 18 March 2023,20:30,Fair,13°,13,54%,1017 hPa
+Saturday 18 March 2023,21:00,Fair,12°,11,58%,1018 hPa
+Saturday 18 March 2023,21:30,Fair,12°,9,62%,1018 hPa
+Saturday 18 March 2023,22:00,Fair,11°,6,62%,1018 hPa
+Saturday 18 March 2023,22:30,Fair,10°,6,71%,1018 hPa
+Saturday 18 March 2023,23:00,Fair,12°,11,62%,1018 hPa
+Saturday 18 March 2023,23:30,Fair,9°,4,76%,1018 hPa
+Sunday 19 March 2023,00:00,Partly Cloudy,10°,4,71%,1019 hPa
+Sunday 19 March 2023,00:30,Fair,9°,Calm,76%,1019 hPa
+Sunday 19 March 2023,01:00,Fair,8°,2,76%,1019 hPa
+Sunday 19 March 2023,01:30,Fair,7°,4,81%,1019 hPa
+Sunday 19 March 2023,02:00,Fair,8°,7,76%,1019 hPa
+Sunday 19 March 2023,02:30,Fair,7°,6,87%,1019 hPa
+Sunday 19 March 2023,03:00,Fair,7°,7,87%,1019 hPa
+Sunday 19 March 2023,03:30,Fair,7°,6,81%,1020 hPa
+Sunday 19 March 2023,04:00,Fair,5°,9,93%,1019 hPa
+Sunday 19 March 2023,04:30,Fair,6°,9,87%,1020 hPa
+Sunday 19 March 2023,05:00,Clear,5°,9,87%,1020 hPa
+Sunday 19 March 2023,05:30,Clear,5°,Calm,93%,1020 hPa
+Sunday 19 March 2023,06:00,Clear,4°,2,93%,1020 hPa
+Sunday 19 March 2023,06:30,Clear,4°,7,100%,1020 hPa
+Sunday 19 March 2023,07:00,Clear,4°,6,93%,1021 hPa
+Sunday 19 March 2023,07:30,Clear,4°,4,93%,1021 hPa
+Sunday 19 March 2023,08:00,Clear,4°,4,100%,1021 hPa
+Sunday 19 March 2023,08:30,Clear,6°,4,87%,1022 hPa
+Sunday 19 March 2023,09:00,Clear,8°,6,81%,1022 hPa
+Sunday 19 March 2023,09:30,Clear,9°,4,76%,1022 hPa
+Sunday 19 March 2023,10:00,Clear,11°,2,66%,1023 hPa
+Sunday 19 March 2023,10:30,Clear,12°,4,67%,1023 hPa
+Sunday 19 March 2023,11:00,Clear,13°,4,62%,1023 hPa
+Sunday 19 March 2023,11:30,Fair,15°,7,48%,1023 hPa
+Sunday 19 March 2023,12:00,Clear,15°,7,44%,1022 hPa
+Sunday 19 March 2023,12:30,Clear,16°,7,39%,1022 hPa
+Sunday 19 March 2023,13:00,Clear,16°,4,36%,1022 hPa
+Sunday 19 March 2023,13:30,Clear,17°,9,39%,1022 hPa
+Sunday 19 March 2023,14:00,Fair,16°,9,36%,1022 hPa
+Sunday 19 March 2023,14:30,Fair,18°,7,34%,1021 hPa
+Sunday 19 March 2023,15:00,Fair,17°,6,32%,1021 hPa
+Sunday 19 March 2023,15:30,Fair,17°,11,29%,1021 hPa
+Sunday 19 March 2023,16:00,Clear,18°,7,28%,1020 hPa
+Sunday 19 March 2023,16:30,Clear,18°,7,28%,1020 hPa
+Sunday 19 March 2023,17:00,Clear,19°,2,30%,1020 hPa
+Sunday 19 March 2023,17:30,Clear,18°,6,34%,1020 hPa
+Sunday 19 March 2023,18:00,Clear,18°,4,30%,1020 hPa
+Sunday 19 March 2023,18:30,Clear,19°,2,28%,1020 hPa
+Sunday 19 March 2023,19:00,Clear,17°,2,34%,1021 hPa
+Sunday 19 March 2023,19:30,Clear,15°,4,36%,1021 hPa
+Sunday 19 March 2023,20:00,Clear,15°,6,36%,1021 hPa
+Sunday 19 March 2023,20:30,Clear,14°,4,38%,1022 hPa
+Sunday 19 March 2023,21:00,Clear,13°,Calm,41%,1022 hPa
+Sunday 19 March 2023,21:30,Clear,13°,6,41%,1022 hPa
+Sunday 19 March 2023,22:00,Clear,11°,7,54%,1023 hPa
+Sunday 19 March 2023,22:30,Clear,11°,6,54%,1023 hPa
+Sunday 19 March 2023,23:00,Clear,11°,7,54%,1023 hPa
+Sunday 19 March 2023,23:30,Clear,10°,7,57%,1023 hPa
+Monday 20 March 2023,00:00,Clear,8°,7,61%,1023 hPa
+Monday 20 March 2023,00:30,Clear,8°,6,61%,1023 hPa
+Monday 20 March 2023,01:00,Clear,8°,4,66%,1023 hPa
+Monday 20 March 2023,01:30,Clear,7°,11,66%,1023 hPa
+Monday 20 March 2023,02:00,Clear,6°,6,70%,1023 hPa
+Monday 20 March 2023,02:30,Clear,7°,7,66%,1023 hPa
+Monday 20 March 2023,03:00,Clear,6°,6,70%,1023 hPa
+Monday 20 March 2023,03:30,Clear,5°,6,75%,1023 hPa
+Monday 20 March 2023,04:00,Clear,4°,6,81%,1023 hPa
+Monday 20 March 2023,04:30,Clear,4°,4,81%,1023 hPa
+Monday 20 March 2023,05:00,Clear,3°,Calm,87%,1023 hPa
+Monday 20 March 2023,05:30,Clear,3°,4,81%,1023 hPa
+Monday 20 March 2023,06:00,Clear,3°,4,87%,1023 hPa
+Monday 20 March 2023,06:30,Clear,3°,4,87%,1023 hPa
+Monday 20 March 2023,07:00,Clear,3°,6,81%,1023 hPa
+Monday 20 March 2023,07:30,Clear,2°,2,87%,1023 hPa
+Monday 20 March 2023,08:00,Clear,3°,6,87%,1023 hPa
+Monday 20 March 2023,08:30,Clear,4°,4,81%,1023 hPa
+Monday 20 March 2023,09:00,Clear,6°,6,70%,1023 hPa
+Monday 20 March 2023,09:30,Clear,7°,2,70%,1023 hPa
+Monday 20 March 2023,10:00,Clear,9°,4,61%,1023 hPa
+Monday 20 March 2023,10:30,Clear,11°,2,54%,1023 hPa
+Monday 20 March 2023,11:00,Clear,13°,2,51%,1023 hPa
+Monday 20 March 2023,11:30,Clear,14°,2,47%,1023 hPa
+Monday 20 March 2023,12:00,Clear,15°,6,51%,1023 hPa
+Monday 20 March 2023,12:30,Clear,16°,4,45%,1022 hPa
+Monday 20 March 2023,13:00,Clear,18°,2,45%,1022 hPa
+Monday 20 March 2023,13:30,Clear,17°,9,39%,1022 hPa
+Monday 20 March 2023,14:00,Clear,18°,11,37%,1021 hPa
+Monday 20 March 2023,14:30,Clear,19°,9,37%,1021 hPa
+Monday 20 March 2023,15:00,Clear,19°,4,34%,1020 hPa
+Monday 20 March 2023,15:30,Clear,20°,7,30%,1020 hPa
+Monday 20 March 2023,16:00,Clear,20°,4,28%,1020 hPa
+Monday 20 March 2023,16:30,Clear,20°,6,30%,1019 hPa
+Monday 20 March 2023,17:00,Clear,21°,11,26%,1019 hPa
+Monday 20 March 2023,17:30,Clear,20°,11,28%,1019 hPa
+Monday 20 March 2023,18:00,Clear,20°,11,28%,1019 hPa
+Monday 20 March 2023,18:30,Clear,20°,11,28%,1019 hPa
+Monday 20 March 2023,19:00,Clear,20°,11,26%,1019 hPa
+Monday 20 March 2023,19:30,Clear,19°,11,28%,1019 hPa
+Monday 20 March 2023,20:00,Clear,18°,15,32%,1019 hPa
+Monday 20 March 2023,20:30,Clear,17°,11,36%,1019 hPa
+Monday 20 March 2023,21:00,Clear,16°,11,39%,1019 hPa
+Monday 20 March 2023,21:30,Clear,16°,9,42%,1019 hPa
+Monday 20 March 2023,22:00,Clear,14°,2,44%,1019 hPa
+Monday 20 March 2023,22:30,Clear,13°,2,47%,1019 hPa
+Monday 20 March 2023,23:00,Clear,12°,6,50%,1019 hPa
+Monday 20 March 2023,23:30,Clear,11°,4,50%,1019 hPa
+Tuesday 21 March 2023,00:00,Clear,10°,6,62%,1019 hPa
+Tuesday 21 March 2023,00:30,Clear,9°,2,66%,1019 hPa
+Tuesday 21 March 2023,01:00,Clear,8°,Calm,71%,1019 hPa
+Tuesday 21 March 2023,01:30,Clear,8°,7,71%,1019 hPa
+Tuesday 21 March 2023,02:00,Clear,8°,6,71%,1019 hPa
+Tuesday 21 March 2023,02:30,Clear,7°,4,70%,1019 hPa
+Tuesday 21 March 2023,03:00,Clear,8°,4,71%,1019 hPa
+Tuesday 21 March 2023,03:30,Clear,6°,4,81%,1019 hPa
+Tuesday 21 March 2023,04:00,Clear,6°,4,81%,1018 hPa
+Tuesday 21 March 2023,04:30,Clear,5°,6,81%,1018 hPa
+Tuesday 21 March 2023,05:00,Clear,5°,7,81%,1018 hPa
+Tuesday 21 March 2023,05:30,Clear,5°,2,81%,1018 hPa
+Tuesday 21 March 2023,06:00,Clear,4°,6,81%,1019 hPa
+Tuesday 21 March 2023,06:30,Clear,4°,6,81%,1019 hPa
+Tuesday 21 March 2023,07:00,Clear,4°,6,81%,1019 hPa
+Tuesday 21 March 2023,07:30,Clear,3°,Calm,87%,1019 hPa
+Tuesday 21 March 2023,08:00,Clear,4°,2,81%,1019 hPa
+Tuesday 21 March 2023,08:30,Clear,6°,4,75%,1019 hPa
+Tuesday 21 March 2023,09:00,Clear,7°,2,70%,1020 hPa
+Tuesday 21 March 2023,09:30,Clear,8°,4,66%,1020 hPa
+Tuesday 21 March 2023,10:00,Clear,11°,2,58%,1019 hPa
+Tuesday 21 March 2023,10:30,Clear,12°,6,54%,1020 hPa
+Tuesday 21 March 2023,11:00,Clear,13°,4,47%,1020 hPa
+Tuesday 21 March 2023,11:30,Clear,14°,4,47%,1020 hPa
+Tuesday 21 March 2023,12:00,Clear,16°,4,48%,1019 hPa
+Tuesday 21 March 2023,12:30,Clear,17°,4,39%,1019 hPa
+Tuesday 21 March 2023,13:00,Clear,18°,4,37%,1019 hPa
+Tuesday 21 March 2023,13:30,Clear,19°,2,34%,1018 hPa
+Tuesday 21 March 2023,14:00,Clear,20°,2,30%,1018 hPa
+Tuesday 21 March 2023,14:30,Clear,20°,6,35%,1017 hPa
+Tuesday 21 March 2023,15:00,Clear,20°,11,32%,1017 hPa
+Tuesday 21 March 2023,15:30,Clear,21°,9,28%,1016 hPa
+Tuesday 21 March 2023,16:00,Clear,21°,6,26%,1016 hPa
+Tuesday 21 March 2023,16:30,Clear,21°,9,30%,1016 hPa
+Tuesday 21 March 2023,17:00,Clear,21°,11,28%,1016 hPa
+Tuesday 21 March 2023,17:30,Clear,21°,7,28%,1016 hPa
+Tuesday 21 March 2023,18:00,Clear,21°,11,28%,1015 hPa
+Tuesday 21 March 2023,18:30,Clear,21°,9,26%,1016 hPa
+Tuesday 21 March 2023,19:00,Clear,20°,9,28%,1016 hPa
+Tuesday 21 March 2023,19:30,Clear,20°,9,28%,1016 hPa
+Tuesday 21 March 2023,20:00,Clear,19°,11,30%,1016 hPa
+Tuesday 21 March 2023,20:30,Clear,19°,13,30%,1016 hPa
+Tuesday 21 March 2023,21:00,Clear,18°,13,34%,1017 hPa
+Tuesday 21 March 2023,21:30,Clear,17°,11,39%,1017 hPa
+Tuesday 21 March 2023,22:00,Clear,17°,11,39%,1017 hPa
+Tuesday 21 March 2023,22:30,Clear,17°,11,39%,1017 hPa
+Tuesday 21 March 2023,23:00,Clear,14°,7,47%,1017 hPa
+Tuesday 21 March 2023,23:30,Clear,12°,6,54%,1017 hPa
+Wednesday 22 March 2023,00:00,Clear,12°,7,54%,1017 hPa
+Wednesday 22 March 2023,00:30,Clear,11°,11,62%,1017 hPa
+Wednesday 22 March 2023,01:00,Clear,10°,9,66%,1017 hPa
+Wednesday 22 March 2023,01:30,Clear,10°,4,66%,1017 hPa
+Wednesday 22 March 2023,02:00,Clear,9°,6,66%,1017 hPa
+Wednesday 22 March 2023,02:30,Clear,8°,Calm,71%,1017 hPa
+Wednesday 22 March 2023,03:00,Clear,9°,4,66%,1016 hPa
+Wednesday 22 March 2023,03:30,Clear,7°,Calm,76%,1016 hPa
+Wednesday 22 March 2023,04:00,Clear,7°,4,76%,1016 hPa
+Wednesday 22 March 2023,04:30,Clear,6°,7,81%,1016 hPa
+Wednesday 22 March 2023,05:00,Clear,6°,6,81%,1016 hPa
+Wednesday 22 March 2023,05:30,Clear,5°,2,81%,1016 hPa
+Wednesday 22 March 2023,06:00,Clear,5°,6,81%,1017 hPa
+Wednesday 22 March 2023,06:30,Clear,5°,6,81%,1017 hPa
+Wednesday 22 March 2023,07:00,Clear,5°,6,81%,1017 hPa
+Wednesday 22 March 2023,07:30,Clear,4°,2,87%,1017 hPa
+Wednesday 22 March 2023,08:00,Clear,4°,4,87%,1017 hPa
+Wednesday 22 March 2023,08:30,Clear,8°,Calm,71%,1017 hPa
+Wednesday 22 March 2023,09:00,Clear,10°,Calm,62%,1017 hPa
+Wednesday 22 March 2023,09:30,Clear,10°,4,62%,1018 hPa
+Wednesday 22 March 2023,10:00,Clear,13°,2,54%,1018 hPa
+Wednesday 22 March 2023,10:30,Clear,13°,6,54%,1018 hPa
+Wednesday 22 March 2023,11:00,Clear,15°,4,51%,1018 hPa
+Wednesday 22 March 2023,11:30,Clear,17°,2,42%,1017 hPa
+Wednesday 22 March 2023,12:00,Clear,18°,7,45%,1017 hPa
+Wednesday 22 March 2023,12:30,Clear,18°,11,45%,1017 hPa
+Wednesday 22 March 2023,13:00,Clear,19°,11,40%,1017 hPa
+Wednesday 22 March 2023,13:30,Clear,20°,15,37%,1017 hPa
+Wednesday 22 March 2023,14:00,Clear,21°,17,>,46 33% 1016 hPa
+Wednesday 22 March 2023,14:30,Clear,21°,17,33%,1016 hPa
+Wednesday 22 March 2023,15:00,Clear,22°,22,31%,1016 hPa
+Wednesday 22 March 2023,15:30,Clear,22°,20,>,50 29% 1015 hPa
+Wednesday 22 March 2023,16:00,Clear,22°,19,>,37 25% 1015 hPa
+Wednesday 22 March 2023,16:30,Clear,22°,22,>,43 23% 1015 hPa
+Wednesday 22 March 2023,17:00,Clear,22°,19,>,41 25% 1014 hPa
+Wednesday 22 March 2023,17:30,Clear,22°,19,25%,1014 hPa
+Wednesday 22 March 2023,18:00,Clear,22°,19,20%,1014 hPa
+Wednesday 22 March 2023,18:30,Clear,21°,19,20%,1014 hPa
+Wednesday 22 March 2023,19:00,Clear,21°,15,21%,1015 hPa
+Wednesday 22 March 2023,19:30,Clear,20°,17,23%,1015 hPa
+Wednesday 22 March 2023,20:00,Clear,19°,11,24%,1015 hPa
+Wednesday 22 March 2023,20:30,Clear,20°,6,21%,1015 hPa
+Wednesday 22 March 2023,21:00,Clear,16°,Calm,31%,1015 hPa
+Wednesday 22 March 2023,21:30,Clear,15°,4,33%,1015 hPa
+Wednesday 22 March 2023,22:00,Clear,18°,9,32%,1015 hPa
+Wednesday 22 March 2023,22:30,Clear,15°,6,39%,1016 hPa
+Wednesday 22 March 2023,23:00,Clear,15°,6,39%,1016 hPa
+Wednesday 22 March 2023,23:30,Clear,14°,7,44%,1016 hPa
+Thursday 23 March 2023,00:00,Clear,13°,9,51%,1016 hPa
+Thursday 23 March 2023,00:30,Clear,13°,6,47%,1016 hPa
+Thursday 23 March 2023,01:00,Clear,12°,4,50%,1016 hPa
+Thursday 23 March 2023,01:30,Clear,12°,2,50%,1016 hPa
+Thursday 23 March 2023,02:00,Clear,12°,6,50%,1016 hPa
+Thursday 23 March 2023,02:30,Clear,13°,2,47%,1016 hPa
+Thursday 23 March 2023,03:00,Clear,9°,Calm,61%,1016 hPa
+Thursday 23 March 2023,03:30,Clear,9°,6,66%,1015 hPa
+Thursday 23 March 2023,04:00,Clear,9°,6,66%,1015 hPa
+Thursday 23 March 2023,04:30,Clear,7°,2,76%,1015 hPa
+Thursday 23 March 2023,05:00,Clear,6°,7,81%,1015 hPa
+Thursday 23 March 2023,05:30,Clear,6°,6,81%,1015 hPa
+Thursday 23 March 2023,06:00,Clear,6°,6,81%,1015 hPa
+Thursday 23 March 2023,06:30,Clear,5°,6,81%,1015 hPa
+Thursday 23 March 2023,07:00,Clear,5°,6,81%,1016 hPa
+Thursday 23 March 2023,07:30,Clear,5°,2,81%,1016 hPa
+Thursday 23 March 2023,08:00,Clear,5°,7,87%,1016 hPa
+Thursday 23 March 2023,08:30,Clear,7°,4,76%,1016 hPa
+Thursday 23 March 2023,09:00,Clear,9°,2,66%,1016 hPa
+Thursday 23 March 2023,09:30,Clear,11°,2,62%,1017 hPa
+Thursday 23 March 2023,10:00,Clear,14°,2,51%,1017 hPa
+Thursday 23 March 2023,10:30,Clear,15°,4,48%,1017 hPa
+Thursday 23 March 2023,11:00,Clear,16°,11,45%,1017 hPa
+Thursday 23 March 2023,11:30,Clear,17°,6,42%,1017 hPa
+Thursday 23 March 2023,12:00,Clear,18°,17,37%,1017 hPa
+Thursday 23 March 2023,12:30,Clear,19°,17,>,39 32% 1016 hPa
+Thursday 23 March 2023,13:00,Clear,21°,24,25%,1016 hPa
+Thursday 23 March 2023,13:30,Clear,21°,15,30%,1016 hPa
+Thursday 23 March 2023,14:00,Clear,22°,19,25%,1015 hPa
+Thursday 23 March 2023,14:30,Clear,21°,26,23%,1015 hPa
+Thursday 23 March 2023,15:00,Clear,22°,28,23%,1015 hPa
+Thursday 23 March 2023,15:30,Clear,21°,26,25%,1014 hPa
+Thursday 23 March 2023,16:00,Clear,21°,26,26%,1014 hPa
+Thursday 23 March 2023,16:30,Clear,22°,28,>,46 19% 1014 hPa
+Thursday 23 March 2023,17:00,Clear,21°,28,>,52 18% 1014 hPa
+Thursday 23 March 2023,17:30,Clear,21°,26,25%,1014 hPa
+Thursday 23 March 2023,18:00,Clear,20°,26,30%,1014 hPa
+Thursday 23 March 2023,18:30,Clear,20°,19,30%,1014 hPa
+Thursday 23 March 2023,19:00,Clear,19°,24,30%,1014 hPa
+Thursday 23 March 2023,19:30,Clear,19°,26,28%,1015 hPa
+Thursday 23 March 2023,20:00,Clear,18°,20,32%,1015 hPa
+Thursday 23 March 2023,20:30,Clear,18°,19,>,43 32% 1015 hPa
+Thursday 23 March 2023,21:00,Clear,18°,19,32%,1015 hPa
+Thursday 23 March 2023,21:30,Clear,17°,17,36%,1016 hPa
+Thursday 23 March 2023,22:00,Clear,17°,17,34%,1016 hPa
+Thursday 23 March 2023,22:30,Clear,16°,15,39%,1016 hPa
+Thursday 23 March 2023,23:00,Clear,15°,11,41%,1016 hPa
+Thursday 23 March 2023,23:30,Clear,13°,11,51%,1016 hPa
+Friday 24 March 2023,00:00,Clear,14°,13,47%,1016 hPa
+Friday 24 March 2023,00:30,Clear,13°,9,51%,1016 hPa
+Friday 24 March 2023,01:00,Clear,13°,13,51%,1016 hPa
+Friday 24 March 2023,01:30,Clear,12°,13,54%,1016 hPa
+Friday 24 March 2023,02:00,Clear,12°,15,54%,1016 hPa
+Friday 24 March 2023,02:30,Clear,12°,17,54%,1016 hPa
+Friday 24 March 2023,03:00,Clear,12°,11,54%,1016 hPa
+Friday 24 March 2023,03:30,Clear,11°,7,58%,1016 hPa
+Friday 24 March 2023,04:00,Clear,11°,9,58%,1016 hPa
+Friday 24 March 2023,04:30,Clear,11°,11,58%,1016 hPa
+Friday 24 March 2023,05:00,Clear,10°,9,62%,1016 hPa
+Friday 24 March 2023,05:30,Clear,10°,7,62%,1016 hPa
+Friday 24 March 2023,06:00,Clear,10°,Calm,66%,1016 hPa
+Friday 24 March 2023,06:30,Clear,8°,4,66%,1017 hPa
+Friday 24 March 2023,07:00,Clear,7°,4,70%,1017 hPa
+Friday 24 March 2023,07:30,Clear,7°,6,70%,1018 hPa
+Friday 24 March 2023,08:00,Clear,7°,6,70%,1018 hPa
+Friday 24 March 2023,08:30,Clear,8°,6,71%,1018 hPa
+Friday 24 March 2023,09:00,Clear,9°,2,71%,1019 hPa
+Friday 24 March 2023,09:30,Clear,10°,2,66%,1019 hPa
+Friday 24 March 2023,10:00,Clear,11°,4,76%,1019 hPa
+Friday 24 March 2023,10:30,Clear,13°,4,67%,1019 hPa
+Friday 24 March 2023,11:00,Partly Cloudy,14°,11,67%,1020 hPa
+Friday 24 March 2023,11:30,Partly Cloudy,13°,17,77%,1020 hPa
+Friday 24 March 2023,12:00,Partly Cloudy,14°,22,72%,1020 hPa
+Friday 24 March 2023,12:30,Partly Cloudy,15°,15,67%,1020 hPa
+Friday 24 March 2023,13:00,Partly Cloudy,15°,15,>,41 72% 1020 hPa
+Friday 24 March 2023,13:30,Partly Cloudy,15°,17,>,41 67% 1020 hPa
+Friday 24 March 2023,14:00,Partly Cloudy,16°,15,>,39 63% 1020 hPa
+Friday 24 March 2023,14:30,Partly Cloudy,16°,15,68%,1020 hPa
+Friday 24 March 2023,15:00,Fair,18°,13,>,43 56% 1020 hPa
+Friday 24 March 2023,15:30,Fair,19°,19,>,39 52% 1020 hPa
+Friday 24 March 2023,16:00,Fair,19°,15,56%,1019 hPa
+Friday 24 March 2023,16:30,Fair,20°,15,>,39 46% 1019 hPa
+Friday 24 March 2023,17:00,Clear,20°,13,>,35 49% 1019 hPa
+Friday 24 March 2023,17:30,Fair,20°,17,49%,1019 hPa
+Friday 24 March 2023,18:00,Fair,19°,15,52%,1019 hPa
+Friday 24 March 2023,18:30,Clear,19°,19,>,39 52% 1020 hPa
+Friday 24 March 2023,19:00,Clear,18°,17,59%,1020 hPa
+Friday 24 March 2023,19:30,Clear,18°,17,59%,1020 hPa
+Friday 24 March 2023,20:00,Clear,17°,15,>,33 63% 1020 hPa
+Friday 24 March 2023,20:30,Clear,16°,17,68%,1021 hPa
+Friday 24 March 2023,21:00,Clear,16°,13,68%,1021 hPa
+Friday 24 March 2023,21:30,Clear,15°,17,72%,1021 hPa
+Friday 24 March 2023,22:00,Clear,15°,19,72%,1022 hPa
+Friday 24 March 2023,22:30,Clear,15°,17,72%,1022 hPa
+Friday 24 March 2023,23:00,Clear,14°,11,77%,1022 hPa
+Friday 24 March 2023,23:30,Clear,13°,11,82%,1022 hPa
+Saturday 25 March 2023,00:00,Clear,13°,7,82%,1022 hPa
+Saturday 25 March 2023,00:30,Clear,14°,19,77%,1022 hPa
+Saturday 25 March 2023,01:00,Clear,12°,9,88%,1022 hPa
+Saturday 25 March 2023,01:30,Clear,13°,7,82%,1022 hPa
+Saturday 25 March 2023,02:00,Clear,11°,Calm,94%,1022 hPa
+Saturday 25 March 2023,02:30,Clear,10°,4,93%,1022 hPa
+Saturday 25 March 2023,03:00,Clear,9°,6,93%,1023 hPa
+Saturday 25 March 2023,03:30,Clear,8°,4,93%,1023 hPa
+Saturday 25 March 2023,04:00,Clear,7°,4,93%,1022 hPa
+Saturday 25 March 2023,04:30,Clear,7°,4,93%,1022 hPa
+Saturday 25 March 2023,05:00,Fair,5°,6,93%,1022 hPa
+Saturday 25 March 2023,05:30,Partly Cloudy,6°,7,93%,1022 hPa
+Saturday 25 March 2023,05:38,Fog Patches,6°,7,93%,1022 hPa
+Saturday 25 March 2023,06:00,Fog Patches,7°,6,93%,1023 hPa
+Saturday 25 March 2023,06:30,Fog Patches,7°,6,93%,1023 hPa
+Saturday 25 March 2023,07:00,Fog Patches,7°,4,93%,1023 hPa
+Saturday 25 March 2023,07:30,Fog Patches,8°,4,87%,1023 hPa
+Saturday 25 March 2023,08:00,Fog Patches,8°,Calm,93%,1023 hPa
+Saturday 25 March 2023,08:30,Fog Patches,8°,Calm,93%,1024 hPa
+Saturday 25 March 2023,09:00,Fog Patches,9°,4,93%,1024 hPa
+Saturday 25 March 2023,09:30,Fog Patches,10°,Calm,87%,1024 hPa
+Saturday 25 March 2023,09:50,Mostly Cloudy,10°,Calm,87%,1024 hPa
+Saturday 25 March 2023,10:00,Mostly Cloudy,11°,2,82%,1024 hPa
+Saturday 25 March 2023,10:30,Mostly Cloudy,13°,2,77%,1024 hPa
+Saturday 25 March 2023,11:00,Mostly Cloudy,13°,4,77%,1024 hPa
+Saturday 25 March 2023,11:30,Partly Cloudy,14°,7,72%,1024 hPa
+Saturday 25 March 2023,12:00,Fair,15°,7,59%,1024 hPa
+Saturday 25 March 2023,12:30,Clear,16°,15,>,39 48% 1023 hPa
+Saturday 25 March 2023,13:00,Clear,17°,15,>,39 39% 1023 hPa
+Saturday 25 March 2023,13:30,Clear,18°,19,>,41 37% 1023 hPa
+Saturday 25 March 2023,14:00,Clear,19°,19,43%,1022 hPa
+Saturday 25 March 2023,14:30,Clear,20°,17,28%,1022 hPa
+Saturday 25 March 2023,15:00,Clear,20°,19,28%,1021 hPa
+Saturday 25 March 2023,15:30,Clear,20°,20,26%,1021 hPa
+Saturday 25 March 2023,16:00,Clear,21°,24,>,44 28% 1021 hPa
+Saturday 25 March 2023,16:30,Clear,21°,17,25%,1020 hPa
+Saturday 25 March 2023,17:00,Clear,21°,19,>,37 20% 1020 hPa
+Saturday 25 March 2023,17:30,Clear,21°,20,>,46 25% 1020 hPa
+Saturday 25 March 2023,18:00,Clear,21°,19,30%,1019 hPa
+Saturday 25 March 2023,18:30,Clear,21°,17,35%,1020 hPa
+Saturday 25 March 2023,19:00,Clear,20°,22,35%,1020 hPa
+Saturday 25 March 2023,19:30,Clear,19°,22,37%,1020 hPa
+Saturday 25 March 2023,20:00,Clear,18°,22,42%,1020 hPa
+Saturday 25 March 2023,20:30,Clear,18°,22,45%,1020 hPa
+Saturday 25 March 2023,21:00,Clear,18°,26,45%,1020 hPa
+Saturday 25 March 2023,21:30,Clear,17°,24,52%,1020 hPa
+Saturday 25 March 2023,22:00,Clear,17°,19,52%,1020 hPa
+Saturday 25 March 2023,22:30,Clear,16°,19,55%,1020 hPa
+Saturday 25 March 2023,23:00,Clear,16°,20,55%,1020 hPa
+Saturday 25 March 2023,23:30,Clear,16°,15,55%,1021 hPa
+Sunday 26 March 2023,00:00,Clear,16°,20,55%,1020 hPa
+Sunday 26 March 2023,00:30,Clear,16°,15,55%,1021 hPa
+Sunday 26 March 2023,01:00,Clear,15°,9,59%,1021 hPa
+Sunday 26 March 2023,01:30,Clear,14°,9,63%,1021 hPa
+Sunday 26 March 2023,03:00,Clear,14°,11,63%,1021 hPa
+Sunday 26 March 2023,03:30,Clear,14°,11,63%,1021 hPa
+Sunday 26 March 2023,04:00,Clear,13°,13,67%,1020 hPa
+Sunday 26 March 2023,04:30,Clear,13°,11,67%,1020 hPa
+Sunday 26 March 2023,05:00,Clear,13°,7,67%,1020 hPa
+Sunday 26 March 2023,05:30,Clear,12°,7,67%,1020 hPa
+Sunday 26 March 2023,06:00,Clear,9°,6,76%,1019 hPa
+Sunday 26 March 2023,06:30,Clear,9°,4,76%,1019 hPa
+Sunday 26 March 2023,07:00,Clear,9°,6,81%,1019 hPa
+Sunday 26 March 2023,07:30,Clear,9°,2,81%,1020 hPa
+Sunday 26 March 2023,08:00,Clear,11°,7,76%,1020 hPa
+Sunday 26 March 2023,08:30,Clear,11°,13,76%,1020 hPa
+Sunday 26 March 2023,09:00,Clear,12°,13,71%,1020 hPa
+Sunday 26 March 2023,09:30,Clear,13°,13,67%,1020 hPa
+Sunday 26 March 2023,10:00,Clear,13°,19,67%,1020 hPa
+Sunday 26 March 2023,10:30,Clear,15°,17,63%,1021 hPa
+Sunday 26 March 2023,11:00,Clear,16°,19,51%,1021 hPa
+Sunday 26 March 2023,11:30,Clear,17°,22,48%,1021 hPa
+Sunday 26 March 2023,12:00,Fair,19°,26,40%,1021 hPa
+Sunday 26 March 2023,12:30,Fair,19°,28,34%,1021 hPa
+Sunday 26 March 2023,13:00,Fair,19°,28,24%,1021 hPa
+Sunday 26 March 2023,13:30,Fair,20°,30,19%,1021 hPa
+Sunday 26 March 2023,14:00,Fair,21°,30,>,48 17% 1021 hPa
+Sunday 26 March 2023,14:30,Fair,20°,33,18%,1020 hPa
+Sunday 26 March 2023,15:00,Fair,21°,33,18%,1020 hPa
+Sunday 26 March 2023,15:30,Fair,21°,28,15%,1020 hPa
+Sunday 26 March 2023,16:00,Fair,21°,35,15%,1020 hPa
+Sunday 26 March 2023,16:30,Clear,22°,32,12%,1020 hPa
+Sunday 26 March 2023,17:00,Clear,21°,33,13%,1020 hPa
+Sunday 26 March 2023,17:30,Clear,21°,37,13%,1020 hPa
+Sunday 26 March 2023,18:00,Clear,21°,35,>,56 15% 1020 hPa
+Sunday 26 March 2023,18:30,Clear,20°,33,15%,1020 hPa
+Sunday 26 March 2023,19:00,Clear,20°,30,15%,1020 hPa
+Sunday 26 March 2023,19:30,Clear,19°,30,19%,1020 hPa
+Sunday 26 March 2023,20:00,Clear,18°,28,22%,1021 hPa
+Sunday 26 March 2023,20:30,Clear,17°,24,22%,1021 hPa
+Sunday 26 March 2023,21:00,Clear,16°,11,25%,1021 hPa
+Sunday 26 March 2023,21:30,Clear,15°,22,27%,1021 hPa
+Sunday 26 March 2023,22:00,Clear,14°,11,31%,1022 hPa
+Sunday 26 March 2023,22:30,Clear,14°,6,33%,1023 hPa
+Sunday 26 March 2023,23:00,Clear,13°,9,35%,1023 hPa
+Sunday 26 March 2023,23:30,Clear,12°,7,40%,1023 hPa
+Monday 27 March 2023,00:00,Clear,12°,6,38%,1023 hPa
+Monday 27 March 2023,00:30,Clear,11°,7,43%,1023 hPa
+Monday 27 March 2023,01:00,Clear,11°,9,43%,1023 hPa
+Monday 27 March 2023,01:30,Clear,10°,6,50%,1023 hPa
+Monday 27 March 2023,02:00,Clear,9°,4,53%,1023 hPa
+Monday 27 March 2023,02:30,Clear,9°,4,53%,1023 hPa
+Monday 27 March 2023,03:00,Clear,9°,11,53%,1023 hPa
+Monday 27 March 2023,03:30,Clear,9°,7,53%,1023 hPa
+Monday 27 March 2023,04:00,Clear,7°,6,61%,1023 hPa
+Monday 27 March 2023,04:30,Clear,8°,4,57%,1023 hPa
+Monday 27 March 2023,05:00,Clear,7°,6,61%,1023 hPa
+Monday 27 March 2023,05:30,Clear,7°,6,61%,1023 hPa
+Monday 27 March 2023,06:00,Clear,6°,2,65%,1023 hPa
+Monday 27 March 2023,06:30,Clear,5°,2,70%,1023 hPa
+Monday 27 March 2023,07:00,Clear,5°,Calm,70%,1023 hPa
+Monday 27 March 2023,07:30,Clear,6°,4,61%,1023 hPa
+Monday 27 March 2023,08:00,Clear,5°,Calm,65%,1023 hPa
+Monday 27 March 2023,08:30,Clear,6°,4,61%,1023 hPa
+Monday 27 March 2023,09:00,Clear,6°,2,65%,1024 hPa
+Monday 27 March 2023,09:30,Clear,8°,6,57%,1024 hPa
+Monday 27 March 2023,10:00,Clear,9°,6,53%,1024 hPa
+Monday 27 March 2023,10:30,Clear,10°,6,50%,1024 hPa
+Monday 27 March 2023,11:00,Clear,12°,9,44%,1024 hPa
+Monday 27 March 2023,11:30,Clear,13°,9,41%,1024 hPa
+Monday 27 March 2023,12:00,Clear,13°,7,38%,1024 hPa
+Monday 27 March 2023,12:30,Clear,14°,6,36%,1024 hPa
+Monday 27 March 2023,13:00,Clear,15°,2,31%,1024 hPa
+Monday 27 March 2023,13:30,Clear,15°,6,31%,1024 hPa
+Monday 27 March 2023,14:00,Clear,17°,6,32%,1024 hPa
+Monday 27 March 2023,14:30,Clear,17°,4,29%,1023 hPa
+Monday 27 March 2023,15:00,Clear,17°,4,27%,1023 hPa
+Monday 27 March 2023,15:30,Clear,18°,4,26%,1022 hPa
+Monday 27 March 2023,16:00,Clear,18°,4,28%,1022 hPa
+Monday 27 March 2023,16:30,Clear,19°,4,22%,1022 hPa
+Monday 27 March 2023,17:00,Clear,19°,4,18%,1021 hPa
+Monday 27 March 2023,17:30,Clear,20°,6,17%,1021 hPa
+Monday 27 March 2023,18:00,Clear,20°,4,18%,1021 hPa
+Monday 27 March 2023,18:30,Clear,20°,4,19%,1021 hPa
+Monday 27 March 2023,19:00,Clear,20°,4,19%,1021 hPa
+Monday 27 March 2023,19:30,Clear,19°,2,21%,1021 hPa
+Monday 27 March 2023,20:00,Clear,18°,6,22%,1021 hPa
+Monday 27 March 2023,20:30,Clear,17°,6,23%,1021 hPa
+Monday 27 March 2023,21:00,Clear,17°,9,23%,1021 hPa
+Monday 27 March 2023,21:30,Clear,17°,6,23%,1021 hPa
+Monday 27 March 2023,22:00,Clear,16°,4,25%,1022 hPa
+Monday 27 March 2023,22:30,Clear,14°,2,28%,1022 hPa
+Monday 27 March 2023,23:00,Clear,12°,7,38%,1022 hPa
+Monday 27 March 2023,23:30,Clear,12°,Calm,38%,1022 hPa
+Tuesday 28 March 2023,00:00,Clear,11°,6,37%,1022 hPa
+Tuesday 28 March 2023,00:30,Clear,11°,4,37%,1022 hPa
+Tuesday 28 March 2023,01:00,Clear,11°,2,32%,1023 hPa
+Tuesday 28 March 2023,01:30,Clear,10°,6,37%,1023 hPa
+Tuesday 28 March 2023,02:00,Clear,9°,6,43%,1023 hPa
+Tuesday 28 March 2023,02:30,Clear,7°,6,49%,1023 hPa
+Tuesday 28 March 2023,03:00,Clear,7°,4,49%,1023 hPa
+Tuesday 28 March 2023,03:30,Clear,7°,4,45%,1023 hPa
+Tuesday 28 March 2023,04:00,Clear,6°,7,52%,1023 hPa
+Tuesday 28 March 2023,04:30,Clear,5°,11,56%,1023 hPa
+Tuesday 28 March 2023,05:00,Clear,5°,6,56%,1023 hPa
+Tuesday 28 March 2023,05:30,Clear,5°,7,56%,1023 hPa
+Tuesday 28 March 2023,06:00,Clear,4°,6,60%,1023 hPa
+Tuesday 28 March 2023,06:30,Clear,4°,7,60%,1023 hPa
+Tuesday 28 March 2023,07:00,Clear,4°,6,60%,1023 hPa
+Tuesday 28 March 2023,07:30,Clear,4°,7,60%,1024 hPa
+Tuesday 28 March 2023,08:00,Clear,3°,4,65%,1024 hPa
+Tuesday 28 March 2023,08:30,Clear,3°,4,70%,1024 hPa
+Tuesday 28 March 2023,09:00,Clear,4°,4,65%,1025 hPa
+Tuesday 28 March 2023,09:30,Clear,6°,6,56%,1025 hPa
+Tuesday 28 March 2023,10:00,Clear,8°,6,49%,1025 hPa
+Tuesday 28 March 2023,10:30,Clear,9°,2,46%,1025 hPa
+Tuesday 28 March 2023,11:00,Clear,12°,2,40%,1025 hPa
+Tuesday 28 March 2023,11:30,Clear,14°,4,36%,1025 hPa
+Tuesday 28 March 2023,12:00,Clear,15°,4,33%,1025 hPa
+Tuesday 28 March 2023,12:30,Clear,16°,4,34%,1025 hPa
+Tuesday 28 March 2023,13:00,Clear,17°,4,29%,1025 hPa
+Tuesday 28 March 2023,13:30,Clear,18°,4,26%,1025 hPa
+Tuesday 28 March 2023,14:00,Clear,19°,2,26%,1025 hPa
+Tuesday 28 March 2023,14:30,Clear,20°,4,23%,1024 hPa
+Tuesday 28 March 2023,15:00,Clear,21°,6,21%,1024 hPa
+Tuesday 28 March 2023,15:30,Clear,22°,7,23%,1024 hPa
+Tuesday 28 March 2023,16:00,Clear,22°,6,20%,1023 hPa
+Tuesday 28 March 2023,16:30,Clear,22°,7,19%,1023 hPa
+Tuesday 28 March 2023,17:00,Clear,23°,7,19%,1023 hPa
+Tuesday 28 March 2023,17:30,Clear,23°,4,17%,1022 hPa
+Tuesday 28 March 2023,18:00,Clear,24°,7,15%,1022 hPa
+Tuesday 28 March 2023,18:30,Clear,24°,6,14%,1022 hPa
+Tuesday 28 March 2023,19:00,Clear,23°,9,16%,1022 hPa
+Tuesday 28 March 2023,19:30,Clear,23°,11,16%,1022 hPa
+Tuesday 28 March 2023,20:00,Clear,22°,9,16%,1022 hPa
+Tuesday 28 March 2023,20:30,Clear,22°,7,17%,1023 hPa
+Tuesday 28 March 2023,21:00,Clear,21°,6,17%,1023 hPa
+Tuesday 28 March 2023,21:30,Clear,21°,6,18%,1023 hPa
+Tuesday 28 March 2023,22:00,Clear,20°,4,21%,1023 hPa
+Tuesday 28 March 2023,22:30,Clear,16°,Calm,27%,1023 hPa
+Tuesday 28 March 2023,23:00,Clear,16°,4,27%,1024 hPa
+Tuesday 28 March 2023,23:30,Clear,14°,2,33%,1024 hPa
+Wednesday 29 March 2023,00:00,Clear,14°,6,38%,1024 hPa
+Wednesday 29 March 2023,00:30,Clear,13°,7,44%,1024 hPa
+Wednesday 29 March 2023,01:00,Clear,12°,6,47%,1024 hPa
+Wednesday 29 March 2023,01:30,Clear,11°,6,50%,1024 hPa
+Wednesday 29 March 2023,02:00,Clear,11°,6,50%,1024 hPa
+Wednesday 29 March 2023,02:30,Clear,10°,7,53%,1024 hPa
+Wednesday 29 March 2023,03:00,Clear,8°,9,61%,1024 hPa
+Wednesday 29 March 2023,03:30,Clear,9°,7,57%,1024 hPa
+Wednesday 29 March 2023,04:00,Clear,9°,6,57%,1024 hPa
+Wednesday 29 March 2023,04:30,Clear,8°,6,61%,1024 hPa
+Wednesday 29 March 2023,05:00,Clear,8°,7,57%,1024 hPa
+Wednesday 29 March 2023,05:30,Clear,8°,11,61%,1024 hPa
+Wednesday 29 March 2023,06:00,Clear,8°,6,61%,1024 hPa
+Wednesday 29 March 2023,06:30,Clear,7°,6,61%,1024 hPa
+Wednesday 29 March 2023,07:00,Clear,6°,6,65%,1024 hPa
+Wednesday 29 March 2023,07:30,Clear,6°,6,65%,1024 hPa
+Wednesday 29 March 2023,08:00,Clear,6°,6,65%,1024 hPa
+Wednesday 29 March 2023,08:30,Clear,6°,6,65%,1024 hPa
+Wednesday 29 March 2023,09:00,Clear,7°,6,66%,1025 hPa
+Wednesday 29 March 2023,09:30,Clear,9°,7,57%,1025 hPa
+Wednesday 29 March 2023,10:00,Clear,10°,4,53%,1025 hPa
+Wednesday 29 March 2023,10:30,Clear,12°,4,47%,1025 hPa
+Wednesday 29 March 2023,11:00,Clear,13°,6,51%,1025 hPa
+Wednesday 29 March 2023,11:30,Clear,15°,6,39%,1025 hPa
+Wednesday 29 March 2023,12:00,Clear,18°,2,37%,1024 hPa
+Wednesday 29 March 2023,12:30,Clear,18°,4,37%,1024 hPa
+Wednesday 29 March 2023,13:00,Clear,19°,4,37%,1024 hPa
+Wednesday 29 March 2023,13:30,Clear,21°,4,33%,1024 hPa
+Wednesday 29 March 2023,14:00,Clear,21°,4,30%,1023 hPa
+Wednesday 29 March 2023,14:30,Clear,22°,2,29%,1023 hPa
+Wednesday 29 March 2023,15:00,Clear,23°,6,25%,1023 hPa
+Wednesday 29 March 2023,15:30,Clear,24°,7,25%,1022 hPa
+Wednesday 29 March 2023,16:00,Clear,25°,15,21%,1022 hPa
+Wednesday 29 March 2023,16:30,Clear,25°,17,19%,1021 hPa
+Wednesday 29 March 2023,17:00,Clear,26°,17,>,39 18% 1021 hPa
+Wednesday 29 March 2023,17:30,Clear,26°,19,21%,1020 hPa
+Wednesday 29 March 2023,18:00,Clear,26°,19,20%,1020 hPa
+Wednesday 29 March 2023,18:30,Clear,26°,15,>,37 20% 1020 hPa
+Wednesday 29 March 2023,19:00,Clear,26°,19,20%,1020 hPa
+Wednesday 29 March 2023,19:30,Clear,25°,17,19%,1020 hPa
+Wednesday 29 March 2023,20:00,Clear,25°,20,19%,1020 hPa
+Wednesday 29 March 2023,20:30,Clear,24°,15,20%,1019 hPa
+Wednesday 29 March 2023,21:00,Clear,23°,13,23%,1020 hPa
+Wednesday 29 March 2023,21:30,Clear,22°,11,27%,1020 hPa
+Wednesday 29 March 2023,22:00,Clear,22°,7,25%,1021 hPa
+Wednesday 29 March 2023,22:30,Clear,21°,9,28%,1021 hPa
+Wednesday 29 March 2023,23:00,Clear,20°,9,30%,1022 hPa
+Wednesday 29 March 2023,23:30,Clear,20°,15,30%,1022 hPa
+Thursday 30 March 2023,00:00,Clear,20°,11,28%,1022 hPa
+Thursday 30 March 2023,00:30,Clear,19°,7,30%,1021 hPa
+Thursday 30 March 2023,01:00,Clear,16°,Calm,36%,1022 hPa
+Thursday 30 March 2023,01:30,Clear,16°,6,39%,1022 hPa
+Thursday 30 March 2023,02:00,Clear,15°,7,41%,1022 hPa
+Thursday 30 March 2023,02:30,Clear,15°,7,44%,1022 hPa
+Thursday 30 March 2023,03:00,Clear,13°,4,51%,1022 hPa
+Thursday 30 March 2023,03:30,Clear,14°,6,47%,1022 hPa
+Thursday 30 March 2023,04:00,Clear,14°,9,51%,1022 hPa
+Thursday 30 March 2023,04:30,Clear,14°,9,51%,1022 hPa
+Thursday 30 March 2023,05:00,Clear,15°,9,48%,1022 hPa
+Thursday 30 March 2023,05:30,Clear,14°,6,51%,1021 hPa
+Thursday 30 March 2023,06:00,Clear,13°,4,58%,1022 hPa
+Thursday 30 March 2023,06:30,Clear,9°,4,66%,1022 hPa
+Thursday 30 March 2023,07:00,Clear,9°,6,66%,1022 hPa
+Thursday 30 March 2023,07:30,Clear,9°,4,66%,1022 hPa
+Thursday 30 March 2023,08:00,Clear,8°,4,71%,1023 hPa
+Thursday 30 March 2023,08:30,Clear,10°,9,66%,1023 hPa
+Thursday 30 March 2023,09:00,Clear,9°,7,71%,1023 hPa
+Thursday 30 March 2023,09:30,Clear,11°,2,62%,1023 hPa
+Thursday 30 March 2023,10:00,Clear,16°,2,48%,1023 hPa
+Thursday 30 March 2023,10:30,Clear,16°,9,48%,1024 hPa
+Thursday 30 March 2023,11:00,Clear,17°,6,45%,1024 hPa
+Thursday 30 March 2023,11:30,Clear,18°,17,42%,1024 hPa
+Thursday 30 March 2023,12:00,Clear,18°,17,42%,1024 hPa
+Thursday 30 March 2023,12:30,Clear,18°,17,42%,1024 hPa
+Thursday 30 March 2023,13:00,Clear,19°,19,>,41 40% 1024 hPa
+Thursday 30 March 2023,13:30,Clear,20°,19,>,43 40% 1024 hPa
+Thursday 30 March 2023,14:00,Clear,21°,17,40%,1024 hPa
+Thursday 30 March 2023,14:30,Clear,21°,19,35%,1023 hPa
+Thursday 30 March 2023,15:00,Clear,22°,20,35%,1023 hPa
+Thursday 30 March 2023,15:30,Clear,22°,22,35%,1023 hPa
+Thursday 30 March 2023,16:00,Clear,23°,28,31%,1022 hPa
+Thursday 30 March 2023,16:30,Clear,23°,26,31%,1022 hPa
+Thursday 30 March 2023,17:00,Clear,23°,32,29%,1022 hPa
+Thursday 30 March 2023,17:30,Clear,22°,32,29%,1022 hPa
+Thursday 30 March 2023,18:00,Clear,23°,28,27%,1021 hPa
+Thursday 30 March 2023,18:30,Clear,22°,35,31%,1021 hPa
+Thursday 30 March 2023,19:00,Clear,21°,30,38%,1022 hPa
+Thursday 30 March 2023,19:30,Clear,20°,32,49%,1022 hPa
+Thursday 30 March 2023,20:00,Clear,20°,30,>,48 49% 1022 hPa
+Thursday 30 March 2023,20:30,Clear,19°,26,>,44 52% 1022 hPa
+Thursday 30 March 2023,21:00,Clear,19°,32,52%,1022 hPa
+Thursday 30 March 2023,21:30,Clear,18°,28,56%,1022 hPa
+Thursday 30 March 2023,22:00,Clear,18°,30,52%,1023 hPa
+Thursday 30 March 2023,22:30,Clear,18°,30,52%,1023 hPa
+Thursday 30 March 2023,23:00,Clear,17°,32,55%,1023 hPa
+Thursday 30 March 2023,23:30,Clear,17°,32,55%,1023 hPa
+Friday 31 March 2023,00:00,Clear,17°,30,55%,1023 hPa
+Friday 31 March 2023,00:30,Clear,17°,26,>,44 55% 1023 hPa
+Friday 31 March 2023,01:00,Clear,17°,20,55%,1023 hPa
+Friday 31 March 2023,01:30,Clear,17°,17,55%,1023 hPa
+Friday 31 March 2023,02:00,Clear,17°,17,55%,1023 hPa
+Friday 31 March 2023,02:30,Clear,17°,15,55%,1023 hPa
+Friday 31 March 2023,03:00,Clear,16°,15,59%,1023 hPa
+Friday 31 March 2023,03:30,Clear,16°,20,59%,1023 hPa
+Friday 31 March 2023,04:00,Clear,16°,17,55%,1023 hPa
+Friday 31 March 2023,04:30,Clear,16°,17,55%,1022 hPa
+Friday 31 March 2023,05:00,Clear,15°,19,55%,1022 hPa
+Friday 31 March 2023,05:30,Clear,15°,20,48%,1022 hPa
+Friday 31 March 2023,06:00,Clear,14°,20,51%,1022 hPa
+Friday 31 March 2023,06:30,Clear,14°,17,51%,1022 hPa
+Friday 31 March 2023,07:00,Clear,13°,15,54%,1022 hPa
+Friday 31 March 2023,07:30,Clear,13°,13,54%,1022 hPa
+Friday 31 March 2023,08:00,Clear,13°,19,54%,1022 hPa
+Friday 31 March 2023,08:30,Clear,12°,15,62%,1022 hPa
+Friday 31 March 2023,09:00,Clear,13°,11,58%,1022 hPa
+Friday 31 March 2023,09:30,Clear,14°,9,58%,1023 hPa
+Friday 31 March 2023,10:00,Clear,14°,20,58%,1023 hPa
+Friday 31 March 2023,10:30,Clear,14°,17,63%,1023 hPa
+Friday 31 March 2023,11:00,Clear,16°,13,55%,1023 hPa
+Friday 31 March 2023,11:30,Clear,16°,17,>,37 59% 1023 hPa
+Friday 31 March 2023,12:00,Clear,16°,17,59%,1023 hPa
+Friday 31 March 2023,12:30,Clear,17°,22,55%,1023 hPa
+Friday 31 March 2023,13:00,Clear,17°,26,63%,1022 hPa
+Friday 31 March 2023,13:30,Clear,18°,17,59%,1022 hPa
+Friday 31 March 2023,14:00,Clear,18°,17,59%,1022 hPa
+Friday 31 March 2023,14:30,Clear,19°,22,56%,1022 hPa
+Friday 31 March 2023,15:00,Fair,18°,24,59%,1022 hPa
+Friday 31 March 2023,15:30,Fair,21°,19,46%,1021 hPa
+Friday 31 March 2023,16:00,Fair,21°,20,46%,1021 hPa
+Friday 31 March 2023,16:30,Fair,21°,22,46%,1020 hPa
+Friday 31 March 2023,17:00,Fair,21°,20,>,48 46% 1020 hPa
+Friday 31 March 2023,17:30,Fair,22°,24,>,46 38% 1020 hPa
+Friday 31 March 2023,18:00,Partly Cloudy,21°,20,43%,1020 hPa
+Friday 31 March 2023,18:30,Partly Cloudy,21°,22,40%,1020 hPa
+Friday 31 March 2023,19:00,Partly Cloudy,20°,26,46%,1020 hPa
+Friday 31 March 2023,19:30,Fair,20°,24,46%,1019 hPa
+Friday 31 March 2023,20:00,Partly Cloudy,20°,28,49%,1020 hPa
+Friday 31 March 2023,20:30,Fair,19°,24,49%,1020 hPa
+Friday 31 March 2023,21:00,Clear,18°,32,52%,1020 hPa
+Friday 31 March 2023,21:30,Clear,18°,20,52%,1021 hPa
+Friday 31 March 2023,22:00,Clear,18°,11,52%,1021 hPa
+Friday 31 March 2023,22:30,Clear,17°,15,45%,1021 hPa
+Friday 31 March 2023,23:00,Clear,17°,17,45%,1022 hPa
+Friday 31 March 2023,23:30,Clear,16°,30,48%,1022 hPa

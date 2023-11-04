@@ -1,0 +1,1492 @@
+Day,Hour,Condition,Temperature,Wind,Relative_hum,Pressure
+Thursday 1 December 2022,00:00,Clear,7°,4,87%,1015 hPa
+Thursday 1 December 2022,00:30,Clear,7°,4,81%,1015 hPa
+Thursday 1 December 2022,01:00,Clear,7°,4,87%,1015 hPa
+Thursday 1 December 2022,01:30,Clear,7°,6,87%,1015 hPa
+Thursday 1 December 2022,02:00,Clear,7°,4,87%,1015 hPa
+Thursday 1 December 2022,02:30,Clear,7°,4,87%,1015 hPa
+Thursday 1 December 2022,03:00,Clear,7°,4,87%,1015 hPa
+Thursday 1 December 2022,03:30,Clear,6°,4,87%,1015 hPa
+Thursday 1 December 2022,04:00,Clear,6°,4,87%,1014 hPa
+Thursday 1 December 2022,04:30,Clear,4°,4,93%,1014 hPa
+Thursday 1 December 2022,05:00,Clear,4°,6,93%,1014 hPa
+Thursday 1 December 2022,05:30,Clear,4°,6,93%,1014 hPa
+Thursday 1 December 2022,06:00,Clear,3°,4,93%,1014 hPa
+Thursday 1 December 2022,06:30,Clear,3°,4,93%,1014 hPa
+Thursday 1 December 2022,07:00,Clear,3°,4,93%,1015 hPa
+Thursday 1 December 2022,07:30,Clear,3°,4,93%,1015 hPa
+Thursday 1 December 2022,08:00,Clear,2°,2,87%,1015 hPa
+Thursday 1 December 2022,08:30,Clear,2°,Calm,93%,1015 hPa
+Thursday 1 December 2022,09:00,Clear,3°,2,93%,1015 hPa
+Thursday 1 December 2022,09:30,Clear,5°,6,87%,1016 hPa
+Thursday 1 December 2022,10:00,Clear,6°,9,81%,1016 hPa
+Thursday 1 December 2022,10:30,Clear,8°,9,71%,1016 hPa
+Thursday 1 December 2022,11:00,Clear,9°,11,66%,1016 hPa
+Thursday 1 December 2022,11:30,Clear,10°,11,62%,1016 hPa
+Thursday 1 December 2022,12:00,Clear,10°,13,57%,1016 hPa
+Thursday 1 December 2022,12:30,Clear,11°,15,54%,1015 hPa
+Thursday 1 December 2022,13:00,Clear,11°,15,54%,1015 hPa
+Thursday 1 December 2022,13:30,Clear,12°,9,44%,1015 hPa
+Thursday 1 December 2022,14:00,Clear,12°,13,50%,1015 hPa
+Thursday 1 December 2022,14:30,Clear,13°,13,38%,1014 hPa
+Thursday 1 December 2022,15:00,Clear,12°,11,40%,1014 hPa
+Thursday 1 December 2022,15:30,Clear,12°,9,44%,1014 hPa
+Thursday 1 December 2022,16:00,Clear,13°,9,41%,1013 hPa
+Thursday 1 December 2022,16:30,Clear,13°,6,44%,1013 hPa
+Thursday 1 December 2022,17:00,Clear,12°,11,47%,1013 hPa
+Thursday 1 December 2022,17:30,Clear,11°,4,50%,1014 hPa
+Thursday 1 December 2022,18:00,Clear,10°,6,50%,1014 hPa
+Thursday 1 December 2022,18:30,Clear,10°,9,46%,1014 hPa
+Thursday 1 December 2022,19:00,Clear,9°,7,49%,1014 hPa
+Thursday 1 December 2022,19:30,Clear,9°,4,49%,1014 hPa
+Thursday 1 December 2022,20:00,Clear,7°,4,57%,1014 hPa
+Thursday 1 December 2022,20:30,Clear,7°,4,57%,1014 hPa
+Thursday 1 December 2022,21:00,Clear,6°,2,65%,1015 hPa
+Thursday 1 December 2022,21:30,Clear,7°,2,61%,1015 hPa
+Thursday 1 December 2022,22:00,Clear,7°,2,61%,1015 hPa
+Thursday 1 December 2022,22:30,Clear,6°,7,65%,1015 hPa
+Thursday 1 December 2022,23:00,Clear,6°,9,65%,1015 hPa
+Thursday 1 December 2022,23:30,Clear,6°,4,65%,1016 hPa
+Friday 2 December 2022,00:00,Clear,4°,2,70%,1016 hPa
+Friday 2 December 2022,00:30,Clear,4°,7,70%,1016 hPa
+Friday 2 December 2022,01:00,Clear,3°,6,75%,1016 hPa
+Friday 2 December 2022,01:30,Clear,4°,7,75%,1015 hPa
+Friday 2 December 2022,02:00,Clear,3°,7,75%,1015 hPa
+Friday 2 December 2022,02:30,Clear,3°,9,75%,1015 hPa
+Friday 2 December 2022,03:00,Clear,4°,7,75%,1015 hPa
+Friday 2 December 2022,03:30,Mostly Cloudy,4°,7,75%,1015 hPa
+Friday 2 December 2022,04:00,Mostly Cloudy,4°,9,75%,1015 hPa
+Friday 2 December 2022,04:30,Mostly Cloudy,4°,7,75%,1015 hPa
+Friday 2 December 2022,05:00,Mostly Cloudy,4°,9,75%,1015 hPa
+Friday 2 December 2022,05:30,Mostly Cloudy,4°,9,75%,1015 hPa
+Friday 2 December 2022,06:00,Mostly Cloudy,3°,7,81%,1014 hPa
+Friday 2 December 2022,06:30,Mostly Cloudy,3°,9,75%,1014 hPa
+Friday 2 December 2022,07:00,Mostly Cloudy,2°,7,80%,1014 hPa
+Friday 2 December 2022,07:30,Mostly Cloudy,2°,7,80%,1015 hPa
+Friday 2 December 2022,08:00,Mostly Cloudy,2°,7,80%,1015 hPa
+Friday 2 December 2022,08:30,Mostly Cloudy,2°,7,80%,1015 hPa
+Friday 2 December 2022,09:00,Mostly Cloudy,2°,11,75%,1015 hPa
+Friday 2 December 2022,09:30,Mostly Cloudy,2°,9,75%,1015 hPa
+Friday 2 December 2022,10:00,Mostly Cloudy,3°,9,75%,1015 hPa
+Friday 2 December 2022,10:30,Mostly Cloudy,3°,11,75%,1015 hPa
+Friday 2 December 2022,11:00,Mostly Cloudy,4°,9,75%,1015 hPa
+Friday 2 December 2022,11:30,Mostly Cloudy,5°,7,70%,1015 hPa
+Friday 2 December 2022,12:00,Mostly Cloudy,6°,4,70%,1014 hPa
+Friday 2 December 2022,12:30,Mostly Cloudy,7°,4,70%,1014 hPa
+Friday 2 December 2022,13:00,Partly Cloudy,8°,2,66%,1014 hPa
+Friday 2 December 2022,13:30,Partly Cloudy,8°,4,66%,1013 hPa
+Friday 2 December 2022,14:00,Partly Cloudy,10°,6,62%,1013 hPa
+Friday 2 December 2022,14:30,Fair,10°,4,62%,1012 hPa
+Friday 2 December 2022,15:00,Fair,11°,6,58%,1012 hPa
+Friday 2 December 2022,15:30,Fair,11°,Calm,58%,1012 hPa
+Friday 2 December 2022,16:00,Fair,11°,2,58%,1012 hPa
+Friday 2 December 2022,16:30,Fair,10°,6,62%,1011 hPa
+Friday 2 December 2022,17:00,Fair,11°,Calm,54%,1011 hPa
+Friday 2 December 2022,17:30,Fair,8°,2,71%,1011 hPa
+Friday 2 December 2022,18:00,Fair,6°,4,75%,1011 hPa
+Friday 2 December 2022,18:30,Fair,6°,4,75%,1011 hPa
+Friday 2 December 2022,19:00,Fair,6°,6,75%,1011 hPa
+Friday 2 December 2022,19:30,Fair,5°,4,81%,1011 hPa
+Friday 2 December 2022,20:00,Fair,5°,4,81%,1011 hPa
+Friday 2 December 2022,20:30,Fair,5°,4,81%,1011 hPa
+Friday 2 December 2022,21:00,Partly Cloudy,4°,2,87%,1011 hPa
+Friday 2 December 2022,21:30,Fair,4°,6,87%,1011 hPa
+Friday 2 December 2022,22:00,Fair,3°,9,87%,1011 hPa
+Friday 2 December 2022,22:30,Clear,3°,7,87%,1011 hPa
+Friday 2 December 2022,23:00,Partly Cloudy,3°,6,87%,1011 hPa
+Friday 2 December 2022,23:30,Partly Cloudy,3°,7,87%,1011 hPa
+Saturday 3 December 2022,00:00,Partly Cloudy,2°,6,93%,1011 hPa
+Saturday 3 December 2022,00:30,Partly Cloudy,2°,4,87%,1011 hPa
+Saturday 3 December 2022,01:00,Partly Cloudy,1°,6,93%,1010 hPa
+Saturday 3 December 2022,01:30,Partly Cloudy,1°,6,93%,1010 hPa
+Saturday 3 December 2022,02:00,Fair,1°,6,93%,1010 hPa
+Saturday 3 December 2022,02:30,Fair,1°,6,93%,1010 hPa
+Saturday 3 December 2022,03:00,Fair,0°,4,100%,1010 hPa
+Saturday 3 December 2022,03:30,Fair,1°,6,93%,1009 hPa
+Saturday 3 December 2022,04:00,Partly Cloudy,0°,4,93%,1009 hPa
+Saturday 3 December 2022,04:30,Partly Cloudy,0°,4,93%,1009 hPa
+Saturday 3 December 2022,05:00,Fair,-1°,4,93%,1009 hPa
+Saturday 3 December 2022,05:30,Fair,0°,4,93%,1009 hPa
+Saturday 3 December 2022,06:00,Partly Cloudy,-1°,4,93%,1008 hPa
+Saturday 3 December 2022,06:30,Partly Cloudy,-1°,6,93%,1008 hPa
+Saturday 3 December 2022,07:00,Partly Cloudy,-1°,4,93%,1008 hPa
+Saturday 3 December 2022,07:30,Fair,-1°,4,100%,1008 hPa
+Saturday 3 December 2022,08:00,Partly Cloudy,0°,4,93%,1008 hPa
+Saturday 3 December 2022,08:30,Mostly Cloudy,0°,4,93%,1008 hPa
+Saturday 3 December 2022,09:00,Partly Cloudy,0°,2,93%,1008 hPa
+Saturday 3 December 2022,09:30,Fair,0°,6,93%,1008 hPa
+Saturday 3 December 2022,10:00,Fair,1°,4,93%,1008 hPa
+Saturday 3 December 2022,10:30,Partly Cloudy,2°,4,87%,1008 hPa
+Saturday 3 December 2022,11:00,Fair,3°,2,87%,1008 hPa
+Saturday 3 December 2022,11:30,Fair,5°,4,81%,1008 hPa
+Saturday 3 December 2022,12:00,Fair,6°,7,75%,1008 hPa
+Saturday 3 December 2022,12:30,Clear,6°,7,75%,1007 hPa
+Saturday 3 December 2022,13:00,Clear,7°,11,76%,1007 hPa
+Saturday 3 December 2022,13:30,Fair,8°,9,71%,1006 hPa
+Saturday 3 December 2022,14:00,Clear,8°,9,76%,1006 hPa
+Saturday 3 December 2022,14:30,Fair,9°,11,71%,1006 hPa
+Saturday 3 December 2022,15:00,Partly Cloudy,9°,7,71%,1006 hPa
+Saturday 3 December 2022,15:30,Partly Cloudy,9°,7,71%,1006 hPa
+Saturday 3 December 2022,16:00,Partly Cloudy,9°,6,71%,1006 hPa
+Saturday 3 December 2022,16:30,Partly Cloudy,9°,4,71%,1006 hPa
+Saturday 3 December 2022,17:00,Mostly Cloudy,9°,4,71%,1006 hPa
+Saturday 3 December 2022,17:30,Mostly Cloudy,8°,6,76%,1006 hPa
+Saturday 3 December 2022,18:00,Mostly Cloudy,8°,4,76%,1006 hPa
+Saturday 3 December 2022,18:30,Mostly Cloudy,7°,6,81%,1006 hPa
+Saturday 3 December 2022,19:00,Light Rain,7°,4,81%,1006 hPa
+Saturday 3 December 2022,19:30,Drizzle,6°,2,93%,1006 hPa
+Saturday 3 December 2022,20:00,Drizzle,6°,4,93%,1006 hPa
+Saturday 3 December 2022,20:30,Mostly Cloudy,6°,4,93%,1006 hPa
+Saturday 3 December 2022,21:00,Mostly Cloudy,6°,7,93%,1006 hPa
+Saturday 3 December 2022,21:30,Mostly Cloudy,6°,6,87%,1006 hPa
+Saturday 3 December 2022,22:00,Mostly Cloudy,5°,6,93%,1006 hPa
+Saturday 3 December 2022,22:30,Partly Cloudy,5°,2,93%,1007 hPa
+Saturday 3 December 2022,23:00,Partly Cloudy,5°,2,93%,1007 hPa
+Saturday 3 December 2022,23:30,Partly Cloudy,5°,4,93%,1007 hPa
+Sunday 4 December 2022,00:00,Partly Cloudy,5°,4,93%,1007 hPa
+Sunday 4 December 2022,00:30,Partly Cloudy,5°,6,87%,1007 hPa
+Sunday 4 December 2022,01:00,Partly Cloudy,4°,7,93%,1007 hPa
+Sunday 4 December 2022,01:30,Clear,3°,6,93%,1007 hPa
+Sunday 4 December 2022,02:00,Clear,2°,6,93%,1007 hPa
+Sunday 4 December 2022,02:30,Clear,2°,6,93%,1007 hPa
+Sunday 4 December 2022,03:00,Fair,2°,6,93%,1007 hPa
+Sunday 4 December 2022,03:30,Fair,2°,6,93%,1007 hPa
+Sunday 4 December 2022,04:00,Clear,2°,6,87%,1007 hPa
+Sunday 4 December 2022,04:30,Clear,1°,6,93%,1007 hPa
+Sunday 4 December 2022,05:00,Partly Cloudy,1°,6,93%,1007 hPa
+Sunday 4 December 2022,05:30,Partly Cloudy,1°,7,93%,1007 hPa
+Sunday 4 December 2022,06:00,Partly Cloudy,1°,9,93%,1007 hPa
+Sunday 4 December 2022,06:30,Mostly Cloudy,1°,6,93%,1008 hPa
+Sunday 4 December 2022,07:00,Mostly Cloudy,0°,6,93%,1008 hPa
+Sunday 4 December 2022,07:30,Mostly Cloudy,0°,6,93%,1008 hPa
+Sunday 4 December 2022,08:00,Mostly Cloudy,1°,6,86%,1008 hPa
+Sunday 4 December 2022,08:30,Mostly Cloudy,1°,6,86%,1008 hPa
+Sunday 4 December 2022,09:00,Partly Cloudy,1°,6,86%,1009 hPa
+Sunday 4 December 2022,09:30,Partly Cloudy,1°,7,86%,1009 hPa
+Sunday 4 December 2022,10:00,Mostly Cloudy,2°,6,87%,1009 hPa
+Sunday 4 December 2022,10:06,Mostly Cloudy,2°,6,87%,1009 hPa
+Sunday 4 December 2022,10:30,Mostly Cloudy,3°,4,81%,1010 hPa
+Sunday 4 December 2022,11:00,Cloudy,3°,7,87%,1010 hPa
+Sunday 4 December 2022,11:30,Light Rain,4°,9,81%,1010 hPa
+Sunday 4 December 2022,12:00,Drizzle,4°,7,87%,1010 hPa
+Sunday 4 December 2022,12:30,Light Rain,5°,7,87%,1010 hPa
+Sunday 4 December 2022,13:00,Light Rain,5°,6,87%,1010 hPa
+Sunday 4 December 2022,13:30,Light Rain,6°,4,87%,1010 hPa
+Sunday 4 December 2022,14:00,Mostly Cloudy,6°,2,87%,1010 hPa
+Sunday 4 December 2022,14:30,Light Rain,7°,2,87%,1010 hPa
+Sunday 4 December 2022,15:00,Drizzle,7°,2,87%,1010 hPa
+Sunday 4 December 2022,15:30,Drizzle,7°,Calm,87%,1010 hPa
+Sunday 4 December 2022,16:00,Drizzle,7°,2,87%,1010 hPa
+Sunday 4 December 2022,16:30,Drizzle,7°,2,93%,1010 hPa
+Sunday 4 December 2022,17:00,Mostly Cloudy,7°,6,93%,1010 hPa
+Sunday 4 December 2022,17:30,Mostly Cloudy,7°,4,93%,1011 hPa
+Sunday 4 December 2022,18:00,Cloudy,7°,Calm,93%,1011 hPa
+Sunday 4 December 2022,18:30,Cloudy,7°,2,93%,1011 hPa
+Sunday 4 December 2022,19:00,Mostly Cloudy,7°,2,93%,1012 hPa
+Sunday 4 December 2022,19:30,Partly Cloudy,6°,6,93%,1012 hPa
+Sunday 4 December 2022,20:00,Mist,6°,6,93%,1012 hPa
+Sunday 4 December 2022,20:30,Mist,5°,2,100%,1012 hPa
+Sunday 4 December 2022,21:00,Mist,6°,4,93%,1013 hPa
+Sunday 4 December 2022,21:04,Mist,5°,Calm,100%,1013 hPa
+Sunday 4 December 2022,21:30,Mist,6°,2,93%,1013 hPa
+Sunday 4 December 2022,22:00,Mist,6°,2,100%,1013 hPa
+Sunday 4 December 2022,22:30,Mist,6°,4,100%,1014 hPa
+Sunday 4 December 2022,23:00,Mist,7°,4,93%,1014 hPa
+Sunday 4 December 2022,23:30,Mist,6°,4,100%,1014 hPa
+Monday 5 December 2022,00:00,Mist,6°,4,93%,1014 hPa
+Monday 5 December 2022,00:30,Mist,6°,4,100%,1014 hPa
+Monday 5 December 2022,01:00,Mist,6°,2,93%,1014 hPa
+Monday 5 December 2022,01:30,Mist,6°,2,93%,1014 hPa
+Monday 5 December 2022,02:00,Mist,6°,4,100%,1014 hPa
+Monday 5 December 2022,02:30,Mist,6°,2,100%,1014 hPa
+Monday 5 December 2022,03:00,Fog Patches,6°,4,93%,1014 hPa
+Monday 5 December 2022,03:30,Fog Patches,5°,4,93%,1014 hPa
+Monday 5 December 2022,03:53,Fog Patches,3°,7,100%,1013 hPa
+Monday 5 December 2022,04:00,Fog Patches,4°,7,93%,1013 hPa
+Monday 5 December 2022,04:23,Fog Patches,4°,11,93%,1014 hPa
+Monday 5 December 2022,04:30,Fog Patches,4°,11,93%,1013 hPa
+Monday 5 December 2022,05:00,Mist,4°,13,100%,1014 hPa
+Monday 5 December 2022,05:22,Mist,4°,7,100%,1014 hPa
+Monday 5 December 2022,05:30,Mist,4°,7,100%,1014 hPa
+Monday 5 December 2022,06:00,Light Rain,5°,7,93%,1013 hPa
+Monday 5 December 2022,06:30,Light Rain,5°,9,93%,1014 hPa
+Monday 5 December 2022,07:00,Drizzle,5°,9,93%,1014 hPa
+Monday 5 December 2022,07:30,Light Rain,5°,9,100%,1014 hPa
+Monday 5 December 2022,08:00,Drizzle,6°,13,93%,1014 hPa
+Monday 5 December 2022,08:07,Drizzle,6°,13,93%,1014 hPa
+Monday 5 December 2022,08:30,Drizzle,6°,11,93%,1014 hPa
+Monday 5 December 2022,09:00,Drizzle,6°,9,93%,1014 hPa
+Monday 5 December 2022,09:30,Drizzle,6°,9,100%,1014 hPa
+Monday 5 December 2022,10:00,Drizzle,6°,9,100%,1014 hPa
+Monday 5 December 2022,10:30,Cloudy,7°,7,93%,1015 hPa
+Monday 5 December 2022,11:00,Cloudy,7°,6,93%,1015 hPa
+Monday 5 December 2022,11:30,Mist,7°,6,100%,1014 hPa
+Monday 5 December 2022,11:44,Drizzle,7°,6,100%,1014 hPa
+Monday 5 December 2022,12:00,Light Rain,7°,4,100%,1014 hPa
+Monday 5 December 2022,12:30,Light Rain,8°,9,93%,1014 hPa
+Monday 5 December 2022,13:00,Drizzle,8°,9,93%,1014 hPa
+Monday 5 December 2022,13:30,Drizzle,8°,9,100%,1013 hPa
+Monday 5 December 2022,14:00,Light Rain,8°,9,100%,1013 hPa
+Monday 5 December 2022,14:30,Light Rain,8°,9,100%,1013 hPa
+Monday 5 December 2022,15:00,Light Rain,9°,9,93%,1013 hPa
+Monday 5 December 2022,15:30,Drizzle,9°,9,93%,1012 hPa
+Monday 5 December 2022,16:00,Drizzle,9°,4,100%,1013 hPa
+Monday 5 December 2022,16:30,Drizzle,9°,4,100%,1012 hPa
+Monday 5 December 2022,17:00,Drizzle,9°,4,100%,1013 hPa
+Monday 5 December 2022,17:30,Mist,9°,4,100%,1013 hPa
+Monday 5 December 2022,18:00,Drizzle,9°,4,100%,1013 hPa
+Monday 5 December 2022,18:30,Light Rain,9°,6,100%,1013 hPa
+Monday 5 December 2022,19:00,Rain,9°,4,100%,1014 hPa
+Monday 5 December 2022,19:30,Drizzle,9°,6,100%,1013 hPa
+Monday 5 December 2022,20:00,Light Rain,9°,6,100%,1014 hPa
+Monday 5 December 2022,20:30,Drizzle,9°,7,100%,1014 hPa
+Monday 5 December 2022,21:00,Light Rain,9°,4,100%,1014 hPa
+Monday 5 December 2022,21:30,Rain,9°,4,100%,1014 hPa
+Monday 5 December 2022,22:00,Rain,9°,4,100%,1014 hPa
+Monday 5 December 2022,22:30,Rain,9°,2,100%,1014 hPa
+Monday 5 December 2022,23:00,Light Rain,9°,6,100%,1014 hPa
+Monday 5 December 2022,23:30,Mist,9°,6,100%,1014 hPa
+Tuesday 6 December 2022,00:00,Mist,9°,6,100%,1014 hPa
+Tuesday 6 December 2022,00:30,Mist,9°,9,100%,1014 hPa
+Tuesday 6 December 2022,01:00,Mist,9°,6,100%,1014 hPa
+Tuesday 6 December 2022,01:30,Mostly Cloudy,9°,7,100%,1014 hPa
+Tuesday 6 December 2022,02:00,Mist,9°,7,100%,1013 hPa
+Tuesday 6 December 2022,02:30,Mist,9°,7,100%,1014 hPa
+Tuesday 6 December 2022,03:00,Cloudy,9°,4,100%,1014 hPa
+Tuesday 6 December 2022,03:30,Cloudy,9°,4,100%,1014 hPa
+Tuesday 6 December 2022,04:00,Cloudy,9°,4,100%,1014 hPa
+Tuesday 6 December 2022,04:30,Light Rain,9°,4,100%,1014 hPa
+Tuesday 6 December 2022,05:00,Mist,9°,4,100%,1014 hPa
+Tuesday 6 December 2022,05:30,Mist,9°,4,100%,1014 hPa
+Tuesday 6 December 2022,06:00,Mist,9°,6,100%,1014 hPa
+Tuesday 6 December 2022,06:30,Mist,9°,4,100%,1014 hPa
+Tuesday 6 December 2022,07:00,Mist,9°,6,100%,1014 hPa
+Tuesday 6 December 2022,07:30,Mostly Cloudy,9°,2,100%,1015 hPa
+Tuesday 6 December 2022,08:00,Mostly Cloudy,9°,2,100%,1015 hPa
+Tuesday 6 December 2022,08:30,Mostly Cloudy,9°,4,100%,1015 hPa
+Tuesday 6 December 2022,09:00,Mist,9°,4,100%,1015 hPa
+Tuesday 6 December 2022,09:30,Mostly Cloudy,9°,2,100%,1015 hPa
+Tuesday 6 December 2022,10:00,Mostly Cloudy,9°,2,100%,1016 hPa
+Tuesday 6 December 2022,10:30,Mostly Cloudy,10°,2,100%,1016 hPa
+Tuesday 6 December 2022,11:00,Cloudy,10°,4,100%,1016 hPa
+Tuesday 6 December 2022,11:30,Mostly Cloudy,10°,4,100%,1017 hPa
+Tuesday 6 December 2022,12:00,Mostly Cloudy,11°,4,94%,1017 hPa
+Tuesday 6 December 2022,12:30,Mostly Cloudy,11°,4,94%,1016 hPa
+Tuesday 6 December 2022,13:00,Mostly Cloudy,11°,2,87%,1016 hPa
+Tuesday 6 December 2022,13:30,Mostly Cloudy,12°,2,82%,1016 hPa
+Tuesday 6 December 2022,14:00,Mostly Cloudy,12°,2,82%,1016 hPa
+Tuesday 6 December 2022,14:30,Mostly Cloudy,12°,Calm,82%,1016 hPa
+Tuesday 6 December 2022,15:00,Mostly Cloudy,12°,2,82%,1016 hPa
+Tuesday 6 December 2022,15:30,Mostly Cloudy,12°,4,88%,1016 hPa
+Tuesday 6 December 2022,16:00,Mostly Cloudy,12°,Calm,88%,1016 hPa
+Tuesday 6 December 2022,16:30,Cloudy,12°,2,82%,1015 hPa
+Tuesday 6 December 2022,17:00,Cloudy,12°,2,82%,1015 hPa
+Tuesday 6 December 2022,17:30,Cloudy,11°,2,94%,1016 hPa
+Tuesday 6 December 2022,18:00,Cloudy,11°,2,87%,1016 hPa
+Tuesday 6 December 2022,18:30,Cloudy,11°,4,87%,1016 hPa
+Tuesday 6 December 2022,19:00,Cloudy,11°,2,87%,1016 hPa
+Tuesday 6 December 2022,19:30,Cloudy,10°,Calm,93%,1016 hPa
+Tuesday 6 December 2022,20:00,Cloudy,10°,2,93%,1016 hPa
+Tuesday 6 December 2022,20:30,Mostly Cloudy,10°,2,100%,1016 hPa
+Tuesday 6 December 2022,21:00,Mist,10°,Calm,93%,1016 hPa
+Tuesday 6 December 2022,21:30,Mist,10°,Calm,93%,1016 hPa
+Tuesday 6 December 2022,22:00,Mist,10°,Calm,93%,1016 hPa
+Tuesday 6 December 2022,22:30,Mist,10°,2,93%,1017 hPa
+Tuesday 6 December 2022,23:00,Mist,10°,Calm,93%,1017 hPa
+Tuesday 6 December 2022,23:30,Mist,9°,2,100%,1017 hPa
+Wednesday 7 December 2022,00:00,Mist,10°,Calm,93%,1017 hPa
+Wednesday 7 December 2022,00:30,Mist,10°,Calm,93%,1017 hPa
+Wednesday 7 December 2022,01:00,Mist,9°,Calm,100%,1016 hPa
+Wednesday 7 December 2022,01:30,Mist,9°,4,100%,1016 hPa
+Wednesday 7 December 2022,02:00,Mist,9°,4,100%,1016 hPa
+Wednesday 7 December 2022,02:30,Mist,9°,4,100%,1016 hPa
+Wednesday 7 December 2022,03:00,Mist,9°,2,93%,1015 hPa
+Wednesday 7 December 2022,03:30,Mist,9°,4,93%,1015 hPa
+Wednesday 7 December 2022,04:00,Mist,9°,2,93%,1015 hPa
+Wednesday 7 December 2022,04:30,Mist,9°,2,93%,1015 hPa
+Wednesday 7 December 2022,05:00,Mist,9°,Calm,93%,1015 hPa
+Wednesday 7 December 2022,05:30,Mist,8°,4,100%,1015 hPa
+Wednesday 7 December 2022,06:00,Mist,8°,4,100%,1015 hPa
+Wednesday 7 December 2022,06:30,Mist,8°,4,100%,1015 hPa
+Wednesday 7 December 2022,07:00,Mist,9°,6,93%,1015 hPa
+Wednesday 7 December 2022,07:30,Mist,9°,4,100%,1015 hPa
+Wednesday 7 December 2022,08:00,Mist,9°,4,100%,1015 hPa
+Wednesday 7 December 2022,08:30,Mist,9°,Calm,100%,1015 hPa
+Wednesday 7 December 2022,09:00,Mist,9°,2,100%,1015 hPa
+Wednesday 7 December 2022,09:30,Mist,9°,Calm,100%,1015 hPa
+Wednesday 7 December 2022,10:00,Mist,9°,2,100%,1015 hPa
+Wednesday 7 December 2022,10:30,Cloudy,10°,4,93%,1015 hPa
+Wednesday 7 December 2022,11:00,Cloudy,11°,2,94%,1015 hPa
+Wednesday 7 December 2022,11:30,Cloudy,12°,4,88%,1015 hPa
+Wednesday 7 December 2022,12:00,Cloudy,12°,6,82%,1015 hPa
+Wednesday 7 December 2022,12:30,Mostly Cloudy,12°,7,88%,1014 hPa
+Wednesday 7 December 2022,13:00,Mostly Cloudy,12°,6,88%,1014 hPa
+Wednesday 7 December 2022,13:30,Mostly Cloudy,12°,4,88%,1014 hPa
+Wednesday 7 December 2022,14:00,Mostly Cloudy,13°,6,77%,1013 hPa
+Wednesday 7 December 2022,14:30,Mostly Cloudy,13°,2,82%,1013 hPa
+Wednesday 7 December 2022,15:00,Mostly Cloudy,13°,2,77%,1012 hPa
+Wednesday 7 December 2022,15:30,Mostly Cloudy,14°,4,72%,1012 hPa
+Wednesday 7 December 2022,16:00,Mostly Cloudy,13°,2,77%,1012 hPa
+Wednesday 7 December 2022,16:30,Mostly Cloudy,13°,2,77%,1012 hPa
+Wednesday 7 December 2022,17:00,Partly Cloudy,13°,4,77%,1012 hPa
+Wednesday 7 December 2022,17:30,Mostly Cloudy,12°,2,82%,1012 hPa
+Wednesday 7 December 2022,18:00,Mostly Cloudy,12°,4,76%,1011 hPa
+Wednesday 7 December 2022,18:30,Partly Cloudy,10°,2,87%,1011 hPa
+Wednesday 7 December 2022,19:00,Partly Cloudy,10°,Calm,87%,1011 hPa
+Wednesday 7 December 2022,19:30,Partly Cloudy,10°,2,93%,1011 hPa
+Wednesday 7 December 2022,20:00,Partly Cloudy,9°,2,93%,1011 hPa
+Wednesday 7 December 2022,20:30,Fair,8°,2,93%,1011 hPa
+Wednesday 7 December 2022,21:00,Fair,8°,Calm,93%,1011 hPa
+Wednesday 7 December 2022,21:30,Partly Cloudy,8°,Calm,93%,1011 hPa
+Wednesday 7 December 2022,22:00,Fog Patches,7°,6,100%,1011 hPa
+Wednesday 7 December 2022,22:30,Fair,7°,4,100%,1011 hPa
+Wednesday 7 December 2022,23:00,Fog Patches,7°,4,93%,1011 hPa
+Wednesday 7 December 2022,23:30,Fog Patches,7°,6,93%,1011 hPa
+Thursday 8 December 2022,00:00,Fog Patches,7°,6,93%,1010 hPa
+Thursday 8 December 2022,00:17,Mist,7°,6,100%,1010 hPa
+Thursday 8 December 2022,00:30,Mist,7°,2,100%,1010 hPa
+Thursday 8 December 2022,01:00,Mist,7°,2,93%,1010 hPa
+Thursday 8 December 2022,01:30,Mist,6°,6,100%,1009 hPa
+Thursday 8 December 2022,02:00,Mist,7°,2,93%,1009 hPa
+Thursday 8 December 2022,02:30,Mist,7°,4,100%,1009 hPa
+Thursday 8 December 2022,03:00,Mist,7°,2,100%,1009 hPa
+Thursday 8 December 2022,03:30,Mist,7°,2,100%,1008 hPa
+Thursday 8 December 2022,04:00,Mist,7°,2,100%,1008 hPa
+Thursday 8 December 2022,04:30,Mist,8°,Calm,93%,1008 hPa
+Thursday 8 December 2022,04:49,Drizzle,8°,2,93%,1007 hPa
+Thursday 8 December 2022,05:00,Drizzle,8°,Calm,93%,1007 hPa
+Thursday 8 December 2022,05:30,Drizzle,8°,4,100%,1007 hPa
+Thursday 8 December 2022,06:00,Drizzle,8°,4,100%,1006 hPa
+Thursday 8 December 2022,06:14,Drizzle,8°,4,100%,1006 hPa
+Thursday 8 December 2022,06:30,Light Rain,8°,2,100%,1006 hPa
+Thursday 8 December 2022,07:00,Light Rain,8°,2,100%,1006 hPa
+Thursday 8 December 2022,07:30,Drizzle,8°,2,100%,1005 hPa
+Thursday 8 December 2022,08:00,Light Rain,8°,2,100%,1005 hPa
+Thursday 8 December 2022,08:30,Light Rain,8°,2,100%,1005 hPa
+Thursday 8 December 2022,09:00,Rain,8°,Calm,100%,1005 hPa
+Thursday 8 December 2022,09:30,Rain,8°,Calm,100%,1005 hPa
+Thursday 8 December 2022,10:00,Rain,8°,6,100%,1005 hPa
+Thursday 8 December 2022,10:23,Rain,9°,4,93%,1004 hPa
+Thursday 8 December 2022,10:30,Rain,9°,4,93%,1004 hPa
+Thursday 8 December 2022,11:00,Rain,9°,6,100%,1004 hPa
+Thursday 8 December 2022,11:30,Drizzle,10°,15,93%,1004 hPa
+Thursday 8 December 2022,12:00,Mostly Cloudy,10°,13,100%,1004 hPa
+Thursday 8 December 2022,12:30,Light Rain,11°,19,94%,1003 hPa
+Thursday 8 December 2022,13:00,Light Rain,11°,19,94%,1002 hPa
+Thursday 8 December 2022,13:30,Light Rain,12°,19,94%,1002 hPa
+Thursday 8 December 2022,14:00,Mostly Cloudy,12°,20,94%,1002 hPa
+Thursday 8 December 2022,14:30,Mostly Cloudy,13°,19,88%,1002 hPa
+Thursday 8 December 2022,15:00,Mostly Cloudy,13°,17,88%,1001 hPa
+Thursday 8 December 2022,15:30,Mostly Cloudy,13°,17,88%,1001 hPa
+Thursday 8 December 2022,16:00,Mostly Cloudy,13°,17,>,37 88% 1001 hPa
+Thursday 8 December 2022,16:30,Mostly Cloudy,13°,17,88%,1000 hPa
+Thursday 8 December 2022,17:00,Mostly Cloudy,12°,17,94%,1001 hPa
+Thursday 8 December 2022,17:30,Drizzle,12°,20,94%,1001 hPa
+Thursday 8 December 2022,17:40,Rain,12°,22,>,44 94% 1001 hPa
+Thursday 8 December 2022,18:00,Rain,12°,20,94%,1001 hPa
+Thursday 8 December 2022,18:30,Rain,11°,20,100%,1002 hPa
+Thursday 8 December 2022,19:00,Rain,11°,11,94%,1001 hPa
+Thursday 8 December 2022,19:30,Fair,11°,13,94%,1001 hPa
+Thursday 8 December 2022,20:00,Clear,10°,11,93%,1001 hPa
+Thursday 8 December 2022,20:30,Clear,10°,7,93%,1001 hPa
+Thursday 8 December 2022,21:00,Fair,10°,6,93%,1002 hPa
+Thursday 8 December 2022,21:30,Partly Cloudy,9°,4,100%,1002 hPa
+Thursday 8 December 2022,22:00,Partly Cloudy,10°,9,93%,1002 hPa
+Thursday 8 December 2022,22:30,Partly Cloudy,9°,11,100%,1002 hPa
+Thursday 8 December 2022,23:00,Partly Cloudy,10°,7,93%,1002 hPa
+Thursday 8 December 2022,23:30,Mostly Cloudy,10°,11,93%,1002 hPa
+Friday 9 December 2022,00:00,Drizzle,10°,11,93%,1002 hPa
+Friday 9 December 2022,00:30,Partly Cloudy,10°,13,93%,1002 hPa
+Friday 9 December 2022,01:00,Mostly Cloudy,10°,9,93%,1002 hPa
+Friday 9 December 2022,01:30,Mostly Cloudy,10°,6,93%,1002 hPa
+Friday 9 December 2022,02:00,Drizzle,10°,6,93%,1002 hPa
+Friday 9 December 2022,02:30,Mostly Cloudy,9°,6,93%,1002 hPa
+Friday 9 December 2022,03:00,Mostly Cloudy,9°,6,100%,1002 hPa
+Friday 9 December 2022,03:30,Drizzle,9°,6,100%,1002 hPa
+Friday 9 December 2022,04:00,Partly Cloudy,9°,4,93%,1002 hPa
+Friday 9 December 2022,04:30,Mostly Cloudy,9°,4,93%,1002 hPa
+Friday 9 December 2022,05:00,Mostly Cloudy,9°,2,100%,1002 hPa
+Friday 9 December 2022,05:30,Partly Cloudy,9°,4,93%,1002 hPa
+Friday 9 December 2022,06:00,Mostly Cloudy,8°,4,100%,1002 hPa
+Friday 9 December 2022,06:30,Mostly Cloudy,9°,4,93%,1002 hPa
+Friday 9 December 2022,07:00,Mostly Cloudy,9°,4,93%,1001 hPa
+Friday 9 December 2022,07:30,Mostly Cloudy,8°,6,100%,1001 hPa
+Friday 9 December 2022,08:00,Mostly Cloudy,8°,2,100%,1001 hPa
+Friday 9 December 2022,08:30,Partly Cloudy,8°,4,100%,1002 hPa
+Friday 9 December 2022,09:00,Mostly Cloudy,9°,6,93%,1001 hPa
+Friday 9 December 2022,09:30,Drizzle,9°,4,93%,1001 hPa
+Friday 9 December 2022,10:00,Drizzle,9°,4,93%,1001 hPa
+Friday 9 December 2022,10:30,Light Rain,9°,4,93%,1001 hPa
+Friday 9 December 2022,10:35,Rain,9°,4,93%,1001 hPa
+Friday 9 December 2022,11:00,Light Rain,9°,4,93%,1001 hPa
+Friday 9 December 2022,11:30,Rain,9°,2,93%,1001 hPa
+Friday 9 December 2022,12:00,Rain,9°,4,100%,1001 hPa
+Friday 9 December 2022,12:22,Rain,10°,4,93%,1000 hPa
+Friday 9 December 2022,12:30,Rain,10°,4,93%,1000 hPa
+Friday 9 December 2022,13:00,Rain,10°,2,93%,1000 hPa
+Friday 9 December 2022,13:30,Mostly Cloudy,10°,2,100%,0999 hPa
+Friday 9 December 2022,14:00,Mostly Cloudy,10°,2,93%,0999 hPa
+Friday 9 December 2022,14:30,Mostly Cloudy,10°,4,93%,0999 hPa
+Friday 9 December 2022,15:00,Light Rain,11°,2,87%,0999 hPa
+Friday 9 December 2022,15:30,Light Rain,11°,2,94%,0998 hPa
+Friday 9 December 2022,16:00,Mostly Cloudy,11°,Calm,94%,0998 hPa
+Friday 9 December 2022,16:18,Drizzle,11°,Calm,87%,0998 hPa
+Friday 9 December 2022,16:30,Drizzle,11°,Calm,94%,0998 hPa
+Friday 9 December 2022,17:00,Rain,10°,4,100%,0998 hPa
+Friday 9 December 2022,17:30,Light Rain,10°,4,100%,0998 hPa
+Friday 9 December 2022,18:00,Light Rain,10°,6,100%,0999 hPa
+Friday 9 December 2022,18:30,Drizzle,10°,4,100%,0999 hPa
+Friday 9 December 2022,19:00,Drizzle,10°,4,93%,0999 hPa
+Friday 9 December 2022,19:30,Mostly Cloudy,10°,2,93%,0999 hPa
+Friday 9 December 2022,20:00,Mostly Cloudy,10°,2,93%,1000 hPa
+Friday 9 December 2022,20:30,Mostly Cloudy,10°,9,93%,1000 hPa
+Friday 9 December 2022,21:00,Mostly Cloudy,10°,4,87%,1000 hPa
+Friday 9 December 2022,21:30,Mostly Cloudy,10°,7,93%,1001 hPa
+Friday 9 December 2022,22:00,Mostly Cloudy,10°,7,87%,1001 hPa
+Friday 9 December 2022,22:30,Partly Cloudy,9°,2,87%,1001 hPa
+Friday 9 December 2022,23:00,Mostly Cloudy,9°,4,93%,1002 hPa
+Friday 9 December 2022,23:30,Mostly Cloudy,8°,4,100%,1002 hPa
+Saturday 10 December 2022,00:00,Mostly Cloudy,8°,7,100%,1003 hPa
+Saturday 10 December 2022,00:30,Mostly Cloudy,8°,7,93%,1003 hPa
+Saturday 10 December 2022,01:00,Mostly Cloudy,8°,4,100%,1003 hPa
+Saturday 10 December 2022,01:30,Cloudy,9°,6,93%,1004 hPa
+Saturday 10 December 2022,02:00,Mostly Cloudy,8°,2,100%,1004 hPa
+Saturday 10 December 2022,02:30,Mostly Cloudy,8°,Calm,100%,1004 hPa
+Saturday 10 December 2022,03:00,Mostly Cloudy,8°,Calm,100%,1004 hPa
+Saturday 10 December 2022,03:30,Cloudy,8°,2,100%,1005 hPa
+Saturday 10 December 2022,04:00,Drizzle,8°,2,100%,1005 hPa
+Saturday 10 December 2022,04:30,Cloudy,8°,4,100%,1005 hPa
+Saturday 10 December 2022,05:00,Cloudy,8°,Calm,100%,1005 hPa
+Saturday 10 December 2022,05:30,Mist,8°,Calm,100%,1005 hPa
+Saturday 10 December 2022,06:00,Mist,8°,2,100%,1005 hPa
+Saturday 10 December 2022,06:30,Cloudy,8°,2,100%,1006 hPa
+Saturday 10 December 2022,07:00,Cloudy,8°,4,100%,1006 hPa
+Saturday 10 December 2022,07:30,Cloudy,8°,2,100%,1006 hPa
+Saturday 10 December 2022,08:00,Mostly Cloudy,8°,6,100%,1007 hPa
+Saturday 10 December 2022,08:30,Mostly Cloudy,8°,7,100%,1008 hPa
+Saturday 10 December 2022,09:00,Mist,8°,6,100%,1008 hPa
+Saturday 10 December 2022,09:30,Mostly Cloudy,8°,6,100%,1008 hPa
+Saturday 10 December 2022,10:00,Mostly Cloudy,9°,2,93%,1009 hPa
+Saturday 10 December 2022,10:30,Mostly Cloudy,9°,4,93%,1009 hPa
+Saturday 10 December 2022,11:00,Mostly Cloudy,9°,4,93%,1010 hPa
+Saturday 10 December 2022,11:30,Mostly Cloudy,10°,6,87%,1010 hPa
+Saturday 10 December 2022,12:00,Mostly Cloudy,10°,4,87%,1010 hPa
+Saturday 10 December 2022,12:30,Mostly Cloudy,11°,4,82%,1010 hPa
+Saturday 10 December 2022,13:00,Partly Cloudy,11°,6,82%,1010 hPa
+Saturday 10 December 2022,13:30,Partly Cloudy,12°,6,76%,1010 hPa
+Saturday 10 December 2022,14:00,Partly Cloudy,13°,6,77%,1009 hPa
+Saturday 10 December 2022,14:30,Partly Cloudy,14°,6,63%,1009 hPa
+Saturday 10 December 2022,15:00,Partly Cloudy,13°,11,62%,1009 hPa
+Saturday 10 December 2022,15:30,Partly Cloudy,13°,13,58%,1009 hPa
+Saturday 10 December 2022,16:00,Partly Cloudy,13°,15,51%,1010 hPa
+Saturday 10 December 2022,16:30,Partly Cloudy,12°,15,58%,1010 hPa
+Saturday 10 December 2022,17:00,Partly Cloudy,12°,11,62%,1010 hPa
+Saturday 10 December 2022,17:30,Fair,12°,13,58%,1010 hPa
+Saturday 10 December 2022,18:00,Fair,11°,9,71%,1010 hPa
+Saturday 10 December 2022,18:30,Partly Cloudy,11°,17,76%,1011 hPa
+Saturday 10 December 2022,19:00,Fair,11°,15,76%,1011 hPa
+Saturday 10 December 2022,19:30,Fair,10°,9,82%,1011 hPa
+Saturday 10 December 2022,20:00,Clear,10°,6,82%,1011 hPa
+Saturday 10 December 2022,20:30,Fair,10°,9,82%,1011 hPa
+Saturday 10 December 2022,21:00,Partly Cloudy,10°,11,82%,1011 hPa
+Saturday 10 December 2022,21:30,Partly Cloudy,10°,15,82%,1011 hPa
+Saturday 10 December 2022,22:00,Partly Cloudy,10°,20,>,39 82% 1011 hPa
+Saturday 10 December 2022,22:30,Partly Cloudy,10°,20,82%,1011 hPa
+Saturday 10 December 2022,23:00,Partly Cloudy,10°,19,82%,1011 hPa
+Saturday 10 December 2022,23:30,Fair,9°,17,81%,1010 hPa
+Sunday 11 December 2022,00:00,Fair,9°,19,76%,1010 hPa
+Sunday 11 December 2022,00:30,Fair,9°,17,76%,1010 hPa
+Sunday 11 December 2022,01:00,Fair,9°,17,76%,1010 hPa
+Sunday 11 December 2022,01:30,Clear,9°,19,76%,1010 hPa
+Sunday 11 December 2022,02:00,Partly Cloudy,9°,15,76%,1010 hPa
+Sunday 11 December 2022,02:30,Partly Cloudy,9°,22,76%,1009 hPa
+Sunday 11 December 2022,03:00,Mostly Cloudy,8°,24,87%,1010 hPa
+Sunday 11 December 2022,03:30,Mostly Cloudy,8°,19,87%,1009 hPa
+Sunday 11 December 2022,04:00,Rain,8°,13,87%,1009 hPa
+Sunday 11 December 2022,04:30,Rain,7°,11,93%,1009 hPa
+Sunday 11 December 2022,05:00,Light Rain,7°,7,93%,1008 hPa
+Sunday 11 December 2022,05:30,Rain,7°,4,93%,1007 hPa
+Sunday 11 December 2022,06:00,Rain,7°,6,93%,1007 hPa
+Sunday 11 December 2022,06:30,Rain,7°,7,93%,1006 hPa
+Sunday 11 December 2022,07:00,Drizzle,7°,7,93%,1005 hPa
+Sunday 11 December 2022,07:30,Light Rain,6°,2,100%,1005 hPa
+Sunday 11 December 2022,08:00,Light Rain,6°,2,100%,1005 hPa
+Sunday 11 December 2022,08:30,Drizzle,6°,4,100%,1005 hPa
+Sunday 11 December 2022,09:00,Rain,6°,6,100%,1005 hPa
+Sunday 11 December 2022,09:14,Light Rain,6°,7,100%,1005 hPa
+Sunday 11 December 2022,09:30,Rain,6°,6,100%,1005 hPa
+Sunday 11 December 2022,10:00,Drizzle,6°,6,100%,1005 hPa
+Sunday 11 December 2022,10:30,Drizzle,6°,11,100%,1005 hPa
+Sunday 11 December 2022,11:00,Drizzle,6°,7,100%,1005 hPa
+Sunday 11 December 2022,11:30,Mostly Cloudy,6°,9,100%,1006 hPa
+Sunday 11 December 2022,12:00,Mostly Cloudy,6°,11,100%,1005 hPa
+Sunday 11 December 2022,12:30,Mostly Cloudy,6°,9,100%,1005 hPa
+Sunday 11 December 2022,13:00,Mostly Cloudy,7°,9,93%,1005 hPa
+Sunday 11 December 2022,13:30,Mostly Cloudy,7°,7,100%,1004 hPa
+Sunday 11 December 2022,14:00,Cloudy,7°,6,100%,1004 hPa
+Sunday 11 December 2022,14:30,Cloudy,8°,4,93%,1004 hPa
+Sunday 11 December 2022,15:00,Cloudy,8°,4,93%,1004 hPa
+Sunday 11 December 2022,15:30,Cloudy,8°,4,87%,1004 hPa
+Sunday 11 December 2022,16:00,Cloudy,8°,6,93%,1005 hPa
+Sunday 11 December 2022,16:30,Cloudy,8°,4,93%,1005 hPa
+Sunday 11 December 2022,17:00,Cloudy,8°,2,93%,1005 hPa
+Sunday 11 December 2022,17:30,Cloudy,8°,2,93%,1005 hPa
+Sunday 11 December 2022,18:00,Cloudy,8°,Calm,93%,1006 hPa
+Sunday 11 December 2022,18:30,Cloudy,8°,2,93%,1006 hPa
+Sunday 11 December 2022,19:00,Cloudy,8°,2,93%,1006 hPa
+Sunday 11 December 2022,19:30,Cloudy,8°,4,93%,1006 hPa
+Sunday 11 December 2022,20:00,Cloudy,8°,Calm,100%,1007 hPa
+Sunday 11 December 2022,20:30,Cloudy,9°,11,93%,1007 hPa
+Sunday 11 December 2022,21:00,Cloudy,9°,2,93%,1007 hPa
+Sunday 11 December 2022,21:30,Cloudy,9°,7,93%,1008 hPa
+Sunday 11 December 2022,22:00,Cloudy,9°,7,93%,1008 hPa
+Sunday 11 December 2022,22:30,Cloudy,9°,9,93%,1009 hPa
+Sunday 11 December 2022,23:00,Partly Cloudy,10°,11,87%,1009 hPa
+Sunday 11 December 2022,23:30,Partly Cloudy,8°,6,93%,1009 hPa
+Monday 12 December 2022,00:00,Partly Cloudy,8°,2,100%,1009 hPa
+Monday 12 December 2022,00:30,Mostly Cloudy,10°,15,93%,1010 hPa
+Monday 12 December 2022,01:00,Mostly Cloudy,10°,13,93%,1010 hPa
+Monday 12 December 2022,01:30,Mostly Cloudy,10°,13,93%,1010 hPa
+Monday 12 December 2022,02:00,Mostly Cloudy,10°,15,93%,1010 hPa
+Monday 12 December 2022,02:30,Mostly Cloudy,10°,15,87%,1010 hPa
+Monday 12 December 2022,03:00,Partly Cloudy,10°,15,87%,1010 hPa
+Monday 12 December 2022,03:30,Partly Cloudy,9°,13,93%,1010 hPa
+Monday 12 December 2022,04:00,Partly Cloudy,10°,17,87%,1010 hPa
+Monday 12 December 2022,04:30,Fair,9°,15,93%,1010 hPa
+Monday 12 December 2022,05:00,Fair,9°,11,93%,1010 hPa
+Monday 12 December 2022,05:30,Fair,9°,17,100%,1010 hPa
+Monday 12 December 2022,06:00,Clear,9°,6,93%,1010 hPa
+Monday 12 December 2022,06:30,Fair,9°,7,93%,1009 hPa
+Monday 12 December 2022,07:00,Clear,9°,6,93%,1009 hPa
+Monday 12 December 2022,07:30,Mostly Cloudy,9°,4,100%,1009 hPa
+Monday 12 December 2022,07:36,Rain,10°,6,93%,1009 hPa
+Monday 12 December 2022,08:00,Light Rain,9°,4,100%,1009 hPa
+Monday 12 December 2022,08:14,Drizzle,9°,4,100%,1009 hPa
+Monday 12 December 2022,08:30,Drizzle,10°,6,100%,1009 hPa
+Monday 12 December 2022,08:41,Drizzle,10°,4,100%,1009 hPa
+Monday 12 December 2022,09:00,Drizzle,10°,6,100%,1008 hPa
+Monday 12 December 2022,09:30,Light Rain,10°,9,100%,1009 hPa
+Monday 12 December 2022,10:00,Light Rain,10°,6,100%,1008 hPa
+Monday 12 December 2022,10:30,Light Rain,11°,6,94%,1008 hPa
+Monday 12 December 2022,11:00,Light Rain,11°,11,100%,1008 hPa
+Monday 12 December 2022,11:30,Light Rain,12°,11,94%,1008 hPa
+Monday 12 December 2022,12:00,Drizzle,12°,15,100%,1007 hPa
+Monday 12 December 2022,12:30,Drizzle,13°,20,>,46 94% 1006 hPa
+Monday 12 December 2022,13:00,Drizzle,14°,24,>,48 88% 1006 hPa
+Monday 12 December 2022,13:30,Drizzle,15°,30,88%,1005 hPa
+Monday 12 December 2022,14:00,Cloudy,15°,37,88%,1004 hPa
+Monday 12 December 2022,14:30,Cloudy,15°,32,88%,1004 hPa
+Monday 12 December 2022,15:00,Light Rain,14°,30,94%,1004 hPa
+Monday 12 December 2022,15:30,Rain,14°,17,94%,1004 hPa
+Monday 12 December 2022,16:00,Rain,14°,11,94%,1004 hPa
+Monday 12 December 2022,16:08,Rain,14°,7,94%,1004 hPa
+Monday 12 December 2022,16:30,Rain,14°,9,94%,1005 hPa
+Monday 12 December 2022,17:00,Rain,14°,26,>,48 94% 1004 hPa
+Monday 12 December 2022,17:30,Light Rain,14°,28,94%,1004 hPa
+Monday 12 December 2022,18:00,Light Rain,14°,24,94%,1004 hPa
+Monday 12 December 2022,18:30,Light Rain,15°,22,88%,1004 hPa
+Monday 12 December 2022,19:00,Light Rain,14°,24,94%,1004 hPa
+Monday 12 December 2022,19:30,Light Rain,15°,20,94%,1005 hPa
+Monday 12 December 2022,20:00,Light Rain,15°,19,94%,1005 hPa
+Monday 12 December 2022,20:30,Light Rain,15°,15,94%,1006 hPa
+Monday 12 December 2022,21:00,Light Rain,15°,9,94%,1005 hPa
+Monday 12 December 2022,21:30,Partly Cloudy,15°,19,94%,1006 hPa
+Monday 12 December 2022,22:00,Fair,15°,24,94%,1006 hPa
+Monday 12 December 2022,22:30,Fair,15°,22,>,43 94% 1006 hPa
+Monday 12 December 2022,23:00,Fair,15°,30,88%,1006 hPa
+Monday 12 December 2022,23:30,Fair,15°,26,88%,1006 hPa
+Tuesday 13 December 2022,00:00,Fair,15°,20,88%,1007 hPa
+Tuesday 13 December 2022,00:30,Fair,15°,19,88%,1007 hPa
+Tuesday 13 December 2022,01:00,Fair,15°,20,88%,1007 hPa
+Tuesday 13 December 2022,01:30,Clear,14°,19,88%,1007 hPa
+Tuesday 13 December 2022,02:00,Partly Cloudy,14°,20,88%,1007 hPa
+Tuesday 13 December 2022,02:30,Partly Cloudy,14°,20,88%,1007 hPa
+Tuesday 13 December 2022,03:00,Mostly Cloudy,14°,11,88%,1007 hPa
+Tuesday 13 December 2022,03:30,Mostly Cloudy,14°,6,88%,1007 hPa
+Tuesday 13 December 2022,04:00,Mostly Cloudy,14°,7,88%,1007 hPa
+Tuesday 13 December 2022,04:30,Mostly Cloudy,13°,9,94%,1007 hPa
+Tuesday 13 December 2022,05:00,Mostly Cloudy,13°,11,94%,1007 hPa
+Tuesday 13 December 2022,05:30,Mostly Cloudy,13°,9,94%,1006 hPa
+Tuesday 13 December 2022,06:00,Light Rain,13°,2,94%,1006 hPa
+Tuesday 13 December 2022,06:05,Rain,13°,Calm,94%,1006 hPa
+Tuesday 13 December 2022,06:30,Rain,13°,7,100%,1006 hPa
+Tuesday 13 December 2022,07:00,Rain,13°,9,100%,1006 hPa
+Tuesday 13 December 2022,07:30,Rain,13°,6,100%,1006 hPa
+Tuesday 13 December 2022,07:46,Light Rain,13°,7,100%,1006 hPa
+Tuesday 13 December 2022,08:00,Rain,13°,11,100%,1006 hPa
+Tuesday 13 December 2022,08:30,Rain,13°,13,100%,1006 hPa
+Tuesday 13 December 2022,09:00,Light Rain,14°,6,94%,1006 hPa
+Tuesday 13 December 2022,09:30,Light Rain,14°,9,94%,1006 hPa
+Tuesday 13 December 2022,09:37,Rain,14°,11,94%,1006 hPa
+Tuesday 13 December 2022,10:00,Rain,14°,11,94%,1006 hPa
+Tuesday 13 December 2022,10:30,Rain,14°,9,94%,1006 hPa
+Tuesday 13 December 2022,10:33,Rain,14°,11,94%,1006 hPa
+Tuesday 13 December 2022,11:00,Rain,14°,6,94%,1006 hPa
+Tuesday 13 December 2022,11:17,Rain,14°,6,100%,1006 hPa
+Tuesday 13 December 2022,11:30,Rain,14°,7,100%,1006 hPa
+Tuesday 13 December 2022,12:00,Rain,14°,9,100%,1005 hPa
+Tuesday 13 December 2022,12:30,Rain,14°,7,100%,1004 hPa
+Tuesday 13 December 2022,13:00,Drizzle,14°,13,100%,1004 hPa
+Tuesday 13 December 2022,13:30,Drizzle,14°,13,>,35 100% 1003 hPa
+Tuesday 13 December 2022,14:00,Light Rain,15°,13,94%,1003 hPa
+Tuesday 13 December 2022,14:30,Light Rain,15°,13,94%,1002 hPa
+Tuesday 13 December 2022,15:00,Light Rain,15°,13,94%,1003 hPa
+Tuesday 13 December 2022,15:30,Light Rain,15°,15,94%,1002 hPa
+Tuesday 13 December 2022,16:00,Drizzle,15°,17,>,43 100% 1002 hPa
+Tuesday 13 December 2022,16:30,Rain,15°,19,94%,1002 hPa
+Tuesday 13 December 2022,17:00,Rain,15°,19,>,48 94% 1001 hPa
+Tuesday 13 December 2022,17:30,Rain,15°,19,94%,1001 hPa
+Tuesday 13 December 2022,18:00,Mostly Cloudy,15°,17,94%,1001 hPa
+Tuesday 13 December 2022,18:30,Mostly Cloudy,15°,17,94%,1001 hPa
+Tuesday 13 December 2022,19:00,Cloudy,15°,19,94%,1001 hPa
+Tuesday 13 December 2022,19:30,Cloudy,16°,26,88%,1001 hPa
+Tuesday 13 December 2022,20:00,Cloudy,16°,28,88%,1001 hPa
+Tuesday 13 December 2022,20:30,Cloudy,16°,24,>,44 88% 1001 hPa
+Tuesday 13 December 2022,21:00,Cloudy,15°,24,94%,1000 hPa
+Tuesday 13 December 2022,21:30,Mostly Cloudy,16°,28,88%,1001 hPa
+Tuesday 13 December 2022,22:00,Mostly Cloudy,15°,26,88%,1001 hPa
+Tuesday 13 December 2022,22:30,Light Rain,15°,22,88%,1002 hPa
+Tuesday 13 December 2022,23:00,Light Rain,15°,22,82%,1003 hPa
+Tuesday 13 December 2022,23:30,Partly Cloudy,14°,19,88%,1003 hPa
+Wednesday 14 December 2022,00:00,Clear,14°,17,82%,1004 hPa
+Wednesday 14 December 2022,00:30,Clear,13°,19,88%,1005 hPa
+Wednesday 14 December 2022,01:00,Clear,13°,22,82%,1005 hPa
+Wednesday 14 December 2022,01:30,Clear,13°,17,77%,1006 hPa
+Wednesday 14 December 2022,02:00,Clear,12°,13,82%,1006 hPa
+Wednesday 14 December 2022,02:30,Fair,12°,9,88%,1006 hPa
+Wednesday 14 December 2022,03:00,Fair,12°,19,94%,1006 hPa
+Wednesday 14 December 2022,03:30,Fair,12°,19,94%,1007 hPa
+Wednesday 14 December 2022,04:00,Partly Cloudy,12°,15,88%,1007 hPa
+Wednesday 14 December 2022,04:30,Partly Cloudy,12°,11,88%,1007 hPa
+Wednesday 14 December 2022,05:00,Partly Cloudy,12°,6,88%,1006 hPa
+Wednesday 14 December 2022,05:30,Partly Cloudy,11°,7,94%,1006 hPa
+Wednesday 14 December 2022,06:00,Partly Cloudy,10°,9,93%,1006 hPa
+Wednesday 14 December 2022,06:30,Partly Cloudy,11°,9,94%,1006 hPa
+Wednesday 14 December 2022,07:00,Partly Cloudy,11°,11,94%,1006 hPa
+Wednesday 14 December 2022,07:30,Mostly Cloudy,11°,7,94%,1006 hPa
+Wednesday 14 December 2022,08:00,Mostly Cloudy,11°,9,94%,1006 hPa
+Wednesday 14 December 2022,08:30,Mostly Cloudy,12°,11,88%,1006 hPa
+Wednesday 14 December 2022,09:00,Mostly Cloudy,12°,7,88%,1006 hPa
+Wednesday 14 December 2022,09:30,Mostly Cloudy,12°,9,88%,1006 hPa
+Wednesday 14 December 2022,10:00,Mostly Cloudy,12°,9,88%,1006 hPa
+Wednesday 14 December 2022,10:30,Mostly Cloudy,12°,11,94%,1007 hPa
+Wednesday 14 December 2022,11:00,Mostly Cloudy,13°,11,88%,1007 hPa
+Wednesday 14 December 2022,11:30,Mostly Cloudy,14°,11,82%,1007 hPa
+Wednesday 14 December 2022,12:00,Mostly Cloudy,14°,15,77%,1006 hPa
+Wednesday 14 December 2022,12:30,Mostly Cloudy,14°,17,82%,1006 hPa
+Wednesday 14 December 2022,13:00,Mostly Cloudy,14°,17,82%,1005 hPa
+Wednesday 14 December 2022,13:30,Drizzle,13°,17,>,35 88% 1005 hPa
+Wednesday 14 December 2022,14:00,Rain,13°,13,88%,1004 hPa
+Wednesday 14 December 2022,14:30,Light Rain,13°,6,88%,1004 hPa
+Wednesday 14 December 2022,15:00,Rain,13°,Calm,94%,1004 hPa
+Wednesday 14 December 2022,15:14,Rain,13°,4,94%,1003 hPa
+Wednesday 14 December 2022,15:30,Rain,12°,6,94%,1003 hPa
+Wednesday 14 December 2022,15:42,Rain,12°,6,100%,1002 hPa
+Wednesday 14 December 2022,16:00,Rain,12°,4,100%,1002 hPa
+Wednesday 14 December 2022,16:20,Drizzle,12°,2,100%,1002 hPa
+Wednesday 14 December 2022,16:30,Drizzle,12°,4,100%,1002 hPa
+Wednesday 14 December 2022,17:00,Light Rain,12°,4,100%,1002 hPa
+Wednesday 14 December 2022,17:30,Rain,12°,2,100%,1001 hPa
+Wednesday 14 December 2022,18:00,Drizzle,12°,Calm,100%,1001 hPa
+Wednesday 14 December 2022,18:30,Rain,12°,4,100%,1001 hPa
+Wednesday 14 December 2022,18:35,Rain,12°,4,100%,1001 hPa
+Wednesday 14 December 2022,19:00,Rain,12°,4,100%,1001 hPa
+Wednesday 14 December 2022,19:14,Rain,12°,11,100%,1001 hPa
+Wednesday 14 December 2022,19:30,Rain,12°,11,94%,1001 hPa
+Wednesday 14 December 2022,20:00,Light Rain,12°,7,94%,1000 hPa
+Wednesday 14 December 2022,20:30,Fair,11°,6,94%,0999 hPa
+Wednesday 14 December 2022,21:00,Mostly Cloudy,11°,6,100%,1000 hPa
+Wednesday 14 December 2022,21:30,Mostly Cloudy,11°,4,100%,1000 hPa
+Wednesday 14 December 2022,22:00,Mostly Cloudy,11°,6,94%,1000 hPa
+Wednesday 14 December 2022,22:30,Mostly Cloudy,11°,9,94%,0999 hPa
+Wednesday 14 December 2022,23:00,Mostly Cloudy,11°,11,94%,0999 hPa
+Wednesday 14 December 2022,23:30,Light Rain,11°,13,94%,1000 hPa
+Thursday 15 December 2022,00:00,Partly Cloudy,11°,13,94%,1000 hPa
+Thursday 15 December 2022,00:30,Fair,11°,13,87%,1000 hPa
+Thursday 15 December 2022,01:00,Partly Cloudy,11°,11,87%,1000 hPa
+Thursday 15 December 2022,01:30,Partly Cloudy,11°,11,87%,1000 hPa
+Thursday 15 December 2022,02:00,Partly Cloudy,10°,11,93%,1000 hPa
+Thursday 15 December 2022,02:30,Partly Cloudy,10°,9,93%,0999 hPa
+Thursday 15 December 2022,03:00,Partly Cloudy,10°,9,93%,0999 hPa
+Thursday 15 December 2022,03:30,Light Rain,10°,7,93%,0999 hPa
+Thursday 15 December 2022,03:35,Rain,10°,7,93%,1000 hPa
+Thursday 15 December 2022,04:00,Light Rain,10°,9,93%,0999 hPa
+Thursday 15 December 2022,04:30,Light Rain,10°,9,93%,0999 hPa
+Thursday 15 December 2022,05:00,Mostly Cloudy,9°,7,100%,0999 hPa
+Thursday 15 December 2022,05:30,Mostly Cloudy,9°,7,93%,0999 hPa
+Thursday 15 December 2022,06:00,Mostly Cloudy,9°,9,100%,0999 hPa
+Thursday 15 December 2022,06:30,Mostly Cloudy,9°,11,93%,0999 hPa
+Thursday 15 December 2022,07:00,Mostly Cloudy,9°,11,93%,0999 hPa
+Thursday 15 December 2022,07:30,Mostly Cloudy,9°,9,93%,0999 hPa
+Thursday 15 December 2022,08:00,Mostly Cloudy,9°,9,93%,0999 hPa
+Thursday 15 December 2022,08:30,Mostly Cloudy,9°,11,93%,1000 hPa
+Thursday 15 December 2022,08:46,Drizzle,9°,9,93%,1000 hPa
+Thursday 15 December 2022,09:00,Drizzle,9°,7,93%,1000 hPa
+Thursday 15 December 2022,09:21,Drizzle,9°,6,100%,1000 hPa
+Thursday 15 December 2022,09:30,Drizzle,9°,6,100%,1000 hPa
+Thursday 15 December 2022,10:00,Cloudy,9°,7,100%,1000 hPa
+Thursday 15 December 2022,10:30,Mostly Cloudy,9°,11,100%,1000 hPa
+Thursday 15 December 2022,11:00,Mostly Cloudy,10°,13,93%,1001 hPa
+Thursday 15 December 2022,11:30,Mostly Cloudy,10°,20,87%,1001 hPa
+Thursday 15 December 2022,12:00,Mostly Cloudy,11°,17,82%,1001 hPa
+Thursday 15 December 2022,12:30,Mostly Cloudy,11°,22,82%,1000 hPa
+Thursday 15 December 2022,13:00,Mostly Cloudy,11°,20,>,46 82% 1000 hPa
+Thursday 15 December 2022,13:30,Mostly Cloudy,12°,22,76%,1000 hPa
+Thursday 15 December 2022,14:00,Mostly Cloudy,12°,24,76%,1000 hPa
+Thursday 15 December 2022,14:30,Mostly Cloudy,12°,28,76%,1000 hPa
+Thursday 15 December 2022,15:00,Mostly Cloudy,12°,20,71%,1000 hPa
+Thursday 15 December 2022,15:30,Mostly Cloudy,12°,19,76%,1000 hPa
+Thursday 15 December 2022,16:00,Partly Cloudy,12°,20,>,39 76% 1000 hPa
+Thursday 15 December 2022,16:30,Fair,11°,17,76%,1000 hPa
+Thursday 15 December 2022,17:00,Fair,11°,15,>,37 76% 1001 hPa
+Thursday 15 December 2022,17:30,Fair,11°,19,>,43 76% 1001 hPa
+Thursday 15 December 2022,18:00,Fair,11°,20,76%,1001 hPa
+Thursday 15 December 2022,18:30,Fair,11°,19,76%,1002 hPa
+Thursday 15 December 2022,19:00,Fair,10°,11,82%,1002 hPa
+Thursday 15 December 2022,19:30,Fair,10°,15,82%,1002 hPa
+Thursday 15 December 2022,20:00,Fair,10°,13,>,32 82% 1003 hPa
+Thursday 15 December 2022,20:30,Fair,10°,20,82%,1003 hPa
+Thursday 15 December 2022,21:00,Partly Cloudy,10°,17,82%,1003 hPa
+Thursday 15 December 2022,21:30,Fair,10°,17,>,37 82% 1004 hPa
+Thursday 15 December 2022,22:00,Mostly Cloudy,10°,20,82%,1004 hPa
+Thursday 15 December 2022,22:30,Fair,10°,24,82%,1004 hPa
+Thursday 15 December 2022,23:00,Clear,9°,22,87%,1004 hPa
+Thursday 15 December 2022,23:30,Clear,10°,22,82%,1004 hPa
+Friday 16 December 2022,00:00,Clear,9°,9,87%,1005 hPa
+Friday 16 December 2022,00:30,Clear,9°,7,>,26 87% 1005 hPa
+Friday 16 December 2022,01:00,Fair,9°,4,87%,1005 hPa
+Friday 16 December 2022,01:30,Fair,9°,4,87%,1005 hPa
+Friday 16 December 2022,02:00,Fair,9°,7,81%,1005 hPa
+Friday 16 December 2022,02:30,Fair,9°,6,81%,1005 hPa
+Friday 16 December 2022,03:00,Partly Cloudy,7°,2,93%,1005 hPa
+Friday 16 December 2022,03:30,Fair,7°,4,93%,1006 hPa
+Friday 16 December 2022,04:00,Partly Cloudy,6°,6,100%,1006 hPa
+Friday 16 December 2022,04:30,Partly Cloudy,7°,9,93%,1006 hPa
+Friday 16 December 2022,05:00,Partly Cloudy,7°,6,93%,1006 hPa
+Friday 16 December 2022,05:30,Partly Cloudy,6°,Calm,93%,1006 hPa
+Friday 16 December 2022,06:00,Partly Cloudy,6°,2,100%,1006 hPa
+Friday 16 December 2022,06:30,Partly Cloudy,7°,6,93%,1006 hPa
+Friday 16 December 2022,07:00,Mostly Cloudy,7°,7,93%,1006 hPa
+Friday 16 December 2022,07:30,Mostly Cloudy,7°,6,100%,1007 hPa
+Friday 16 December 2022,08:00,Mostly Cloudy,7°,2,100%,1007 hPa
+Friday 16 December 2022,08:30,Mostly Cloudy,7°,4,93%,1007 hPa
+Friday 16 December 2022,09:00,Light Rain,7°,6,100%,1007 hPa
+Friday 16 December 2022,09:30,Mostly Cloudy,8°,4,93%,1008 hPa
+Friday 16 December 2022,10:00,Mostly Cloudy,8°,Calm,100%,1008 hPa
+Friday 16 December 2022,10:30,Mostly Cloudy,8°,4,93%,1009 hPa
+Friday 16 December 2022,11:00,Mostly Cloudy,8°,Calm,100%,1009 hPa
+Friday 16 December 2022,11:30,Mostly Cloudy,10°,4,87%,1009 hPa
+Friday 16 December 2022,12:00,Partly Cloudy,10°,2,87%,1009 hPa
+Friday 16 December 2022,12:30,Partly Cloudy,10°,Calm,82%,1009 hPa
+Friday 16 December 2022,13:00,Partly Cloudy,11°,2,76%,1009 hPa
+Friday 16 December 2022,13:30,Partly Cloudy,11°,2,76%,1009 hPa
+Friday 16 December 2022,14:00,Drizzle,11°,2,76%,1009 hPa
+Friday 16 December 2022,14:30,Light Rain,10°,Calm,82%,1009 hPa
+Friday 16 December 2022,15:00,Light Rain,10°,2,82%,1009 hPa
+Friday 16 December 2022,15:30,Light Rain,10°,Calm,82%,1009 hPa
+Friday 16 December 2022,16:00,Light Rain,11°,4,76%,1009 hPa
+Friday 16 December 2022,16:30,Drizzle,11°,2,82%,1010 hPa
+Friday 16 December 2022,17:00,Mostly Cloudy,10°,6,82%,1010 hPa
+Friday 16 December 2022,17:30,Mostly Cloudy,10°,6,87%,1010 hPa
+Friday 16 December 2022,18:00,Mostly Cloudy,10°,2,93%,1010 hPa
+Friday 16 December 2022,18:30,Mostly Cloudy,10°,Calm,87%,1010 hPa
+Friday 16 December 2022,19:00,Mostly Cloudy,10°,Calm,87%,1011 hPa
+Friday 16 December 2022,19:30,Mostly Cloudy,9°,4,93%,1011 hPa
+Friday 16 December 2022,20:00,Mostly Cloudy,9°,4,93%,1011 hPa
+Friday 16 December 2022,20:30,Mostly Cloudy,9°,2,93%,1012 hPa
+Friday 16 December 2022,21:00,Mostly Cloudy,9°,4,93%,1012 hPa
+Friday 16 December 2022,21:30,Mostly Cloudy,10°,6,87%,1012 hPa
+Friday 16 December 2022,22:00,Mostly Cloudy,9°,Calm,93%,1012 hPa
+Friday 16 December 2022,22:30,Mostly Cloudy,9°,4,93%,1013 hPa
+Friday 16 December 2022,23:00,Mostly Cloudy,9°,2,93%,1013 hPa
+Friday 16 December 2022,23:30,Mostly Cloudy,9°,2,93%,1013 hPa
+Saturday 17 December 2022,00:00,Mostly Cloudy,9°,6,93%,1013 hPa
+Saturday 17 December 2022,00:30,Mostly Cloudy,9°,2,93%,1013 hPa
+Saturday 17 December 2022,01:00,Mostly Cloudy,9°,2,93%,1014 hPa
+Saturday 17 December 2022,01:30,Mostly Cloudy,9°,Calm,87%,1014 hPa
+Saturday 17 December 2022,02:00,Mostly Cloudy,9°,2,87%,1013 hPa
+Saturday 17 December 2022,02:30,Mostly Cloudy,8°,2,93%,1013 hPa
+Saturday 17 December 2022,03:00,Mostly Cloudy,8°,2,93%,1014 hPa
+Saturday 17 December 2022,03:30,Mostly Cloudy,8°,2,100%,1014 hPa
+Saturday 17 December 2022,04:00,Drizzle,8°,6,100%,1014 hPa
+Saturday 17 December 2022,04:30,Drizzle,8°,4,93%,1014 hPa
+Saturday 17 December 2022,05:00,Mostly Cloudy,8°,6,100%,1015 hPa
+Saturday 17 December 2022,05:30,Mostly Cloudy,8°,2,100%,1015 hPa
+Saturday 17 December 2022,06:00,Mostly Cloudy,8°,2,100%,1015 hPa
+Saturday 17 December 2022,06:30,Mostly Cloudy,8°,4,100%,1015 hPa
+Saturday 17 December 2022,07:00,Mostly Cloudy,8°,Calm,100%,1015 hPa
+Saturday 17 December 2022,07:30,Mostly Cloudy,8°,Calm,100%,1015 hPa
+Saturday 17 December 2022,08:00,Cloudy,9°,6,87%,1016 hPa
+Saturday 17 December 2022,08:30,Mostly Cloudy,8°,2,93%,1016 hPa
+Saturday 17 December 2022,09:00,Mostly Cloudy,8°,2,100%,1016 hPa
+Saturday 17 December 2022,09:30,Mostly Cloudy,9°,2,93%,1016 hPa
+Saturday 17 December 2022,10:00,Mostly Cloudy,9°,2,93%,1017 hPa
+Saturday 17 December 2022,10:30,Mostly Cloudy,9°,7,87%,1018 hPa
+Saturday 17 December 2022,11:00,Mostly Cloudy,9°,6,93%,1018 hPa
+Saturday 17 December 2022,11:30,Mostly Cloudy,9°,6,93%,1018 hPa
+Saturday 17 December 2022,12:00,Mostly Cloudy,10°,6,87%,1018 hPa
+Saturday 17 December 2022,12:30,Partly Cloudy,12°,7,76%,1018 hPa
+Saturday 17 December 2022,13:00,Mostly Cloudy,11°,6,82%,1018 hPa
+Saturday 17 December 2022,13:30,Mostly Cloudy,11°,6,82%,1018 hPa
+Saturday 17 December 2022,14:00,Mostly Cloudy,11°,9,82%,1018 hPa
+Saturday 17 December 2022,14:30,Mostly Cloudy,13°,9,72%,1018 hPa
+Saturday 17 December 2022,15:00,Mostly Cloudy,12°,4,71%,1018 hPa
+Saturday 17 December 2022,15:30,Partly Cloudy,12°,4,71%,1018 hPa
+Saturday 17 December 2022,16:00,Partly Cloudy,12°,6,76%,1018 hPa
+Saturday 17 December 2022,16:30,Mostly Cloudy,12°,4,76%,1019 hPa
+Saturday 17 December 2022,17:00,Mostly Cloudy,12°,4,71%,1019 hPa
+Saturday 17 December 2022,17:30,Mostly Cloudy,12°,4,71%,1019 hPa
+Saturday 17 December 2022,18:00,Mostly Cloudy,12°,6,71%,1019 hPa
+Saturday 17 December 2022,18:30,Mostly Cloudy,12°,6,71%,1020 hPa
+Saturday 17 December 2022,19:00,Mostly Cloudy,12°,6,71%,1020 hPa
+Saturday 17 December 2022,19:30,Mostly Cloudy,11°,4,82%,1020 hPa
+Saturday 17 December 2022,20:00,Mostly Cloudy,11°,4,82%,1021 hPa
+Saturday 17 December 2022,20:30,Mostly Cloudy,11°,4,82%,1021 hPa
+Saturday 17 December 2022,21:00,Cloudy,11°,4,82%,1021 hPa
+Saturday 17 December 2022,21:30,Cloudy,10°,Calm,87%,1022 hPa
+Saturday 17 December 2022,22:00,Cloudy,10°,2,87%,1022 hPa
+Saturday 17 December 2022,22:30,Partly Cloudy,10°,Calm,87%,1023 hPa
+Saturday 17 December 2022,23:00,Partly Cloudy,11°,4,87%,1023 hPa
+Saturday 17 December 2022,23:30,Mostly Cloudy,10°,4,87%,1023 hPa
+Sunday 18 December 2022,00:00,Partly Cloudy,10°,6,87%,1023 hPa
+Sunday 18 December 2022,00:30,Partly Cloudy,9°,7,93%,1023 hPa
+Sunday 18 December 2022,01:00,Fair,9°,7,93%,1023 hPa
+Sunday 18 December 2022,01:30,Mist,8°,6,100%,1023 hPa
+Sunday 18 December 2022,01:44,Fog Patches,8°,9,100%,1023 hPa
+Sunday 18 December 2022,02:00,Fog,8°,9,100%,1023 hPa
+Sunday 18 December 2022,02:06,Fog,8°,11,100%,1023 hPa
+Sunday 18 December 2022,02:30,Fog,8°,9,100%,1024 hPa
+Sunday 18 December 2022,03:00,Fog,8°,9,93%,1024 hPa
+Sunday 18 December 2022,03:30,Fog,7°,9,100%,1024 hPa
+Sunday 18 December 2022,04:00,Fog,7°,9,100%,1024 hPa
+Sunday 18 December 2022,04:30,Fog,7°,9,100%,1025 hPa
+Sunday 18 December 2022,05:00,Fog,7°,6,100%,1025 hPa
+Sunday 18 December 2022,05:30,Mist,7°,4,100%,1025 hPa
+Sunday 18 December 2022,06:00,Fog,7°,6,100%,1025 hPa
+Sunday 18 December 2022,06:30,Fog,7°,2,100%,1025 hPa
+Sunday 18 December 2022,07:00,Fog,7°,4,100%,1025 hPa
+Sunday 18 December 2022,07:30,Mist,7°,7,100%,1026 hPa
+Sunday 18 December 2022,08:00,Mist,7°,6,100%,1026 hPa
+Sunday 18 December 2022,08:30,Mist,7°,2,100%,1026 hPa
+Sunday 18 December 2022,09:00,Mist,7°,4,100%,1026 hPa
+Sunday 18 December 2022,09:30,Mist,7°,4,100%,1026 hPa
+Sunday 18 December 2022,10:00,Mostly Cloudy,8°,4,93%,1027 hPa
+Sunday 18 December 2022,10:30,Mostly Cloudy,8°,4,93%,1027 hPa
+Sunday 18 December 2022,11:00,Mostly Cloudy,8°,Calm,100%,1028 hPa
+Sunday 18 December 2022,11:30,Cloudy,8°,2,100%,1028 hPa
+Sunday 18 December 2022,12:00,Cloudy,9°,Calm,93%,1028 hPa
+Sunday 18 December 2022,12:12,Cloudy,9°,2,93%,1028 hPa
+Sunday 18 December 2022,12:30,Cloudy,9°,2,93%,1028 hPa
+Sunday 18 December 2022,13:00,Cloudy,10°,2,82%,1028 hPa
+Sunday 18 December 2022,13:30,Mostly Cloudy,11°,2,82%,1027 hPa
+Sunday 18 December 2022,14:00,Mostly Cloudy,11°,4,76%,1027 hPa
+Sunday 18 December 2022,14:30,Mostly Cloudy,11°,7,82%,1027 hPa
+Sunday 18 December 2022,15:00,Mostly Cloudy,11°,6,76%,1026 hPa
+Sunday 18 December 2022,15:30,Mostly Cloudy,11°,6,82%,1026 hPa
+Sunday 18 December 2022,16:00,Mostly Cloudy,11°,6,76%,1027 hPa
+Sunday 18 December 2022,16:30,Fair,11°,4,76%,1027 hPa
+Sunday 18 December 2022,17:00,Fair,11°,2,76%,1027 hPa
+Sunday 18 December 2022,17:30,Fair,10°,2,82%,1027 hPa
+Sunday 18 December 2022,18:00,Fair,9°,4,87%,1027 hPa
+Sunday 18 December 2022,18:30,Fair,9°,6,87%,1027 hPa
+Sunday 18 December 2022,19:00,Clear,7°,2,93%,1027 hPa
+Sunday 18 December 2022,19:30,Clear,7°,4,93%,1027 hPa
+Sunday 18 December 2022,20:00,Clear,7°,4,93%,1027 hPa
+Sunday 18 December 2022,20:30,Clear,7°,6,93%,1027 hPa
+Sunday 18 December 2022,21:00,Clear,7°,9,93%,1027 hPa
+Sunday 18 December 2022,21:30,Clear,6°,6,93%,1028 hPa
+Sunday 18 December 2022,22:00,Clear,6°,6,93%,1027 hPa
+Sunday 18 December 2022,22:30,Clear,6°,7,93%,1028 hPa
+Sunday 18 December 2022,23:00,Clear,6°,9,93%,1028 hPa
+Sunday 18 December 2022,23:30,Clear,5°,6,100%,1028 hPa
+Monday 19 December 2022,00:00,Clear,5°,6,93%,1028 hPa
+Monday 19 December 2022,00:30,Clear,5°,6,93%,1028 hPa
+Monday 19 December 2022,01:00,Clear,5°,6,93%,1027 hPa
+Monday 19 December 2022,01:30,Fair,4°,4,100%,1027 hPa
+Monday 19 December 2022,02:00,Fair,4°,4,93%,1027 hPa
+Monday 19 December 2022,02:30,Fair,4°,4,93%,1027 hPa
+Monday 19 December 2022,03:00,Fair,4°,6,93%,1027 hPa
+Monday 19 December 2022,03:30,Fair,4°,6,93%,1027 hPa
+Monday 19 December 2022,04:00,Fair,4°,11,93%,1027 hPa
+Monday 19 December 2022,04:30,Fair,3°,9,93%,1027 hPa
+Monday 19 December 2022,05:00,Fair,3°,4,93%,1027 hPa
+Monday 19 December 2022,05:30,Mostly Cloudy,3°,2,100%,1027 hPa
+Monday 19 December 2022,05:46,Cloudy,4°,Calm,93%,1027 hPa
+Monday 19 December 2022,06:00,Cloudy,4°,2,93%,1027 hPa
+Monday 19 December 2022,06:30,Mist,4°,4,100%,1027 hPa
+Monday 19 December 2022,07:00,Mist,5°,4,100%,1027 hPa
+Monday 19 December 2022,07:08,Mist,5°,4,100%,1027 hPa
+Monday 19 December 2022,07:24,Fog,6°,4,93%,1027 hPa
+Monday 19 December 2022,07:30,Fog,6°,4,93%,1027 hPa
+Monday 19 December 2022,08:00,Fog,6°,2,93%,1027 hPa
+Monday 19 December 2022,08:08,Fog,6°,6,100%,1027 hPa
+Monday 19 December 2022,08:30,Fog,6°,4,93%,1027 hPa
+Monday 19 December 2022,08:39,Mist,6°,4,93%,1027 hPa
+Monday 19 December 2022,09:00,Fog Patches,6°,2,93%,1027 hPa
+Monday 19 December 2022,09:30,Mist,6°,7,100%,1028 hPa
+Monday 19 December 2022,10:00,Fog Patches,6°,9,100%,1028 hPa
+Monday 19 December 2022,10:30,Mist,6°,7,100%,1028 hPa
+Monday 19 December 2022,10:42,Mist,7°,7,93%,1029 hPa
+Monday 19 December 2022,10:53,Mist,7°,6,93%,1029 hPa
+Monday 19 December 2022,11:00,Mist,7°,4,100%,1028 hPa
+Monday 19 December 2022,11:30,Cloudy,7°,2,100%,1028 hPa
+Monday 19 December 2022,12:00,Mostly Cloudy,8°,2,100%,1028 hPa
+Monday 19 December 2022,12:30,Mostly Cloudy,8°,4,93%,1028 hPa
+Monday 19 December 2022,13:00,Mostly Cloudy,9°,6,87%,1028 hPa
+Monday 19 December 2022,13:30,Mostly Cloudy,9°,7,87%,1027 hPa
+Monday 19 December 2022,14:00,Mostly Cloudy,10°,4,82%,1027 hPa
+Monday 19 December 2022,14:30,Mostly Cloudy,10°,2,82%,1027 hPa
+Monday 19 December 2022,15:00,Partly Cloudy,11°,2,76%,1026 hPa
+Monday 19 December 2022,15:30,Fair,11°,4,76%,1026 hPa
+Monday 19 December 2022,16:00,Fair,11°,4,76%,1026 hPa
+Monday 19 December 2022,16:30,Fair,11°,9,82%,1026 hPa
+Monday 19 December 2022,17:00,Fair,10°,11,82%,1026 hPa
+Monday 19 December 2022,17:30,Fair,9°,7,87%,1026 hPa
+Monday 19 December 2022,18:00,Fair,9°,9,87%,1026 hPa
+Monday 19 December 2022,18:30,Fair,8°,7,87%,1026 hPa
+Monday 19 December 2022,19:00,Clear,8°,4,87%,1026 hPa
+Monday 19 December 2022,19:30,Clear,7°,4,93%,1026 hPa
+Monday 19 December 2022,20:00,Clear,7°,4,93%,1026 hPa
+Monday 19 December 2022,20:30,Mist,7°,7,93%,1026 hPa
+Monday 19 December 2022,21:00,Mist,6°,7,93%,1026 hPa
+Monday 19 December 2022,21:30,Mist,6°,9,93%,1026 hPa
+Monday 19 December 2022,22:00,Clear,7°,7,93%,1026 hPa
+Monday 19 December 2022,22:30,Clear,7°,4,93%,1026 hPa
+Monday 19 December 2022,23:00,Clear,6°,6,93%,1026 hPa
+Monday 19 December 2022,23:30,Clear,6°,4,93%,1026 hPa
+Wednesday 21 December 2022,00:00,Mist,9°,6,93%,1024 hPa
+Wednesday 21 December 2022,00:30,Mist,9°,9,100%,1024 hPa
+Wednesday 21 December 2022,00:37,Fog,9°,9,100%,1024 hPa
+Wednesday 21 December 2022,01:00,Fog,9°,7,93%,1024 hPa
+Wednesday 21 December 2022,01:30,Fog,9°,2,93%,1024 hPa
+Wednesday 21 December 2022,02:00,Fog,8°,2,100%,1024 hPa
+Wednesday 21 December 2022,02:30,Fog,8°,Calm,100%,1024 hPa
+Wednesday 21 December 2022,03:00,Fog,8°,4,100%,1024 hPa
+Wednesday 21 December 2022,03:16,Mist,9°,6,100%,1024 hPa
+Wednesday 21 December 2022,03:30,Mist,9°,Calm,100%,1024 hPa
+Wednesday 21 December 2022,04:00,Mist,9°,4,100%,1024 hPa
+Wednesday 21 December 2022,04:24,Mist,9°,6,100%,1024 hPa
+Wednesday 21 December 2022,04:30,Mist,9°,6,100%,1024 hPa
+Wednesday 21 December 2022,04:51,Mist,8°,7,100%,1024 hPa
+Wednesday 21 December 2022,05:00,Mist,9°,7,100%,1024 hPa
+Wednesday 21 December 2022,05:30,Mostly Cloudy,10°,9,100%,1024 hPa
+Wednesday 21 December 2022,06:00,Mostly Cloudy,9°,4,100%,1024 hPa
+Wednesday 21 December 2022,06:30,Mostly Cloudy,9°,9,100%,1024 hPa
+Wednesday 21 December 2022,07:00,Mist,9°,7,100%,1024 hPa
+Wednesday 21 December 2022,07:30,Mist,9°,4,100%,1024 hPa
+Wednesday 21 December 2022,08:00,Mostly Cloudy,9°,4,100%,1024 hPa
+Wednesday 21 December 2022,08:30,Mostly Cloudy,10°,6,93%,1025 hPa
+Wednesday 21 December 2022,09:00,Mostly Cloudy,10°,4,100%,1025 hPa
+Wednesday 21 December 2022,09:30,Mostly Cloudy,10°,4,100%,1025 hPa
+Wednesday 21 December 2022,10:00,Mostly Cloudy,11°,4,94%,1026 hPa
+Wednesday 21 December 2022,10:30,Mostly Cloudy,11°,11,94%,1026 hPa
+Wednesday 21 December 2022,11:00,Partly Cloudy,12°,13,88%,1026 hPa
+Wednesday 21 December 2022,11:30,Mostly Cloudy,13°,15,82%,1026 hPa
+Wednesday 21 December 2022,12:00,Mostly Cloudy,13°,19,>,39 82% 1026 hPa
+Wednesday 21 December 2022,12:30,Partly Cloudy,14°,19,>,37 77% 1026 hPa
+Wednesday 21 December 2022,13:00,Partly Cloudy,14°,24,>,44 82% 1026 hPa
+Wednesday 21 December 2022,13:30,Partly Cloudy,14°,20,77%,1025 hPa
+Wednesday 21 December 2022,14:00,Partly Cloudy,14°,15,77%,1025 hPa
+Wednesday 21 December 2022,14:30,Mostly Cloudy,14°,17,>,37 77% 1025 hPa
+Wednesday 21 December 2022,15:00,Mostly Cloudy,15°,22,72%,1025 hPa
+Wednesday 21 December 2022,15:30,Mostly Cloudy,14°,19,77%,1025 hPa
+Wednesday 21 December 2022,16:00,Mostly Cloudy,15°,17,72%,1024 hPa
+Wednesday 21 December 2022,16:30,Mostly Cloudy,14°,17,77%,1025 hPa
+Wednesday 21 December 2022,17:00,Mostly Cloudy,14°,19,77%,1025 hPa
+Wednesday 21 December 2022,17:30,Mostly Cloudy,14°,17,77%,1025 hPa
+Wednesday 21 December 2022,18:00,Mostly Cloudy,13°,15,82%,1025 hPa
+Wednesday 21 December 2022,18:30,Mostly Cloudy,13°,7,82%,1025 hPa
+Wednesday 21 December 2022,19:00,Mostly Cloudy,13°,17,82%,1026 hPa
+Wednesday 21 December 2022,19:30,Mostly Cloudy,13°,11,82%,1026 hPa
+Wednesday 21 December 2022,20:00,Partly Cloudy,13°,15,82%,1026 hPa
+Wednesday 21 December 2022,20:30,Fair,12°,22,88%,1026 hPa
+Wednesday 21 December 2022,21:00,Fair,12°,19,88%,1026 hPa
+Wednesday 21 December 2022,21:30,Mostly Cloudy,12°,28,88%,1026 hPa
+Wednesday 21 December 2022,22:00,Mostly Cloudy,12°,26,88%,1026 hPa
+Wednesday 21 December 2022,22:30,Partly Cloudy,12°,24,94%,1027 hPa
+Wednesday 21 December 2022,23:00,Mostly Cloudy,13°,24,88%,1027 hPa
+Wednesday 21 December 2022,23:30,Mostly Cloudy,13°,17,88%,1027 hPa
+Thursday 22 December 2022,00:00,Mostly Cloudy,12°,17,94%,1027 hPa
+Thursday 22 December 2022,00:30,Mostly Cloudy,12°,17,94%,1027 hPa
+Thursday 22 December 2022,01:00,Mostly Cloudy,12°,20,88%,1027 hPa
+Thursday 22 December 2022,01:30,Mostly Cloudy,12°,22,88%,1027 hPa
+Thursday 22 December 2022,02:00,Mostly Cloudy,11°,20,94%,1027 hPa
+Thursday 22 December 2022,02:30,Mostly Cloudy,11°,7,94%,1027 hPa
+Thursday 22 December 2022,03:00,Mostly Cloudy,11°,4,94%,1027 hPa
+Thursday 22 December 2022,03:30,Mostly Cloudy,11°,7,94%,1027 hPa
+Thursday 22 December 2022,04:00,Mostly Cloudy,12°,6,88%,1027 hPa
+Thursday 22 December 2022,04:30,Mostly Cloudy,12°,6,94%,1027 hPa
+Thursday 22 December 2022,05:00,Mostly Cloudy,11°,2,94%,1027 hPa
+Thursday 22 December 2022,05:30,Mostly Cloudy,12°,9,88%,1027 hPa
+Thursday 22 December 2022,06:00,Mostly Cloudy,11°,11,94%,1027 hPa
+Thursday 22 December 2022,06:30,Mostly Cloudy,11°,9,94%,1027 hPa
+Thursday 22 December 2022,07:00,Mostly Cloudy,12°,11,88%,1027 hPa
+Thursday 22 December 2022,07:30,Mostly Cloudy,12°,7,88%,1028 hPa
+Thursday 22 December 2022,08:00,Mostly Cloudy,11°,9,94%,1028 hPa
+Thursday 22 December 2022,08:30,Mostly Cloudy,11°,6,94%,1028 hPa
+Thursday 22 December 2022,09:00,Mostly Cloudy,11°,7,94%,1028 hPa
+Thursday 22 December 2022,09:30,Mostly Cloudy,11°,9,94%,1028 hPa
+Thursday 22 December 2022,10:00,Mostly Cloudy,12°,11,88%,1028 hPa
+Thursday 22 December 2022,10:30,Mostly Cloudy,12°,7,88%,1029 hPa
+Thursday 22 December 2022,11:00,Mostly Cloudy,12°,7,88%,1029 hPa
+Thursday 22 December 2022,11:30,Mostly Cloudy,12°,11,88%,1029 hPa
+Thursday 22 December 2022,12:00,Mostly Cloudy,13°,11,88%,1029 hPa
+Thursday 22 December 2022,12:30,Mostly Cloudy,13°,19,82%,1028 hPa
+Thursday 22 December 2022,13:00,Mostly Cloudy,13°,13,88%,1028 hPa
+Thursday 22 December 2022,13:30,Mostly Cloudy,14°,15,>,35 82% 1028 hPa
+Thursday 22 December 2022,14:00,Partly Cloudy,15°,15,>,35 77% 1028 hPa
+Thursday 22 December 2022,14:30,Partly Cloudy,16°,17,72%,1027 hPa
+Thursday 22 December 2022,15:00,Partly Cloudy,15°,17,72%,1027 hPa
+Thursday 22 December 2022,15:30,Fair,16°,11,72%,1027 hPa
+Thursday 22 December 2022,16:00,Fair,15°,17,>,39 77% 1027 hPa
+Thursday 22 December 2022,16:30,Partly Cloudy,15°,19,>,37 77% 1027 hPa
+Thursday 22 December 2022,17:00,Partly Cloudy,15°,17,>,37 77% 1027 hPa
+Thursday 22 December 2022,17:30,Partly Cloudy,15°,6,77%,1028 hPa
+Thursday 22 December 2022,18:00,Mostly Cloudy,14°,4,82%,1028 hPa
+Thursday 22 December 2022,18:30,Mostly Cloudy,14°,9,82%,1028 hPa
+Thursday 22 December 2022,19:00,Partly Cloudy,14°,4,82%,1028 hPa
+Thursday 22 December 2022,19:30,Mostly Cloudy,14°,11,82%,1028 hPa
+Thursday 22 December 2022,20:00,Mostly Cloudy,14°,6,82%,1028 hPa
+Thursday 22 December 2022,20:30,Mostly Cloudy,12°,4,88%,1028 hPa
+Thursday 22 December 2022,21:00,Mostly Cloudy,13°,6,88%,1028 hPa
+Thursday 22 December 2022,21:30,Mostly Cloudy,13°,7,88%,1028 hPa
+Thursday 22 December 2022,22:00,Mostly Cloudy,13°,9,88%,1028 hPa
+Thursday 22 December 2022,22:30,Mostly Cloudy,13°,7,88%,1028 hPa
+Thursday 22 December 2022,23:00,Mostly Cloudy,12°,11,94%,1028 hPa
+Thursday 22 December 2022,23:30,Mostly Cloudy,12°,9,94%,1028 hPa
+Friday 23 December 2022,00:00,Mostly Cloudy,12°,9,94%,1028 hPa
+Friday 23 December 2022,00:30,Mostly Cloudy,12°,7,94%,1028 hPa
+Friday 23 December 2022,01:00,Mostly Cloudy,12°,6,94%,1028 hPa
+Friday 23 December 2022,01:30,Mostly Cloudy,12°,7,94%,1028 hPa
+Friday 23 December 2022,02:00,Mostly Cloudy,12°,7,94%,1028 hPa
+Friday 23 December 2022,02:30,Mostly Cloudy,12°,6,94%,1028 hPa
+Friday 23 December 2022,03:00,Mostly Cloudy,12°,6,94%,1028 hPa
+Friday 23 December 2022,03:30,Mostly Cloudy,12°,6,94%,1028 hPa
+Friday 23 December 2022,04:00,Mist,12°,6,94%,1028 hPa
+Friday 23 December 2022,04:30,Mist,12°,7,94%,1027 hPa
+Friday 23 December 2022,05:00,Mist,11°,2,100%,1027 hPa
+Friday 23 December 2022,05:30,Mist,11°,6,100%,1027 hPa
+Friday 23 December 2022,06:00,Mist,11°,6,100%,1027 hPa
+Friday 23 December 2022,06:30,Mist,11°,9,100%,1027 hPa
+Friday 23 December 2022,07:00,Mist,11°,7,100%,1027 hPa
+Friday 23 December 2022,07:30,Mist,12°,9,94%,1027 hPa
+Friday 23 December 2022,08:00,Cloudy,12°,9,88%,1027 hPa
+Friday 23 December 2022,08:30,Cloudy,12°,7,88%,1027 hPa
+Friday 23 December 2022,09:00,Cloudy,12°,13,88%,1027 hPa
+Friday 23 December 2022,09:30,Cloudy,12°,13,88%,1028 hPa
+Friday 23 December 2022,10:00,Cloudy,12°,13,88%,1028 hPa
+Friday 23 December 2022,10:30,Cloudy,11°,15,94%,1028 hPa
+Friday 23 December 2022,11:00,Mostly Cloudy,12°,11,88%,1028 hPa
+Friday 23 December 2022,11:30,Mostly Cloudy,12°,13,>,39 88% 1028 hPa
+Friday 23 December 2022,12:00,Mostly Cloudy,12°,11,88%,1028 hPa
+Friday 23 December 2022,12:30,Mostly Cloudy,12°,13,>,32 88% 1028 hPa
+Friday 23 December 2022,13:00,Mostly Cloudy,12°,11,>,33 88% 1028 hPa
+Friday 23 December 2022,13:30,Mostly Cloudy,12°,11,>,30 88% 1027 hPa
+Friday 23 December 2022,14:00,Mostly Cloudy,12°,11,88%,1027 hPa
+Friday 23 December 2022,14:30,Cloudy,13°,11,82%,1026 hPa
+Friday 23 December 2022,15:00,Cloudy,13°,13,>,32 82% 1026 hPa
+Friday 23 December 2022,15:30,Mostly Cloudy,13°,11,82%,1026 hPa
+Friday 23 December 2022,16:00,Mostly Cloudy,13°,13,>,37 82% 1026 hPa
+Friday 23 December 2022,16:30,Cloudy,12°,11,>,30 82% 1026 hPa
+Friday 23 December 2022,17:00,Cloudy,12°,7,>,28 82% 1026 hPa
+Friday 23 December 2022,17:30,Cloudy,12°,9,82%,1026 hPa
+Friday 23 December 2022,18:00,Cloudy,12°,9,82%,1026 hPa
+Friday 23 December 2022,18:30,Cloudy,12°,9,82%,1026 hPa
+Friday 23 December 2022,19:00,Mostly Cloudy,12°,9,82%,1026 hPa
+Friday 23 December 2022,19:30,Mostly Cloudy,12°,9,82%,1026 hPa
+Friday 23 December 2022,20:00,Cloudy,12°,9,82%,1026 hPa
+Friday 23 December 2022,20:30,Cloudy,12°,6,82%,1026 hPa
+Friday 23 December 2022,21:00,Cloudy,12°,6,82%,1026 hPa
+Friday 23 December 2022,21:30,Cloudy,12°,4,82%,1026 hPa
+Friday 23 December 2022,22:00,Cloudy,12°,7,>,26 82% 1026 hPa
+Friday 23 December 2022,22:30,Cloudy,12°,6,82%,1026 hPa
+Friday 23 December 2022,23:00,Cloudy,11°,6,87%,1026 hPa
+Friday 23 December 2022,23:30,Cloudy,11°,4,87%,1026 hPa
+Saturday 24 December 2022,00:00,Cloudy,11°,4,87%,1026 hPa
+Saturday 24 December 2022,00:30,Cloudy,11°,2,87%,1026 hPa
+Saturday 24 December 2022,01:00,Cloudy,11°,2,87%,1025 hPa
+Saturday 24 December 2022,01:30,Cloudy,11°,4,87%,1025 hPa
+Saturday 24 December 2022,02:00,Cloudy,11°,6,87%,1025 hPa
+Saturday 24 December 2022,02:30,Cloudy,11°,6,87%,1025 hPa
+Saturday 24 December 2022,03:00,Mostly Cloudy,10°,4,93%,1025 hPa
+Saturday 24 December 2022,03:30,Mostly Cloudy,10°,4,93%,1025 hPa
+Saturday 24 December 2022,04:00,Mostly Cloudy,10°,4,93%,1025 hPa
+Saturday 24 December 2022,04:30,Mostly Cloudy,10°,6,93%,1024 hPa
+Saturday 24 December 2022,05:00,Mostly Cloudy,10°,6,93%,1024 hPa
+Saturday 24 December 2022,05:30,Mostly Cloudy,10°,6,93%,1024 hPa
+Saturday 24 December 2022,06:00,Mostly Cloudy,10°,4,93%,1024 hPa
+Saturday 24 December 2022,06:30,Mostly Cloudy,9°,4,100%,1024 hPa
+Saturday 24 December 2022,07:00,Mostly Cloudy,9°,6,100%,1024 hPa
+Saturday 24 December 2022,07:30,Mostly Cloudy,9°,4,100%,1023 hPa
+Saturday 24 December 2022,08:00,Mostly Cloudy,9°,2,100%,1023 hPa
+Saturday 24 December 2022,08:30,Mostly Cloudy,9°,2,100%,1024 hPa
+Saturday 24 December 2022,09:00,Mostly Cloudy,9°,4,100%,1024 hPa
+Saturday 24 December 2022,09:30,Mostly Cloudy,9°,2,100%,1024 hPa
+Saturday 24 December 2022,10:00,Cloudy,10°,6,93%,1024 hPa
+Saturday 24 December 2022,10:30,Cloudy,10°,11,87%,1024 hPa
+Saturday 24 December 2022,11:00,Cloudy,10°,7,87%,1025 hPa
+Saturday 24 December 2022,11:30,Cloudy,10°,7,87%,1025 hPa
+Saturday 24 December 2022,12:00,Cloudy,11°,6,82%,1024 hPa
+Saturday 24 December 2022,12:30,Cloudy,11°,6,82%,1024 hPa
+Saturday 24 December 2022,13:00,Cloudy,11°,6,82%,1024 hPa
+Saturday 24 December 2022,13:30,Cloudy,11°,7,87%,1023 hPa
+Saturday 24 December 2022,14:00,Cloudy,11°,9,82%,1023 hPa
+Saturday 24 December 2022,14:30,Cloudy,11°,7,82%,1023 hPa
+Saturday 24 December 2022,15:00,Mostly Cloudy,11°,7,82%,1022 hPa
+Saturday 24 December 2022,15:30,Mostly Cloudy,11°,9,82%,1022 hPa
+Saturday 24 December 2022,16:00,Mostly Cloudy,12°,11,76%,1022 hPa
+Saturday 24 December 2022,16:30,Partly Cloudy,11°,9,82%,1022 hPa
+Saturday 24 December 2022,17:00,Partly Cloudy,11°,7,82%,1022 hPa
+Saturday 24 December 2022,17:30,Partly Cloudy,11°,6,82%,1022 hPa
+Saturday 24 December 2022,18:00,Fair,10°,9,87%,1022 hPa
+Saturday 24 December 2022,18:30,Fair,10°,9,82%,1022 hPa
+Saturday 24 December 2022,19:00,Fair,10°,6,87%,1022 hPa
+Saturday 24 December 2022,19:30,Fair,8°,Calm,87%,1022 hPa
+Saturday 24 December 2022,20:00,Clear,7°,4,100%,1022 hPa
+Saturday 24 December 2022,20:30,Clear,7°,4,100%,1022 hPa
+Saturday 24 December 2022,21:00,Clear,7°,4,93%,1022 hPa
+Saturday 24 December 2022,21:30,Mist,7°,2,93%,1022 hPa
+Saturday 24 December 2022,22:00,Mist,6°,Calm,100%,1022 hPa
+Saturday 24 December 2022,22:30,Mist,7°,Calm,100%,1022 hPa
+Saturday 24 December 2022,23:00,Mist,7°,2,100%,1022 hPa
+Saturday 24 December 2022,23:30,Mist,7°,Calm,100%,1022 hPa
+Sunday 25 December 2022,00:00,Mist,7°,Calm,100%,1022 hPa
+Sunday 25 December 2022,00:30,Mist,7°,Calm,100%,1022 hPa
+Sunday 25 December 2022,01:00,Mist,7°,Calm,100%,1021 hPa
+Sunday 25 December 2022,01:30,Mist,6°,Calm,100%,1021 hPa
+Sunday 25 December 2022,02:00,Mist,6°,2,100%,1021 hPa
+Sunday 25 December 2022,02:30,Mist,5°,Calm,100%,1021 hPa
+Sunday 25 December 2022,02:38,Mist,6°,Calm,93%,1021 hPa
+Sunday 25 December 2022,03:00,Mist,5°,2,100%,1021 hPa
+Sunday 25 December 2022,03:30,Mist,6°,2,100%,1021 hPa
+Sunday 25 December 2022,03:51,Mist,7°,Calm,93%,1021 hPa
+Sunday 25 December 2022,04:00,Mist,7°,Calm,93%,1021 hPa
+Sunday 25 December 2022,04:30,Mist,7°,4,100%,1021 hPa
+Sunday 25 December 2022,05:00,Mist,7°,9,100%,1021 hPa
+Sunday 25 December 2022,05:30,Mist,7°,6,100%,1021 hPa
+Sunday 25 December 2022,06:00,Mist,7°,2,100%,1021 hPa
+Sunday 25 December 2022,06:24,Fog,6°,2,100%,1021 hPa
+Sunday 25 December 2022,06:30,Fog,6°,4,100%,1021 hPa
+Sunday 25 December 2022,07:00,Fog,6°,6,100%,1021 hPa
+Sunday 25 December 2022,07:30,Fog,6°,4,100%,1021 hPa
+Sunday 25 December 2022,08:00,Fog,6°,2,100%,1021 hPa
+Sunday 25 December 2022,08:30,Fog,6°,4,100%,1021 hPa
+Sunday 25 December 2022,08:46,Fog Patches,6°,2,100%,1021 hPa
+Sunday 25 December 2022,09:00,Fog Patches,6°,2,100%,1022 hPa
+Sunday 25 December 2022,09:30,Fog Patches,6°,2,100%,1022 hPa
+Sunday 25 December 2022,09:44,Fog Patches,7°,2,93%,1022 hPa
+Sunday 25 December 2022,10:00,Mist,7°,Calm,100%,1022 hPa
+Sunday 25 December 2022,10:30,Mostly Cloudy,8°,6,100%,1022 hPa
+Sunday 25 December 2022,11:00,Mostly Cloudy,10°,11,93%,1023 hPa
+Sunday 25 December 2022,11:30,Mostly Cloudy,11°,13,94%,1023 hPa
+Sunday 25 December 2022,12:00,Partly Cloudy,11°,15,87%,1022 hPa
+Sunday 25 December 2022,12:30,Partly Cloudy,12°,13,82%,1022 hPa
+Sunday 25 December 2022,13:00,Mostly Cloudy,13°,11,77%,1022 hPa
+Sunday 25 December 2022,13:30,Mostly Cloudy,13°,6,77%,1021 hPa
+Sunday 25 December 2022,14:00,Partly Cloudy,15°,11,63%,1021 hPa
+Sunday 25 December 2022,14:30,Partly Cloudy,15°,9,63%,1021 hPa
+Sunday 25 December 2022,15:00,Partly Cloudy,17°,4,55%,1020 hPa
+Sunday 25 December 2022,15:30,Fair,16°,11,59%,1020 hPa
+Sunday 25 December 2022,16:00,Fair,16°,11,59%,1020 hPa
+Sunday 25 December 2022,16:30,Fair,16°,6,59%,1020 hPa
+Sunday 25 December 2022,17:00,Clear,16°,6,55%,1020 hPa
+Sunday 25 December 2022,17:30,Clear,14°,2,67%,1020 hPa
+Sunday 25 December 2022,18:00,Clear,12°,4,76%,1020 hPa
+Sunday 25 December 2022,18:30,Clear,12°,11,82%,1021 hPa
+Sunday 25 December 2022,19:00,Clear,11°,11,87%,1021 hPa
+Sunday 25 December 2022,19:30,Clear,10°,7,87%,1021 hPa
+Sunday 25 December 2022,20:00,Clear,10°,6,87%,1021 hPa
+Sunday 25 December 2022,20:30,Clear,9°,7,93%,1021 hPa
+Sunday 25 December 2022,21:00,Clear,9°,9,93%,1021 hPa
+Sunday 25 December 2022,21:30,Clear,9°,7,87%,1021 hPa
+Sunday 25 December 2022,22:00,Clear,8°,6,93%,1022 hPa
+Sunday 25 December 2022,22:30,Clear,8°,6,93%,1022 hPa
+Sunday 25 December 2022,23:00,Clear,7°,4,100%,1022 hPa
+Sunday 25 December 2022,23:30,Clear,7°,4,93%,1023 hPa
+Monday 26 December 2022,00:00,Clear,7°,4,93%,1023 hPa
+Monday 26 December 2022,00:30,Clear,7°,6,93%,1023 hPa
+Monday 26 December 2022,01:00,Clear,6°,6,100%,1023 hPa
+Monday 26 December 2022,01:30,Clear,6°,7,100%,1024 hPa
+Monday 26 December 2022,02:00,Clear,7°,6,93%,1024 hPa
+Monday 26 December 2022,02:30,Clear,5°,4,100%,1024 hPa
+Monday 26 December 2022,03:00,Clear,5°,2,93%,1024 hPa
+Monday 26 December 2022,03:30,Clear,5°,6,100%,1024 hPa
+Monday 26 December 2022,04:00,Clear,5°,6,100%,1025 hPa
+Monday 26 December 2022,04:30,Clear,5°,9,100%,1024 hPa
+Monday 26 December 2022,05:00,Clear,5°,9,93%,1025 hPa
+Monday 26 December 2022,05:30,Clear,5°,6,93%,1025 hPa
+Monday 26 December 2022,06:00,Clear,5°,6,93%,1025 hPa
+Monday 26 December 2022,06:30,Clear,5°,7,93%,1025 hPa
+Monday 26 December 2022,07:30,Clear,4°,4,93%,1026 hPa
+Monday 26 December 2022,08:00,Clear,3°,4,100%,1026 hPa
+Monday 26 December 2022,08:30,Clear,3°,2,100%,1026 hPa
+Monday 26 December 2022,09:00,Clear,3°,6,100%,1027 hPa
+Monday 26 December 2022,09:30,Clear,4°,6,100%,1027 hPa
+Monday 26 December 2022,10:00,Clear,6°,7,93%,1027 hPa
+Monday 26 December 2022,10:30,Clear,7°,Calm,93%,1028 hPa
+Monday 26 December 2022,11:00,Clear,9°,Calm,81%,1028 hPa
+Monday 26 December 2022,11:30,Clear,10°,4,76%,1028 hPa
+Monday 26 December 2022,12:00,Clear,11°,4,71%,1029 hPa
+Monday 26 December 2022,12:30,Clear,12°,Calm,71%,1028 hPa
+Monday 26 December 2022,13:00,Clear,13°,6,72%,1028 hPa
+Monday 26 December 2022,13:30,Clear,14°,2,63%,1028 hPa
+Monday 26 December 2022,14:00,Clear,15°,4,59%,1028 hPa
+Monday 26 December 2022,14:30,Clear,16°,2,59%,1028 hPa
+Monday 26 December 2022,15:00,Clear,16°,2,55%,1028 hPa
+Monday 26 December 2022,15:30,Clear,16°,4,55%,1028 hPa
+Monday 26 December 2022,16:00,Clear,16°,6,55%,1028 hPa
+Monday 26 December 2022,16:30,Clear,17°,6,48%,1028 hPa
+Monday 26 December 2022,17:00,Clear,16°,4,59%,1028 hPa
+Monday 26 December 2022,17:30,Clear,16°,6,51%,1028 hPa
+Monday 26 December 2022,18:00,Clear,14°,6,63%,1028 hPa
+Monday 26 December 2022,18:30,Clear,14°,7,58%,1028 hPa
+Monday 26 December 2022,19:00,Clear,14°,7,58%,1029 hPa
+Monday 26 December 2022,19:30,Clear,12°,7,67%,1029 hPa
+Monday 26 December 2022,20:00,Clear,11°,Calm,71%,1029 hPa
+Monday 26 December 2022,20:30,Clear,10°,2,76%,1029 hPa
+Monday 26 December 2022,21:00,Clear,9°,2,81%,1030 hPa
+Monday 26 December 2022,21:30,Clear,8°,Calm,87%,1030 hPa
+Monday 26 December 2022,22:00,Clear,7°,6,93%,1030 hPa
+Monday 26 December 2022,22:30,Clear,8°,7,87%,1030 hPa
+Monday 26 December 2022,23:00,Clear,7°,6,87%,1030 hPa
+Monday 26 December 2022,23:30,Clear,7°,6,93%,1031 hPa
+Tuesday 27 December 2022,00:00,Clear,6°,6,93%,1031 hPa
+Tuesday 27 December 2022,00:30,Clear,5°,4,93%,1031 hPa
+Tuesday 27 December 2022,01:00,Clear,5°,6,100%,1031 hPa
+Tuesday 27 December 2022,01:30,Clear,5°,4,93%,1030 hPa
+Tuesday 27 December 2022,02:00,Clear,5°,6,93%,1030 hPa
+Tuesday 27 December 2022,02:30,Clear,4°,4,93%,1030 hPa
+Tuesday 27 December 2022,03:00,Clear,4°,6,100%,1030 hPa
+Tuesday 27 December 2022,03:30,Clear,4°,4,100%,1031 hPa
+Tuesday 27 December 2022,04:00,Clear,4°,2,93%,1031 hPa
+Tuesday 27 December 2022,04:30,Clear,3°,6,100%,1031 hPa
+Tuesday 27 December 2022,05:00,Clear,3°,6,100%,1031 hPa
+Tuesday 27 December 2022,05:30,Clear,3°,4,100%,1031 hPa
+Tuesday 27 December 2022,06:00,Clear,3°,2,93%,1031 hPa
+Tuesday 27 December 2022,06:30,Clear,3°,Calm,93%,1031 hPa
+Tuesday 27 December 2022,07:00,Clear,3°,6,93%,1031 hPa
+Tuesday 27 December 2022,07:30,Clear,2°,4,100%,1031 hPa
+Tuesday 27 December 2022,08:00,Clear,2°,4,100%,1032 hPa
+Tuesday 27 December 2022,08:30,Clear,2°,2,100%,1032 hPa
+Tuesday 27 December 2022,09:00,Clear,2°,4,100%,1032 hPa
+Tuesday 27 December 2022,09:30,Clear,3°,2,93%,1032 hPa
+Tuesday 27 December 2022,10:00,Clear,4°,2,93%,1032 hPa
+Tuesday 27 December 2022,10:30,Clear,5°,2,93%,1033 hPa
+Tuesday 27 December 2022,11:00,Clear,6°,Calm,93%,1033 hPa
+Tuesday 27 December 2022,11:30,Clear,8°,4,81%,1033 hPa
+Tuesday 27 December 2022,12:00,Clear,9°,4,81%,1033 hPa
+Tuesday 27 December 2022,12:30,Clear,11°,Calm,71%,1032 hPa
+Tuesday 27 December 2022,13:00,Clear,12°,4,67%,1032 hPa
+Tuesday 27 December 2022,13:30,Clear,12°,4,67%,1031 hPa
+Tuesday 27 December 2022,14:00,Clear,13°,4,67%,1031 hPa
+Tuesday 27 December 2022,14:30,Clear,14°,2,63%,1030 hPa
+Tuesday 27 December 2022,15:00,Clear,15°,Calm,59%,1030 hPa
+Tuesday 27 December 2022,15:30,Clear,15°,6,59%,1030 hPa
+Tuesday 27 December 2022,16:00,Clear,15°,9,59%,1029 hPa
+Tuesday 27 December 2022,16:30,Clear,15°,7,59%,1029 hPa
+Tuesday 27 December 2022,17:00,Clear,15°,6,59%,1029 hPa
+Tuesday 27 December 2022,17:30,Clear,14°,7,63%,1030 hPa
+Tuesday 27 December 2022,18:00,Clear,13°,6,67%,1030 hPa
+Tuesday 27 December 2022,18:30,Clear,12°,2,71%,1030 hPa
+Tuesday 27 December 2022,19:00,Clear,13°,6,67%,1029 hPa
+Tuesday 27 December 2022,19:30,Clear,11°,4,71%,1030 hPa
+Tuesday 27 December 2022,20:00,Clear,10°,4,82%,1030 hPa
+Tuesday 27 December 2022,20:30,Clear,8°,6,87%,1030 hPa
+Tuesday 27 December 2022,21:00,Clear,7°,4,93%,1030 hPa
+Tuesday 27 December 2022,21:30,Clear,6°,6,93%,1030 hPa
+Tuesday 27 December 2022,22:00,Clear,6°,6,93%,1030 hPa
+Tuesday 27 December 2022,22:30,Clear,6°,6,93%,1030 hPa
+Tuesday 27 December 2022,23:00,Clear,6°,4,93%,1030 hPa
+Tuesday 27 December 2022,23:30,Clear,5°,6,100%,1030 hPa
+Wednesday 28 December 2022,00:00,Clear,6°,9,93%,1030 hPa
+Wednesday 28 December 2022,00:30,Clear,5°,7,93%,1030 hPa
+Wednesday 28 December 2022,01:00,Clear,5°,6,93%,1029 hPa
+Wednesday 28 December 2022,01:30,Clear,4°,2,93%,1029 hPa
+Wednesday 28 December 2022,02:00,Clear,4°,4,93%,1029 hPa
+Wednesday 28 December 2022,02:30,Clear,4°,2,93%,1029 hPa
+Wednesday 28 December 2022,03:00,Clear,3°,6,100%,1028 hPa
+Wednesday 28 December 2022,03:30,Clear,3°,2,93%,1028 hPa
+Wednesday 28 December 2022,04:00,Clear,3°,4,100%,1028 hPa
+Wednesday 28 December 2022,04:30,Clear,2°,4,100%,1028 hPa
+Wednesday 28 December 2022,05:00,Clear,2°,6,100%,1028 hPa
+Wednesday 28 December 2022,05:30,Clear,2°,7,100%,1028 hPa
+Wednesday 28 December 2022,06:00,Clear,2°,6,100%,1027 hPa
+Wednesday 28 December 2022,06:30,Clear,2°,6,100%,1028 hPa
+Wednesday 28 December 2022,07:00,Clear,1°,2,93%,1027 hPa
+Wednesday 28 December 2022,07:30,Fog Patches,2°,4,100%,1027 hPa
+Wednesday 28 December 2022,08:00,Fog Patches,1°,6,100%,1027 hPa
+Wednesday 28 December 2022,08:30,Fog Patches,1°,7,100%,1028 hPa
+Wednesday 28 December 2022,09:00,Fog Patches,1°,6,100%,1028 hPa
+Wednesday 28 December 2022,09:30,Fog Patches,1°,2,100%,1028 hPa
+Wednesday 28 December 2022,10:00,Fair,3°,4,93%,1028 hPa
+Wednesday 28 December 2022,10:30,Clear,4°,2,93%,1028 hPa
+Wednesday 28 December 2022,11:00,Clear,5°,Calm,93%,1028 hPa
+Wednesday 28 December 2022,11:30,Clear,6°,6,87%,1028 hPa
+Wednesday 28 December 2022,12:00,Clear,8°,Calm,81%,1028 hPa
+Wednesday 28 December 2022,12:30,Clear,9°,4,76%,1027 hPa
+Wednesday 28 December 2022,13:00,Clear,10°,4,71%,1027 hPa
+Wednesday 28 December 2022,13:30,Clear,11°,7,71%,1026 hPa
+Wednesday 28 December 2022,14:00,Clear,13°,11,67%,1025 hPa
+Wednesday 28 December 2022,14:30,Clear,13°,11,67%,1025 hPa
+Wednesday 28 December 2022,15:00,Clear,13°,11,67%,1024 hPa
+Wednesday 28 December 2022,15:30,Clear,14°,11,63%,1024 hPa
+Wednesday 28 December 2022,16:00,Clear,14°,11,63%,1024 hPa
+Wednesday 28 December 2022,16:30,Clear,14°,11,58%,1024 hPa
+Wednesday 28 December 2022,17:00,Clear,14°,15,58%,1024 hPa
+Wednesday 28 December 2022,17:30,Clear,14°,13,58%,1024 hPa
+Wednesday 28 December 2022,18:00,Clear,12°,11,62%,1024 hPa
+Wednesday 28 December 2022,18:30,Clear,11°,4,66%,1024 hPa
+Wednesday 28 December 2022,19:00,Clear,9°,2,76%,1024 hPa
+Wednesday 28 December 2022,19:30,Clear,10°,9,76%,1024 hPa
+Wednesday 28 December 2022,20:00,Clear,8°,11,87%,1024 hPa
+Wednesday 28 December 2022,20:30,Clear,9°,7,76%,1024 hPa
+Wednesday 28 December 2022,21:00,Clear,8°,4,81%,1024 hPa
+Wednesday 28 December 2022,21:30,Clear,9°,2,81%,1024 hPa
+Wednesday 28 December 2022,22:00,Clear,8°,4,87%,1024 hPa
+Wednesday 28 December 2022,22:30,Clear,9°,9,81%,1024 hPa
+Wednesday 28 December 2022,23:00,Clear,8°,7,87%,1024 hPa
+Wednesday 28 December 2022,23:30,Fair,8°,6,87%,1024 hPa
+Thursday 29 December 2022,00:00,Fair,8°,11,93%,1024 hPa
+Thursday 29 December 2022,00:30,Fair,8°,9,87%,1024 hPa
+Thursday 29 December 2022,01:00,Fair,8°,9,93%,1024 hPa
+Thursday 29 December 2022,01:30,Fair,8°,11,93%,1023 hPa
+Thursday 29 December 2022,02:00,Fair,9°,11,87%,1023 hPa
+Thursday 29 December 2022,02:30,Fair,8°,9,87%,1023 hPa
+Thursday 29 December 2022,03:00,Fair,8°,9,87%,1023 hPa
+Thursday 29 December 2022,03:30,Fair,7°,7,93%,1023 hPa
+Thursday 29 December 2022,04:00,Fair,7°,11,93%,1023 hPa
+Thursday 29 December 2022,04:30,Fair,8°,9,87%,1023 hPa
+Thursday 29 December 2022,05:00,Mostly Cloudy,8°,7,87%,1022 hPa
+Thursday 29 December 2022,05:30,Mostly Cloudy,7°,7,93%,1022 hPa
+Thursday 29 December 2022,06:00,Mostly Cloudy,8°,6,87%,1022 hPa
+Thursday 29 December 2022,06:30,Mostly Cloudy,8°,7,87%,1022 hPa
+Thursday 29 December 2022,07:00,Mostly Cloudy,8°,9,87%,1022 hPa
+Thursday 29 December 2022,07:30,Mostly Cloudy,9°,9,81%,1023 hPa
+Thursday 29 December 2022,08:00,Mostly Cloudy,8°,9,81%,1023 hPa
+Thursday 29 December 2022,08:30,Fair,9°,9,81%,1023 hPa
+Thursday 29 December 2022,09:00,Fair,8°,7,81%,1023 hPa
+Thursday 29 December 2022,09:30,Fair,8°,6,87%,1024 hPa
+Thursday 29 December 2022,10:00,Mostly Cloudy,9°,9,81%,1024 hPa
+Thursday 29 December 2022,10:30,Mostly Cloudy,10°,9,82%,1024 hPa
+Thursday 29 December 2022,11:00,Mostly Cloudy,11°,11,82%,1024 hPa
+Thursday 29 December 2022,11:30,Mostly Cloudy,11°,11,87%,1024 hPa
+Thursday 29 December 2022,12:00,Mostly Cloudy,11°,17,87%,1024 hPa
+Thursday 29 December 2022,12:30,Mostly Cloudy,12°,19,>,44 82% 1023 hPa
+Thursday 29 December 2022,13:00,Mostly Cloudy,12°,19,>,39 82% 1023 hPa
+Thursday 29 December 2022,13:30,Mostly Cloudy,12°,19,76%,1023 hPa
+Thursday 29 December 2022,14:00,Mostly Cloudy,12°,20,82%,1023 hPa
+Thursday 29 December 2022,14:30,Mostly Cloudy,13°,20,77%,1022 hPa
+Thursday 29 December 2022,15:00,Mostly Cloudy,13°,26,77%,1022 hPa
+Thursday 29 December 2022,15:30,Mostly Cloudy,13°,22,77%,1022 hPa
+Thursday 29 December 2022,16:00,Partly Cloudy,12°,24,82%,1022 hPa
+Thursday 29 December 2022,16:30,Mostly Cloudy,13°,22,>,50 82% 1022 hPa
+Thursday 29 December 2022,17:00,Mostly Cloudy,13°,24,>,52 82% 1022 hPa
+Thursday 29 December 2022,17:30,Mostly Cloudy,13°,24,>,52 82% 1022 hPa
+Thursday 29 December 2022,18:00,Mostly Cloudy,13°,24,82%,1022 hPa
+Thursday 29 December 2022,18:30,Mostly Cloudy,12°,20,>,41 88% 1022 hPa
+Thursday 29 December 2022,19:00,Mostly Cloudy,12°,20,88%,1022 hPa
+Thursday 29 December 2022,19:30,Mostly Cloudy,12°,17,88%,1022 hPa
+Thursday 29 December 2022,20:00,Mostly Cloudy,12°,19,88%,1022 hPa
+Thursday 29 December 2022,20:30,Mostly Cloudy,12°,13,88%,1022 hPa
+Thursday 29 December 2022,21:00,Mostly Cloudy,12°,13,82%,1022 hPa
+Thursday 29 December 2022,21:30,Light Rain,11°,15,94%,1022 hPa
+Thursday 29 December 2022,22:00,Mostly Cloudy,11°,15,94%,1022 hPa
+Thursday 29 December 2022,22:30,Mostly Cloudy,12°,17,88%,1022 hPa
+Thursday 29 December 2022,23:00,Mostly Cloudy,12°,20,82%,1022 hPa
+Thursday 29 December 2022,23:30,Mostly Cloudy,12°,19,82%,1022 hPa
+Friday 30 December 2022,00:00,Mostly Cloudy,12°,24,82%,1022 hPa
+Friday 30 December 2022,00:30,Mostly Cloudy,12°,22,82%,1022 hPa
+Friday 30 December 2022,01:00,Mostly Cloudy,12°,30,76%,1022 hPa
+Friday 30 December 2022,01:30,Mostly Cloudy,12°,24,76%,1022 hPa
+Friday 30 December 2022,02:00,Mostly Cloudy,12°,32,76%,1022 hPa
+Friday 30 December 2022,02:30,Mostly Cloudy,12°,33,76%,1022 hPa
+Friday 30 December 2022,03:00,Mostly Cloudy,12°,32,71%,1022 hPa
+Friday 30 December 2022,03:30,Mostly Cloudy,12°,28,71%,1022 hPa
+Friday 30 December 2022,04:00,Mostly Cloudy,12°,33,>,54 71% 1022 hPa
+Friday 30 December 2022,04:30,Mostly Cloudy,12°,28,71%,1022 hPa
+Friday 30 December 2022,05:00,Mostly Cloudy,12°,19,71%,1022 hPa
+Friday 30 December 2022,05:30,Mostly Cloudy,12°,22,71%,1022 hPa
+Friday 30 December 2022,06:00,Cloudy,12°,20,71%,1022 hPa
+Friday 30 December 2022,06:30,Drizzle,12°,19,71%,1022 hPa
+Friday 30 December 2022,07:00,Drizzle,12°,20,71%,1022 hPa
+Friday 30 December 2022,07:30,Drizzle,12°,15,71%,1023 hPa
+Friday 30 December 2022,08:00,Drizzle,11°,11,76%,1023 hPa
+Friday 30 December 2022,08:30,Drizzle,11°,15,76%,1023 hPa
+Friday 30 December 2022,09:00,Mostly Cloudy,12°,17,67%,1024 hPa
+Friday 30 December 2022,09:30,Mostly Cloudy,12°,15,67%,1024 hPa
+Friday 30 December 2022,10:00,Mostly Cloudy,12°,19,71%,1024 hPa
+Friday 30 December 2022,10:30,Mostly Cloudy,12°,20,71%,1025 hPa
+Friday 30 December 2022,11:00,Mostly Cloudy,12°,15,>,35 71% 1025 hPa
+Friday 30 December 2022,11:30,Mostly Cloudy,13°,22,>,52 72% 1025 hPa
+Friday 30 December 2022,12:00,Mostly Cloudy,13°,17,67%,1025 hPa
+Friday 30 December 2022,12:30,Mostly Cloudy,13°,20,>,54 67% 1025 hPa
+Friday 30 December 2022,13:00,Partly Cloudy,14°,20,63%,1025 hPa
+Friday 30 December 2022,13:30,Fair,14°,22,>,41 63% 1025 hPa
+Friday 30 December 2022,14:00,Fair,14°,15,>,43 63% 1025 hPa
+Friday 30 December 2022,14:30,Clear,14°,17,>,35 63% 1024 hPa
+Friday 30 December 2022,15:00,Clear,14°,15,>,44 58% 1024 hPa
+Friday 30 December 2022,15:30,Clear,14°,15,63%,1024 hPa
+Friday 30 December 2022,16:00,Clear,14°,17,63%,1024 hPa
+Friday 30 December 2022,16:30,Clear,14°,15,63%,1024 hPa
+Friday 30 December 2022,17:00,Clear,13°,9,67%,1025 hPa
+Friday 30 December 2022,17:30,Clear,13°,13,67%,1025 hPa
+Friday 30 December 2022,18:00,Clear,13°,19,62%,1025 hPa
+Friday 30 December 2022,18:30,Clear,13°,9,>,30 62% 1026 hPa
+Friday 30 December 2022,19:00,Clear,12°,9,62%,1026 hPa
+Friday 30 December 2022,19:30,Clear,11°,9,66%,1026 hPa
+Friday 30 December 2022,20:00,Clear,11°,13,66%,1026 hPa
+Friday 30 December 2022,20:30,Clear,11°,11,66%,1026 hPa
+Friday 30 December 2022,21:00,Clear,10°,11,71%,1027 hPa
+Friday 30 December 2022,21:30,Clear,10°,11,71%,1027 hPa
+Friday 30 December 2022,22:00,Clear,11°,11,>,32 66% 1027 hPa
+Friday 30 December 2022,22:30,Clear,9°,11,71%,1027 hPa
+Friday 30 December 2022,23:00,Clear,8°,11,76%,1027 hPa
+Friday 30 December 2022,23:30,Clear,8°,11,76%,1027 hPa
+Saturday 31 December 2022,00:00,Clear,8°,6,76%,1027 hPa
+Saturday 31 December 2022,00:30,Clear,7°,2,81%,1028 hPa
+Saturday 31 December 2022,01:00,Clear,7°,4,81%,1028 hPa
+Saturday 31 December 2022,01:30,Clear,7°,4,81%,1027 hPa
+Saturday 31 December 2022,02:00,Clear,6°,4,87%,1027 hPa
+Saturday 31 December 2022,02:30,Clear,6°,Calm,81%,1027 hPa
+Saturday 31 December 2022,03:00,Clear,5°,Calm,93%,1027 hPa
+Saturday 31 December 2022,03:30,Clear,5°,4,87%,1028 hPa
+Saturday 31 December 2022,04:00,Clear,4°,4,93%,1027 hPa
+Saturday 31 December 2022,04:30,Clear,4°,4,93%,1027 hPa
+Saturday 31 December 2022,05:00,Clear,3°,4,93%,1027 hPa
+Saturday 31 December 2022,05:30,Clear,4°,4,93%,1027 hPa
+Saturday 31 December 2022,06:00,Clear,3°,6,100%,1026 hPa
+Saturday 31 December 2022,06:30,Clear,3°,6,93%,1026 hPa
+Saturday 31 December 2022,07:00,Clear,3°,6,93%,1026 hPa
+Saturday 31 December 2022,07:30,Clear,2°,6,100%,1026 hPa
+Saturday 31 December 2022,08:00,Clear,3°,7,93%,1027 hPa
+Saturday 31 December 2022,08:30,Clear,2°,7,100%,1027 hPa
+Saturday 31 December 2022,09:00,Clear,2°,6,100%,1027 hPa
+Saturday 31 December 2022,09:30,Clear,3°,4,93%,1027 hPa
+Saturday 31 December 2022,10:00,Clear,4°,4,93%,1028 hPa
+Saturday 31 December 2022,10:30,Clear,5°,4,87%,1028 hPa
+Saturday 31 December 2022,11:00,Clear,7°,2,81%,1028 hPa
+Saturday 31 December 2022,11:30,Clear,8°,4,76%,1028 hPa
+Saturday 31 December 2022,12:00,Clear,9°,6,76%,1028 hPa
+Saturday 31 December 2022,12:30,Clear,10°,6,71%,1027 hPa
+Saturday 31 December 2022,13:00,Clear,11°,6,66%,1027 hPa
+Saturday 31 December 2022,13:30,Clear,12°,4,62%,1026 hPa
+Saturday 31 December 2022,14:00,Clear,13°,4,58%,1026 hPa
+Saturday 31 December 2022,14:30,Clear,14°,4,51%,1026 hPa
+Saturday 31 December 2022,15:00,Clear,13°,4,58%,1026 hPa
+Saturday 31 December 2022,15:30,Clear,14°,Calm,55%,1025 hPa
+Saturday 31 December 2022,16:00,Clear,14°,4,51%,1025 hPa
+Saturday 31 December 2022,16:30,Clear,15°,4,39%,1025 hPa
+Saturday 31 December 2022,17:00,Clear,15°,4,41%,1025 hPa
+Saturday 31 December 2022,17:30,Clear,13°,4,51%,1025 hPa
+Saturday 31 December 2022,18:00,Clear,10°,Calm,62%,1025 hPa
+Saturday 31 December 2022,18:30,Clear,10°,2,62%,1026 hPa
+Saturday 31 December 2022,19:00,Clear,8°,6,71%,1026 hPa
+Saturday 31 December 2022,19:30,Clear,9°,Calm,66%,1026 hPa
+Saturday 31 December 2022,20:00,Clear,8°,7,76%,1026 hPa
+Saturday 31 December 2022,20:30,Clear,7°,7,81%,1026 hPa
+Saturday 31 December 2022,21:00,Clear,6°,4,81%,1026 hPa
+Saturday 31 December 2022,21:30,Clear,7°,11,81%,1026 hPa
+Saturday 31 December 2022,22:00,Clear,6°,13,81%,1027 hPa
+Saturday 31 December 2022,22:30,Clear,6°,6,81%,1027 hPa
+Saturday 31 December 2022,23:00,Clear,5°,9,87%,1027 hPa
+Saturday 31 December 2022,23:30,Clear,5°,4,87%,1027 hPa

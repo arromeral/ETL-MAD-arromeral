@@ -1,0 +1,1516 @@
+Day,Hour,Condition,Temperature,Wind,Relative_hum,Pressure
+Monday 1 May 2023,00:00,Clear,17°,13,48%,1019 hPa
+Monday 1 May 2023,00:30,Clear,17°,13,45%,1019 hPa
+Monday 1 May 2023,01:00,Clear,16°,13,51%,1019 hPa
+Monday 1 May 2023,01:30,Clear,16°,11,48%,1019 hPa
+Monday 1 May 2023,02:00,Clear,15°,9,51%,1019 hPa
+Monday 1 May 2023,02:30,Clear,14°,9,55%,1019 hPa
+Monday 1 May 2023,03:00,Clear,14°,9,55%,1019 hPa
+Monday 1 May 2023,03:30,Clear,14°,11,55%,1019 hPa
+Monday 1 May 2023,04:00,Clear,13°,9,58%,1019 hPa
+Monday 1 May 2023,04:30,Clear,13°,9,58%,1019 hPa
+Monday 1 May 2023,05:00,Clear,13°,7,58%,1019 hPa
+Monday 1 May 2023,05:30,Clear,12°,6,62%,1019 hPa
+Monday 1 May 2023,06:00,Clear,12°,6,62%,1019 hPa
+Monday 1 May 2023,06:30,Clear,12°,9,62%,1019 hPa
+Monday 1 May 2023,07:00,Clear,11°,9,66%,1019 hPa
+Monday 1 May 2023,07:30,Clear,11°,6,66%,1019 hPa
+Monday 1 May 2023,08:00,Clear,11°,7,66%,1019 hPa
+Monday 1 May 2023,08:30,Clear,12°,7,62%,1020 hPa
+Monday 1 May 2023,09:00,Clear,13°,7,58%,1020 hPa
+Monday 1 May 2023,09:30,Clear,14°,6,55%,1020 hPa
+Monday 1 May 2023,10:00,Clear,16°,4,48%,1020 hPa
+Monday 1 May 2023,10:30,Clear,18°,4,39%,1020 hPa
+Monday 1 May 2023,11:00,Clear,20°,7,32%,1020 hPa
+Monday 1 May 2023,11:30,Clear,21°,7,33%,1020 hPa
+Monday 1 May 2023,12:00,Clear,23°,6,29%,1020 hPa
+Monday 1 May 2023,12:30,Clear,23°,7,29%,1020 hPa
+Monday 1 May 2023,13:00,Clear,23°,6,29%,1020 hPa
+Monday 1 May 2023,13:30,Clear,24°,7,27%,1019 hPa
+Monday 1 May 2023,14:00,Clear,24°,9,27%,1019 hPa
+Monday 1 May 2023,14:30,Clear,25°,6,22%,1019 hPa
+Monday 1 May 2023,15:00,Clear,25°,6,24%,1019 hPa
+Monday 1 May 2023,15:30,Clear,26°,11,21%,1018 hPa
+Monday 1 May 2023,16:00,Clear,26°,9,21%,1018 hPa
+Monday 1 May 2023,16:30,Clear,27°,9,21%,1018 hPa
+Monday 1 May 2023,17:00,Clear,27°,17,21%,1017 hPa
+Monday 1 May 2023,17:30,Clear,27°,9,21%,1017 hPa
+Monday 1 May 2023,18:00,Clear,27°,6,21%,1017 hPa
+Monday 1 May 2023,18:30,Clear,27°,9,21%,1017 hPa
+Monday 1 May 2023,19:00,Clear,27°,9,21%,1017 hPa
+Monday 1 May 2023,19:30,Clear,27°,2,21%,1017 hPa
+Monday 1 May 2023,20:00,Clear,27°,11,17%,1017 hPa
+Monday 1 May 2023,20:30,Clear,26°,15,18%,1017 hPa
+Monday 1 May 2023,21:00,Clear,24°,9,20%,1018 hPa
+Monday 1 May 2023,21:30,Clear,23°,9,20%,1018 hPa
+Monday 1 May 2023,22:00,Clear,22°,9,20%,1018 hPa
+Monday 1 May 2023,22:30,Clear,21°,6,21%,1019 hPa
+Monday 1 May 2023,23:00,Clear,20°,2,23%,1019 hPa
+Monday 1 May 2023,23:30,Clear,19°,2,26%,1019 hPa
+Tuesday 2 May 2023,00:00,Clear,18°,2,30%,1019 hPa
+Tuesday 2 May 2023,00:30,Clear,18°,2,30%,1019 hPa
+Tuesday 2 May 2023,01:00,Clear,17°,4,32%,1019 hPa
+Tuesday 2 May 2023,01:30,Clear,17°,Calm,29%,1020 hPa
+Tuesday 2 May 2023,02:00,Clear,16°,2,31%,1019 hPa
+Tuesday 2 May 2023,02:30,Clear,15°,4,33%,1019 hPa
+Tuesday 2 May 2023,03:00,Clear,14°,4,38%,1019 hPa
+Tuesday 2 May 2023,03:30,Clear,14°,Calm,38%,1019 hPa
+Tuesday 2 May 2023,04:00,Clear,13°,4,41%,1019 hPa
+Tuesday 2 May 2023,04:30,Clear,13°,6,44%,1019 hPa
+Tuesday 2 May 2023,05:00,Clear,12°,7,47%,1019 hPa
+Tuesday 2 May 2023,05:30,Clear,12°,11,44%,1019 hPa
+Tuesday 2 May 2023,06:00,Clear,11°,7,50%,1019 hPa
+Tuesday 2 May 2023,06:30,Clear,11°,4,50%,1019 hPa
+Tuesday 2 May 2023,07:00,Clear,10°,9,53%,1019 hPa
+Tuesday 2 May 2023,08:00,Clear,11°,9,50%,1019 hPa
+Tuesday 2 May 2023,08:30,Clear,13°,9,44%,1019 hPa
+Tuesday 2 May 2023,09:00,Clear,13°,9,44%,1019 hPa
+Tuesday 2 May 2023,09:30,Clear,15°,7,39%,1019 hPa
+Tuesday 2 May 2023,10:00,Clear,17°,4,34%,1019 hPa
+Tuesday 2 May 2023,10:30,Clear,18°,7,32%,1019 hPa
+Tuesday 2 May 2023,11:00,Clear,20°,6,28%,1019 hPa
+Tuesday 2 May 2023,11:30,Clear,22°,6,20%,1019 hPa
+Tuesday 2 May 2023,12:00,Clear,25°,4,11%,1019 hPa
+Tuesday 2 May 2023,12:30,Clear,25°,4,12%,1019 hPa
+Tuesday 2 May 2023,13:00,Clear,26°,6,14%,1019 hPa
+Tuesday 2 May 2023,13:30,Clear,26°,7,14%,1018 hPa
+Tuesday 2 May 2023,14:00,Clear,27°,2,13%,1018 hPa
+Tuesday 2 May 2023,14:30,Clear,27°,4,15%,1018 hPa
+Tuesday 2 May 2023,15:00,Clear,27°,7,15%,1017 hPa
+Tuesday 2 May 2023,15:30,Clear,29°,4,13%,1017 hPa
+Tuesday 2 May 2023,16:00,Clear,29°,6,12%,1017 hPa
+Tuesday 2 May 2023,16:30,Clear,28°,7,12%,1016 hPa
+Tuesday 2 May 2023,17:00,Clear,29°,2,12%,1016 hPa
+Tuesday 2 May 2023,17:30,Clear,29°,7,13%,1015 hPa
+Tuesday 2 May 2023,18:00,Clear,28°,4,12%,1015 hPa
+Tuesday 2 May 2023,18:30,Clear,28°,4,12%,1015 hPa
+Tuesday 2 May 2023,19:00,Clear,28°,4,12%,1015 hPa
+Tuesday 2 May 2023,19:30,Clear,27°,7,15%,1015 hPa
+Tuesday 2 May 2023,20:00,Clear,26°,6,17%,1015 hPa
+Tuesday 2 May 2023,20:30,Clear,26°,4,16%,1015 hPa
+Tuesday 2 May 2023,21:00,Clear,25°,4,18%,1015 hPa
+Tuesday 2 May 2023,21:30,Clear,25°,4,17%,1015 hPa
+Tuesday 2 May 2023,22:00,Clear,23°,2,22%,1015 hPa
+Tuesday 2 May 2023,22:30,Clear,22°,Calm,23%,1016 hPa
+Tuesday 2 May 2023,23:00,Clear,21°,4,25%,1016 hPa
+Tuesday 2 May 2023,23:30,Clear,21°,4,26%,1016 hPa
+Wednesday 3 May 2023,00:00,Clear,20°,6,28%,1016 hPa
+Wednesday 3 May 2023,00:30,Clear,19°,6,32%,1016 hPa
+Wednesday 3 May 2023,01:00,Clear,19°,6,32%,1016 hPa
+Wednesday 3 May 2023,01:30,Clear,17°,4,39%,1016 hPa
+Wednesday 3 May 2023,02:00,Clear,17°,4,36%,1016 hPa
+Wednesday 3 May 2023,02:30,Clear,16°,2,39%,1016 hPa
+Wednesday 3 May 2023,03:00,Clear,15°,2,41%,1016 hPa
+Wednesday 3 May 2023,03:30,Clear,15°,6,41%,1016 hPa
+Wednesday 3 May 2023,04:00,Clear,15°,7,41%,1016 hPa
+Wednesday 3 May 2023,04:30,Clear,15°,7,39%,1016 hPa
+Wednesday 3 May 2023,05:00,Clear,15°,7,39%,1016 hPa
+Wednesday 3 May 2023,05:30,Clear,14°,6,44%,1017 hPa
+Wednesday 3 May 2023,06:00,Clear,15°,7,39%,1017 hPa
+Wednesday 3 May 2023,06:30,Clear,14°,9,41%,1017 hPa
+Wednesday 3 May 2023,07:00,Clear,13°,6,44%,1017 hPa
+Wednesday 3 May 2023,07:30,Clear,13°,4,47%,1017 hPa
+Wednesday 3 May 2023,08:00,Clear,13°,6,51%,1017 hPa
+Wednesday 3 May 2023,08:30,Clear,15°,4,41%,1018 hPa
+Wednesday 3 May 2023,09:00,Clear,18°,2,37%,1017 hPa
+Wednesday 3 May 2023,09:30,Clear,18°,2,37%,1018 hPa
+Wednesday 3 May 2023,10:00,Clear,19°,4,37%,1017 hPa
+Wednesday 3 May 2023,10:30,Clear,20°,6,35%,1017 hPa
+Wednesday 3 May 2023,11:00,Clear,22°,6,31%,1017 hPa
+Wednesday 3 May 2023,11:30,Clear,22°,7,31%,1017 hPa
+Wednesday 3 May 2023,12:00,Clear,23°,6,29%,1017 hPa
+Wednesday 3 May 2023,12:30,Clear,24°,6,27%,1017 hPa
+Wednesday 3 May 2023,13:00,Clear,25°,9,26%,1017 hPa
+Wednesday 3 May 2023,13:30,Clear,26°,11,24%,1016 hPa
+Wednesday 3 May 2023,14:00,Clear,27°,6,23%,1016 hPa
+Wednesday 3 May 2023,14:30,Clear,28°,9,20%,1015 hPa
+Wednesday 3 May 2023,15:00,Clear,28°,7,20%,1015 hPa
+Wednesday 3 May 2023,15:30,Clear,28°,11,22%,1015 hPa
+Wednesday 3 May 2023,16:00,Clear,30°,6,18%,1014 hPa
+Wednesday 3 May 2023,16:30,Clear,29°,17,19%,1014 hPa
+Wednesday 3 May 2023,17:00,Clear,29°,9,19%,1013 hPa
+Wednesday 3 May 2023,17:30,Clear,31°,13,16%,1013 hPa
+Wednesday 3 May 2023,18:00,Clear,31°,19,13%,1013 hPa
+Wednesday 3 May 2023,18:30,Clear,31°,22,14%,1012 hPa
+Wednesday 3 May 2023,19:00,Clear,31°,28,13%,1013 hPa
+Wednesday 3 May 2023,19:30,Clear,31°,22,13%,1012 hPa
+Wednesday 3 May 2023,20:00,Clear,30°,22,13%,1012 hPa
+Wednesday 3 May 2023,20:30,Clear,30°,15,>,33 13% 1012 hPa
+Wednesday 3 May 2023,21:00,Clear,29°,20,12%,1013 hPa
+Wednesday 3 May 2023,21:30,Clear,28°,17,14%,1013 hPa
+Wednesday 3 May 2023,22:00,Clear,28°,19,16%,1014 hPa
+Wednesday 3 May 2023,22:30,Clear,27°,19,>,43 18% 1014 hPa
+Wednesday 3 May 2023,23:00,Clear,26°,15,20%,1014 hPa
+Wednesday 3 May 2023,23:30,Clear,25°,13,21%,1015 hPa
+Thursday 4 May 2023,00:00,Clear,25°,19,22%,1015 hPa
+Thursday 4 May 2023,00:30,Clear,24°,17,27%,1015 hPa
+Thursday 4 May 2023,01:00,Clear,24°,17,29%,1015 hPa
+Thursday 4 May 2023,01:30,Clear,23°,22,33%,1016 hPa
+Thursday 4 May 2023,02:00,Clear,22°,22,38%,1016 hPa
+Thursday 4 May 2023,02:30,Clear,22°,24,38%,1016 hPa
+Thursday 4 May 2023,03:00,Clear,21°,22,43%,1016 hPa
+Thursday 4 May 2023,03:30,Clear,21°,19,43%,1017 hPa
+Thursday 4 May 2023,04:00,Clear,20°,22,49%,1017 hPa
+Thursday 4 May 2023,04:30,Clear,19°,13,52%,1017 hPa
+Thursday 4 May 2023,05:00,Clear,19°,20,49%,1018 hPa
+Thursday 4 May 2023,05:30,Clear,19°,20,49%,1018 hPa
+Thursday 4 May 2023,06:00,Clear,18°,22,52%,1018 hPa
+Thursday 4 May 2023,06:30,Clear,18°,19,56%,1018 hPa
+Thursday 4 May 2023,07:00,Clear,17°,22,59%,1018 hPa
+Thursday 4 May 2023,07:30,Clear,17°,20,59%,1019 hPa
+Thursday 4 May 2023,08:00,Clear,16°,9,63%,1019 hPa
+Thursday 4 May 2023,08:30,Clear,17°,11,59%,1020 hPa
+Thursday 4 May 2023,09:00,Clear,18°,11,56%,1020 hPa
+Thursday 4 May 2023,09:30,Clear,18°,19,56%,1020 hPa
+Thursday 4 May 2023,10:00,Clear,19°,17,52%,1020 hPa
+Thursday 4 May 2023,10:30,Clear,20°,17,>,37 40% 1020 hPa
+Thursday 4 May 2023,11:00,Clear,20°,24,40%,1020 hPa
+Thursday 4 May 2023,11:30,Clear,21°,19,35%,1020 hPa
+Thursday 4 May 2023,12:00,Clear,22°,19,33%,1021 hPa
+Thursday 4 May 2023,12:30,Clear,22°,17,33%,1021 hPa
+Thursday 4 May 2023,13:00,Clear,23°,17,29%,1021 hPa
+Thursday 4 May 2023,13:30,Clear,23°,22,>,43 27% 1020 hPa
+Thursday 4 May 2023,14:00,Clear,24°,22,>,41 22% 1020 hPa
+Thursday 4 May 2023,14:30,Clear,24°,22,22%,1020 hPa
+Thursday 4 May 2023,15:00,Clear,25°,22,18%,1020 hPa
+Thursday 4 May 2023,15:30,Clear,25°,22,19%,1020 hPa
+Thursday 4 May 2023,16:00,Clear,26°,22,>,41 18% 1019 hPa
+Thursday 4 May 2023,16:30,Clear,26°,20,16%,1019 hPa
+Thursday 4 May 2023,17:00,Clear,26°,26,16%,1019 hPa
+Thursday 4 May 2023,17:30,Clear,26°,22,17%,1019 hPa
+Thursday 4 May 2023,18:00,Clear,26°,24,17%,1018 hPa
+Thursday 4 May 2023,18:30,Clear,26°,20,17%,1018 hPa
+Thursday 4 May 2023,19:00,Clear,26°,22,17%,1018 hPa
+Thursday 4 May 2023,19:30,Clear,25°,20,18%,1019 hPa
+Thursday 4 May 2023,20:00,Clear,25°,20,>,43 19% 1018 hPa
+Thursday 4 May 2023,20:30,Clear,24°,20,>,50 19% 1019 hPa
+Thursday 4 May 2023,21:00,Clear,24°,20,19%,1019 hPa
+Thursday 4 May 2023,21:30,Clear,23°,11,22%,1019 hPa
+Thursday 4 May 2023,22:00,Clear,22°,15,21%,1019 hPa
+Thursday 4 May 2023,22:30,Clear,22°,11,>,30 23% 1020 hPa
+Thursday 4 May 2023,23:00,Clear,21°,13,26%,1020 hPa
+Thursday 4 May 2023,23:30,Clear,21°,7,26%,1020 hPa
+Friday 5 May 2023,00:00,Clear,18°,6,32%,1020 hPa
+Friday 5 May 2023,00:30,Clear,19°,9,30%,1020 hPa
+Friday 5 May 2023,01:00,Clear,19°,7,32%,1020 hPa
+Friday 5 May 2023,01:30,Clear,18°,6,37%,1020 hPa
+Friday 5 May 2023,02:00,Clear,15°,2,44%,1020 hPa
+Friday 5 May 2023,02:30,Clear,14°,4,47%,1019 hPa
+Friday 5 May 2023,03:00,Clear,14°,2,47%,1019 hPa
+Friday 5 May 2023,03:30,Clear,11°,6,54%,1019 hPa
+Friday 5 May 2023,04:00,Clear,13°,6,51%,1019 hPa
+Friday 5 May 2023,04:30,Clear,11°,Calm,58%,1019 hPa
+Friday 5 May 2023,05:00,Clear,12°,6,54%,1019 hPa
+Friday 5 May 2023,05:30,Clear,10°,2,62%,1019 hPa
+Friday 5 May 2023,06:00,Clear,11°,4,58%,1019 hPa
+Friday 5 May 2023,06:30,Clear,10°,2,62%,1019 hPa
+Friday 5 May 2023,07:00,Clear,10°,2,62%,1020 hPa
+Friday 5 May 2023,07:30,Clear,10°,4,62%,1020 hPa
+Friday 5 May 2023,08:00,Clear,11°,6,58%,1020 hPa
+Friday 5 May 2023,08:30,Clear,12°,7,58%,1021 hPa
+Friday 5 May 2023,09:00,Clear,14°,Calm,51%,1021 hPa
+Friday 5 May 2023,09:30,Clear,15°,4,44%,1021 hPa
+Friday 5 May 2023,10:00,Clear,16°,4,42%,1021 hPa
+Friday 5 May 2023,10:30,Clear,18°,4,37%,1021 hPa
+Friday 5 May 2023,11:00,Clear,18°,6,39%,1020 hPa
+Friday 5 May 2023,11:30,Clear,19°,4,37%,1020 hPa
+Friday 5 May 2023,12:00,Clear,21°,9,33%,1020 hPa
+Friday 5 May 2023,12:30,Clear,22°,7,33%,1020 hPa
+Friday 5 May 2023,13:00,Clear,23°,7,31%,1020 hPa
+Friday 5 May 2023,13:30,Clear,23°,9,29%,1020 hPa
+Friday 5 May 2023,14:00,Clear,24°,9,27%,1019 hPa
+Friday 5 May 2023,14:30,Clear,25°,9,24%,1019 hPa
+Friday 5 May 2023,15:00,Clear,26°,15,18%,1018 hPa
+Friday 5 May 2023,15:30,Clear,26°,17,21%,1018 hPa
+Friday 5 May 2023,16:00,Clear,27°,9,20%,1018 hPa
+Friday 5 May 2023,16:30,Clear,27°,13,17%,1017 hPa
+Friday 5 May 2023,17:00,Clear,27°,17,17%,1017 hPa
+Friday 5 May 2023,17:30,Clear,27°,13,18%,1016 hPa
+Friday 5 May 2023,18:00,Clear,27°,11,17%,1016 hPa
+Friday 5 May 2023,18:30,Clear,27°,19,>,43 18% 1016 hPa
+Friday 5 May 2023,19:00,Clear,27°,19,18%,1016 hPa
+Friday 5 May 2023,19:30,Clear,27°,15,20%,1015 hPa
+Friday 5 May 2023,20:00,Clear,26°,13,>,32 20% 1015 hPa
+Friday 5 May 2023,20:30,Clear,26°,11,20%,1015 hPa
+Friday 5 May 2023,21:00,Clear,25°,9,21%,1015 hPa
+Friday 5 May 2023,21:30,Clear,24°,9,20%,1015 hPa
+Friday 5 May 2023,22:00,Clear,24°,9,16%,1015 hPa
+Friday 5 May 2023,22:30,Clear,24°,7,16%,1016 hPa
+Friday 5 May 2023,23:00,Clear,23°,11,17%,1016 hPa
+Friday 5 May 2023,23:30,Clear,20°,7,24%,1016 hPa
+Saturday 6 May 2023,00:00,Clear,19°,Calm,28%,1016 hPa
+Saturday 6 May 2023,00:30,Clear,17°,2,32%,1016 hPa
+Saturday 6 May 2023,01:00,Clear,16°,4,34%,1016 hPa
+Saturday 6 May 2023,01:30,Clear,16°,6,34%,1016 hPa
+Saturday 6 May 2023,02:00,Clear,15°,4,36%,1016 hPa
+Saturday 6 May 2023,02:30,Clear,14°,6,41%,1015 hPa
+Saturday 6 May 2023,03:00,Clear,14°,6,41%,1015 hPa
+Saturday 6 May 2023,03:30,Clear,12°,4,47%,1015 hPa
+Saturday 6 May 2023,04:00,Clear,12°,7,47%,1015 hPa
+Saturday 6 May 2023,04:30,Clear,11°,2,50%,1015 hPa
+Saturday 6 May 2023,05:00,Clear,12°,7,50%,1015 hPa
+Saturday 6 May 2023,05:30,Clear,12°,6,50%,1015 hPa
+Saturday 6 May 2023,06:00,Clear,11°,4,54%,1015 hPa
+Saturday 6 May 2023,06:30,Clear,11°,7,54%,1015 hPa
+Saturday 6 May 2023,07:00,Clear,11°,6,54%,1015 hPa
+Saturday 6 May 2023,07:30,Clear,10°,4,57%,1015 hPa
+Saturday 6 May 2023,08:00,Clear,11°,6,58%,1016 hPa
+Saturday 6 May 2023,08:30,Clear,12°,6,54%,1016 hPa
+Saturday 6 May 2023,09:00,Clear,13°,4,51%,1016 hPa
+Saturday 6 May 2023,09:30,Clear,15°,4,41%,1016 hPa
+Saturday 6 May 2023,10:00,Clear,16°,4,42%,1016 hPa
+Saturday 6 May 2023,10:30,Clear,19°,2,37%,1016 hPa
+Saturday 6 May 2023,11:00,Clear,20°,4,32%,1016 hPa
+Saturday 6 May 2023,11:30,Clear,21°,2,30%,1016 hPa
+Saturday 6 May 2023,12:00,Clear,22°,6,29%,1016 hPa
+Saturday 6 May 2023,12:30,Clear,24°,6,25%,1015 hPa
+Saturday 6 May 2023,13:00,Clear,25°,9,>,30 22% 1015 hPa
+Saturday 6 May 2023,13:30,Clear,26°,15,20%,1015 hPa
+Saturday 6 May 2023,14:00,Clear,27°,13,>,39 18% 1015 hPa
+Saturday 6 May 2023,14:30,Clear,27°,15,>,33 20% 1014 hPa
+Saturday 6 May 2023,15:00,Clear,28°,17,19%,1014 hPa
+Saturday 6 May 2023,15:30,Clear,27°,19,>,44 20% 1014 hPa
+Saturday 6 May 2023,16:00,Clear,28°,20,>,41 17% 1014 hPa
+Saturday 6 May 2023,16:30,Clear,28°,22,19%,1014 hPa
+Saturday 6 May 2023,17:00,Clear,28°,17,>,39 17% 1013 hPa
+Saturday 6 May 2023,17:30,Clear,28°,24,17%,1013 hPa
+Saturday 6 May 2023,18:00,Clear,28°,20,17%,1013 hPa
+Saturday 6 May 2023,18:30,Clear,28°,17,14%,1013 hPa
+Saturday 6 May 2023,19:00,Clear,28°,19,13%,1013 hPa
+Saturday 6 May 2023,19:30,Clear,28°,22,11%,1013 hPa
+Saturday 6 May 2023,20:00,Clear,27°,17,12%,1013 hPa
+Saturday 6 May 2023,20:30,Clear,26°,19,16%,1013 hPa
+Saturday 6 May 2023,21:00,Clear,25°,17,22%,1013 hPa
+Saturday 6 May 2023,21:30,Clear,25°,19,28%,1013 hPa
+Saturday 6 May 2023,22:00,Clear,24°,19,29%,1014 hPa
+Saturday 6 May 2023,22:30,Clear,23°,15,31%,1014 hPa
+Saturday 6 May 2023,23:00,Clear,22°,7,31%,1015 hPa
+Saturday 6 May 2023,23:30,Clear,21°,7,33%,1015 hPa
+Sunday 7 May 2023,00:00,Clear,20°,7,35%,1016 hPa
+Sunday 7 May 2023,00:30,Clear,20°,6,35%,1016 hPa
+Sunday 7 May 2023,01:00,Clear,20°,7,35%,1016 hPa
+Sunday 7 May 2023,01:30,Clear,18°,4,39%,1016 hPa
+Sunday 7 May 2023,02:00,Clear,18°,7,42%,1016 hPa
+Sunday 7 May 2023,02:30,Clear,17°,Calm,48%,1016 hPa
+Sunday 7 May 2023,03:00,Clear,17°,6,48%,1017 hPa
+Sunday 7 May 2023,03:30,Clear,17°,4,45%,1017 hPa
+Sunday 7 May 2023,04:00,Clear,16°,4,51%,1017 hPa
+Sunday 7 May 2023,04:30,Clear,17°,Calm,48%,1017 hPa
+Sunday 7 May 2023,05:00,Clear,16°,2,51%,1017 hPa
+Sunday 7 May 2023,05:30,Clear,16°,2,55%,1017 hPa
+Sunday 7 May 2023,06:00,Clear,15°,Calm,63%,1017 hPa
+Sunday 7 May 2023,06:30,Clear,16°,6,59%,1017 hPa
+Sunday 7 May 2023,07:00,Clear,16°,9,59%,1017 hPa
+Sunday 7 May 2023,07:30,Clear,15°,6,63%,1018 hPa
+Sunday 7 May 2023,08:00,Clear,15°,7,63%,1018 hPa
+Sunday 7 May 2023,08:30,Clear,16°,4,63%,1018 hPa
+Sunday 7 May 2023,09:00,Clear,18°,6,56%,1019 hPa
+Sunday 7 May 2023,09:30,Clear,18°,6,56%,1019 hPa
+Sunday 7 May 2023,10:00,Clear,20°,4,49%,1019 hPa
+Sunday 7 May 2023,10:30,Clear,21°,7,46%,1019 hPa
+Sunday 7 May 2023,11:00,Clear,22°,9,43%,1019 hPa
+Sunday 7 May 2023,11:30,Clear,23°,7,41%,1019 hPa
+Sunday 7 May 2023,12:00,Clear,24°,4,34%,1019 hPa
+Sunday 7 May 2023,12:30,Clear,24°,7,34%,1019 hPa
+Sunday 7 May 2023,13:00,Fair,25°,9,28%,1019 hPa
+Sunday 7 May 2023,13:30,Fair,25°,7,30%,1019 hPa
+Sunday 7 May 2023,14:00,Fair,26°,9,28%,1019 hPa
+Sunday 7 May 2023,14:30,Partly Cloudy,27°,6,26%,1018 hPa
+Sunday 7 May 2023,15:00,Partly Cloudy,27°,6,24%,1018 hPa
+Sunday 7 May 2023,15:30,Partly Cloudy,27°,7,23%,1018 hPa
+Sunday 7 May 2023,16:00,Partly Cloudy,29°,9,22%,1018 hPa
+Sunday 7 May 2023,16:30,Partly Cloudy,27°,9,24%,1018 hPa
+Sunday 7 May 2023,17:00,Partly Cloudy,27°,4,24%,1018 hPa
+Sunday 7 May 2023,17:30,Partly Cloudy,27°,6,24%,1018 hPa
+Sunday 7 May 2023,18:00,Clear,28°,2,23%,1018 hPa
+Sunday 7 May 2023,18:30,Clear,28°,4,23%,1018 hPa
+Sunday 7 May 2023,19:00,Clear,28°,7,23%,1018 hPa
+Sunday 7 May 2023,19:30,Clear,27°,20,24%,1018 hPa
+Sunday 7 May 2023,20:00,Clear,26°,20,23%,1018 hPa
+Sunday 7 May 2023,20:30,Clear,25°,24,26%,1019 hPa
+Sunday 7 May 2023,21:00,Clear,25°,17,26%,1019 hPa
+Sunday 7 May 2023,21:30,Clear,24°,17,25%,1020 hPa
+Sunday 7 May 2023,22:00,Clear,23°,15,29%,1020 hPa
+Sunday 7 May 2023,22:30,Clear,22°,17,31%,1021 hPa
+Sunday 7 May 2023,23:00,Clear,22°,11,33%,1021 hPa
+Sunday 7 May 2023,23:30,Clear,21°,6,35%,1022 hPa
+Monday 8 May 2023,00:00,Clear,20°,6,35%,1022 hPa
+Monday 8 May 2023,00:30,Clear,20°,11,35%,1022 hPa
+Monday 8 May 2023,01:00,Clear,20°,11,37%,1022 hPa
+Monday 8 May 2023,01:30,Clear,19°,9,43%,1022 hPa
+Monday 8 May 2023,02:00,Clear,18°,7,45%,1023 hPa
+Monday 8 May 2023,02:30,Clear,18°,9,49%,1023 hPa
+Monday 8 May 2023,03:00,Clear,17°,7,52%,1023 hPa
+Monday 8 May 2023,03:30,Clear,16°,9,55%,1023 hPa
+Monday 8 May 2023,04:00,Clear,17°,6,52%,1023 hPa
+Monday 8 May 2023,04:30,Clear,16°,4,55%,1023 hPa
+Monday 8 May 2023,05:00,Clear,15°,6,59%,1023 hPa
+Monday 8 May 2023,05:30,Clear,15°,6,59%,1024 hPa
+Monday 8 May 2023,06:00,Clear,14°,4,63%,1023 hPa
+Monday 8 May 2023,06:30,Clear,14°,7,63%,1023 hPa
+Monday 8 May 2023,07:00,Clear,13°,11,62%,1023 hPa
+Monday 8 May 2023,07:30,Clear,13°,13,62%,1023 hPa
+Monday 8 May 2023,08:00,Clear,13°,11,62%,1024 hPa
+Monday 8 May 2023,08:30,Clear,14°,6,58%,1024 hPa
+Monday 8 May 2023,09:00,Clear,15°,4,55%,1024 hPa
+Monday 8 May 2023,09:30,Clear,16°,4,51%,1024 hPa
+Monday 8 May 2023,10:00,Clear,18°,4,49%,1024 hPa
+Monday 8 May 2023,10:30,Clear,19°,Calm,49%,1024 hPa
+Monday 8 May 2023,11:00,Clear,20°,2,46%,1024 hPa
+Monday 8 May 2023,11:30,Clear,21°,4,40%,1024 hPa
+Monday 8 May 2023,12:00,Clear,22°,6,38%,1024 hPa
+Monday 8 May 2023,12:30,Clear,23°,4,36%,1024 hPa
+Monday 8 May 2023,13:00,Clear,24°,6,34%,1023 hPa
+Monday 8 May 2023,13:30,Clear,25°,4,32%,1023 hPa
+Monday 8 May 2023,14:00,Clear,26°,6,28%,1023 hPa
+Monday 8 May 2023,14:30,Clear,26°,6,28%,1022 hPa
+Monday 8 May 2023,15:00,Clear,27°,6,26%,1022 hPa
+Monday 8 May 2023,15:30,Clear,28°,6,26%,1022 hPa
+Monday 8 May 2023,16:00,Clear,28°,7,25%,1022 hPa
+Monday 8 May 2023,16:30,Clear,29°,9,25%,1021 hPa
+Monday 8 May 2023,17:00,Clear,30°,7,22%,1021 hPa
+Monday 8 May 2023,17:30,Clear,29°,6,25%,1021 hPa
+Monday 8 May 2023,18:00,Clear,29°,7,23%,1020 hPa
+Monday 8 May 2023,18:30,Clear,31°,2,19%,1020 hPa
+Monday 8 May 2023,19:00,Clear,30°,17,21%,1020 hPa
+Monday 8 May 2023,19:30,Clear,30°,20,21%,1020 hPa
+Monday 8 May 2023,20:00,Clear,30°,19,21%,1020 hPa
+Monday 8 May 2023,20:30,Clear,29°,19,22%,1020 hPa
+Monday 8 May 2023,21:00,Clear,28°,17,23%,1020 hPa
+Monday 8 May 2023,21:30,Clear,27°,11,26%,1020 hPa
+Monday 8 May 2023,22:00,Clear,26°,9,28%,1021 hPa
+Monday 8 May 2023,22:30,Clear,25°,7,30%,1021 hPa
+Monday 8 May 2023,23:00,Clear,23°,2,33%,1021 hPa
+Monday 8 May 2023,23:30,Clear,23°,4,33%,1021 hPa
+Tuesday 9 May 2023,00:00,Clear,22°,4,35%,1022 hPa
+Tuesday 9 May 2023,00:30,Clear,21°,Calm,38%,1022 hPa
+Tuesday 9 May 2023,01:00,Clear,20°,4,40%,1022 hPa
+Tuesday 9 May 2023,01:30,Clear,20°,2,40%,1021 hPa
+Tuesday 9 May 2023,02:00,Clear,20°,2,40%,1021 hPa
+Tuesday 9 May 2023,02:30,Clear,18°,2,45%,1021 hPa
+Tuesday 9 May 2023,03:00,Clear,18°,4,49%,1021 hPa
+Tuesday 9 May 2023,03:30,Clear,17°,7,48%,1021 hPa
+Tuesday 9 May 2023,04:00,Clear,16°,Calm,51%,1021 hPa
+Tuesday 9 May 2023,04:30,Clear,17°,4,48%,1021 hPa
+Tuesday 9 May 2023,05:00,Clear,16°,4,51%,1021 hPa
+Tuesday 9 May 2023,05:30,Clear,16°,Calm,51%,1021 hPa
+Tuesday 9 May 2023,06:00,Clear,16°,4,51%,1020 hPa
+Tuesday 9 May 2023,06:30,Clear,16°,6,55%,1021 hPa
+Tuesday 9 May 2023,07:00,Clear,15°,2,55%,1020 hPa
+Tuesday 9 May 2023,07:30,Clear,14°,4,58%,1021 hPa
+Tuesday 9 May 2023,08:00,Clear,16°,6,55%,1021 hPa
+Tuesday 9 May 2023,08:30,Clear,16°,4,55%,1021 hPa
+Tuesday 9 May 2023,09:00,Clear,18°,6,49%,1021 hPa
+Tuesday 9 May 2023,09:30,Clear,19°,6,49%,1020 hPa
+Tuesday 9 May 2023,10:00,Clear,21°,4,43%,1021 hPa
+Tuesday 9 May 2023,10:30,Clear,22°,4,43%,1021 hPa
+Tuesday 9 May 2023,11:00,Clear,23°,6,44%,1021 hPa
+Tuesday 9 May 2023,11:30,Clear,24°,4,41%,1020 hPa
+Tuesday 9 May 2023,12:00,Clear,25°,4,39%,1020 hPa
+Tuesday 9 May 2023,12:30,Clear,26°,7,34%,1020 hPa
+Tuesday 9 May 2023,13:00,Clear,26°,9,32%,1020 hPa
+Tuesday 9 May 2023,13:30,Clear,27°,9,32%,1020 hPa
+Tuesday 9 May 2023,14:00,Fair,28°,7,28%,1019 hPa
+Tuesday 9 May 2023,14:30,Fair,27°,4,30%,1019 hPa
+Tuesday 9 May 2023,15:00,Partly Cloudy,27°,15,32%,1019 hPa
+Tuesday 9 May 2023,15:30,Partly Cloudy,26°,11,34%,1019 hPa
+Tuesday 9 May 2023,16:00,Partly Cloudy,26°,19,32%,1019 hPa
+Tuesday 9 May 2023,16:30,Partly Cloudy,26°,17,34%,1019 hPa
+Tuesday 9 May 2023,17:00,Partly Cloudy,27°,11,32%,1019 hPa
+Tuesday 9 May 2023,17:30,Partly Cloudy,29°,22,27%,1018 hPa
+Tuesday 9 May 2023,18:00,Partly Cloudy,29°,19,27%,1018 hPa
+Tuesday 9 May 2023,18:30,Partly Cloudy,29°,17,27%,1019 hPa
+Tuesday 9 May 2023,19:00,Partly Cloudy,26°,19,34%,1019 hPa
+Tuesday 9 May 2023,19:30,Partly Cloudy,26°,19,34%,1019 hPa
+Tuesday 9 May 2023,20:00,Partly Cloudy,25°,24,36%,1019 hPa
+Tuesday 9 May 2023,21:00,Partly Cloudy,24°,13,38%,1019 hPa
+Tuesday 9 May 2023,21:30,Partly Cloudy,24°,13,38%,1019 hPa
+Tuesday 9 May 2023,22:00,Fair,23°,6,38%,1020 hPa
+Tuesday 9 May 2023,22:30,Clear,21°,6,43%,1020 hPa
+Tuesday 9 May 2023,23:00,Clear,21°,9,43%,1020 hPa
+Tuesday 9 May 2023,23:30,Clear,21°,11,38%,1020 hPa
+Wednesday 10 May 2023,00:00,Clear,20°,9,37%,1021 hPa
+Wednesday 10 May 2023,00:30,Clear,19°,7,43%,1021 hPa
+Wednesday 10 May 2023,01:00,Clear,19°,7,52%,1021 hPa
+Wednesday 10 May 2023,01:30,Clear,18°,2,52%,1021 hPa
+Wednesday 10 May 2023,02:00,Clear,17°,9,55%,1021 hPa
+Wednesday 10 May 2023,02:30,Clear,17°,6,59%,1021 hPa
+Wednesday 10 May 2023,03:00,Clear,16°,2,63%,1021 hPa
+Wednesday 10 May 2023,03:30,Clear,15°,6,63%,1021 hPa
+Wednesday 10 May 2023,04:00,Clear,15°,6,63%,1021 hPa
+Wednesday 10 May 2023,04:30,Clear,15°,9,63%,1021 hPa
+Wednesday 10 May 2023,05:00,Clear,14°,7,63%,1021 hPa
+Wednesday 10 May 2023,05:30,Clear,14°,6,63%,1021 hPa
+Wednesday 10 May 2023,06:00,Clear,14°,9,63%,1021 hPa
+Wednesday 10 May 2023,06:30,Clear,13°,9,67%,1021 hPa
+Wednesday 10 May 2023,07:00,Clear,13°,6,62%,1021 hPa
+Wednesday 10 May 2023,07:30,Clear,12°,6,67%,1021 hPa
+Wednesday 10 May 2023,08:00,Clear,13°,7,67%,1022 hPa
+Wednesday 10 May 2023,08:30,Clear,14°,6,63%,1022 hPa
+Wednesday 10 May 2023,09:00,Clear,15°,13,59%,1022 hPa
+Wednesday 10 May 2023,09:30,Clear,15°,11,59%,1022 hPa
+Wednesday 10 May 2023,10:00,Clear,16°,11,51%,1022 hPa
+Wednesday 10 May 2023,10:30,Clear,17°,13,48%,1022 hPa
+Wednesday 10 May 2023,11:00,Clear,17°,9,45%,1022 hPa
+Wednesday 10 May 2023,11:30,Clear,19°,7,40%,1022 hPa
+Wednesday 10 May 2023,12:00,Clear,19°,7,40%,1022 hPa
+Wednesday 10 May 2023,12:30,Clear,20°,9,35%,1022 hPa
+Wednesday 10 May 2023,13:00,Clear,21°,7,35%,1021 hPa
+Wednesday 10 May 2023,13:30,Clear,21°,9,35%,1021 hPa
+Wednesday 10 May 2023,14:00,Clear,22°,9,27%,1020 hPa
+Wednesday 10 May 2023,14:30,Clear,23°,7,25%,1020 hPa
+Wednesday 10 May 2023,15:00,Clear,23°,9,23%,1020 hPa
+Wednesday 10 May 2023,15:30,Clear,24°,6,22%,1019 hPa
+Wednesday 10 May 2023,16:00,Clear,24°,7,24%,1019 hPa
+Wednesday 10 May 2023,16:30,Clear,24°,7,24%,1018 hPa
+Wednesday 10 May 2023,17:00,Clear,24°,4,22%,1018 hPa
+Wednesday 10 May 2023,17:30,Clear,24°,9,22%,1017 hPa
+Wednesday 10 May 2023,18:00,Clear,25°,7,21%,1017 hPa
+Wednesday 10 May 2023,18:30,Clear,25°,6,19%,1017 hPa
+Wednesday 10 May 2023,19:00,Clear,26°,2,20%,1017 hPa
+Wednesday 10 May 2023,19:30,Clear,25°,13,19%,1017 hPa
+Wednesday 10 May 2023,20:00,Clear,24°,13,19%,1017 hPa
+Wednesday 10 May 2023,20:30,Clear,23°,19,20%,1017 hPa
+Wednesday 10 May 2023,21:00,Clear,22°,19,21%,1017 hPa
+Wednesday 10 May 2023,21:30,Clear,21°,20,23%,1017 hPa
+Wednesday 10 May 2023,22:00,Clear,20°,20,24%,1018 hPa
+Wednesday 10 May 2023,22:30,Clear,20°,15,24%,1018 hPa
+Wednesday 10 May 2023,23:00,Clear,19°,7,26%,1018 hPa
+Wednesday 10 May 2023,23:30,Clear,18°,7,30%,1019 hPa
+Thursday 11 May 2023,00:00,Clear,18°,9,30%,1019 hPa
+Thursday 11 May 2023,00:30,Clear,17°,13,34%,1019 hPa
+Thursday 11 May 2023,01:00,Clear,15°,15,44%,1019 hPa
+Thursday 11 May 2023,01:30,Clear,14°,13,47%,1019 hPa
+Thursday 11 May 2023,02:00,Clear,14°,13,47%,1019 hPa
+Thursday 11 May 2023,02:30,Clear,13°,13,>,33 51% 1019 hPa
+Thursday 11 May 2023,03:00,Clear,12°,11,54%,1019 hPa
+Thursday 11 May 2023,03:30,Clear,12°,11,54%,1019 hPa
+Thursday 11 May 2023,04:00,Clear,12°,9,>,28 54% 1019 hPa
+Thursday 11 May 2023,04:30,Clear,11°,6,58%,1019 hPa
+Thursday 11 May 2023,05:00,Clear,11°,7,58%,1019 hPa
+Thursday 11 May 2023,05:30,Clear,11°,11,58%,1019 hPa
+Thursday 11 May 2023,06:00,Clear,10°,9,62%,1019 hPa
+Thursday 11 May 2023,06:30,Clear,10°,9,62%,1019 hPa
+Thursday 11 May 2023,07:00,Clear,10°,11,62%,1019 hPa
+Thursday 11 May 2023,07:30,Clear,10°,7,62%,1019 hPa
+Thursday 11 May 2023,08:00,Clear,10°,6,62%,1020 hPa
+Thursday 11 May 2023,08:30,Clear,11°,7,58%,1020 hPa
+Thursday 11 May 2023,09:00,Clear,12°,11,54%,1020 hPa
+Thursday 11 May 2023,09:30,Clear,13°,11,51%,1020 hPa
+Thursday 11 May 2023,10:00,Clear,14°,15,47%,1020 hPa
+Thursday 11 May 2023,10:30,Clear,15°,13,44%,1019 hPa
+Thursday 11 May 2023,11:00,Clear,16°,13,42%,1019 hPa
+Thursday 11 May 2023,11:30,Clear,17°,9,39%,1019 hPa
+Thursday 11 May 2023,12:00,Clear,18°,11,39%,1019 hPa
+Thursday 11 May 2023,12:30,Clear,18°,13,37%,1019 hPa
+Thursday 11 May 2023,13:00,Clear,19°,11,37%,1019 hPa
+Thursday 11 May 2023,13:30,Fair,20°,13,32%,1018 hPa
+Thursday 11 May 2023,14:00,Fair,20°,9,32%,1018 hPa
+Thursday 11 May 2023,14:30,Fair,21°,17,28%,1018 hPa
+Thursday 11 May 2023,15:00,Fair,21°,9,26%,1017 hPa
+Thursday 11 May 2023,15:30,Fair,21°,13,25%,1017 hPa
+Thursday 11 May 2023,16:00,Fair,22°,11,21%,1017 hPa
+Thursday 11 May 2023,16:30,Fair,22°,15,20%,1016 hPa
+Thursday 11 May 2023,17:00,Clear,22°,20,20%,1016 hPa
+Thursday 11 May 2023,17:30,Clear,23°,17,19%,1016 hPa
+Thursday 11 May 2023,18:00,Clear,22°,17,>,35 20% 1015 hPa
+Thursday 11 May 2023,18:30,Clear,22°,15,>,33 21% 1016 hPa
+Thursday 11 May 2023,19:00,Clear,21°,22,25%,1016 hPa
+Thursday 11 May 2023,19:30,Clear,21°,20,25%,1016 hPa
+Thursday 11 May 2023,20:00,Clear,20°,26,24%,1016 hPa
+Thursday 11 May 2023,20:30,Clear,19°,24,26%,1016 hPa
+Thursday 11 May 2023,21:00,Clear,19°,24,26%,1016 hPa
+Thursday 11 May 2023,21:30,Clear,18°,15,28%,1017 hPa
+Thursday 11 May 2023,22:00,Clear,17°,11,29%,1017 hPa
+Thursday 11 May 2023,22:30,Clear,17°,6,29%,1017 hPa
+Thursday 11 May 2023,23:00,Clear,16°,6,31%,1017 hPa
+Thursday 11 May 2023,23:30,Clear,15°,7,33%,1017 hPa
+Friday 12 May 2023,00:00,Clear,14°,6,36%,1017 hPa
+Friday 12 May 2023,00:30,Clear,14°,6,38%,1018 hPa
+Friday 12 May 2023,01:00,Clear,14°,6,38%,1018 hPa
+Friday 12 May 2023,01:30,Clear,13°,4,44%,1018 hPa
+Friday 12 May 2023,02:00,Clear,13°,11,44%,1018 hPa
+Friday 12 May 2023,02:30,Clear,12°,9,50%,1018 hPa
+Friday 12 May 2023,03:00,Clear,11°,7,54%,1018 hPa
+Friday 12 May 2023,03:30,Clear,11°,7,54%,1018 hPa
+Friday 12 May 2023,04:00,Clear,11°,7,54%,1017 hPa
+Friday 12 May 2023,04:30,Fair,11°,6,54%,1017 hPa
+Friday 12 May 2023,05:00,Fair,11°,7,54%,1018 hPa
+Friday 12 May 2023,05:30,Fair,11°,11,54%,1017 hPa
+Friday 12 May 2023,06:00,Fair,10°,9,62%,1017 hPa
+Friday 12 May 2023,06:30,Fair,9°,9,66%,1017 hPa
+Friday 12 May 2023,07:00,Clear,9°,9,66%,1017 hPa
+Friday 12 May 2023,07:30,Clear,9°,4,61%,1017 hPa
+Friday 12 May 2023,08:00,Clear,10°,7,62%,1017 hPa
+Friday 12 May 2023,08:30,Clear,11°,9,58%,1018 hPa
+Friday 12 May 2023,09:00,Clear,12°,9,54%,1017 hPa
+Friday 12 May 2023,09:30,Clear,12°,9,54%,1017 hPa
+Friday 12 May 2023,10:00,Clear,13°,6,51%,1017 hPa
+Friday 12 May 2023,10:30,Clear,14°,7,47%,1017 hPa
+Friday 12 May 2023,11:00,Fair,15°,11,41%,1017 hPa
+Friday 12 May 2023,11:30,Fair,15°,13,39%,1017 hPa
+Friday 12 May 2023,12:00,Partly Cloudy,16°,15,36%,1017 hPa
+Friday 12 May 2023,12:30,Partly Cloudy,16°,15,36%,1017 hPa
+Friday 12 May 2023,13:00,Mostly Cloudy,18°,19,30%,1016 hPa
+Friday 12 May 2023,13:30,Mostly Cloudy,17°,20,29%,1016 hPa
+Friday 12 May 2023,14:00,Mostly Cloudy,18°,17,>,35 26% 1016 hPa
+Friday 12 May 2023,14:30,Mostly Cloudy,18°,19,26%,1016 hPa
+Friday 12 May 2023,15:00,Mostly Cloudy,18°,17,26%,1015 hPa
+Friday 12 May 2023,15:30,Mostly Cloudy,19°,19,>,37 24% 1015 hPa
+Friday 12 May 2023,16:00,Rain,20°,19,23%,1015 hPa
+Friday 12 May 2023,16:30,Chance of Showers,17°,33,>,52 34% 1015 hPa
+Friday 12 May 2023,17:00,Chance of Showers,16°,28,>,46 36% 1016 hPa
+Friday 12 May 2023,17:30,Mostly Cloudy,17°,22,36%,1016 hPa
+Friday 12 May 2023,18:00,Fair,16°,20,42%,1016 hPa
+Friday 12 May 2023,18:30,Fair,16°,22,36%,1016 hPa
+Friday 12 May 2023,19:00,Fair,17°,15,36%,1016 hPa
+Friday 12 May 2023,19:30,Fair,16°,26,36%,1016 hPa
+Friday 12 May 2023,20:00,Clear,16°,22,31%,1015 hPa
+Friday 12 May 2023,20:30,Clear,15°,24,33%,1016 hPa
+Friday 12 May 2023,21:00,Clear,15°,22,39%,1016 hPa
+Friday 12 May 2023,21:30,Clear,14°,19,41%,1016 hPa
+Friday 12 May 2023,22:00,Clear,13°,13,47%,1017 hPa
+Friday 12 May 2023,22:30,Clear,13°,17,47%,1017 hPa
+Friday 12 May 2023,23:00,Clear,13°,17,47%,1018 hPa
+Friday 12 May 2023,23:30,Clear,12°,17,50%,1018 hPa
+Saturday 13 May 2023,00:00,Clear,12°,13,50%,1018 hPa
+Saturday 13 May 2023,00:30,Clear,11°,13,54%,1018 hPa
+Saturday 13 May 2023,01:00,Clear,11°,9,54%,1018 hPa
+Saturday 13 May 2023,01:30,Clear,11°,13,54%,1019 hPa
+Saturday 13 May 2023,02:00,Clear,10°,9,57%,1019 hPa
+Saturday 13 May 2023,02:30,Clear,10°,9,57%,1019 hPa
+Saturday 13 May 2023,03:00,Clear,9°,7,61%,1019 hPa
+Saturday 13 May 2023,03:30,Clear,9°,4,61%,1019 hPa
+Saturday 13 May 2023,04:00,Clear,8°,4,66%,1019 hPa
+Saturday 13 May 2023,04:30,Clear,8°,4,66%,1019 hPa
+Saturday 13 May 2023,05:00,Clear,7°,4,70%,1019 hPa
+Saturday 13 May 2023,05:30,Clear,8°,11,66%,1019 hPa
+Saturday 13 May 2023,06:00,Fair,8°,11,66%,1019 hPa
+Saturday 13 May 2023,06:30,Fair,8°,11,66%,1019 hPa
+Saturday 13 May 2023,07:00,Fair,8°,4,66%,1019 hPa
+Saturday 13 May 2023,07:30,Fair,8°,7,66%,1019 hPa
+Saturday 13 May 2023,08:00,Clear,9°,15,61%,1019 hPa
+Saturday 13 May 2023,08:30,Clear,10°,13,57%,1019 hPa
+Saturday 13 May 2023,09:00,Clear,11°,15,54%,1020 hPa
+Saturday 13 May 2023,09:30,Clear,12°,19,50%,1020 hPa
+Saturday 13 May 2023,10:00,Clear,13°,19,47%,1020 hPa
+Saturday 13 May 2023,10:30,Fair,14°,15,44%,1020 hPa
+Saturday 13 May 2023,11:00,Fair,15°,11,41%,1019 hPa
+Saturday 13 May 2023,11:30,Fair,16°,15,39%,1019 hPa
+Saturday 13 May 2023,12:00,Fair,16°,19,39%,1020 hPa
+Saturday 13 May 2023,12:30,Fair,17°,15,36%,1019 hPa
+Saturday 13 May 2023,13:00,Fair,18°,13,32%,1019 hPa
+Saturday 13 May 2023,13:30,Partly Cloudy,18°,15,34%,1019 hPa
+Saturday 13 May 2023,14:00,Partly Cloudy,19°,15,30%,1019 hPa
+Saturday 13 May 2023,14:30,Mostly Cloudy,20°,15,>,39 30% 1019 hPa
+Saturday 13 May 2023,15:00,Partly Cloudy,20°,17,>,39 28% 1018 hPa
+Saturday 13 May 2023,15:30,Mostly Cloudy,19°,17,30%,1018 hPa
+Saturday 13 May 2023,16:00,Mostly Cloudy,20°,17,26%,1018 hPa
+Saturday 13 May 2023,16:30,Mostly Cloudy,21°,17,26%,1018 hPa
+Saturday 13 May 2023,17:00,Partly Cloudy,20°,15,26%,1018 hPa
+Saturday 13 May 2023,17:30,Partly Cloudy,20°,17,28%,1017 hPa
+Saturday 13 May 2023,18:00,Partly Cloudy,21°,20,25%,1018 hPa
+Saturday 13 May 2023,18:30,Partly Cloudy,21°,19,26%,1017 hPa
+Saturday 13 May 2023,19:00,Partly Cloudy,19°,17,>,35 34% 1018 hPa
+Saturday 13 May 2023,19:30,Light Rain,18°,4,42%,1018 hPa
+Saturday 13 May 2023,20:00,Partly Cloudy,19°,4,34%,1018 hPa
+Saturday 13 May 2023,20:30,Fair,20°,2,30%,1018 hPa
+Saturday 13 May 2023,21:00,Clear,19°,9,32%,1018 hPa
+Saturday 13 May 2023,21:30,Clear,19°,22,28%,1018 hPa
+Saturday 13 May 2023,22:00,Clear,18°,19,30%,1019 hPa
+Saturday 13 May 2023,22:30,Clear,17°,20,32%,1019 hPa
+Saturday 13 May 2023,23:00,Partly Cloudy,17°,15,32%,1020 hPa
+Saturday 13 May 2023,23:30,Partly Cloudy,16°,15,36%,1020 hPa
+Sunday 14 May 2023,00:00,Fair,16°,11,36%,1020 hPa
+Sunday 14 May 2023,00:30,Clear,15°,7,39%,1020 hPa
+Sunday 14 May 2023,01:00,Clear,13°,6,44%,1021 hPa
+Sunday 14 May 2023,01:30,Clear,13°,7,47%,1021 hPa
+Sunday 14 May 2023,02:00,Clear,13°,6,47%,1021 hPa
+Sunday 14 May 2023,02:30,Clear,12°,6,50%,1021 hPa
+Sunday 14 May 2023,03:00,Clear,11°,Calm,54%,1021 hPa
+Sunday 14 May 2023,03:30,Clear,11°,2,54%,1020 hPa
+Sunday 14 May 2023,04:00,Clear,10°,4,57%,1020 hPa
+Sunday 14 May 2023,04:30,Clear,10°,4,57%,1020 hPa
+Sunday 14 May 2023,05:00,Fair,10°,4,57%,1020 hPa
+Sunday 14 May 2023,05:30,Fair,10°,2,57%,1020 hPa
+Sunday 14 May 2023,06:00,Clear,9°,4,61%,1020 hPa
+Sunday 14 May 2023,06:30,Clear,8°,4,66%,1020 hPa
+Sunday 14 May 2023,07:00,Clear,8°,2,66%,1020 hPa
+Sunday 14 May 2023,07:30,Clear,8°,Calm,66%,1020 hPa
+Sunday 14 May 2023,08:00,Clear,9°,7,66%,1021 hPa
+Sunday 14 May 2023,08:30,Clear,11°,9,58%,1021 hPa
+Sunday 14 May 2023,09:00,Clear,12°,7,58%,1021 hPa
+Sunday 14 May 2023,09:30,Fair,14°,11,55%,1021 hPa
+Sunday 14 May 2023,10:00,Partly Cloudy,15°,13,48%,1021 hPa
+Sunday 14 May 2023,10:30,Partly Cloudy,15°,19,48%,1021 hPa
+Sunday 14 May 2023,11:00,Partly Cloudy,16°,19,42%,1021 hPa
+Sunday 14 May 2023,11:30,Partly Cloudy,17°,13,36%,1021 hPa
+Sunday 14 May 2023,12:00,Partly Cloudy,17°,15,36%,1021 hPa
+Sunday 14 May 2023,12:30,Mostly Cloudy,18°,13,37%,1020 hPa
+Sunday 14 May 2023,13:00,Mostly Cloudy,18°,7,37%,1020 hPa
+Sunday 14 May 2023,13:30,Mostly Cloudy,18°,6,37%,1020 hPa
+Sunday 14 May 2023,14:00,Light Rain,17°,7,39%,1020 hPa
+Sunday 14 May 2023,14:30,Mostly Cloudy,19°,9,40%,1020 hPa
+Sunday 14 May 2023,15:00,Mostly Cloudy,19°,11,40%,1020 hPa
+Sunday 14 May 2023,15:30,Partly Cloudy,21°,17,33%,1019 hPa
+Sunday 14 May 2023,16:00,Partly Cloudy,20°,19,>,39 35% 1019 hPa
+Sunday 14 May 2023,16:30,Partly Cloudy,21°,9,30%,1019 hPa
+Sunday 14 May 2023,17:00,Partly Cloudy,22°,19,>,39 29% 1019 hPa
+Sunday 14 May 2023,17:30,Partly Cloudy,21°,17,28%,1019 hPa
+Sunday 14 May 2023,18:00,Partly Cloudy,21°,20,30%,1019 hPa
+Sunday 14 May 2023,18:30,Fair,20°,26,32%,1019 hPa
+Sunday 14 May 2023,19:00,Fair,20°,17,32%,1019 hPa
+Sunday 14 May 2023,19:30,Fair,20°,17,>,52 37% 1019 hPa
+Sunday 14 May 2023,20:00,Fair,20°,19,32%,1019 hPa
+Sunday 14 May 2023,20:30,Fair,19°,24,34%,1019 hPa
+Sunday 14 May 2023,21:00,Fair,18°,7,42%,1020 hPa
+Sunday 14 May 2023,21:30,Fair,18°,15,30%,1020 hPa
+Sunday 14 May 2023,22:00,Fair,17°,15,34%,1020 hPa
+Sunday 14 May 2023,22:30,Fair,17°,11,34%,1020 hPa
+Sunday 14 May 2023,23:00,Clear,16°,7,39%,1021 hPa
+Sunday 14 May 2023,23:30,Clear,15°,13,44%,1021 hPa
+Monday 15 May 2023,00:00,Clear,14°,6,47%,1021 hPa
+Monday 15 May 2023,00:30,Clear,14°,11,47%,1021 hPa
+Monday 15 May 2023,01:00,Clear,13°,7,51%,1021 hPa
+Monday 15 May 2023,01:30,Clear,12°,Calm,54%,1021 hPa
+Monday 15 May 2023,02:00,Clear,12°,2,54%,1021 hPa
+Monday 15 May 2023,02:30,Clear,12°,2,54%,1021 hPa
+Monday 15 May 2023,03:00,Clear,12°,Calm,54%,1021 hPa
+Monday 15 May 2023,03:30,Clear,12°,9,54%,1020 hPa
+Monday 15 May 2023,04:00,Clear,10°,6,62%,1020 hPa
+Monday 15 May 2023,04:30,Clear,10°,9,62%,1020 hPa
+Monday 15 May 2023,05:00,Clear,10°,2,62%,1020 hPa
+Monday 15 May 2023,05:30,Clear,9°,4,66%,1020 hPa
+Monday 15 May 2023,06:00,Clear,8°,4,66%,1020 hPa
+Monday 15 May 2023,06:30,Clear,9°,6,66%,1020 hPa
+Monday 15 May 2023,07:00,Clear,8°,2,66%,1020 hPa
+Monday 15 May 2023,07:30,Clear,9°,Calm,66%,1020 hPa
+Monday 15 May 2023,08:00,Clear,9°,4,66%,1020 hPa
+Monday 15 May 2023,08:30,Clear,9°,6,66%,1020 hPa
+Monday 15 May 2023,09:00,Clear,10°,4,62%,1020 hPa
+Monday 15 May 2023,09:30,Clear,11°,Calm,58%,1020 hPa
+Monday 15 May 2023,10:00,Clear,13°,2,51%,1020 hPa
+Monday 15 May 2023,10:30,Clear,13°,7,51%,1020 hPa
+Monday 15 May 2023,11:00,Clear,14°,7,47%,1020 hPa
+Monday 15 May 2023,11:30,Clear,16°,6,42%,1019 hPa
+Monday 15 May 2023,12:00,Clear,16°,6,36%,1019 hPa
+Monday 15 May 2023,12:30,Clear,17°,6,32%,1019 hPa
+Monday 15 May 2023,13:00,Clear,19°,15,28%,1019 hPa
+Monday 15 May 2023,13:30,Clear,18°,13,30%,1018 hPa
+Monday 15 May 2023,14:00,Clear,20°,13,24%,1018 hPa
+Monday 15 May 2023,14:30,Clear,21°,19,25%,1018 hPa
+Monday 15 May 2023,15:00,Clear,21°,24,26%,1017 hPa
+Monday 15 May 2023,15:30,Partly Cloudy,21°,26,25%,1017 hPa
+Monday 15 May 2023,16:00,Fair,22°,24,>,44 23% 1017 hPa
+Monday 15 May 2023,16:30,Fair,22°,26,23%,1017 hPa
+Monday 15 May 2023,17:00,Fair,22°,30,25%,1017 hPa
+Monday 15 May 2023,17:30,Fair,21°,26,>,44 26% 1017 hPa
+Monday 15 May 2023,18:00,Fair,20°,32,30%,1017 hPa
+Monday 15 May 2023,18:30,Clear,19°,32,32%,1018 hPa
+Monday 15 May 2023,19:00,Clear,20°,28,32%,1018 hPa
+Monday 15 May 2023,19:30,Clear,19°,28,34%,1018 hPa
+Monday 15 May 2023,20:00,Clear,19°,26,34%,1018 hPa
+Monday 15 May 2023,20:30,Clear,18°,28,37%,1018 hPa
+Monday 15 May 2023,21:00,Clear,18°,22,37%,1018 hPa
+Monday 15 May 2023,21:30,Clear,17°,15,39%,1019 hPa
+Monday 15 May 2023,22:00,Clear,16°,19,42%,1019 hPa
+Monday 15 May 2023,22:30,Clear,16°,13,45%,1019 hPa
+Monday 15 May 2023,23:00,Clear,15°,13,48%,1019 hPa
+Monday 15 May 2023,23:30,Clear,15°,11,48%,1020 hPa
+Tuesday 16 May 2023,00:00,Clear,14°,4,51%,1020 hPa
+Tuesday 16 May 2023,00:30,Clear,13°,7,54%,1020 hPa
+Tuesday 16 May 2023,01:00,Clear,13°,11,54%,1019 hPa
+Tuesday 16 May 2023,01:30,Clear,12°,11,54%,1019 hPa
+Tuesday 16 May 2023,02:00,Clear,12°,15,54%,1019 hPa
+Tuesday 16 May 2023,02:30,Clear,11°,9,54%,1019 hPa
+Tuesday 16 May 2023,03:00,Clear,11°,13,54%,1019 hPa
+Tuesday 16 May 2023,03:30,Clear,11°,11,54%,1019 hPa
+Tuesday 16 May 2023,04:00,Clear,11°,9,58%,1019 hPa
+Tuesday 16 May 2023,04:30,Clear,11°,13,58%,1018 hPa
+Tuesday 16 May 2023,05:00,Clear,11°,9,54%,1019 hPa
+Tuesday 16 May 2023,05:30,Clear,10°,11,62%,1018 hPa
+Tuesday 16 May 2023,06:00,Clear,10°,6,62%,1019 hPa
+Tuesday 16 May 2023,06:30,Clear,8°,7,71%,1019 hPa
+Tuesday 16 May 2023,07:00,Clear,8°,2,66%,1019 hPa
+Tuesday 16 May 2023,07:30,Clear,9°,4,61%,1019 hPa
+Tuesday 16 May 2023,08:00,Clear,9°,6,61%,1019 hPa
+Tuesday 16 May 2023,08:30,Clear,11°,Calm,54%,1019 hPa
+Tuesday 16 May 2023,09:00,Clear,11°,2,54%,1019 hPa
+Tuesday 16 May 2023,09:30,Clear,12°,4,50%,1019 hPa
+Tuesday 16 May 2023,10:00,Clear,13°,9,44%,1019 hPa
+Tuesday 16 May 2023,10:30,Clear,14°,7,38%,1019 hPa
+Tuesday 16 May 2023,11:00,Clear,16°,11,34%,1019 hPa
+Tuesday 16 May 2023,11:30,Clear,16°,9,34%,1019 hPa
+Tuesday 16 May 2023,12:00,Clear,17°,7,32%,1019 hPa
+Tuesday 16 May 2023,12:30,Clear,17°,15,29%,1018 hPa
+Tuesday 16 May 2023,13:00,Clear,19°,13,24%,1018 hPa
+Tuesday 16 May 2023,13:30,Clear,20°,13,21%,1018 hPa
+Tuesday 16 May 2023,14:00,Clear,20°,9,21%,1017 hPa
+Tuesday 16 May 2023,14:30,Clear,20°,7,21%,1017 hPa
+Tuesday 16 May 2023,15:00,Clear,21°,6,21%,1017 hPa
+Tuesday 16 May 2023,15:30,Clear,22°,6,19%,1016 hPa
+Tuesday 16 May 2023,16:00,Clear,23°,6,17%,1016 hPa
+Tuesday 16 May 2023,16:30,Clear,23°,9,>,30 20% 1015 hPa
+Tuesday 16 May 2023,17:00,Clear,23°,6,>,28 17% 1015 hPa
+Tuesday 16 May 2023,17:30,Clear,23°,13,19%,1015 hPa
+Tuesday 16 May 2023,18:00,Clear,23°,11,20%,1015 hPa
+Tuesday 16 May 2023,18:30,Clear,23°,6,20%,1014 hPa
+Tuesday 16 May 2023,19:00,Clear,23°,11,>,30 20% 1014 hPa
+Tuesday 16 May 2023,19:30,Clear,23°,20,20%,1014 hPa
+Tuesday 16 May 2023,20:00,Clear,23°,15,19%,1014 hPa
+Tuesday 16 May 2023,20:30,Clear,22°,15,21%,1014 hPa
+Tuesday 16 May 2023,21:00,Clear,20°,13,23%,1015 hPa
+Tuesday 16 May 2023,21:30,Clear,19°,15,28%,1015 hPa
+Tuesday 16 May 2023,22:00,Clear,18°,17,30%,1016 hPa
+Tuesday 16 May 2023,22:30,Clear,17°,15,29%,1016 hPa
+Tuesday 16 May 2023,23:00,Clear,16°,13,34%,1016 hPa
+Tuesday 16 May 2023,23:30,Clear,15°,15,>,39 36% 1017 hPa
+Wednesday 17 May 2023,00:00,Clear,14°,17,>,35 38% 1017 hPa
+Wednesday 17 May 2023,00:30,Clear,13°,15,38%,1017 hPa
+Wednesday 17 May 2023,01:00,Clear,13°,15,>,33 38% 1017 hPa
+Wednesday 17 May 2023,01:30,Clear,12°,13,40%,1017 hPa
+Wednesday 17 May 2023,02:00,Clear,11°,13,47%,1017 hPa
+Wednesday 17 May 2023,02:30,Clear,11°,11,47%,1017 hPa
+Wednesday 17 May 2023,03:00,Clear,10°,15,46%,1017 hPa
+Wednesday 17 May 2023,03:30,Clear,10°,11,46%,1017 hPa
+Wednesday 17 May 2023,04:00,Clear,9°,17,>,35 49% 1017 hPa
+Wednesday 17 May 2023,04:30,Clear,9°,19,49%,1017 hPa
+Wednesday 17 May 2023,05:00,Clear,9°,9,49%,1018 hPa
+Wednesday 17 May 2023,05:30,Clear,8°,6,53%,1018 hPa
+Wednesday 17 May 2023,06:00,Clear,8°,7,57%,1018 hPa
+Wednesday 17 May 2023,06:30,Clear,8°,7,57%,1018 hPa
+Wednesday 17 May 2023,07:00,Clear,8°,9,57%,1018 hPa
+Wednesday 17 May 2023,07:30,Clear,8°,11,57%,1018 hPa
+Wednesday 17 May 2023,08:00,Clear,9°,9,57%,1018 hPa
+Wednesday 17 May 2023,08:30,Clear,10°,15,50%,1018 hPa
+Wednesday 17 May 2023,09:00,Clear,11°,17,47%,1018 hPa
+Wednesday 17 May 2023,09:30,Clear,12°,15,>,33 44% 1018 hPa
+Wednesday 17 May 2023,10:00,Clear,12°,19,>,41 40% 1018 hPa
+Wednesday 17 May 2023,10:30,Clear,14°,17,>,37 36% 1017 hPa
+Wednesday 17 May 2023,11:00,Clear,15°,19,33%,1017 hPa
+Wednesday 17 May 2023,11:30,Clear,16°,15,31%,1017 hPa
+Wednesday 17 May 2023,12:00,Clear,17°,17,29%,1017 hPa
+Wednesday 17 May 2023,12:30,Clear,18°,15,>,33 28% 1017 hPa
+Wednesday 17 May 2023,13:00,Clear,20°,15,23%,1017 hPa
+Wednesday 17 May 2023,13:30,Clear,21°,15,21%,1016 hPa
+Wednesday 17 May 2023,14:00,Clear,21°,17,20%,1016 hPa
+Wednesday 17 May 2023,14:30,Clear,22°,17,17%,1015 hPa
+Wednesday 17 May 2023,15:00,Clear,23°,17,13%,1015 hPa
+Wednesday 17 May 2023,15:30,Clear,24°,15,>,35 13% 1015 hPa
+Wednesday 17 May 2023,16:00,Clear,24°,19,>,41 11% 1015 hPa
+Wednesday 17 May 2023,16:30,Clear,24°,17,>,35 12% 1014 hPa
+Wednesday 17 May 2023,17:00,Clear,23°,20,14%,1014 hPa
+Wednesday 17 May 2023,17:30,Clear,25°,15,>,33 11% 1014 hPa
+Wednesday 17 May 2023,18:00,Clear,24°,15,>,37 12% 1014 hPa
+Wednesday 17 May 2023,18:30,Clear,24°,17,11%,1014 hPa
+Wednesday 17 May 2023,19:00,Clear,23°,15,10%,1013 hPa
+Wednesday 17 May 2023,19:30,Clear,23°,13,12%,1014 hPa
+Wednesday 17 May 2023,20:00,Clear,22°,17,14%,1014 hPa
+Wednesday 17 May 2023,20:30,Clear,21°,17,>,41 16% 1014 hPa
+Wednesday 17 May 2023,21:00,Clear,20°,19,15%,1014 hPa
+Wednesday 17 May 2023,21:30,Clear,19°,19,>,37 18% 1015 hPa
+Wednesday 17 May 2023,22:00,Clear,18°,19,>,37 22% 1015 hPa
+Wednesday 17 May 2023,22:30,Clear,17°,19,27%,1016 hPa
+Wednesday 17 May 2023,23:00,Clear,16°,17,>,35 31% 1017 hPa
+Wednesday 17 May 2023,23:30,Clear,15°,19,>,43 36% 1017 hPa
+Thursday 18 May 2023,00:00,Clear,14°,19,>,43 38% 1018 hPa
+Thursday 18 May 2023,00:30,Clear,13°,19,>,37 38% 1018 hPa
+Thursday 18 May 2023,01:00,Clear,13°,19,41%,1019 hPa
+Thursday 18 May 2023,01:30,Clear,12°,15,>,33 44% 1019 hPa
+Thursday 18 May 2023,02:00,Clear,11°,9,47%,1019 hPa
+Thursday 18 May 2023,02:30,Clear,11°,9,47%,1019 hPa
+Thursday 18 May 2023,03:00,Clear,10°,7,50%,1019 hPa
+Thursday 18 May 2023,03:30,Clear,10°,15,50%,1019 hPa
+Thursday 18 May 2023,04:00,Clear,10°,9,50%,1019 hPa
+Thursday 18 May 2023,04:30,Clear,10°,6,50%,1019 hPa
+Thursday 18 May 2023,05:00,Clear,10°,11,53%,1019 hPa
+Thursday 18 May 2023,05:30,Clear,9°,9,57%,1019 hPa
+Thursday 18 May 2023,06:00,Clear,9°,9,57%,1018 hPa
+Thursday 18 May 2023,06:30,Clear,9°,9,57%,1018 hPa
+Thursday 18 May 2023,07:00,Fair,9°,7,57%,1019 hPa
+Thursday 18 May 2023,07:30,Fair,9°,6,57%,1019 hPa
+Thursday 18 May 2023,08:00,Partly Cloudy,10°,7,57%,1019 hPa
+Thursday 18 May 2023,08:30,Partly Cloudy,10°,11,57%,1019 hPa
+Thursday 18 May 2023,09:00,Fair,11°,15,54%,1019 hPa
+Thursday 18 May 2023,09:30,Fair,12°,15,54%,1019 hPa
+Thursday 18 May 2023,10:00,Fair,13°,19,>,41 47% 1019 hPa
+Thursday 18 May 2023,10:30,Clear,14°,17,>,35 44% 1019 hPa
+Thursday 18 May 2023,11:00,Clear,16°,15,>,33 39% 1019 hPa
+Thursday 18 May 2023,11:30,Clear,16°,15,36%,1019 hPa
+Thursday 18 May 2023,12:00,Clear,17°,15,34%,1019 hPa
+Thursday 18 May 2023,12:30,Clear,18°,13,28%,1019 hPa
+Thursday 18 May 2023,13:00,Clear,19°,9,26%,1019 hPa
+Thursday 18 May 2023,13:30,Clear,19°,11,26%,1018 hPa
+Thursday 18 May 2023,14:00,Clear,20°,17,23%,1018 hPa
+Thursday 18 May 2023,14:30,Clear,20°,11,21%,1018 hPa
+Thursday 18 May 2023,15:00,Clear,21°,11,18%,1017 hPa
+Thursday 18 May 2023,15:30,Clear,22°,22,16%,1017 hPa
+Thursday 18 May 2023,16:00,Clear,22°,13,15%,1016 hPa
+Thursday 18 May 2023,16:30,Clear,22°,9,13%,1016 hPa
+Thursday 18 May 2023,17:00,Clear,22°,13,>,37 16% 1016 hPa
+Thursday 18 May 2023,17:30,Clear,22°,7,17%,1015 hPa
+Thursday 18 May 2023,18:00,Clear,23°,11,19%,1015 hPa
+Thursday 18 May 2023,18:30,Clear,23°,11,17%,1015 hPa
+Thursday 18 May 2023,19:00,Clear,23°,9,16%,1015 hPa
+Thursday 18 May 2023,19:30,Clear,22°,11,16%,1015 hPa
+Thursday 18 May 2023,20:00,Clear,21°,15,>,33 18% 1015 hPa
+Thursday 18 May 2023,20:30,Clear,20°,9,18%,1015 hPa
+Thursday 18 May 2023,21:00,Clear,20°,13,19%,1016 hPa
+Thursday 18 May 2023,21:30,Clear,19°,13,21%,1016 hPa
+Thursday 18 May 2023,22:00,Clear,18°,17,24%,1017 hPa
+Thursday 18 May 2023,22:30,Clear,17°,19,>,37 27% 1018 hPa
+Thursday 18 May 2023,23:00,Clear,16°,17,>,43 29% 1019 hPa
+Thursday 18 May 2023,23:30,Clear,15°,17,33%,1019 hPa
+Friday 19 May 2023,00:00,Clear,14°,19,>,39 36% 1019 hPa
+Friday 19 May 2023,00:30,Clear,13°,15,>,35 38% 1020 hPa
+Friday 19 May 2023,01:00,Clear,13°,15,38%,1020 hPa
+Friday 19 May 2023,01:30,Clear,12°,13,>,33 38% 1020 hPa
+Friday 19 May 2023,02:00,Clear,12°,9,40%,1020 hPa
+Friday 19 May 2023,02:30,Clear,11°,7,43%,1020 hPa
+Friday 19 May 2023,03:00,Clear,11°,11,43%,1020 hPa
+Friday 19 May 2023,03:30,Clear,11°,15,43%,1020 hPa
+Friday 19 May 2023,04:00,Clear,11°,15,43%,1019 hPa
+Friday 19 May 2023,04:30,Clear,11°,9,47%,1019 hPa
+Friday 19 May 2023,05:00,Clear,10°,9,50%,1019 hPa
+Friday 19 May 2023,05:30,Clear,10°,9,46%,1019 hPa
+Friday 19 May 2023,06:00,Clear,9°,4,49%,1019 hPa
+Friday 19 May 2023,06:30,Clear,8°,Calm,53%,1019 hPa
+Friday 19 May 2023,07:00,Clear,8°,2,53%,1019 hPa
+Friday 19 May 2023,07:30,Clear,8°,4,57%,1020 hPa
+Friday 19 May 2023,08:00,Clear,10°,7,50%,1020 hPa
+Friday 19 May 2023,08:30,Clear,11°,9,50%,1019 hPa
+Friday 19 May 2023,09:00,Clear,11°,11,50%,1019 hPa
+Friday 19 May 2023,09:30,Clear,12°,15,47%,1019 hPa
+Friday 19 May 2023,10:00,Clear,13°,20,>,39 44% 1019 hPa
+Friday 19 May 2023,10:30,Clear,15°,19,41%,1019 hPa
+Friday 19 May 2023,11:00,Clear,15°,20,39%,1019 hPa
+Friday 19 May 2023,11:30,Clear,16°,20,>,39 39% 1019 hPa
+Friday 19 May 2023,12:00,Fair,17°,19,>,37 34% 1019 hPa
+Friday 19 May 2023,12:30,Partly Cloudy,18°,17,32%,1019 hPa
+Friday 19 May 2023,13:00,Mostly Cloudy,19°,15,30%,1018 hPa
+Friday 19 May 2023,13:30,Mostly Cloudy,19°,15,28%,1018 hPa
+Friday 19 May 2023,14:00,Partly Cloudy,19°,17,28%,1018 hPa
+Friday 19 May 2023,14:30,Partly Cloudy,20°,17,24%,1018 hPa
+Friday 19 May 2023,15:00,Partly Cloudy,20°,17,23%,1017 hPa
+Friday 19 May 2023,15:30,Fair,20°,20,>,43 23% 1017 hPa
+Friday 19 May 2023,16:00,Fair,22°,15,21%,1017 hPa
+Friday 19 May 2023,16:30,Fair,21°,13,21%,1016 hPa
+Friday 19 May 2023,17:00,Fair,21°,17,20%,1016 hPa
+Friday 19 May 2023,17:30,Fair,21°,19,20%,1015 hPa
+Friday 19 May 2023,18:00,Fair,21°,13,>,41 21% 1015 hPa
+Friday 19 May 2023,18:30,Fair,22°,11,20%,1015 hPa
+Friday 19 May 2023,19:00,Fair,22°,20,>,39 21% 1015 hPa
+Friday 19 May 2023,19:30,Fair,21°,19,23%,1015 hPa
+Friday 19 May 2023,20:00,Clear,21°,22,25%,1015 hPa
+Friday 19 May 2023,20:30,Clear,20°,26,26%,1015 hPa
+Friday 19 May 2023,21:00,Clear,19°,28,28%,1016 hPa
+Friday 19 May 2023,21:30,Clear,18°,26,30%,1016 hPa
+Friday 19 May 2023,22:00,Clear,18°,13,30%,1016 hPa
+Friday 19 May 2023,22:30,Fair,17°,17,29%,1017 hPa
+Friday 19 May 2023,23:00,Fair,16°,13,29%,1017 hPa
+Friday 19 May 2023,23:30,Fair,15°,9,31%,1018 hPa
+Saturday 20 May 2023,00:00,Fair,15°,11,31%,1018 hPa
+Saturday 20 May 2023,00:30,Fair,14°,11,33%,1018 hPa
+Saturday 20 May 2023,01:00,Fair,13°,9,35%,1018 hPa
+Saturday 20 May 2023,01:30,Fair,12°,7,38%,1018 hPa
+Saturday 20 May 2023,02:00,Fair,12°,9,38%,1018 hPa
+Saturday 20 May 2023,02:30,Fair,11°,4,40%,1018 hPa
+Saturday 20 May 2023,03:00,Fair,10°,6,43%,1018 hPa
+Saturday 20 May 2023,03:30,Fair,9°,4,46%,1017 hPa
+Saturday 20 May 2023,04:00,Fair,9°,4,46%,1017 hPa
+Saturday 20 May 2023,04:30,Fair,8°,4,49%,1017 hPa
+Saturday 20 May 2023,05:00,Fair,8°,6,49%,1017 hPa
+Saturday 20 May 2023,05:30,Fair,8°,6,49%,1017 hPa
+Saturday 20 May 2023,06:00,Fair,8°,7,49%,1017 hPa
+Saturday 20 May 2023,06:30,Fair,8°,7,49%,1016 hPa
+Saturday 20 May 2023,07:00,Clear,7°,7,53%,1016 hPa
+Saturday 20 May 2023,07:30,Clear,6°,2,56%,1016 hPa
+Saturday 20 May 2023,08:00,Clear,8°,2,53%,1016 hPa
+Saturday 20 May 2023,08:30,Clear,9°,6,49%,1016 hPa
+Saturday 20 May 2023,09:00,Clear,11°,6,50%,1016 hPa
+Saturday 20 May 2023,09:30,Clear,13°,11,51%,1016 hPa
+Saturday 20 May 2023,10:00,Clear,14°,13,47%,1016 hPa
+Saturday 20 May 2023,10:30,Fair,15°,13,44%,1016 hPa
+Saturday 20 May 2023,11:00,Partly Cloudy,15°,15,44%,1015 hPa
+Saturday 20 May 2023,11:30,Partly Cloudy,16°,11,42%,1015 hPa
+Saturday 20 May 2023,12:00,Partly Cloudy,16°,7,45%,1015 hPa
+Saturday 20 May 2023,12:30,Partly Cloudy,16°,9,42%,1015 hPa
+Saturday 20 May 2023,13:00,Mostly Cloudy,17°,13,39%,1014 hPa
+Saturday 20 May 2023,13:30,Mostly Cloudy,18°,11,37%,1014 hPa
+Saturday 20 May 2023,14:00,Mostly Cloudy,18°,9,34%,1014 hPa
+Saturday 20 May 2023,14:30,Mostly Cloudy,20°,11,>,32 32% 1013 hPa
+Saturday 20 May 2023,15:00,Partly Cloudy,21°,9,30%,1013 hPa
+Saturday 20 May 2023,15:30,Partly Cloudy,20°,9,32%,1012 hPa
+Saturday 20 May 2023,16:00,Partly Cloudy,20°,11,30%,1012 hPa
+Saturday 20 May 2023,16:30,Partly Cloudy,21°,7,28%,1012 hPa
+Saturday 20 May 2023,17:00,Partly Cloudy,22°,7,27%,1012 hPa
+Saturday 20 May 2023,17:30,Partly Cloudy,20°,15,28%,1011 hPa
+Saturday 20 May 2023,18:00,Partly Cloudy,21°,9,28%,1011 hPa
+Saturday 20 May 2023,18:30,Partly Cloudy,21°,13,26%,1011 hPa
+Saturday 20 May 2023,19:00,Partly Cloudy,21°,9,26%,1011 hPa
+Saturday 20 May 2023,19:30,Partly Cloudy,21°,7,26%,1010 hPa
+Saturday 20 May 2023,20:00,Partly Cloudy,21°,11,26%,1011 hPa
+Saturday 20 May 2023,20:30,Partly Cloudy,20°,9,28%,1011 hPa
+Saturday 20 May 2023,21:00,Partly Cloudy,19°,11,30%,1011 hPa
+Saturday 20 May 2023,21:30,Partly Cloudy,18°,9,32%,1011 hPa
+Saturday 20 May 2023,22:00,Partly Cloudy,18°,11,34%,1011 hPa
+Saturday 20 May 2023,22:30,Partly Cloudy,17°,11,36%,1012 hPa
+Saturday 20 May 2023,23:00,Fair,17°,11,39%,1012 hPa
+Saturday 20 May 2023,23:30,Fair,16°,13,42%,1013 hPa
+Sunday 21 May 2023,00:00,Clear,15°,15,48%,1013 hPa
+Sunday 21 May 2023,00:30,Clear,15°,13,44%,1013 hPa
+Sunday 21 May 2023,01:00,Clear,14°,15,47%,1013 hPa
+Sunday 21 May 2023,01:30,Clear,13°,13,51%,1013 hPa
+Sunday 21 May 2023,02:00,Clear,13°,13,51%,1013 hPa
+Sunday 21 May 2023,02:30,Clear,13°,17,51%,1013 hPa
+Sunday 21 May 2023,03:00,Clear,12°,15,54%,1012 hPa
+Sunday 21 May 2023,03:30,Clear,12°,11,54%,1012 hPa
+Sunday 21 May 2023,04:00,Clear,12°,13,54%,1012 hPa
+Sunday 21 May 2023,04:30,Clear,12°,13,54%,1012 hPa
+Sunday 21 May 2023,05:00,Clear,11°,11,58%,1012 hPa
+Sunday 21 May 2023,05:30,Clear,11°,9,58%,1012 hPa
+Sunday 21 May 2023,06:00,Clear,11°,9,58%,1012 hPa
+Sunday 21 May 2023,06:30,Clear,11°,9,58%,1012 hPa
+Sunday 21 May 2023,07:00,Clear,11°,7,58%,1012 hPa
+Sunday 21 May 2023,07:30,Clear,12°,4,54%,1012 hPa
+Sunday 21 May 2023,08:00,Partly Cloudy,12°,4,54%,1012 hPa
+Sunday 21 May 2023,08:30,Fair,12°,7,58%,1012 hPa
+Sunday 21 May 2023,09:00,Fair,13°,7,54%,1013 hPa
+Sunday 21 May 2023,09:30,Fair,14°,4,51%,1013 hPa
+Sunday 21 May 2023,10:00,Partly Cloudy,14°,4,51%,1013 hPa
+Sunday 21 May 2023,10:30,Partly Cloudy,14°,6,51%,1013 hPa
+Sunday 21 May 2023,11:00,Mostly Cloudy,16°,4,48%,1012 hPa
+Sunday 21 May 2023,11:30,Partly Cloudy,16°,7,48%,1012 hPa
+Sunday 21 May 2023,12:00,Partly Cloudy,18°,6,42%,1012 hPa
+Sunday 21 May 2023,12:30,Partly Cloudy,19°,4,37%,1012 hPa
+Sunday 21 May 2023,13:00,Partly Cloudy,21°,7,33%,1012 hPa
+Sunday 21 May 2023,13:30,Partly Cloudy,20°,9,35%,1012 hPa
+Sunday 21 May 2023,14:00,Mostly Cloudy,21°,6,33%,1011 hPa
+Sunday 21 May 2023,14:30,Mostly Cloudy,21°,7,33%,1011 hPa
+Sunday 21 May 2023,15:00,Chance of Showers,20°,9,35%,1011 hPa
+Sunday 21 May 2023,15:30,Chance of Showers,20°,13,35%,1011 hPa
+Sunday 21 May 2023,16:00,Mostly Cloudy,20°,4,40%,1011 hPa
+Sunday 21 May 2023,16:30,Mostly Cloudy,21°,11,33%,1010 hPa
+Sunday 21 May 2023,17:00,Partly Cloudy,22°,20,33%,1010 hPa
+Sunday 21 May 2023,17:30,Partly Cloudy,21°,17,38%,1010 hPa
+Sunday 21 May 2023,18:00,Partly Cloudy,22°,19,35%,1010 hPa
+Sunday 21 May 2023,18:30,Partly Cloudy,21°,24,38%,1010 hPa
+Sunday 21 May 2023,19:00,Partly Cloudy,20°,19,40%,1010 hPa
+Sunday 21 May 2023,19:30,Partly Cloudy,21°,15,35%,1010 hPa
+Sunday 21 May 2023,20:00,Chance of Showers,21°,13,33%,1010 hPa
+Sunday 21 May 2023,20:30,Partly Cloudy,20°,24,40%,1010 hPa
+Sunday 21 May 2023,21:00,Mostly Cloudy,19°,11,46%,1010 hPa
+Sunday 21 May 2023,21:30,Clear,18°,17,49%,1011 hPa
+Sunday 21 May 2023,22:00,Fair,18°,13,49%,1011 hPa
+Sunday 21 May 2023,22:30,Fair,18°,6,45%,1011 hPa
+Sunday 21 May 2023,23:00,Clear,18°,7,45%,1012 hPa
+Sunday 21 May 2023,23:30,Clear,17°,6,48%,1012 hPa
+Monday 22 May 2023,00:00,Mostly Cloudy,17°,4,48%,1012 hPa
+Monday 22 May 2023,00:30,Partly Cloudy,17°,6,48%,1012 hPa
+Monday 22 May 2023,01:00,Partly Cloudy,16°,6,51%,1012 hPa
+Monday 22 May 2023,01:30,Partly Cloudy,16°,2,51%,1012 hPa
+Monday 22 May 2023,02:00,Fair,16°,4,51%,1013 hPa
+Monday 22 May 2023,02:30,Fair,17°,7,42%,1013 hPa
+Monday 22 May 2023,03:00,Fair,17°,7,39%,1013 hPa
+Monday 22 May 2023,03:30,Fair,17°,6,42%,1013 hPa
+Monday 22 May 2023,04:00,Mostly Cloudy,16°,4,45%,1013 hPa
+Monday 22 May 2023,04:30,Mostly Cloudy,16°,4,45%,1013 hPa
+Monday 22 May 2023,05:00,Mostly Cloudy,16°,2,45%,1013 hPa
+Monday 22 May 2023,05:30,Mostly Cloudy,15°,4,51%,1013 hPa
+Monday 22 May 2023,06:00,Fair,15°,2,55%,1013 hPa
+Monday 22 May 2023,06:30,Clear,15°,4,51%,1013 hPa
+Monday 22 May 2023,07:00,Fair,14°,4,55%,1013 hPa
+Monday 22 May 2023,07:30,Clear,13°,7,67%,1014 hPa
+Monday 22 May 2023,08:00,Clear,14°,6,63%,1014 hPa
+Monday 22 May 2023,08:30,Clear,15°,6,59%,1014 hPa
+Monday 22 May 2023,09:00,Clear,15°,6,55%,1014 hPa
+Monday 22 May 2023,09:30,Clear,17°,4,48%,1014 hPa
+Monday 22 May 2023,10:00,Clear,17°,7,48%,1014 hPa
+Monday 22 May 2023,10:30,Clear,18°,7,45%,1014 hPa
+Monday 22 May 2023,11:00,Clear,18°,9,42%,1014 hPa
+Monday 22 May 2023,11:30,Clear,19°,11,40%,1013 hPa
+Monday 22 May 2023,12:00,Clear,20°,6,37%,1013 hPa
+Monday 22 May 2023,12:30,Clear,20°,6,37%,1013 hPa
+Monday 22 May 2023,13:00,Clear,21°,6,35%,1012 hPa
+Monday 22 May 2023,13:30,Clear,23°,7,31%,1012 hPa
+Monday 22 May 2023,14:00,Clear,23°,9,29%,1012 hPa
+Monday 22 May 2023,14:30,Clear,24°,13,27%,1012 hPa
+Monday 22 May 2023,15:00,Clear,24°,13,27%,1011 hPa
+Monday 22 May 2023,15:30,Fair,24°,15,25%,1011 hPa
+Monday 22 May 2023,16:00,Fair,24°,13,25%,1011 hPa
+Monday 22 May 2023,16:30,Clear,25°,9,24%,1011 hPa
+Monday 22 May 2023,17:00,Clear,24°,11,24%,1011 hPa
+Monday 22 May 2023,17:30,Clear,24°,9,24%,1010 hPa
+Monday 22 May 2023,18:00,Clear,23°,13,29%,1010 hPa
+Monday 22 May 2023,18:30,Clear,21°,22,40%,1011 hPa
+Monday 22 May 2023,19:00,Partly Cloudy,22°,11,35%,1011 hPa
+Monday 22 May 2023,19:30,Fair,21°,17,40%,1011 hPa
+Monday 22 May 2023,20:00,Chance of Showers,21°,17,40%,1011 hPa
+Monday 22 May 2023,20:30,Fair,20°,15,43%,1011 hPa
+Monday 22 May 2023,21:00,Fair,20°,9,46%,1011 hPa
+Monday 22 May 2023,21:30,Partly Cloudy,19°,7,49%,1012 hPa
+Monday 22 May 2023,22:00,Mostly Cloudy,19°,9,49%,1013 hPa
+Monday 22 May 2023,22:22,Rain,17°,6,63%,1013 hPa
+Monday 22 May 2023,22:30,Rain,17°,4,72%,1013 hPa
+Monday 22 May 2023,23:00,Chance of Showers,16°,Calm,68%,1013 hPa
+Monday 22 May 2023,23:30,Chance of Showers,17°,Calm,63%,1014 hPa
+Tuesday 23 May 2023,00:00,Mostly Cloudy,17°,Calm,68%,1014 hPa
+Tuesday 23 May 2023,00:30,Mostly Cloudy,17°,Calm,63%,1014 hPa
+Tuesday 23 May 2023,01:00,Mostly Cloudy,17°,4,63%,1014 hPa
+Tuesday 23 May 2023,01:30,Mostly Cloudy,18°,6,59%,1014 hPa
+Tuesday 23 May 2023,02:00,Mostly Cloudy,18°,7,56%,1014 hPa
+Tuesday 23 May 2023,02:30,Mostly Cloudy,17°,13,59%,1014 hPa
+Tuesday 23 May 2023,03:00,Mostly Cloudy,17°,13,59%,1014 hPa
+Tuesday 23 May 2023,03:30,Light Rain,17°,13,63%,1014 hPa
+Tuesday 23 May 2023,04:00,Light Rain,17°,9,63%,1014 hPa
+Tuesday 23 May 2023,04:30,Mostly Cloudy,17°,11,63%,1014 hPa
+Tuesday 23 May 2023,05:00,Mostly Cloudy,16°,15,>,33 68% 1013 hPa
+Tuesday 23 May 2023,05:30,Mostly Cloudy,16°,11,68%,1013 hPa
+Tuesday 23 May 2023,06:00,Light Rain,16°,9,68%,1013 hPa
+Tuesday 23 May 2023,06:30,Partly Cloudy,15°,11,72%,1013 hPa
+Tuesday 23 May 2023,07:00,Partly Cloudy,15°,13,67%,1013 hPa
+Tuesday 23 May 2023,07:30,Fair,15°,9,72%,1013 hPa
+Tuesday 23 May 2023,08:00,Fair,16°,15,68%,1013 hPa
+Tuesday 23 May 2023,08:30,Fair,16°,11,68%,1014 hPa
+Tuesday 23 May 2023,09:00,Fair,17°,13,63%,1014 hPa
+Tuesday 23 May 2023,09:30,Clear,17°,13,63%,1014 hPa
+Tuesday 23 May 2023,10:00,Fair,18°,13,59%,1014 hPa
+Tuesday 23 May 2023,10:30,Fair,18°,13,59%,1014 hPa
+Tuesday 23 May 2023,11:00,Mostly Cloudy,19°,13,56%,1014 hPa
+Tuesday 23 May 2023,11:30,Partly Cloudy,21°,13,46%,1014 hPa
+Tuesday 23 May 2023,12:00,Mostly Cloudy,21°,17,46%,1014 hPa
+Tuesday 23 May 2023,12:30,Mostly Cloudy,22°,13,43%,1014 hPa
+Tuesday 23 May 2023,13:00,Partly Cloudy,23°,17,38%,1013 hPa
+Tuesday 23 May 2023,13:30,Partly Cloudy,23°,20,36%,1013 hPa
+Tuesday 23 May 2023,14:00,Partly Cloudy,23°,17,36%,1013 hPa
+Tuesday 23 May 2023,14:30,Partly Cloudy,24°,17,>,39 34% 1012 hPa
+Tuesday 23 May 2023,15:00,Partly Cloudy,24°,20,>,43 34% 1012 hPa
+Tuesday 23 May 2023,15:30,Partly Cloudy,25°,19,30%,1011 hPa
+Tuesday 23 May 2023,16:00,Partly Cloudy,25°,17,28%,1011 hPa
+Tuesday 23 May 2023,16:30,Chance of Showers,26°,19,30%,1011 hPa
+Tuesday 23 May 2023,17:00,Light Rain,24°,15,>,35 34% 1011 hPa
+Tuesday 23 May 2023,17:17,T-Storm,21°,28,>,46 49% 1012 hPa
+Tuesday 23 May 2023,17:22,T-Storm,19°,24,68%,1012 hPa
+Tuesday 23 May 2023,17:30,T-Storm,17°,22,77%,1012 hPa
+Tuesday 23 May 2023,17:31,T-Storm,17°,22,72%,1013 hPa
+Tuesday 23 May 2023,17:43,Rain,17°,24,77%,1013 hPa
+Tuesday 23 May 2023,18:00,Light Rain,18°,17,77%,1013 hPa
+Tuesday 23 May 2023,18:17,Rain,17°,19,77%,1013 hPa
+Tuesday 23 May 2023,18:30,Light Rain,17°,28,77%,1013 hPa
+Tuesday 23 May 2023,19:00,Light Rain,17°,17,77%,1014 hPa
+Tuesday 23 May 2023,19:30,Light Rain,17°,7,77%,1014 hPa
+Tuesday 23 May 2023,20:00,Light Rain,16°,2,82%,1014 hPa
+Tuesday 23 May 2023,20:30,Mostly Cloudy,17°,6,77%,1014 hPa
+Tuesday 23 May 2023,21:00,Light Rain,16°,7,88%,1015 hPa
+Tuesday 23 May 2023,21:08,Rain,15°,11,94%,1015 hPa
+Tuesday 23 May 2023,21:30,Light Rain,15°,13,94%,1015 hPa
+Tuesday 23 May 2023,22:00,Drizzle,15°,15,94%,1016 hPa
+Tuesday 23 May 2023,22:30,Drizzle,15°,19,88%,1016 hPa
+Tuesday 23 May 2023,23:00,Mostly Cloudy,14°,13,94%,1016 hPa
+Tuesday 23 May 2023,23:30,Mostly Cloudy,14°,7,94%,1016 hPa
+Wednesday 24 May 2023,00:00,Mostly Cloudy,14°,7,94%,1016 hPa
+Wednesday 24 May 2023,00:30,Mostly Cloudy,15°,4,88%,1016 hPa
+Wednesday 24 May 2023,01:00,Mostly Cloudy,15°,6,88%,1015 hPa
+Wednesday 24 May 2023,01:30,Fair,15°,7,82%,1015 hPa
+Wednesday 24 May 2023,02:00,Partly Cloudy,14°,9,88%,1015 hPa
+Wednesday 24 May 2023,02:30,Mostly Cloudy,14°,9,88%,1015 hPa
+Wednesday 24 May 2023,03:00,Partly Cloudy,14°,7,88%,1015 hPa
+Wednesday 24 May 2023,03:30,Mostly Cloudy,14°,6,82%,1015 hPa
+Wednesday 24 May 2023,04:00,Fair,15°,6,77%,1015 hPa
+Wednesday 24 May 2023,04:30,Clear,14°,7,88%,1015 hPa
+Wednesday 24 May 2023,05:00,Mostly Cloudy,14°,13,82%,1015 hPa
+Wednesday 24 May 2023,05:30,Cloudy,14°,9,82%,1015 hPa
+Wednesday 24 May 2023,06:00,Mostly Cloudy,14°,6,82%,1015 hPa
+Wednesday 24 May 2023,06:30,Mostly Cloudy,14°,7,82%,1015 hPa
+Wednesday 24 May 2023,07:00,Mostly Cloudy,14°,9,82%,1015 hPa
+Wednesday 24 May 2023,07:30,Partly Cloudy,14°,7,82%,1016 hPa
+Wednesday 24 May 2023,08:00,Mostly Cloudy,14°,4,82%,1016 hPa
+Wednesday 24 May 2023,08:30,Mostly Cloudy,15°,4,77%,1016 hPa
+Wednesday 24 May 2023,09:00,Mostly Cloudy,15°,6,77%,1016 hPa
+Wednesday 24 May 2023,09:30,Mostly Cloudy,16°,9,72%,1016 hPa
+Wednesday 24 May 2023,10:00,Mostly Cloudy,17°,9,72%,1016 hPa
+Wednesday 24 May 2023,10:30,Partly Cloudy,17°,11,68%,1016 hPa
+Wednesday 24 May 2023,11:00,Partly Cloudy,19°,6,64%,1016 hPa
+Wednesday 24 May 2023,11:30,Partly Cloudy,19°,11,60%,1016 hPa
+Wednesday 24 May 2023,12:00,Partly Cloudy,20°,9,53%,1016 hPa
+Wednesday 24 May 2023,12:30,Partly Cloudy,22°,9,46%,1016 hPa
+Wednesday 24 May 2023,13:00,Partly Cloudy,22°,7,46%,1016 hPa
+Wednesday 24 May 2023,13:30,Partly Cloudy,22°,11,43%,1015 hPa
+Wednesday 24 May 2023,14:00,Partly Cloudy,22°,11,43%,1015 hPa
+Wednesday 24 May 2023,14:30,Partly Cloudy,23°,11,38%,1015 hPa
+Wednesday 24 May 2023,15:00,Partly Cloudy,25°,11,34%,1014 hPa
+Wednesday 24 May 2023,15:30,Partly Cloudy,23°,11,38%,1014 hPa
+Wednesday 24 May 2023,16:00,Partly Cloudy,24°,9,36%,1014 hPa
+Wednesday 24 May 2023,16:30,T-Storm,23°,13,41%,1014 hPa
+Wednesday 24 May 2023,17:00,T-Storm,24°,6,36%,1014 hPa
+Wednesday 24 May 2023,17:30,Chance of Showers,24°,11,>,33 38% 1014 hPa
+Wednesday 24 May 2023,17:45,T-Storm,20°,17,56%,1014 hPa
+Wednesday 24 May 2023,18:00,T-Storm,17°,17,77%,1015 hPa
+Wednesday 24 May 2023,18:14,T-Storm,17°,13,82%,1015 hPa
+Wednesday 24 May 2023,18:30,Light Rain,16°,9,82%,1015 hPa
+Wednesday 24 May 2023,19:00,Light Rain,17°,9,72%,1014 hPa
+Wednesday 24 May 2023,19:30,Mostly Cloudy,18°,9,77%,1014 hPa
+Wednesday 24 May 2023,20:00,Mostly Cloudy,18°,9,77%,1015 hPa
+Wednesday 24 May 2023,20:30,Partly Cloudy,18°,2,77%,1015 hPa
+Wednesday 24 May 2023,21:00,Mostly Cloudy,18°,6,77%,1016 hPa
+Wednesday 24 May 2023,21:30,Drizzle,18°,2,77%,1016 hPa
+Wednesday 24 May 2023,22:00,Fair,18°,6,77%,1016 hPa
+Wednesday 24 May 2023,22:30,Fair,17°,4,77%,1017 hPa
+Wednesday 24 May 2023,23:00,Fair,17°,4,77%,1017 hPa
+Wednesday 24 May 2023,23:30,Fair,16°,2,77%,1017 hPa
+Thursday 25 May 2023,00:00,Fair,15°,2,88%,1017 hPa
+Thursday 25 May 2023,00:30,Clear,16°,4,77%,1017 hPa
+Thursday 25 May 2023,01:00,Clear,16°,2,77%,1017 hPa
+Thursday 25 May 2023,01:30,Fair,14°,Calm,88%,1017 hPa
+Thursday 25 May 2023,02:00,Fair,14°,4,88%,1017 hPa
+Thursday 25 May 2023,02:30,Fair,14°,4,88%,1017 hPa
+Thursday 25 May 2023,03:00,Fair,14°,Calm,88%,1017 hPa
+Thursday 25 May 2023,03:30,Fair,14°,4,88%,1017 hPa
+Thursday 25 May 2023,04:00,Clear,14°,6,88%,1017 hPa
+Thursday 25 May 2023,04:30,Clear,14°,4,88%,1017 hPa
+Thursday 25 May 2023,05:00,Clear,14°,2,88%,1017 hPa
+Thursday 25 May 2023,05:30,Clear,14°,2,88%,1017 hPa
+Thursday 25 May 2023,06:00,Clear,14°,2,88%,1017 hPa
+Thursday 25 May 2023,06:30,Clear,13°,Calm,94%,1017 hPa
+Thursday 25 May 2023,07:00,Clear,13°,Calm,88%,1017 hPa
+Thursday 25 May 2023,07:30,Clear,13°,6,94%,1017 hPa
+Thursday 25 May 2023,08:00,Clear,14°,6,88%,1017 hPa
+Thursday 25 May 2023,08:30,Clear,15°,4,82%,1017 hPa
+Thursday 25 May 2023,09:00,Clear,16°,7,72%,1017 hPa
+Thursday 25 May 2023,09:30,Clear,16°,7,72%,1018 hPa
+Thursday 25 May 2023,10:00,Fair,17°,7,68%,1018 hPa
+Thursday 25 May 2023,10:30,Fair,18°,7,64%,1018 hPa
+Thursday 25 May 2023,11:00,Clear,19°,6,60%,1017 hPa
+Thursday 25 May 2023,11:30,Clear,20°,7,56%,1017 hPa
+Thursday 25 May 2023,12:00,Clear,21°,6,49%,1017 hPa
+Thursday 25 May 2023,12:30,Clear,21°,6,53%,1017 hPa
+Thursday 25 May 2023,13:00,Clear,22°,9,50%,1016 hPa
+Thursday 25 May 2023,13:30,Fair,22°,6,46%,1016 hPa
+Thursday 25 May 2023,14:00,Fair,23°,6,44%,1015 hPa
+Thursday 25 May 2023,14:30,Fair,24°,6,44%,1015 hPa
+Thursday 25 May 2023,15:00,Fair,25°,4,39%,1014 hPa
+Thursday 25 May 2023,15:30,T-Storm,24°,7,41%,1013 hPa
+Thursday 25 May 2023,15:54,T-Storm,23°,30,>,52 41% 1013 hPa
+Thursday 25 May 2023,16:00,T-Storm,20°,30,60%,1013 hPa
+Thursday 25 May 2023,16:30,T-Storm,20°,11,64%,1013 hPa
+Thursday 25 May 2023,17:00,Mostly Cloudy,21°,11,56%,1013 hPa
+Thursday 25 May 2023,17:30,T-Storm,17°,9,82%,1013 hPa
+Thursday 25 May 2023,17:47,T-Storm,17°,24,82%,1013 hPa
+Thursday 25 May 2023,17:54,T-Storm,15°,26,>,46 82% 1014 hPa
+Thursday 25 May 2023,18:00,T-Storm,14°,15,94%,1013 hPa
+Thursday 25 May 2023,18:12,T-Storm,16°,20,77%,1013 hPa
+Thursday 25 May 2023,18:30,T-Storm,17°,7,88%,1013 hPa
+Thursday 25 May 2023,19:00,T-Storm,18°,6,73%,1012 hPa
+Thursday 25 May 2023,19:30,Fair,19°,Calm,78%,1013 hPa
+Thursday 25 May 2023,20:00,Clear,20°,2,68%,1013 hPa
+Thursday 25 May 2023,20:30,Clear,19°,6,73%,1013 hPa
+Thursday 25 May 2023,21:00,Clear,18°,4,68%,1013 hPa
+Thursday 25 May 2023,21:30,Fair,18°,11,64%,1013 hPa
+Thursday 25 May 2023,22:00,Fair,17°,9,72%,1014 hPa
+Thursday 25 May 2023,22:30,Fair,16°,11,72%,1014 hPa
+Thursday 25 May 2023,23:00,Partly Cloudy,16°,9,72%,1014 hPa
+Thursday 25 May 2023,23:30,Partly Cloudy,15°,6,77%,1014 hPa
+Friday 26 May 2023,00:00,Partly Cloudy,15°,9,77%,1014 hPa
+Friday 26 May 2023,00:30,Partly Cloudy,15°,9,77%,1014 hPa
+Friday 26 May 2023,01:00,Mostly Cloudy,15°,9,77%,1015 hPa
+Friday 26 May 2023,01:30,Mostly Cloudy,15°,11,77%,1014 hPa
+Friday 26 May 2023,02:00,Mostly Cloudy,15°,9,77%,1014 hPa
+Friday 26 May 2023,02:30,Light Rain,15°,7,77%,1015 hPa
+Friday 26 May 2023,03:00,Light Rain,14°,6,88%,1015 hPa
+Friday 26 May 2023,03:30,Rain,14°,9,82%,1015 hPa
+Friday 26 May 2023,04:00,Rain,14°,7,82%,1015 hPa
+Friday 26 May 2023,04:30,Rain,14°,6,82%,1015 hPa
+Friday 26 May 2023,05:00,Rain,14°,7,82%,1015 hPa
+Friday 26 May 2023,05:30,Rain,13°,6,94%,1015 hPa
+Friday 26 May 2023,05:48,Rain,13°,4,94%,1015 hPa
+Friday 26 May 2023,06:00,Rain,12°,4,100%,1015 hPa
+Friday 26 May 2023,06:30,Light Rain,12°,2,100%,1015 hPa
+Friday 26 May 2023,07:00,Light Rain,13°,2,94%,1015 hPa
+Friday 26 May 2023,07:30,Light Rain,13°,9,94%,1015 hPa
+Friday 26 May 2023,08:00,Light Rain,13°,6,94%,1015 hPa
+Friday 26 May 2023,08:30,Mostly Cloudy,14°,Calm,94%,1016 hPa
+Friday 26 May 2023,09:00,Mostly Cloudy,14°,9,88%,1016 hPa
+Friday 26 May 2023,09:30,Mostly Cloudy,14°,13,94%,1017 hPa
+Friday 26 May 2023,10:00,Mostly Cloudy,14°,11,88%,1017 hPa
+Friday 26 May 2023,10:30,Mostly Cloudy,15°,13,88%,1017 hPa
+Friday 26 May 2023,11:00,Mostly Cloudy,16°,15,82%,1017 hPa
+Friday 26 May 2023,11:30,Mostly Cloudy,16°,20,82%,1018 hPa
+Friday 26 May 2023,12:00,Mostly Cloudy,16°,13,82%,1018 hPa
+Friday 26 May 2023,12:30,Mostly Cloudy,17°,15,77%,1018 hPa
+Friday 26 May 2023,13:00,Mostly Cloudy,17°,11,77%,1018 hPa
+Friday 26 May 2023,13:30,Mostly Cloudy,18°,17,68%,1018 hPa
+Friday 26 May 2023,14:00,Mostly Cloudy,18°,17,68%,1018 hPa
+Friday 26 May 2023,14:30,Mostly Cloudy,19°,13,64%,1018 hPa
+Friday 26 May 2023,15:00,Mostly Cloudy,18°,13,68%,1018 hPa
+Friday 26 May 2023,15:30,Mostly Cloudy,19°,13,64%,1018 hPa
+Friday 26 May 2023,16:00,Chance of Showers,18°,11,73%,1018 hPa
+Friday 26 May 2023,16:30,Rain,17°,4,77%,1018 hPa
+Friday 26 May 2023,16:37,Light Rain,17°,6,77%,1018 hPa
+Friday 26 May 2023,17:00,Mostly Cloudy,18°,4,83%,1018 hPa
+Friday 26 May 2023,17:30,Mostly Cloudy,19°,7,68%,1017 hPa
+Friday 26 May 2023,18:00,Partly Cloudy,19°,7,68%,1017 hPa
+Friday 26 May 2023,18:30,Partly Cloudy,19°,11,68%,1017 hPa
+Friday 26 May 2023,19:00,Chance of Showers,19°,11,68%,1017 hPa
+Friday 26 May 2023,19:02,T-Storm,18°,9,77%,1017 hPa
+Friday 26 May 2023,19:19,Light Rain,17°,11,88%,1017 hPa
+Friday 26 May 2023,19:30,T-Storm,17°,11,88%,1017 hPa
+Friday 26 May 2023,20:00,T-Storm,17°,13,88%,1017 hPa
+Friday 26 May 2023,20:30,T-Storm,17°,17,88%,1017 hPa
+Friday 26 May 2023,21:00,Chance of Showers,17°,15,88%,1017 hPa
+Friday 26 May 2023,21:30,Rain,17°,11,88%,1017 hPa
+Friday 26 May 2023,21:45,Light Rain,17°,13,88%,1017 hPa
+Friday 26 May 2023,22:00,Light Rain,17°,13,88%,1017 hPa
+Friday 26 May 2023,22:30,Partly Cloudy,16°,4,88%,1018 hPa
+Friday 26 May 2023,23:00,Mostly Cloudy,16°,6,82%,1018 hPa
+Friday 26 May 2023,23:30,Partly Cloudy,15°,6,88%,1018 hPa
+Saturday 27 May 2023,00:00,Mostly Cloudy,15°,4,88%,1019 hPa
+Saturday 27 May 2023,00:30,Mostly Cloudy,16°,2,88%,1019 hPa
+Saturday 27 May 2023,01:00,Mostly Cloudy,15°,4,88%,1019 hPa
+Saturday 27 May 2023,01:30,Partly Cloudy,14°,6,94%,1019 hPa
+Saturday 27 May 2023,02:00,Partly Cloudy,14°,6,94%,1019 hPa
+Saturday 27 May 2023,02:30,Partly Cloudy,14°,6,94%,1019 hPa
+Saturday 27 May 2023,03:00,Fair,14°,9,94%,1019 hPa
+Saturday 27 May 2023,03:30,Fair,14°,9,88%,1019 hPa
+Saturday 27 May 2023,04:00,Fair,13°,7,94%,1019 hPa
+Saturday 27 May 2023,04:30,Fair,13°,6,94%,1018 hPa
+Saturday 27 May 2023,05:00,Fair,13°,7,94%,1018 hPa
+Saturday 27 May 2023,05:30,Partly Cloudy,13°,4,94%,1018 hPa
+Saturday 27 May 2023,06:00,Partly Cloudy,13°,Calm,94%,1019 hPa
+Saturday 27 May 2023,06:30,Partly Cloudy,13°,6,88%,1018 hPa
+Saturday 27 May 2023,07:00,Fair,13°,4,88%,1019 hPa
+Saturday 27 May 2023,07:30,Clear,13°,2,94%,1019 hPa
+Saturday 27 May 2023,08:00,Fair,14°,4,88%,1019 hPa
+Saturday 27 May 2023,08:30,Clear,15°,4,82%,1019 hPa
+Saturday 27 May 2023,09:00,Clear,16°,7,77%,1019 hPa
+Saturday 27 May 2023,09:30,Clear,17°,7,68%,1019 hPa
+Saturday 27 May 2023,10:00,Clear,17°,7,72%,1018 hPa
+Saturday 27 May 2023,10:30,Clear,18°,7,64%,1018 hPa
+Saturday 27 May 2023,11:00,Fair,18°,7,64%,1018 hPa
+Saturday 27 May 2023,11:30,Fair,19°,4,60%,1018 hPa
+Saturday 27 May 2023,12:00,Partly Cloudy,20°,4,60%,1018 hPa
+Saturday 27 May 2023,12:30,Partly Cloudy,20°,7,60%,1018 hPa
+Saturday 27 May 2023,13:00,Partly Cloudy,20°,6,56%,1018 hPa
+Saturday 27 May 2023,13:30,Mostly Cloudy,21°,4,53%,1017 hPa
+Saturday 27 May 2023,14:00,Mostly Cloudy,21°,7,53%,1017 hPa
+Saturday 27 May 2023,14:30,Fair,21°,7,56%,1017 hPa
+Saturday 27 May 2023,15:00,Fair,22°,6,53%,1017 hPa
+Saturday 27 May 2023,15:30,Partly Cloudy,22°,7,53%,1017 hPa
+Saturday 27 May 2023,16:00,Light Rain,21°,9,60%,1016 hPa
+Saturday 27 May 2023,16:30,Light Rain,19°,15,73%,1016 hPa
+Saturday 27 May 2023,17:00,Light Rain,18°,13,77%,1017 hPa
+Saturday 27 May 2023,17:30,Fair,19°,9,73%,1016 hPa
+Saturday 27 May 2023,18:00,Fair,21°,11,64%,1016 hPa
+Saturday 27 May 2023,18:30,Mostly Cloudy,21°,7,56%,1016 hPa
+Saturday 27 May 2023,19:00,Mostly Cloudy,21°,6,>,32 56% 1016 hPa
+Saturday 27 May 2023,19:30,Mostly Cloudy,20°,9,60%,1015 hPa
+Saturday 27 May 2023,20:00,Fair,21°,6,56%,1015 hPa
+Saturday 27 May 2023,20:30,Mostly Cloudy,20°,4,60%,1015 hPa
+Saturday 27 May 2023,21:00,Mostly Cloudy,20°,2,64%,1015 hPa
+Saturday 27 May 2023,21:30,Mostly Cloudy,20°,7,64%,1016 hPa
+Saturday 27 May 2023,22:00,Mostly Cloudy,19°,9,73%,1015 hPa
+Saturday 27 May 2023,22:30,Mostly Cloudy,19°,7,73%,1015 hPa
+Saturday 27 May 2023,23:00,Partly Cloudy,19°,7,73%,1016 hPa
+Saturday 27 May 2023,23:13,T-Storm,19°,6,78%,1016 hPa
+Saturday 27 May 2023,23:20,Rain,15°,39,88%,1017 hPa
+Saturday 27 May 2023,23:30,T-Storm,13°,30,100%,1017 hPa
+Saturday 27 May 2023,23:39,T-Storm,14°,32,>,50 94% 1017 hPa
+Sunday 28 May 2023,00:00,Rain,14°,19,94%,1017 hPa
+Sunday 28 May 2023,00:30,Rain,14°,2,94%,1017 hPa
+Sunday 28 May 2023,00:49,Rain,14°,6,94%,1017 hPa
+Sunday 28 May 2023,01:00,Partly Cloudy,14°,4,94%,1017 hPa
+Sunday 28 May 2023,01:30,Partly Cloudy,14°,4,94%,1017 hPa
+Sunday 28 May 2023,02:00,Partly Cloudy,14°,2,94%,1017 hPa
+Sunday 28 May 2023,02:30,Partly Cloudy,14°,4,94%,1017 hPa
+Sunday 28 May 2023,03:00,Mostly Cloudy,14°,Calm,94%,1016 hPa
+Sunday 28 May 2023,03:30,Mostly Cloudy,14°,Calm,94%,1016 hPa
+Sunday 28 May 2023,04:00,Light Rain,14°,6,94%,1016 hPa
+Sunday 28 May 2023,04:30,Mostly Cloudy,14°,6,94%,1016 hPa
+Sunday 28 May 2023,05:00,Mostly Cloudy,14°,4,94%,1016 hPa
+Sunday 28 May 2023,05:30,Mostly Cloudy,14°,4,94%,1016 hPa
+Sunday 28 May 2023,06:00,Mostly Cloudy,14°,2,94%,1016 hPa
+Sunday 28 May 2023,06:30,Mostly Cloudy,14°,4,94%,1016 hPa
+Sunday 28 May 2023,07:00,Mostly Cloudy,14°,7,94%,1016 hPa
+Sunday 28 May 2023,07:30,Mostly Cloudy,14°,4,94%,1016 hPa
+Sunday 28 May 2023,08:00,Mostly Cloudy,14°,9,94%,1016 hPa
+Sunday 28 May 2023,08:30,Mostly Cloudy,14°,7,94%,1016 hPa
+Sunday 28 May 2023,09:00,Mostly Cloudy,14°,9,94%,1016 hPa
+Sunday 28 May 2023,09:30,Mostly Cloudy,14°,7,94%,1016 hPa
+Sunday 28 May 2023,10:00,Drizzle,15°,6,88%,1016 hPa
+Sunday 28 May 2023,10:30,Drizzle,15°,2,94%,1016 hPa
+Sunday 28 May 2023,11:00,Drizzle,15°,2,94%,1016 hPa
+Sunday 28 May 2023,11:30,Mostly Cloudy,16°,4,82%,1016 hPa
+Sunday 28 May 2023,12:00,Mostly Cloudy,16°,4,82%,1016 hPa
+Sunday 28 May 2023,12:30,Mostly Cloudy,16°,7,82%,1016 hPa
+Sunday 28 May 2023,13:00,Mostly Cloudy,17°,4,77%,1016 hPa
+Sunday 28 May 2023,13:30,Mostly Cloudy,17°,7,77%,1015 hPa
+Sunday 28 May 2023,14:00,Mostly Cloudy,18°,6,77%,1015 hPa
+Sunday 28 May 2023,14:30,Mostly Cloudy,19°,6,68%,1015 hPa
+Sunday 28 May 2023,15:00,Mostly Cloudy,18°,6,68%,1015 hPa
+Sunday 28 May 2023,15:30,Mostly Cloudy,20°,4,56%,1014 hPa
+Sunday 28 May 2023,16:00,Partly Cloudy,20°,6,60%,1014 hPa
+Sunday 28 May 2023,16:30,Mostly Cloudy,20°,7,60%,1014 hPa
+Sunday 28 May 2023,17:00,Mostly Cloudy,20°,4,56%,1013 hPa
+Sunday 28 May 2023,17:30,Mostly Cloudy,20°,6,56%,1013 hPa
+Sunday 28 May 2023,18:00,Partly Cloudy,20°,4,56%,1013 hPa
+Sunday 28 May 2023,18:30,Partly Cloudy,21°,6,56%,1013 hPa
+Sunday 28 May 2023,19:00,Partly Cloudy,19°,24,64%,1013 hPa
+Sunday 28 May 2023,19:30,Chance of Showers,17°,28,77%,1013 hPa
+Sunday 28 May 2023,20:00,Drizzle,16°,26,88%,1013 hPa
+Sunday 28 May 2023,20:30,Drizzle,16°,17,>,35 82% 1013 hPa
+Sunday 28 May 2023,21:00,Drizzle,16°,11,77%,1013 hPa
+Sunday 28 May 2023,21:30,Mostly Cloudy,16°,4,77%,1014 hPa
+Sunday 28 May 2023,22:00,Mostly Cloudy,16°,6,77%,1014 hPa
+Sunday 28 May 2023,22:30,Mostly Cloudy,16°,6,77%,1014 hPa
+Sunday 28 May 2023,23:00,Mostly Cloudy,16°,7,82%,1014 hPa
+Sunday 28 May 2023,23:30,Mostly Cloudy,15°,9,82%,1015 hPa
+Monday 29 May 2023,00:00,Mostly Cloudy,15°,6,88%,1015 hPa
+Monday 29 May 2023,00:30,Clear,15°,7,88%,1015 hPa
+Monday 29 May 2023,01:00,Clear,14°,7,88%,1015 hPa
+Monday 29 May 2023,01:30,Clear,13°,2,94%,1014 hPa
+Monday 29 May 2023,02:00,Fair,13°,4,94%,1014 hPa
+Monday 29 May 2023,02:30,Fair,13°,4,100%,1014 hPa
+Monday 29 May 2023,03:00,Mostly Cloudy,14°,4,94%,1014 hPa
+Monday 29 May 2023,03:30,Mostly Cloudy,14°,6,88%,1014 hPa
+Monday 29 May 2023,04:00,Mostly Cloudy,14°,4,88%,1013 hPa
+Monday 29 May 2023,04:30,Mostly Cloudy,13°,4,94%,1014 hPa
+Monday 29 May 2023,05:00,Mostly Cloudy,14°,2,88%,1014 hPa
+Monday 29 May 2023,05:30,Mostly Cloudy,14°,6,88%,1014 hPa
+Monday 29 May 2023,06:00,Cloudy,14°,Calm,88%,1014 hPa
+Monday 29 May 2023,06:30,Mostly Cloudy,13°,Calm,94%,1014 hPa
+Monday 29 May 2023,07:00,Partly Cloudy,13°,Calm,94%,1014 hPa
+Monday 29 May 2023,07:30,Partly Cloudy,13°,6,94%,1014 hPa
+Monday 29 May 2023,08:00,Fair,14°,4,88%,1014 hPa
+Monday 29 May 2023,08:30,Partly Cloudy,14°,2,88%,1015 hPa
+Monday 29 May 2023,09:00,Partly Cloudy,15°,2,82%,1015 hPa
+Monday 29 May 2023,09:30,Fair,16°,6,77%,1015 hPa
+Monday 29 May 2023,10:00,Fair,17°,6,77%,1015 hPa
+Monday 29 May 2023,10:30,Fair,18°,6,68%,1015 hPa
+Monday 29 May 2023,11:00,Partly Cloudy,19°,6,64%,1015 hPa
+Monday 29 May 2023,11:30,Partly Cloudy,18°,2,68%,1015 hPa
+Monday 29 May 2023,12:00,Partly Cloudy,19°,6,64%,1015 hPa
+Monday 29 May 2023,12:30,Partly Cloudy,19°,7,56%,1015 hPa
+Monday 29 May 2023,13:00,Partly Cloudy,20°,7,56%,1015 hPa
+Monday 29 May 2023,13:30,Partly Cloudy,21°,6,53%,1014 hPa
+Monday 29 May 2023,14:00,Partly Cloudy,22°,6,53%,1014 hPa
+Monday 29 May 2023,14:30,Partly Cloudy,23°,7,47%,1014 hPa
+Monday 29 May 2023,15:00,Partly Cloudy,22°,6,50%,1013 hPa
+Monday 29 May 2023,15:30,Partly Cloudy,23°,7,44%,1013 hPa
+Monday 29 May 2023,16:00,Partly Cloudy,23°,4,44%,1013 hPa
+Monday 29 May 2023,16:30,T-Storm,24°,7,>,30 41% 1012 hPa
+Monday 29 May 2023,17:00,T-Storm,24°,7,38%,1012 hPa
+Monday 29 May 2023,17:15,T-Storm,25°,7,39%,1012 hPa
+Monday 29 May 2023,17:23,T-Storm,23°,13,50%,1012 hPa
+Monday 29 May 2023,17:30,T-Storm,23°,13,50%,1012 hPa
+Monday 29 May 2023,18:00,T-Storm,15°,33,72%,1013 hPa
+Monday 29 May 2023,18:30,T-Storm,14°,28,88%,1013 hPa
+Monday 29 May 2023,18:42,Light Rain,15°,20,82%,1013 hPa
+Monday 29 May 2023,19:00,Light Rain,15°,15,82%,1013 hPa
+Monday 29 May 2023,19:30,Light Rain,15°,6,88%,1013 hPa
+Monday 29 May 2023,20:00,Light Rain,15°,4,88%,1013 hPa
+Monday 29 May 2023,20:30,Fair,15°,4,94%,1013 hPa
+Monday 29 May 2023,21:00,Fair,15°,7,94%,1014 hPa
+Monday 29 May 2023,21:30,Fair,15°,6,88%,1014 hPa
+Monday 29 May 2023,22:00,Fair,14°,2,94%,1014 hPa
+Monday 29 May 2023,22:30,Clear,14°,2,94%,1014 hPa
+Monday 29 May 2023,23:00,Clear,15°,7,88%,1015 hPa
+Monday 29 May 2023,23:30,Clear,15°,Calm,94%,1015 hPa
+Tuesday 30 May 2023,00:00,Clear,14°,4,94%,1015 hPa
+Tuesday 30 May 2023,00:30,Clear,14°,4,94%,1015 hPa
+Tuesday 30 May 2023,01:00,Clear,14°,4,94%,1015 hPa
+Tuesday 30 May 2023,01:30,Fair,14°,2,88%,1015 hPa
+Tuesday 30 May 2023,02:00,Clear,14°,6,94%,1015 hPa
+Tuesday 30 May 2023,02:30,Clear,13°,7,94%,1015 hPa
+Tuesday 30 May 2023,03:00,Clear,13°,7,94%,1015 hPa
+Tuesday 30 May 2023,03:30,Clear,12°,Calm,100%,1015 hPa
+Tuesday 30 May 2023,04:00,Clear,12°,2,100%,1015 hPa
+Tuesday 30 May 2023,04:30,Clear,12°,4,100%,1015 hPa
+Tuesday 30 May 2023,05:00,Clear,12°,4,100%,1015 hPa
+Tuesday 30 May 2023,05:30,Clear,12°,2,100%,1015 hPa
+Tuesday 30 May 2023,06:00,Clear,12°,4,94%,1015 hPa
+Tuesday 30 May 2023,06:30,Clear,11°,Calm,100%,1015 hPa
+Tuesday 30 May 2023,07:00,Fair,12°,2,94%,1016 hPa
+Tuesday 30 May 2023,07:30,Mostly Cloudy,12°,4,100%,1016 hPa
+Tuesday 30 May 2023,08:00,Partly Cloudy,12°,2,94%,1016 hPa
+Tuesday 30 May 2023,08:30,Mostly Cloudy,13°,6,94%,1016 hPa
+Tuesday 30 May 2023,09:00,Mostly Cloudy,14°,6,88%,1017 hPa
+Tuesday 30 May 2023,09:30,Fair,15°,4,82%,1017 hPa
+Tuesday 30 May 2023,10:00,Fair,16°,2,88%,1017 hPa
+Tuesday 30 May 2023,10:30,Fair,18°,2,77%,1017 hPa
+Tuesday 30 May 2023,11:00,Partly Cloudy,18°,6,73%,1017 hPa
+Tuesday 30 May 2023,11:30,Partly Cloudy,19°,4,68%,1017 hPa
+Tuesday 30 May 2023,12:00,Partly Cloudy,19°,2,68%,1017 hPa
+Tuesday 30 May 2023,12:30,Partly Cloudy,20°,6,60%,1017 hPa
+Tuesday 30 May 2023,13:00,Partly Cloudy,21°,6,60%,1017 hPa
+Tuesday 30 May 2023,13:30,Partly Cloudy,23°,6,47%,1016 hPa
+Tuesday 30 May 2023,14:00,Partly Cloudy,22°,9,50%,1016 hPa
+Tuesday 30 May 2023,14:30,Partly Cloudy,22°,6,50%,1016 hPa
+Tuesday 30 May 2023,15:00,Partly Cloudy,23°,9,44%,1015 hPa
+Tuesday 30 May 2023,15:30,Partly Cloudy,22°,11,50%,1015 hPa
+Tuesday 30 May 2023,16:00,Fair,23°,19,>,37 47% 1015 hPa
+Tuesday 30 May 2023,16:30,Fair,23°,24,53%,1015 hPa
+Tuesday 30 May 2023,17:00,Chance of Showers,23°,22,50%,1014 hPa
+Tuesday 30 May 2023,17:30,Chance of Showers,22°,17,>,41 53% 1015 hPa
+Tuesday 30 May 2023,17:52,Rain,17°,17,72%,1016 hPa
+Tuesday 30 May 2023,18:00,Rain,17°,17,77%,1016 hPa
+Tuesday 30 May 2023,18:12,T-Storm,17°,13,77%,1016 hPa
+Tuesday 30 May 2023,18:30,T-Storm,16°,6,82%,1016 hPa
+Tuesday 30 May 2023,18:42,Light Rain,16°,4,82%,1016 hPa
+Tuesday 30 May 2023,19:00,Rain,16°,4,82%,1016 hPa
+Tuesday 30 May 2023,19:30,Rain,17°,7,77%,1016 hPa
+Tuesday 30 May 2023,19:47,Light Rain,16°,9,94%,1016 hPa
+Tuesday 30 May 2023,20:00,Light Rain,16°,15,88%,1016 hPa
+Tuesday 30 May 2023,20:30,Fair,15°,7,94%,1016 hPa
+Tuesday 30 May 2023,21:00,Fair,15°,4,94%,1017 hPa
+Tuesday 30 May 2023,21:30,Fair,15°,4,94%,1017 hPa
+Tuesday 30 May 2023,22:00,Fair,15°,4,94%,1017 hPa
+Tuesday 30 May 2023,22:30,Fair,14°,4,94%,1017 hPa
+Tuesday 30 May 2023,23:00,Clear,14°,Calm,94%,1017 hPa
+Tuesday 30 May 2023,23:30,Clear,14°,2,94%,1017 hPa
+Wednesday 31 May 2023,00:00,Clear,14°,2,94%,1017 hPa
+Wednesday 31 May 2023,00:30,Clear,14°,2,94%,1017 hPa
+Wednesday 31 May 2023,01:00,Clear,14°,6,94%,1018 hPa
+Wednesday 31 May 2023,01:30,Clear,14°,2,94%,1018 hPa
+Wednesday 31 May 2023,02:00,Clear,14°,6,94%,1017 hPa
+Wednesday 31 May 2023,02:30,Clear,14°,7,94%,1017 hPa
+Wednesday 31 May 2023,03:00,Clear,13°,7,100%,1017 hPa
+Wednesday 31 May 2023,03:30,Clear,13°,2,100%,1017 hPa
+Wednesday 31 May 2023,04:00,Clear,13°,4,94%,1017 hPa
+Wednesday 31 May 2023,04:30,Clear,13°,7,94%,1017 hPa
+Wednesday 31 May 2023,05:00,Clear,12°,4,100%,1017 hPa
+Wednesday 31 May 2023,05:30,Fair,12°,6,100%,1017 hPa
+Wednesday 31 May 2023,06:00,Fair,12°,4,100%,1017 hPa
+Wednesday 31 May 2023,06:30,Fair,12°,6,94%,1017 hPa
+Wednesday 31 May 2023,07:00,Fair,12°,4,94%,1017 hPa
+Wednesday 31 May 2023,07:30,Fair,12°,2,100%,1017 hPa
+Wednesday 31 May 2023,08:00,Fair,13°,2,94%,1017 hPa
+Wednesday 31 May 2023,08:30,Partly Cloudy,13°,2,100%,1018 hPa
+Wednesday 31 May 2023,09:00,Fair,14°,2,94%,1017 hPa
+Wednesday 31 May 2023,09:30,Fair,15°,4,88%,1018 hPa
+Wednesday 31 May 2023,10:00,Fair,16°,4,82%,1018 hPa
+Wednesday 31 May 2023,10:30,Clear,17°,4,77%,1018 hPa
+Wednesday 31 May 2023,11:00,Fair,18°,4,73%,1017 hPa
+Wednesday 31 May 2023,11:30,Fair,19°,6,73%,1017 hPa
+Wednesday 31 May 2023,12:00,Fair,20°,6,64%,1017 hPa
+Wednesday 31 May 2023,12:30,Fair,21°,7,56%,1017 hPa
+Wednesday 31 May 2023,13:00,Partly Cloudy,21°,7,53%,1017 hPa
+Wednesday 31 May 2023,13:30,Partly Cloudy,23°,6,47%,1016 hPa
+Wednesday 31 May 2023,14:00,Partly Cloudy,22°,7,50%,1016 hPa
+Wednesday 31 May 2023,14:30,Partly Cloudy,22°,6,50%,1016 hPa
+Wednesday 31 May 2023,15:00,Partly Cloudy,23°,6,47%,1015 hPa
+Wednesday 31 May 2023,15:30,Partly Cloudy,24°,9,41%,1015 hPa
+Wednesday 31 May 2023,16:00,Partly Cloudy,25°,9,36%,1015 hPa
+Wednesday 31 May 2023,16:30,Partly Cloudy,25°,9,39%,1014 hPa
+Wednesday 31 May 2023,17:00,Partly Cloudy,25°,13,39%,1014 hPa
+Wednesday 31 May 2023,17:30,Partly Cloudy,25°,13,36%,1013 hPa
+Wednesday 31 May 2023,18:00,Partly Cloudy,26°,4,37%,1013 hPa
+Wednesday 31 May 2023,18:30,Partly Cloudy,25°,13,36%,1013 hPa
+Wednesday 31 May 2023,19:00,Partly Cloudy,25°,15,41%,1013 hPa
+Wednesday 31 May 2023,19:30,Partly Cloudy,24°,15,44%,1013 hPa
+Wednesday 31 May 2023,20:00,Partly Cloudy,25°,15,41%,1013 hPa
+Wednesday 31 May 2023,20:30,Fair,24°,15,>,35 44% 1013 hPa
+Wednesday 31 May 2023,21:00,Fair,24°,13,44%,1014 hPa
+Wednesday 31 May 2023,21:30,Chance of Showers,23°,13,44%,1014 hPa
+Wednesday 31 May 2023,22:00,Partly Cloudy,23°,11,47%,1014 hPa
+Wednesday 31 May 2023,22:30,Mostly Cloudy,22°,9,50%,1014 hPa
+Wednesday 31 May 2023,23:00,Mostly Cloudy,20°,15,56%,1015 hPa
+Wednesday 31 May 2023,23:30,Mostly Cloudy,20°,11,56%,1015 hPa

@@ -1,0 +1,1507 @@
+Day,Hour,Condition,Temperature,Wind,Relative_hum,Pressure
+Friday 1 September 2023,00:00,Clear,24°,Calm,31%,1017 hPa
+Friday 1 September 2023,00:30,Clear,24°,4,31%,1017 hPa
+Friday 1 September 2023,01:00,Clear,23°,7,33%,1017 hPa
+Friday 1 September 2023,01:30,Clear,22°,4,35%,1017 hPa
+Friday 1 September 2023,02:00,Clear,21°,6,35%,1017 hPa
+Friday 1 September 2023,02:30,Clear,21°,6,35%,1017 hPa
+Friday 1 September 2023,03:00,Clear,21°,7,35%,1017 hPa
+Friday 1 September 2023,03:30,Clear,20°,7,35%,1017 hPa
+Friday 1 September 2023,04:00,Clear,19°,2,37%,1017 hPa
+Friday 1 September 2023,04:30,Clear,18°,4,39%,1017 hPa
+Friday 1 September 2023,05:00,Clear,18°,6,42%,1016 hPa
+Friday 1 September 2023,05:30,Clear,18°,4,42%,1017 hPa
+Friday 1 September 2023,06:00,Clear,17°,6,45%,1017 hPa
+Friday 1 September 2023,06:30,Clear,17°,6,45%,1017 hPa
+Friday 1 September 2023,07:00,Clear,17°,6,45%,1017 hPa
+Friday 1 September 2023,07:30,Clear,17°,9,42%,1017 hPa
+Friday 1 September 2023,08:00,Clear,16°,7,48%,1017 hPa
+Friday 1 September 2023,08:30,Clear,17°,6,45%,1017 hPa
+Friday 1 September 2023,09:00,Clear,18°,6,42%,1017 hPa
+Friday 1 September 2023,09:30,Clear,20°,6,40%,1018 hPa
+Friday 1 September 2023,10:00,Clear,21°,4,40%,1018 hPa
+Friday 1 September 2023,10:30,Clear,23°,4,44%,1018 hPa
+Friday 1 September 2023,11:00,Clear,24°,6,47%,1018 hPa
+Friday 1 September 2023,11:30,Clear,26°,6,42%,1018 hPa
+Friday 1 September 2023,12:00,Clear,27°,7,37%,1018 hPa
+Friday 1 September 2023,12:30,Clear,27°,7,34%,1018 hPa
+Friday 1 September 2023,13:00,Clear,29°,9,31%,1017 hPa
+Friday 1 September 2023,13:30,Clear,30°,6,27%,1017 hPa
+Friday 1 September 2023,14:00,Clear,31°,11,24%,1016 hPa
+Friday 1 September 2023,14:30,Clear,31°,15,26%,1016 hPa
+Friday 1 September 2023,15:00,Clear,31°,17,>,35 24% 1016 hPa
+Friday 1 September 2023,15:30,Clear,31°,22,>,54 26% 1015 hPa
+Friday 1 September 2023,16:00,Fair,33°,28,23%,1015 hPa
+Friday 1 September 2023,16:30,Fair,32°,22,24%,1014 hPa
+Friday 1 September 2023,17:00,Fair,33°,17,23%,1014 hPa
+Friday 1 September 2023,17:30,Fair,32°,11,23%,1014 hPa
+Friday 1 September 2023,18:00,Fair,32°,15,24%,1013 hPa
+Friday 1 September 2023,18:30,Fair,31°,11,24%,1013 hPa
+Friday 1 September 2023,19:00,Fair,32°,4,24%,1013 hPa
+Friday 1 September 2023,19:30,Fair,31°,9,26%,1012 hPa
+Friday 1 September 2023,20:00,Fair,31°,13,26%,1012 hPa
+Friday 1 September 2023,20:30,T-Storm,31°,11,26%,1012 hPa
+Friday 1 September 2023,20:43,Chance of Showers,30°,15,27%,1012 hPa
+Friday 1 September 2023,21:00,Chance of Showers,31°,19,26%,1013 hPa
+Friday 1 September 2023,21:30,T-Storm,29°,11,29%,1013 hPa
+Friday 1 September 2023,22:00,T-Storm,29°,7,29%,1013 hPa
+Friday 1 September 2023,22:30,T-Storm,27°,6,34%,1013 hPa
+Friday 1 September 2023,23:00,Fair,27°,2,32%,1013 hPa
+Friday 1 September 2023,23:30,Fair,26°,6,34%,1013 hPa
+Saturday 2 September 2023,00:00,Fair,27°,6,32%,1013 hPa
+Saturday 2 September 2023,00:30,Fair,24°,6,41%,1013 hPa
+Saturday 2 September 2023,01:00,Clear,23°,4,44%,1013 hPa
+Saturday 2 September 2023,01:30,Clear,22°,2,50%,1013 hPa
+Saturday 2 September 2023,02:00,Clear,22°,Calm,53%,1013 hPa
+Saturday 2 September 2023,02:30,Clear,22°,Calm,50%,1013 hPa
+Saturday 2 September 2023,03:00,Clear,21°,2,56%,1013 hPa
+Saturday 2 September 2023,03:30,Clear,20°,4,60%,1012 hPa
+Saturday 2 September 2023,04:00,Clear,20°,4,60%,1012 hPa
+Saturday 2 September 2023,04:30,Clear,20°,4,60%,1012 hPa
+Saturday 2 September 2023,05:00,Clear,19°,6,68%,1012 hPa
+Saturday 2 September 2023,05:30,Clear,19°,Calm,64%,1011 hPa
+Saturday 2 September 2023,06:00,Clear,19°,2,68%,1012 hPa
+Saturday 2 September 2023,06:30,Clear,19°,6,64%,1012 hPa
+Saturday 2 September 2023,07:00,Clear,20°,7,56%,1012 hPa
+Saturday 2 September 2023,07:30,Clear,19°,6,64%,1012 hPa
+Saturday 2 September 2023,08:00,Partly Cloudy,19°,9,73%,1012 hPa
+Saturday 2 September 2023,08:30,Mostly Cloudy,21°,7,69%,1013 hPa
+Saturday 2 September 2023,09:00,Chance of Showers,21°,6,69%,1013 hPa
+Saturday 2 September 2023,09:30,Chance of Showers,21°,2,69%,1013 hPa
+Saturday 2 September 2023,10:00,Rain,21°,6,69%,1014 hPa
+Saturday 2 September 2023,10:10,Rain,21°,2,73%,1014 hPa
+Saturday 2 September 2023,10:17,Chance of Showers,21°,Calm,73%,1014 hPa
+Saturday 2 September 2023,10:30,Light Rain,21°,2,73%,1014 hPa
+Saturday 2 September 2023,10:35,Rain,20°,2,83%,1014 hPa
+Saturday 2 September 2023,10:43,Light Rain,20°,7,83%,1013 hPa
+Saturday 2 September 2023,11:00,T-Storm,20°,4,78%,1013 hPa
+Saturday 2 September 2023,11:30,Rain,19°,15,78%,1014 hPa
+Saturday 2 September 2023,12:00,Light Rain,18°,15,83%,1014 hPa
+Saturday 2 September 2023,12:14,Rain,17°,9,88%,1014 hPa
+Saturday 2 September 2023,12:30,Light Rain,17°,11,88%,1014 hPa
+Saturday 2 September 2023,13:00,Rain,17°,15,82%,1015 hPa
+Saturday 2 September 2023,13:30,Mostly Cloudy,17°,17,82%,1015 hPa
+Saturday 2 September 2023,14:00,Mostly Cloudy,18°,15,77%,1015 hPa
+Saturday 2 September 2023,14:30,Mostly Cloudy,18°,11,77%,1015 hPa
+Saturday 2 September 2023,15:00,Mostly Cloudy,18°,13,77%,1015 hPa
+Saturday 2 September 2023,15:30,Partly Cloudy,18°,17,>,35 77% 1015 hPa
+Saturday 2 September 2023,16:00,Light Rain,18°,15,>,33 77% 1014 hPa
+Saturday 2 September 2023,16:30,Rain,18°,19,77%,1014 hPa
+Saturday 2 September 2023,17:00,Rain,18°,13,77%,1014 hPa
+Saturday 2 September 2023,17:30,Rain,21°,11,64%,1014 hPa
+Saturday 2 September 2023,18:00,Mostly Cloudy,21°,13,64%,1013 hPa
+Saturday 2 September 2023,18:30,Mostly Cloudy,21°,13,64%,1013 hPa
+Saturday 2 September 2023,19:00,Partly Cloudy,21°,11,64%,1013 hPa
+Saturday 2 September 2023,19:30,Partly Cloudy,20°,19,68%,1013 hPa
+Saturday 2 September 2023,20:00,Partly Cloudy,20°,20,68%,1014 hPa
+Saturday 2 September 2023,20:30,Partly Cloudy,20°,22,64%,1013 hPa
+Saturday 2 September 2023,21:00,Rain,19°,13,73%,1015 hPa
+Saturday 2 September 2023,21:30,Rain,17°,17,88%,1015 hPa
+Saturday 2 September 2023,21:37,Rain,16°,13,94%,1015 hPa
+Saturday 2 September 2023,22:00,Rain,17°,17,88%,1015 hPa
+Saturday 2 September 2023,22:30,Rain,16°,13,94%,1015 hPa
+Saturday 2 September 2023,23:00,Rain,17°,13,88%,1015 hPa
+Saturday 2 September 2023,23:16,Light Rain,17°,13,88%,1015 hPa
+Saturday 2 September 2023,23:30,Light Rain,17°,9,88%,1016 hPa
+Sunday 3 September 2023,00:00,Light Rain,16°,9,94%,1016 hPa
+Sunday 3 September 2023,00:30,Light Rain,17°,9,88%,1016 hPa
+Sunday 3 September 2023,01:00,Light Rain,17°,9,88%,1016 hPa
+Sunday 3 September 2023,01:12,Rain,17°,7,88%,1016 hPa
+Sunday 3 September 2023,01:30,Rain,16°,4,94%,1016 hPa
+Sunday 3 September 2023,01:37,Rain,16°,6,94%,1016 hPa
+Sunday 3 September 2023,02:00,Rain,16°,Calm,94%,1016 hPa
+Sunday 3 September 2023,02:30,Rain,16°,9,94%,1016 hPa
+Sunday 3 September 2023,02:46,Light Rain,16°,9,94%,1016 hPa
+Sunday 3 September 2023,03:00,Light Rain,16°,9,94%,1016 hPa
+Sunday 3 September 2023,03:10,Rain,16°,6,94%,1016 hPa
+Sunday 3 September 2023,03:30,Light Rain,16°,9,94%,1015 hPa
+Sunday 3 September 2023,04:00,Light Rain,16°,6,94%,1015 hPa
+Sunday 3 September 2023,04:10,Rain,16°,7,94%,1015 hPa
+Sunday 3 September 2023,04:30,Light Rain,17°,6,94%,1015 hPa
+Sunday 3 September 2023,05:00,Light Rain,17°,6,94%,1014 hPa
+Sunday 3 September 2023,05:30,Drizzle,17°,6,88%,1015 hPa
+Sunday 3 September 2023,06:00,Drizzle,17°,Calm,88%,1015 hPa
+Sunday 3 September 2023,06:30,Drizzle,17°,2,94%,1015 hPa
+Sunday 3 September 2023,07:00,Mostly Cloudy,17°,7,94%,1014 hPa
+Sunday 3 September 2023,07:30,Mostly Cloudy,17°,11,94%,1014 hPa
+Sunday 3 September 2023,08:00,Mostly Cloudy,17°,9,94%,1014 hPa
+Sunday 3 September 2023,08:30,Mostly Cloudy,17°,6,94%,1014 hPa
+Sunday 3 September 2023,09:00,Mostly Cloudy,18°,7,88%,1014 hPa
+Sunday 3 September 2023,09:30,Mostly Cloudy,18°,7,88%,1015 hPa
+Sunday 3 September 2023,10:00,Mostly Cloudy,18°,9,88%,1015 hPa
+Sunday 3 September 2023,10:30,Mostly Cloudy,19°,11,88%,1015 hPa
+Sunday 3 September 2023,11:00,Chance of Showers,19°,6,88%,1015 hPa
+Sunday 3 September 2023,11:04,Rain,19°,6,88%,1015 hPa
+Sunday 3 September 2023,11:11,Rain,19°,2,88%,1016 hPa
+Sunday 3 September 2023,11:30,Rain,18°,6,94%,1016 hPa
+Sunday 3 September 2023,11:44,Light Rain,18°,4,94%,1015 hPa
+Sunday 3 September 2023,12:00,Light Rain,18°,7,94%,1015 hPa
+Sunday 3 September 2023,12:30,Mostly Cloudy,19°,9,94%,1014 hPa
+Sunday 3 September 2023,13:00,Mostly Cloudy,20°,13,88%,1014 hPa
+Sunday 3 September 2023,13:30,Chance of Showers,20°,7,88%,1014 hPa
+Sunday 3 September 2023,14:00,T-Storm,20°,17,88%,1013 hPa
+Sunday 3 September 2023,14:06,T-Storm,20°,15,88%,1013 hPa
+Sunday 3 September 2023,14:30,T-Storm,20°,7,88%,1013 hPa
+Sunday 3 September 2023,15:00,T-Storm,20°,6,88%,1014 hPa
+Sunday 3 September 2023,15:07,T-Storm,19°,6,94%,1013 hPa
+Sunday 3 September 2023,15:22,T-Storm,20°,11,88%,1014 hPa
+Sunday 3 September 2023,15:30,T-Storm,19°,6,94%,1013 hPa
+Sunday 3 September 2023,15:39,T-Storm,19°,4,94%,1014 hPa
+Sunday 3 September 2023,16:00,T-Storm,18°,6,100%,1014 hPa
+Sunday 3 September 2023,16:30,T-Storm,17°,11,100%,1012 hPa
+Sunday 3 September 2023,16:48,T-Storm,17°,11,100%,1013 hPa
+Sunday 3 September 2023,17:00,Light Rain,18°,9,94%,1012 hPa
+Sunday 3 September 2023,17:30,Chance of Showers,18°,4,94%,1013 hPa
+Sunday 3 September 2023,18:00,Chance of Showers,18°,13,94%,1012 hPa
+Sunday 3 September 2023,18:30,Chance of Showers,18°,15,94%,1012 hPa
+Sunday 3 September 2023,19:00,Mostly Cloudy,19°,17,88%,1011 hPa
+Sunday 3 September 2023,19:30,Mostly Cloudy,19°,11,94%,1011 hPa
+Sunday 3 September 2023,20:00,Mostly Cloudy,19°,7,94%,1012 hPa
+Sunday 3 September 2023,20:30,Mostly Cloudy,20°,7,88%,1011 hPa
+Sunday 3 September 2023,21:00,Chance of Showers,20°,7,94%,1011 hPa
+Sunday 3 September 2023,21:30,Chance of Showers,20°,Calm,94%,1011 hPa
+Sunday 3 September 2023,22:00,Mostly Cloudy,20°,4,94%,1012 hPa
+Sunday 3 September 2023,22:30,Mostly Cloudy,20°,Calm,94%,1012 hPa
+Sunday 3 September 2023,23:00,Mostly Cloudy,20°,Calm,94%,1013 hPa
+Sunday 3 September 2023,23:30,Mostly Cloudy,21°,2,88%,1013 hPa
+Monday 4 September 2023,00:00,Mostly Cloudy,22°,13,78%,1013 hPa
+Monday 4 September 2023,00:30,T-Storm,21°,26,83%,1014 hPa
+Monday 4 September 2023,00:42,Light Rain,20°,20,88%,1014 hPa
+Monday 4 September 2023,01:00,Rain,19°,15,94%,1014 hPa
+Monday 4 September 2023,01:12,Rain,19°,11,94%,1015 hPa
+Monday 4 September 2023,01:30,Rain,19°,11,94%,1014 hPa
+Monday 4 September 2023,01:41,Light Rain,19°,4,94%,1014 hPa
+Monday 4 September 2023,02:00,Light Rain,19°,2,94%,1014 hPa
+Monday 4 September 2023,02:30,Mostly Cloudy,19°,4,94%,1014 hPa
+Monday 4 September 2023,03:00,Mostly Cloudy,18°,4,100%,1014 hPa
+Monday 4 September 2023,03:30,Light Rain,19°,4,94%,1014 hPa
+Monday 4 September 2023,04:00,Light Rain,19°,Calm,94%,1014 hPa
+Monday 4 September 2023,04:30,Mostly Cloudy,19°,Calm,94%,1014 hPa
+Monday 4 September 2023,05:00,Mostly Cloudy,19°,9,94%,1014 hPa
+Monday 4 September 2023,05:30,Light Rain,19°,4,94%,1013 hPa
+Monday 4 September 2023,06:00,T-Storm,19°,Calm,94%,1014 hPa
+Monday 4 September 2023,06:11,Rain,18°,28,88%,1014 hPa
+Monday 4 September 2023,06:21,Rain,17°,13,94%,1014 hPa
+Monday 4 September 2023,06:30,Rain,17°,15,94%,1014 hPa
+Monday 4 September 2023,07:00,Light Rain,16°,4,94%,1015 hPa
+Monday 4 September 2023,07:30,Light Rain,16°,Calm,94%,1015 hPa
+Monday 4 September 2023,08:00,Mostly Cloudy,16°,7,94%,1015 hPa
+Monday 4 September 2023,08:30,Chance of Showers,17°,2,94%,1015 hPa
+Monday 4 September 2023,08:42,Rain,17°,6,94%,1015 hPa
+Monday 4 September 2023,09:00,Light Rain,17°,2,94%,1015 hPa
+Monday 4 September 2023,09:30,Cloudy,17°,6,94%,1015 hPa
+Monday 4 September 2023,10:00,Light Rain,17°,4,94%,1015 hPa
+Monday 4 September 2023,10:30,Mostly Cloudy,17°,6,100%,1015 hPa
+Monday 4 September 2023,11:00,Light Rain,18°,11,88%,1015 hPa
+Monday 4 September 2023,11:30,Mostly Cloudy,18°,13,>,35 88% 1016 hPa
+Monday 4 September 2023,11:41,Rain,18°,15,83%,1016 hPa
+Monday 4 September 2023,12:00,Light Rain,17°,13,94%,1015 hPa
+Monday 4 September 2023,12:30,Light Rain,18°,11,88%,1015 hPa
+Monday 4 September 2023,13:00,Mostly Cloudy,19°,9,83%,1015 hPa
+Monday 4 September 2023,13:30,Mostly Cloudy,20°,11,78%,1015 hPa
+Monday 4 September 2023,14:00,Mostly Cloudy,21°,9,78%,1015 hPa
+Monday 4 September 2023,14:30,Mostly Cloudy,21°,11,78%,1015 hPa
+Monday 4 September 2023,15:00,Mostly Cloudy,21°,13,78%,1015 hPa
+Monday 4 September 2023,15:30,Rain,19°,11,88%,1015 hPa
+Monday 4 September 2023,15:45,Light Rain,20°,7,78%,1015 hPa
+Monday 4 September 2023,16:00,Light Rain,20°,7,83%,1015 hPa
+Monday 4 September 2023,16:30,Mostly Cloudy,21°,4,78%,1015 hPa
+Monday 4 September 2023,17:00,Partly Cloudy,22°,2,69%,1015 hPa
+Monday 4 September 2023,17:30,Partly Cloudy,24°,2,65%,1015 hPa
+Monday 4 September 2023,18:00,Fair,24°,2,65%,1015 hPa
+Monday 4 September 2023,18:30,Fair,24°,6,65%,1015 hPa
+Monday 4 September 2023,19:00,Clear,24°,6,65%,1014 hPa
+Monday 4 September 2023,19:30,Clear,24°,2,65%,1014 hPa
+Monday 4 September 2023,20:00,Fair,24°,2,69%,1014 hPa
+Monday 4 September 2023,20:30,Fair,23°,6,69%,1015 hPa
+Monday 4 September 2023,21:00,Partly Cloudy,22°,6,73%,1015 hPa
+Monday 4 September 2023,21:30,Partly Cloudy,22°,4,73%,1016 hPa
+Monday 4 September 2023,22:00,Partly Cloudy,22°,2,73%,1016 hPa
+Monday 4 September 2023,22:30,Fair,22°,6,78%,1017 hPa
+Monday 4 September 2023,23:00,Fair,21°,6,83%,1017 hPa
+Monday 4 September 2023,23:30,Fair,20°,4,88%,1017 hPa
+Tuesday 5 September 2023,00:00,Fair,20°,4,88%,1017 hPa
+Tuesday 5 September 2023,00:30,Fair,19°,4,88%,1017 hPa
+Tuesday 5 September 2023,01:00,Fair,19°,6,88%,1017 hPa
+Tuesday 5 September 2023,01:30,Fair,19°,2,88%,1017 hPa
+Tuesday 5 September 2023,02:00,Partly Cloudy,19°,Calm,88%,1018 hPa
+Tuesday 5 September 2023,02:30,Mostly Cloudy,19°,2,88%,1018 hPa
+Tuesday 5 September 2023,03:00,Partly Cloudy,19°,4,88%,1018 hPa
+Tuesday 5 September 2023,03:30,Partly Cloudy,19°,6,94%,1018 hPa
+Tuesday 5 September 2023,04:00,Partly Cloudy,19°,4,94%,1018 hPa
+Tuesday 5 September 2023,04:30,Partly Cloudy,18°,4,100%,1018 hPa
+Tuesday 5 September 2023,05:00,Fair,18°,2,94%,1018 hPa
+Tuesday 5 September 2023,05:30,Clear,18°,2,94%,1017 hPa
+Tuesday 5 September 2023,06:00,Clear,18°,2,94%,1017 hPa
+Tuesday 5 September 2023,06:30,Fair,17°,6,94%,1018 hPa
+Tuesday 5 September 2023,07:00,Fair,17°,2,94%,1018 hPa
+Tuesday 5 September 2023,07:30,Clear,17°,6,94%,1018 hPa
+Tuesday 5 September 2023,08:00,Clear,17°,2,94%,1018 hPa
+Tuesday 5 September 2023,08:30,Clear,17°,Calm,94%,1018 hPa
+Tuesday 5 September 2023,09:00,Clear,18°,4,94%,1018 hPa
+Tuesday 5 September 2023,09:30,Clear,19°,2,88%,1018 hPa
+Tuesday 5 September 2023,10:00,Clear,20°,7,78%,1019 hPa
+Tuesday 5 September 2023,10:30,Clear,20°,4,83%,1019 hPa
+Tuesday 5 September 2023,11:00,Partly Cloudy,22°,2,69%,1019 hPa
+Tuesday 5 September 2023,11:30,Fair,22°,2,69%,1019 hPa
+Tuesday 5 September 2023,12:00,Fair,23°,4,61%,1019 hPa
+Tuesday 5 September 2023,12:30,Mostly Cloudy,24°,4,50%,1019 hPa
+Tuesday 5 September 2023,13:00,Partly Cloudy,24°,4,50%,1019 hPa
+Tuesday 5 September 2023,13:30,Fair,25°,6,47%,1019 hPa
+Tuesday 5 September 2023,14:00,Fair,25°,4,50%,1018 hPa
+Tuesday 5 September 2023,14:30,Fair,25°,6,50%,1018 hPa
+Tuesday 5 September 2023,15:00,Fair,26°,6,51%,1018 hPa
+Tuesday 5 September 2023,15:30,Fair,26°,4,51%,1018 hPa
+Tuesday 5 September 2023,16:00,Fair,27°,6,48%,1017 hPa
+Tuesday 5 September 2023,16:30,Fair,27°,7,48%,1017 hPa
+Tuesday 5 September 2023,17:00,Fair,28°,4,45%,1017 hPa
+Tuesday 5 September 2023,17:30,Fair,27°,4,45%,1017 hPa
+Tuesday 5 September 2023,18:00,Fair,28°,4,45%,1017 hPa
+Tuesday 5 September 2023,18:30,Clear,27°,2,45%,1017 hPa
+Tuesday 5 September 2023,19:00,Clear,28°,4,42%,1017 hPa
+Tuesday 5 September 2023,19:30,Clear,28°,2,45%,1017 hPa
+Tuesday 5 September 2023,20:00,Clear,26°,4,48%,1017 hPa
+Tuesday 5 September 2023,20:30,Clear,26°,6,51%,1017 hPa
+Tuesday 5 September 2023,21:00,Clear,25°,7,57%,1017 hPa
+Tuesday 5 September 2023,21:30,Clear,24°,6,61%,1017 hPa
+Tuesday 5 September 2023,22:00,Clear,24°,6,65%,1018 hPa
+Tuesday 5 September 2023,22:30,Clear,23°,6,69%,1018 hPa
+Tuesday 5 September 2023,23:00,Clear,23°,7,65%,1018 hPa
+Tuesday 5 September 2023,23:30,Clear,22°,7,73%,1018 hPa
+Wednesday 6 September 2023,00:00,Clear,22°,11,69%,1018 hPa
+Wednesday 6 September 2023,00:30,Clear,21°,6,78%,1018 hPa
+Wednesday 6 September 2023,01:00,Fair,21°,6,78%,1018 hPa
+Wednesday 6 September 2023,01:30,Fair,21°,4,73%,1018 hPa
+Wednesday 6 September 2023,02:00,Partly Cloudy,21°,2,78%,1018 hPa
+Wednesday 6 September 2023,02:30,Partly Cloudy,21°,4,73%,1018 hPa
+Wednesday 6 September 2023,03:00,Partly Cloudy,20°,Calm,83%,1018 hPa
+Wednesday 6 September 2023,03:30,Partly Cloudy,20°,4,83%,1018 hPa
+Wednesday 6 September 2023,04:00,Mostly Cloudy,20°,4,78%,1019 hPa
+Wednesday 6 September 2023,04:30,Mostly Cloudy,20°,6,83%,1019 hPa
+Wednesday 6 September 2023,05:00,Light Rain,20°,6,83%,1018 hPa
+Wednesday 6 September 2023,05:30,Light Rain,20°,6,83%,1019 hPa
+Wednesday 6 September 2023,06:00,Light Rain,20°,7,88%,1019 hPa
+Wednesday 6 September 2023,06:30,Light Rain,20°,6,83%,1019 hPa
+Wednesday 6 September 2023,07:00,Rain,20°,9,78%,1019 hPa
+Wednesday 6 September 2023,07:30,Rain,20°,9,83%,1019 hPa
+Wednesday 6 September 2023,08:00,Chance of Showers,20°,11,83%,1019 hPa
+Wednesday 6 September 2023,08:30,Light Rain,20°,9,83%,1019 hPa
+Wednesday 6 September 2023,09:00,Chance of Showers,20°,7,83%,1019 hPa
+Wednesday 6 September 2023,09:30,Chance of Showers,21°,4,78%,1019 hPa
+Wednesday 6 September 2023,09:37,Partly Cloudy,22°,4,73%,1019 hPa
+Wednesday 6 September 2023,10:00,Partly Cloudy,22°,6,73%,1019 hPa
+Wednesday 6 September 2023,10:30,Partly Cloudy,23°,6,65%,1020 hPa
+Wednesday 6 September 2023,11:00,Mostly Cloudy,24°,4,57%,1020 hPa
+Wednesday 6 September 2023,11:30,Mostly Cloudy,24°,7,57%,1020 hPa
+Wednesday 6 September 2023,12:00,Mostly Cloudy,25°,6,57%,1020 hPa
+Wednesday 6 September 2023,12:30,Fair,25°,11,57%,1020 hPa
+Wednesday 6 September 2023,13:00,Mostly Cloudy,25°,11,61%,1020 hPa
+Wednesday 6 September 2023,13:30,Mostly Cloudy,26°,9,58%,1020 hPa
+Wednesday 6 September 2023,14:00,Mostly Cloudy,26°,9,54%,1019 hPa
+Wednesday 6 September 2023,14:30,Partly Cloudy,27°,11,54%,1019 hPa
+Wednesday 6 September 2023,15:00,Partly Cloudy,27°,7,54%,1019 hPa
+Wednesday 6 September 2023,15:30,Fair,27°,6,54%,1018 hPa
+Wednesday 6 September 2023,16:00,Fair,28°,11,51%,1018 hPa
+Wednesday 6 September 2023,16:30,Fair,29°,4,48%,1018 hPa
+Wednesday 6 September 2023,17:00,Fair,29°,6,48%,1018 hPa
+Wednesday 6 September 2023,17:30,Fair,30°,4,46%,1017 hPa
+Wednesday 6 September 2023,18:00,Fair,29°,7,45%,1017 hPa
+Wednesday 6 September 2023,18:30,Fair,29°,6,40%,1017 hPa
+Wednesday 6 September 2023,19:00,Fair,29°,2,40%,1017 hPa
+Wednesday 6 September 2023,19:30,Fair,29°,7,40%,1017 hPa
+Wednesday 6 September 2023,20:00,Clear,28°,9,40%,1017 hPa
+Wednesday 6 September 2023,20:30,Clear,28°,11,42%,1017 hPa
+Wednesday 6 September 2023,21:00,Clear,27°,7,45%,1018 hPa
+Wednesday 6 September 2023,21:30,Clear,27°,7,48%,1018 hPa
+Wednesday 6 September 2023,22:00,Clear,24°,2,57%,1018 hPa
+Wednesday 6 September 2023,22:30,Clear,24°,2,65%,1018 hPa
+Wednesday 6 September 2023,23:00,Clear,23°,2,65%,1018 hPa
+Wednesday 6 September 2023,23:30,Clear,23°,4,65%,1018 hPa
+Thursday 7 September 2023,00:00,Clear,23°,6,73%,1018 hPa
+Thursday 7 September 2023,00:30,Clear,22°,7,78%,1018 hPa
+Thursday 7 September 2023,01:00,Clear,22°,6,78%,1018 hPa
+Thursday 7 September 2023,01:30,Clear,22°,6,78%,1018 hPa
+Thursday 7 September 2023,02:00,Clear,21°,Calm,83%,1019 hPa
+Thursday 7 September 2023,02:30,Clear,22°,2,73%,1019 hPa
+Thursday 7 September 2023,03:00,Clear,22°,4,78%,1018 hPa
+Thursday 7 September 2023,03:30,Clear,21°,4,78%,1018 hPa
+Thursday 7 September 2023,04:00,Clear,21°,2,78%,1018 hPa
+Thursday 7 September 2023,04:30,Clear,21°,2,78%,1018 hPa
+Thursday 7 September 2023,05:00,Clear,21°,Calm,83%,1018 hPa
+Thursday 7 September 2023,05:30,Clear,21°,2,78%,1018 hPa
+Thursday 7 September 2023,06:00,Clear,21°,6,78%,1018 hPa
+Thursday 7 September 2023,06:30,Clear,20°,7,88%,1018 hPa
+Thursday 7 September 2023,07:00,Clear,20°,6,88%,1018 hPa
+Thursday 7 September 2023,07:30,Clear,20°,4,83%,1018 hPa
+Thursday 7 September 2023,08:00,Clear,19°,Calm,88%,1019 hPa
+Thursday 7 September 2023,08:30,Clear,20°,Calm,83%,1019 hPa
+Thursday 7 September 2023,09:00,Clear,21°,2,78%,1019 hPa
+Thursday 7 September 2023,09:30,Fair,21°,6,78%,1019 hPa
+Thursday 7 September 2023,10:00,Fair,22°,7,73%,1019 hPa
+Thursday 7 September 2023,10:30,Fair,23°,4,69%,1019 hPa
+Thursday 7 September 2023,11:00,Fair,23°,6,69%,1020 hPa
+Thursday 7 September 2023,11:30,Partly Cloudy,24°,7,65%,1020 hPa
+Thursday 7 September 2023,12:00,Fair,25°,6,57%,1019 hPa
+Thursday 7 September 2023,12:30,Fair,25°,7,61%,1019 hPa
+Thursday 7 September 2023,13:00,Fair,26°,7,58%,1019 hPa
+Thursday 7 September 2023,13:30,Clear,26°,2,58%,1019 hPa
+Thursday 7 September 2023,14:00,Clear,26°,7,58%,1019 hPa
+Thursday 7 September 2023,14:30,Clear,26°,9,58%,1019 hPa
+Thursday 7 September 2023,15:00,Clear,27°,9,54%,1019 hPa
+Thursday 7 September 2023,15:30,Clear,28°,7,55%,1018 hPa
+Thursday 7 September 2023,16:00,Fair,29°,7,48%,1018 hPa
+Thursday 7 September 2023,16:30,Fair,29°,7,40%,1018 hPa
+Thursday 7 September 2023,17:00,Fair,30°,7,40%,1018 hPa
+Thursday 7 September 2023,17:30,Fair,30°,6,40%,1017 hPa
+Thursday 7 September 2023,18:00,Fair,30°,11,38%,1017 hPa
+Thursday 7 September 2023,18:30,Fair,29°,9,43%,1017 hPa
+Thursday 7 September 2023,19:00,Fair,29°,11,40%,1017 hPa
+Thursday 7 September 2023,19:30,Fair,29°,11,40%,1017 hPa
+Thursday 7 September 2023,20:00,Fair,29°,9,40%,1017 hPa
+Thursday 7 September 2023,20:30,Fair,28°,7,45%,1017 hPa
+Thursday 7 September 2023,21:00,Fair,28°,7,45%,1017 hPa
+Thursday 7 September 2023,21:30,Fair,26°,4,51%,1017 hPa
+Thursday 7 September 2023,22:00,Fair,25°,Calm,54%,1017 hPa
+Thursday 7 September 2023,22:30,Clear,25°,6,57%,1018 hPa
+Thursday 7 September 2023,23:00,Clear,25°,6,57%,1018 hPa
+Thursday 7 September 2023,23:30,Clear,25°,4,57%,1018 hPa
+Friday 8 September 2023,00:00,Fair,24°,Calm,69%,1018 hPa
+Friday 8 September 2023,00:30,Partly Cloudy,24°,6,69%,1018 hPa
+Friday 8 September 2023,01:00,Mostly Cloudy,24°,4,69%,1018 hPa
+Friday 8 September 2023,01:30,Mostly Cloudy,24°,9,69%,1018 hPa
+Friday 8 September 2023,02:00,Mostly Cloudy,24°,4,65%,1018 hPa
+Friday 8 September 2023,02:30,Mostly Cloudy,24°,2,65%,1018 hPa
+Friday 8 September 2023,03:00,Partly Cloudy,23°,4,69%,1018 hPa
+Friday 8 September 2023,03:30,Partly Cloudy,22°,4,73%,1018 hPa
+Friday 8 September 2023,04:00,Partly Cloudy,22°,6,73%,1018 hPa
+Friday 8 September 2023,04:30,Partly Cloudy,22°,7,73%,1018 hPa
+Friday 8 September 2023,05:00,Fair,22°,2,73%,1018 hPa
+Friday 8 September 2023,05:30,Fair,22°,4,78%,1018 hPa
+Friday 8 September 2023,06:00,Partly Cloudy,21°,4,83%,1018 hPa
+Friday 8 September 2023,06:30,Partly Cloudy,21°,4,83%,1018 hPa
+Friday 8 September 2023,07:00,Partly Cloudy,21°,4,83%,1018 hPa
+Friday 8 September 2023,07:30,Partly Cloudy,20°,4,83%,1018 hPa
+Friday 8 September 2023,08:00,Partly Cloudy,20°,2,88%,1018 hPa
+Friday 8 September 2023,08:30,Partly Cloudy,21°,2,78%,1018 hPa
+Friday 8 September 2023,09:00,Partly Cloudy,21°,4,78%,1019 hPa
+Friday 8 September 2023,09:30,Partly Cloudy,22°,4,78%,1019 hPa
+Friday 8 September 2023,10:00,Fair,23°,6,73%,1019 hPa
+Friday 8 September 2023,10:30,Fair,24°,6,69%,1019 hPa
+Friday 8 September 2023,11:00,Fair,25°,4,65%,1019 hPa
+Friday 8 September 2023,11:30,Fair,25°,6,65%,1019 hPa
+Friday 8 September 2023,12:00,Fair,26°,6,65%,1019 hPa
+Friday 8 September 2023,12:30,Fair,26°,6,61%,1019 hPa
+Friday 8 September 2023,13:00,Fair,27°,7,62%,1019 hPa
+Friday 8 September 2023,13:30,Fair,27°,6,54%,1018 hPa
+Friday 8 September 2023,14:00,Partly Cloudy,27°,4,58%,1018 hPa
+Friday 8 September 2023,14:30,Partly Cloudy,29°,11,>,32 48% 1018 hPa
+Friday 8 September 2023,15:00,Partly Cloudy,29°,11,43%,1018 hPa
+Friday 8 September 2023,15:30,Partly Cloudy,28°,9,>,32 45% 1017 hPa
+Friday 8 September 2023,16:00,Fair,30°,13,40%,1017 hPa
+Friday 8 September 2023,16:30,Fair,30°,15,>,35 38% 1017 hPa
+Friday 8 September 2023,17:00,Fair,31°,9,36%,1016 hPa
+Friday 8 September 2023,17:30,Fair,31°,9,36%,1016 hPa
+Friday 8 September 2023,18:00,Fair,31°,13,36%,1016 hPa
+Friday 8 September 2023,18:30,Fair,31°,15,33%,1016 hPa
+Friday 8 September 2023,19:00,Fair,30°,9,35%,1016 hPa
+Friday 8 September 2023,19:30,Fair,30°,13,35%,1016 hPa
+Friday 8 September 2023,20:00,Fair,30°,9,35%,1015 hPa
+Friday 8 September 2023,20:30,Fair,29°,7,35%,1015 hPa
+Friday 8 September 2023,21:00,Fair,27°,2,45%,1015 hPa
+Friday 8 September 2023,21:30,Fair,26°,2,48%,1016 hPa
+Friday 8 September 2023,22:00,Fair,25°,4,50%,1016 hPa
+Friday 8 September 2023,22:30,Fair,26°,6,51%,1016 hPa
+Friday 8 September 2023,23:00,Chance of Showers,25°,4,57%,1016 hPa
+Friday 8 September 2023,23:17,Chance of Showers,25°,2,57%,1016 hPa
+Friday 8 September 2023,23:30,Chance of Showers,25°,4,54%,1016 hPa
+Friday 8 September 2023,23:51,Chance of Showers,25°,4,57%,1016 hPa
+Saturday 9 September 2023,00:00,Chance of Showers,25°,4,57%,1016 hPa
+Saturday 9 September 2023,00:30,Chance of Showers,26°,9,51%,1016 hPa
+Saturday 9 September 2023,01:00,Chance of Showers,25°,4,57%,1016 hPa
+Saturday 9 September 2023,01:30,Fair,25°,4,57%,1016 hPa
+Saturday 9 September 2023,02:00,Fair,24°,4,61%,1016 hPa
+Saturday 9 September 2023,02:30,Fair,24°,7,65%,1016 hPa
+Saturday 9 September 2023,03:00,Fair,23°,4,69%,1016 hPa
+Saturday 9 September 2023,03:30,Partly Cloudy,22°,6,78%,1016 hPa
+Saturday 9 September 2023,03:48,Chance of Showers,22°,6,78%,1016 hPa
+Saturday 9 September 2023,04:00,Chance of Showers,22°,6,78%,1016 hPa
+Saturday 9 September 2023,04:30,Chance of Showers,21°,Calm,83%,1016 hPa
+Saturday 9 September 2023,04:48,Chance of Showers,21°,2,83%,1016 hPa
+Saturday 9 September 2023,05:00,Chance of Showers,21°,Calm,83%,1016 hPa
+Saturday 9 September 2023,05:30,Partly Cloudy,21°,6,83%,1016 hPa
+Saturday 9 September 2023,06:00,Partly Cloudy,20°,4,88%,1016 hPa
+Saturday 9 September 2023,06:30,Partly Cloudy,21°,6,83%,1016 hPa
+Saturday 9 September 2023,07:00,Partly Cloudy,21°,6,78%,1016 hPa
+Saturday 9 September 2023,07:30,Mostly Cloudy,21°,9,78%,1016 hPa
+Saturday 9 September 2023,08:00,Partly Cloudy,21°,7,83%,1017 hPa
+Saturday 9 September 2023,08:30,Partly Cloudy,21°,7,83%,1017 hPa
+Saturday 9 September 2023,09:00,Fair,21°,7,83%,1017 hPa
+Saturday 9 September 2023,09:30,Fair,22°,9,73%,1017 hPa
+Saturday 9 September 2023,10:00,Fair,23°,7,73%,1018 hPa
+Saturday 9 September 2023,10:30,Fair,23°,11,69%,1018 hPa
+Saturday 9 September 2023,11:00,Fair,24°,11,65%,1018 hPa
+Saturday 9 September 2023,11:30,Fair,24°,9,65%,1018 hPa
+Saturday 9 September 2023,12:00,Fair,25°,7,>,28 57% 1018 hPa
+Saturday 9 September 2023,12:30,Partly Cloudy,25°,7,57%,1018 hPa
+Saturday 9 September 2023,13:00,Partly Cloudy,26°,7,51%,1018 hPa
+Saturday 9 September 2023,13:30,Partly Cloudy,26°,6,54%,1018 hPa
+Saturday 9 September 2023,14:00,Partly Cloudy,27°,11,51%,1017 hPa
+Saturday 9 September 2023,14:30,Mostly Cloudy,28°,11,48%,1017 hPa
+Saturday 9 September 2023,15:00,Mostly Cloudy,28°,15,45%,1017 hPa
+Saturday 9 September 2023,15:10,Chance of Showers,28°,13,48%,1017 hPa
+Saturday 9 September 2023,15:30,Chance of Showers,28°,19,45%,1017 hPa
+Saturday 9 September 2023,16:00,Chance of Showers,28°,19,42%,1017 hPa
+Saturday 9 September 2023,16:30,Chance of Showers,29°,11,43%,1017 hPa
+Saturday 9 September 2023,17:00,Chance of Showers,28°,20,45%,1017 hPa
+Saturday 9 September 2023,17:09,Rain,27°,24,54%,1017 hPa
+Saturday 9 September 2023,17:30,Light Rain,26°,15,>,35 61% 1017 hPa
+Saturday 9 September 2023,18:00,Chance of Showers,26°,15,54%,1017 hPa
+Saturday 9 September 2023,18:30,Chance of Showers,26°,9,54%,1017 hPa
+Saturday 9 September 2023,18:46,Rain,26°,9,54%,1017 hPa
+Saturday 9 September 2023,19:00,Light Rain,26°,11,58%,1017 hPa
+Saturday 9 September 2023,19:30,Chance of Showers,25°,11,61%,1017 hPa
+Saturday 9 September 2023,20:00,Chance of Showers,25°,2,65%,1017 hPa
+Saturday 9 September 2023,20:30,Chance of Showers,26°,6,54%,1017 hPa
+Saturday 9 September 2023,21:00,Chance of Showers,26°,7,54%,1017 hPa
+Saturday 9 September 2023,21:17,Chance of Showers,25°,13,57%,1017 hPa
+Saturday 9 September 2023,21:30,Chance of Showers,25°,13,57%,1017 hPa
+Saturday 9 September 2023,22:00,Chance of Showers,24°,6,69%,1018 hPa
+Saturday 9 September 2023,22:30,Chance of Showers,22°,6,73%,1018 hPa
+Saturday 9 September 2023,23:00,Chance of Showers,22°,6,78%,1018 hPa
+Saturday 9 September 2023,23:30,Light Rain,22°,11,83%,1019 hPa
+Sunday 10 September 2023,00:00,Chance of Showers,21°,4,88%,1018 hPa
+Sunday 10 September 2023,00:30,Chance of Showers,22°,6,83%,1019 hPa
+Sunday 10 September 2023,00:40,T-Storm,21°,11,88%,1019 hPa
+Sunday 10 September 2023,01:00,Chance of Showers,20°,4,94%,1019 hPa
+Sunday 10 September 2023,01:30,Chance of Showers,19°,7,100%,1018 hPa
+Sunday 10 September 2023,01:38,T-Storm,20°,6,94%,1019 hPa
+Sunday 10 September 2023,02:00,Chance of Showers,19°,6,100%,1019 hPa
+Sunday 10 September 2023,02:30,Chance of Showers,19°,Calm,94%,1019 hPa
+Sunday 10 September 2023,03:00,Partly Cloudy,19°,2,94%,1018 hPa
+Sunday 10 September 2023,03:30,Partly Cloudy,19°,4,94%,1018 hPa
+Sunday 10 September 2023,04:00,Partly Cloudy,19°,4,88%,1018 hPa
+Sunday 10 September 2023,04:30,Fair,19°,7,94%,1018 hPa
+Sunday 10 September 2023,05:00,Partly Cloudy,19°,6,100%,1018 hPa
+Sunday 10 September 2023,05:30,Partly Cloudy,19°,4,100%,1018 hPa
+Sunday 10 September 2023,06:00,Fair,19°,2,94%,1018 hPa
+Sunday 10 September 2023,06:30,Fair,18°,2,100%,1018 hPa
+Sunday 10 September 2023,07:00,Fair,18°,4,100%,1018 hPa
+Sunday 10 September 2023,07:30,Fair,18°,4,94%,1018 hPa
+Sunday 10 September 2023,08:00,Clear,18°,Calm,94%,1018 hPa
+Sunday 10 September 2023,08:30,Fair,18°,2,94%,1018 hPa
+Sunday 10 September 2023,09:00,Fair,19°,Calm,94%,1018 hPa
+Sunday 10 September 2023,09:30,Clear,20°,2,88%,1019 hPa
+Sunday 10 September 2023,10:00,Clear,21°,2,78%,1019 hPa
+Sunday 10 September 2023,10:30,Clear,21°,2,83%,1019 hPa
+Sunday 10 September 2023,11:00,Clear,22°,4,73%,1019 hPa
+Sunday 10 September 2023,11:30,Clear,23°,4,69%,1019 hPa
+Sunday 10 September 2023,12:00,Fair,23°,2,73%,1019 hPa
+Sunday 10 September 2023,12:30,Fair,24°,4,69%,1019 hPa
+Sunday 10 September 2023,13:00,Fair,25°,4,65%,1019 hPa
+Sunday 10 September 2023,13:30,Clear,25°,6,65%,1018 hPa
+Sunday 10 September 2023,14:00,Clear,26°,4,58%,1018 hPa
+Sunday 10 September 2023,14:30,Fair,27°,6,58%,1018 hPa
+Sunday 10 September 2023,15:00,Fair,28°,4,51%,1018 hPa
+Sunday 10 September 2023,15:30,Fair,28°,6,55%,1017 hPa
+Sunday 10 September 2023,16:00,Partly Cloudy,28°,13,>,32 48% 1017 hPa
+Sunday 10 September 2023,16:30,Fair,29°,13,43%,1017 hPa
+Sunday 10 September 2023,17:00,Fair,29°,13,43%,1016 hPa
+Sunday 10 September 2023,17:30,Clear,30°,7,40%,1016 hPa
+Sunday 10 September 2023,18:00,Fair,29°,6,43%,1016 hPa
+Sunday 10 September 2023,18:30,Fair,30°,11,38%,1016 hPa
+Sunday 10 September 2023,19:00,Clear,29°,9,40%,1016 hPa
+Sunday 10 September 2023,19:30,Clear,29°,7,>,30 40% 1016 hPa
+Sunday 10 September 2023,19:45,T-Storm,29°,7,40%,1016 hPa
+Sunday 10 September 2023,20:00,T-Storm,29°,7,40%,1016 hPa
+Sunday 10 September 2023,20:20,Partly Cloudy,27°,6,48%,1016 hPa
+Sunday 10 September 2023,20:30,Partly Cloudy,28°,11,>,32 42% 1016 hPa
+Sunday 10 September 2023,21:00,Fair,24°,9,65%,1016 hPa
+Sunday 10 September 2023,21:30,Fair,24°,7,65%,1016 hPa
+Sunday 10 September 2023,22:00,Fair,23°,9,69%,1016 hPa
+Sunday 10 September 2023,22:30,Fair,23°,6,73%,1017 hPa
+Sunday 10 September 2023,23:00,Mostly Cloudy,23°,15,73%,1017 hPa
+Sunday 10 September 2023,23:14,T-Storm,22°,13,78%,1017 hPa
+Sunday 10 September 2023,23:30,Light Rain,21°,9,83%,1017 hPa
+Sunday 10 September 2023,23:40,T-Storm,21°,6,83%,1017 hPa
+Monday 11 September 2023,00:00,T-Storm,20°,6,94%,1017 hPa
+Monday 11 September 2023,00:13,T-Storm,19°,6,88%,1017 hPa
+Monday 11 September 2023,00:30,Partly Cloudy,20°,9,94%,1017 hPa
+Monday 11 September 2023,01:00,Partly Cloudy,20°,4,94%,1017 hPa
+Monday 11 September 2023,01:30,Partly Cloudy,20°,4,88%,1017 hPa
+Monday 11 September 2023,01:41,Mostly Cloudy,19°,2,94%,1017 hPa
+Monday 11 September 2023,01:50,T-Storm,20°,13,88%,1018 hPa
+Monday 11 September 2023,02:00,T-Storm,19°,13,94%,1018 hPa
+Monday 11 September 2023,02:16,Mostly Cloudy,19°,6,94%,1017 hPa
+Monday 11 September 2023,02:30,Mostly Cloudy,19°,11,88%,1017 hPa
+Monday 11 September 2023,03:00,T-Storm,19°,2,94%,1017 hPa
+Monday 11 September 2023,03:10,Mostly Cloudy,19°,6,94%,1017 hPa
+Monday 11 September 2023,03:30,T-Storm,19°,2,94%,1017 hPa
+Monday 11 September 2023,04:00,T-Storm,19°,9,88%,1017 hPa
+Monday 11 September 2023,04:07,Mostly Cloudy,18°,13,94%,1017 hPa
+Monday 11 September 2023,04:30,Drizzle,17°,9,94%,1017 hPa
+Monday 11 September 2023,05:00,Partly Cloudy,17°,13,94%,1017 hPa
+Monday 11 September 2023,05:30,Partly Cloudy,17°,17,94%,1017 hPa
+Monday 11 September 2023,06:00,Mostly Cloudy,17°,11,94%,1017 hPa
+Monday 11 September 2023,06:30,Mostly Cloudy,18°,9,88%,1017 hPa
+Monday 11 September 2023,07:00,Partly Cloudy,18°,6,88%,1017 hPa
+Monday 11 September 2023,07:30,Mostly Cloudy,18°,4,94%,1017 hPa
+Monday 11 September 2023,08:00,Partly Cloudy,17°,4,94%,1017 hPa
+Monday 11 September 2023,08:30,Partly Cloudy,17°,Calm,94%,1017 hPa
+Monday 11 September 2023,09:00,Partly Cloudy,18°,Calm,94%,1017 hPa
+Monday 11 September 2023,09:30,Fair,19°,Calm,88%,1017 hPa
+Monday 11 September 2023,10:00,Fair,20°,Calm,83%,1017 hPa
+Monday 11 September 2023,10:30,Fair,21°,2,83%,1017 hPa
+Monday 11 September 2023,11:00,Partly Cloudy,22°,6,78%,1018 hPa
+Monday 11 September 2023,11:30,Partly Cloudy,22°,13,78%,1018 hPa
+Monday 11 September 2023,12:00,Partly Cloudy,23°,11,73%,1018 hPa
+Monday 11 September 2023,12:30,Partly Cloudy,24°,11,61%,1017 hPa
+Monday 11 September 2023,13:00,Mostly Cloudy,24°,13,61%,1017 hPa
+Monday 11 September 2023,13:30,Mostly Cloudy,24°,19,>,39 57% 1017 hPa
+Monday 11 September 2023,14:00,Partly Cloudy,25°,19,47%,1017 hPa
+Monday 11 September 2023,14:30,Partly Cloudy,25°,17,50%,1017 hPa
+Monday 11 September 2023,15:00,Partly Cloudy,26°,17,45%,1017 hPa
+Monday 11 September 2023,15:30,Partly Cloudy,26°,17,39%,1016 hPa
+Monday 11 September 2023,16:00,Partly Cloudy,26°,19,42%,1016 hPa
+Monday 11 September 2023,16:30,Partly Cloudy,26°,15,>,39 39% 1016 hPa
+Monday 11 September 2023,17:00,Partly Cloudy,26°,17,42%,1016 hPa
+Monday 11 September 2023,17:30,Partly Cloudy,26°,13,45%,1015 hPa
+Monday 11 September 2023,18:00,Fair,26°,13,42%,1015 hPa
+Monday 11 September 2023,18:30,Fair,26°,13,39%,1015 hPa
+Monday 11 September 2023,19:00,Fair,25°,15,44%,1015 hPa
+Monday 11 September 2023,19:30,Fair,25°,13,44%,1015 hPa
+Monday 11 September 2023,20:00,Fair,25°,17,44%,1015 hPa
+Monday 11 September 2023,20:30,Fair,24°,11,47%,1015 hPa
+Monday 11 September 2023,21:00,Clear,24°,11,47%,1015 hPa
+Monday 11 September 2023,21:30,Clear,24°,11,47%,1016 hPa
+Monday 11 September 2023,22:00,Clear,23°,9,50%,1016 hPa
+Monday 11 September 2023,22:30,Clear,22°,4,57%,1016 hPa
+Monday 11 September 2023,23:00,Clear,20°,Calm,68%,1016 hPa
+Monday 11 September 2023,23:30,Clear,20°,Calm,64%,1016 hPa
+Tuesday 12 September 2023,00:00,Clear,20°,Calm,64%,1016 hPa
+Tuesday 12 September 2023,00:30,Clear,19°,Calm,73%,1016 hPa
+Tuesday 12 September 2023,01:00,Clear,19°,Calm,73%,1016 hPa
+Tuesday 12 September 2023,01:30,Clear,18°,Calm,77%,1016 hPa
+Tuesday 12 September 2023,02:00,Clear,18°,Calm,83%,1016 hPa
+Tuesday 12 September 2023,02:30,Clear,18°,4,83%,1016 hPa
+Tuesday 12 September 2023,03:00,Clear,17°,7,88%,1016 hPa
+Tuesday 12 September 2023,03:30,Clear,17°,4,88%,1016 hPa
+Tuesday 12 September 2023,04:00,Clear,17°,6,88%,1016 hPa
+Tuesday 12 September 2023,04:30,Clear,17°,6,88%,1016 hPa
+Tuesday 12 September 2023,05:00,Clear,17°,4,88%,1016 hPa
+Tuesday 12 September 2023,05:30,Clear,17°,4,88%,1016 hPa
+Tuesday 12 September 2023,06:00,Clear,18°,6,83%,1016 hPa
+Tuesday 12 September 2023,06:30,Partly Cloudy,17°,4,88%,1016 hPa
+Tuesday 12 September 2023,07:00,Partly Cloudy,17°,7,88%,1016 hPa
+Tuesday 12 September 2023,07:30,Partly Cloudy,17°,6,88%,1016 hPa
+Tuesday 12 September 2023,08:00,Partly Cloudy,17°,4,88%,1016 hPa
+Tuesday 12 September 2023,08:30,Fair,17°,6,88%,1017 hPa
+Tuesday 12 September 2023,09:00,Light Rain,17°,4,88%,1017 hPa
+Tuesday 12 September 2023,09:30,Fair,18°,Calm,83%,1017 hPa
+Tuesday 12 September 2023,10:00,Clear,19°,Calm,78%,1017 hPa
+Tuesday 12 September 2023,10:30,Clear,19°,Calm,78%,1017 hPa
+Tuesday 12 September 2023,11:00,Clear,19°,6,78%,1018 hPa
+Tuesday 12 September 2023,11:30,Clear,21°,2,69%,1018 hPa
+Tuesday 12 September 2023,12:00,Clear,21°,4,69%,1018 hPa
+Tuesday 12 September 2023,12:30,Clear,21°,6,73%,1018 hPa
+Tuesday 12 September 2023,13:00,Clear,22°,6,64%,1018 hPa
+Tuesday 12 September 2023,13:30,Clear,23°,6,57%,1017 hPa
+Tuesday 12 September 2023,14:00,Clear,24°,6,54%,1017 hPa
+Tuesday 12 September 2023,14:30,Clear,25°,6,50%,1017 hPa
+Tuesday 12 September 2023,15:00,Clear,25°,9,44%,1016 hPa
+Tuesday 12 September 2023,15:30,Clear,26°,6,48%,1016 hPa
+Tuesday 12 September 2023,16:00,Fair,25°,7,50%,1016 hPa
+Tuesday 12 September 2023,16:30,Partly Cloudy,24°,2,57%,1016 hPa
+Tuesday 12 September 2023,17:00,Partly Cloudy,24°,7,57%,1016 hPa
+Tuesday 12 September 2023,17:30,Partly Cloudy,25°,6,50%,1016 hPa
+Tuesday 12 September 2023,18:00,Partly Cloudy,24°,11,57%,1016 hPa
+Tuesday 12 September 2023,18:30,Partly Cloudy,25°,13,50%,1016 hPa
+Tuesday 12 September 2023,19:00,Partly Cloudy,25°,9,47%,1016 hPa
+Tuesday 12 September 2023,19:30,Fair,25°,6,47%,1016 hPa
+Tuesday 12 September 2023,20:00,Clear,25°,6,50%,1016 hPa
+Tuesday 12 September 2023,20:30,Clear,22°,7,60%,1016 hPa
+Tuesday 12 September 2023,21:00,Clear,22°,4,57%,1016 hPa
+Tuesday 12 September 2023,21:30,Clear,21°,2,56%,1017 hPa
+Tuesday 12 September 2023,22:00,Clear,21°,4,60%,1017 hPa
+Tuesday 12 September 2023,22:30,Clear,20°,4,68%,1017 hPa
+Tuesday 12 September 2023,23:00,Clear,21°,11,64%,1018 hPa
+Tuesday 12 September 2023,23:30,Clear,21°,9,60%,1018 hPa
+Wednesday 13 September 2023,00:00,Clear,20°,6,60%,1018 hPa
+Wednesday 13 September 2023,00:30,Clear,20°,9,60%,1018 hPa
+Wednesday 13 September 2023,01:00,Clear,20°,17,60%,1019 hPa
+Wednesday 13 September 2023,01:30,Clear,19°,13,64%,1019 hPa
+Wednesday 13 September 2023,02:00,Clear,18°,6,73%,1019 hPa
+Wednesday 13 September 2023,02:30,Clear,18°,9,73%,1019 hPa
+Wednesday 13 September 2023,03:00,Clear,18°,9,73%,1019 hPa
+Wednesday 13 September 2023,03:30,Clear,17°,9,77%,1019 hPa
+Wednesday 13 September 2023,04:00,Clear,17°,7,77%,1019 hPa
+Wednesday 13 September 2023,04:30,Clear,17°,6,77%,1019 hPa
+Wednesday 13 September 2023,05:00,Clear,17°,7,77%,1019 hPa
+Wednesday 13 September 2023,05:30,Clear,17°,9,77%,1019 hPa
+Wednesday 13 September 2023,06:00,Clear,16°,6,82%,1019 hPa
+Wednesday 13 September 2023,06:30,Clear,16°,7,82%,1019 hPa
+Wednesday 13 September 2023,07:00,Clear,16°,9,82%,1019 hPa
+Wednesday 13 September 2023,07:30,Clear,16°,7,82%,1019 hPa
+Wednesday 13 September 2023,08:00,Clear,16°,9,82%,1019 hPa
+Wednesday 13 September 2023,08:30,Clear,16°,9,82%,1019 hPa
+Wednesday 13 September 2023,09:00,Clear,17°,9,82%,1020 hPa
+Wednesday 13 September 2023,09:30,Clear,18°,7,77%,1020 hPa
+Wednesday 13 September 2023,10:00,Clear,19°,9,73%,1020 hPa
+Wednesday 13 September 2023,10:30,Clear,20°,9,68%,1020 hPa
+Wednesday 13 September 2023,11:00,Clear,21°,9,64%,1020 hPa
+Wednesday 13 September 2023,11:30,Clear,22°,9,60%,1020 hPa
+Wednesday 13 September 2023,12:00,Clear,23°,9,57%,1020 hPa
+Wednesday 13 September 2023,12:30,Clear,23°,9,61%,1020 hPa
+Wednesday 13 September 2023,13:00,Clear,24°,9,50%,1020 hPa
+Wednesday 13 September 2023,13:30,Clear,25°,7,47%,1020 hPa
+Wednesday 13 September 2023,14:00,Clear,26°,6,45%,1019 hPa
+Wednesday 13 September 2023,14:30,Clear,26°,6,42%,1019 hPa
+Wednesday 13 September 2023,15:00,Clear,26°,6,39%,1019 hPa
+Wednesday 13 September 2023,15:30,Clear,27°,4,37%,1019 hPa
+Wednesday 13 September 2023,16:00,Clear,27°,6,34%,1018 hPa
+Wednesday 13 September 2023,16:30,Fair,27°,6,37%,1018 hPa
+Wednesday 13 September 2023,17:00,Fair,28°,6,30%,1018 hPa
+Wednesday 13 September 2023,17:30,Fair,28°,4,30%,1018 hPa
+Wednesday 13 September 2023,18:00,Fair,28°,4,35%,1017 hPa
+Wednesday 13 September 2023,18:30,Clear,28°,6,30%,1017 hPa
+Wednesday 13 September 2023,19:00,Clear,28°,4,28%,1017 hPa
+Wednesday 13 September 2023,19:30,Clear,28°,2,28%,1017 hPa
+Wednesday 13 September 2023,20:00,Clear,27°,2,34%,1017 hPa
+Wednesday 13 September 2023,20:30,Clear,25°,6,41%,1017 hPa
+Wednesday 13 September 2023,21:00,Clear,25°,6,39%,1018 hPa
+Wednesday 13 September 2023,21:30,Clear,23°,6,47%,1018 hPa
+Wednesday 13 September 2023,22:00,Clear,23°,9,50%,1018 hPa
+Wednesday 13 September 2023,22:30,Clear,22°,11,57%,1019 hPa
+Wednesday 13 September 2023,23:00,Clear,21°,7,64%,1019 hPa
+Wednesday 13 September 2023,23:30,Clear,21°,7,64%,1019 hPa
+Thursday 14 September 2023,00:00,Clear,21°,7,60%,1019 hPa
+Thursday 14 September 2023,00:30,Clear,21°,11,64%,1019 hPa
+Thursday 14 September 2023,01:00,Clear,20°,9,68%,1019 hPa
+Thursday 14 September 2023,01:30,Clear,20°,4,68%,1020 hPa
+Thursday 14 September 2023,02:00,Clear,19°,7,73%,1019 hPa
+Thursday 14 September 2023,02:30,Clear,19°,7,73%,1020 hPa
+Thursday 14 September 2023,03:00,Clear,19°,6,73%,1020 hPa
+Thursday 14 September 2023,03:30,Clear,19°,4,73%,1020 hPa
+Thursday 14 September 2023,04:00,Fair,18°,2,77%,1020 hPa
+Thursday 14 September 2023,04:30,Fair,18°,7,77%,1019 hPa
+Thursday 14 September 2023,05:00,Fair,18°,7,77%,1019 hPa
+Thursday 14 September 2023,05:30,Fair,18°,6,77%,1019 hPa
+Thursday 14 September 2023,06:00,Partly Cloudy,17°,4,82%,1019 hPa
+Thursday 14 September 2023,06:30,Partly Cloudy,17°,2,82%,1019 hPa
+Thursday 14 September 2023,07:00,Mostly Cloudy,18°,2,77%,1019 hPa
+Thursday 14 September 2023,07:30,Partly Cloudy,18°,Calm,77%,1019 hPa
+Thursday 14 September 2023,08:00,Partly Cloudy,18°,4,77%,1019 hPa
+Thursday 14 September 2023,08:30,Mostly Cloudy,18°,4,83%,1020 hPa
+Thursday 14 September 2023,09:00,Mostly Cloudy,18°,2,83%,1020 hPa
+Thursday 14 September 2023,09:30,Mostly Cloudy,19°,2,78%,1020 hPa
+Thursday 14 September 2023,10:00,Mostly Cloudy,20°,4,73%,1020 hPa
+Thursday 14 September 2023,10:30,Mostly Cloudy,20°,4,73%,1020 hPa
+Thursday 14 September 2023,11:00,Mostly Cloudy,21°,4,73%,1020 hPa
+Thursday 14 September 2023,11:30,Mostly Cloudy,22°,6,69%,1020 hPa
+Thursday 14 September 2023,12:00,Mostly Cloudy,23°,4,69%,1020 hPa
+Thursday 14 September 2023,12:30,Mostly Cloudy,24°,4,61%,1020 hPa
+Thursday 14 September 2023,13:00,Mostly Cloudy,24°,4,61%,1020 hPa
+Thursday 14 September 2023,13:30,Partly Cloudy,24°,2,61%,1019 hPa
+Thursday 14 September 2023,14:00,Partly Cloudy,25°,6,57%,1019 hPa
+Thursday 14 September 2023,14:30,Partly Cloudy,26°,4,58%,1019 hPa
+Thursday 14 September 2023,15:00,Partly Cloudy,26°,4,54%,1018 hPa
+Thursday 14 September 2023,15:30,Partly Cloudy,27°,6,54%,1018 hPa
+Thursday 14 September 2023,16:00,Partly Cloudy,27°,4,51%,1017 hPa
+Thursday 14 September 2023,16:30,Fair,27°,7,51%,1017 hPa
+Thursday 14 September 2023,17:00,Fair,27°,9,54%,1016 hPa
+Thursday 14 September 2023,17:30,Fair,27°,9,51%,1016 hPa
+Thursday 14 September 2023,18:00,Fair,27°,9,54%,1015 hPa
+Thursday 14 September 2023,18:30,Fair,27°,4,51%,1015 hPa
+Thursday 14 September 2023,19:00,Fair,27°,7,48%,1015 hPa
+Thursday 14 September 2023,19:30,Fair,27°,9,51%,1015 hPa
+Thursday 14 September 2023,20:00,Fair,26°,4,54%,1015 hPa
+Thursday 14 September 2023,20:30,Fair,26°,7,51%,1015 hPa
+Thursday 14 September 2023,21:00,Fair,25°,4,54%,1015 hPa
+Thursday 14 September 2023,21:30,Fair,25°,4,54%,1016 hPa
+Thursday 14 September 2023,22:00,Fair,25°,6,57%,1016 hPa
+Thursday 14 September 2023,22:30,Fair,24°,4,61%,1016 hPa
+Thursday 14 September 2023,22:39,Fair,24°,6,61%,1016 hPa
+Thursday 14 September 2023,23:00,Fair,24°,9,61%,1016 hPa
+Thursday 14 September 2023,23:30,Fair,23°,4,65%,1016 hPa
+Friday 15 September 2023,00:00,Fair,23°,4,65%,1016 hPa
+Friday 15 September 2023,00:30,Fair,23°,4,65%,1016 hPa
+Friday 15 September 2023,01:00,Fair,23°,9,65%,1016 hPa
+Friday 15 September 2023,01:30,Fair,23°,6,65%,1016 hPa
+Friday 15 September 2023,02:00,Fair,23°,13,69%,1016 hPa
+Friday 15 September 2023,02:30,Fair,22°,9,73%,1016 hPa
+Friday 15 September 2023,03:00,Partly Cloudy,22°,9,73%,1016 hPa
+Friday 15 September 2023,03:30,Mostly Cloudy,22°,9,73%,1015 hPa
+Friday 15 September 2023,03:34,T-Storm,21°,11,83%,1015 hPa
+Friday 15 September 2023,04:00,T-Storm,20°,9,88%,1015 hPa
+Friday 15 September 2023,04:30,Rain,19°,7,94%,1015 hPa
+Friday 15 September 2023,05:00,Mostly Cloudy,19°,4,94%,1015 hPa
+Friday 15 September 2023,05:14,T-Storm,19°,6,88%,1015 hPa
+Friday 15 September 2023,05:30,T-Storm,18°,6,100%,1015 hPa
+Friday 15 September 2023,05:31,T-Storm,18°,7,100%,1015 hPa
+Friday 15 September 2023,05:43,T-Storm,17°,24,94%,1015 hPa
+Friday 15 September 2023,05:52,T-Storm,16°,57,88%,1016 hPa
+Friday 15 September 2023,06:00,T-Storm,15°,37,94%,1015 hPa
+Friday 15 September 2023,06:13,T-Storm,15°,26,100%,1015 hPa
+Friday 15 September 2023,06:20,T-Storm,15°,9,100%,1015 hPa
+Friday 15 September 2023,06:30,T-Storm,15°,6,100%,1015 hPa
+Friday 15 September 2023,07:00,Mostly Cloudy,15°,2,100%,1015 hPa
+Friday 15 September 2023,07:30,Light Rain,15°,7,100%,1016 hPa
+Friday 15 September 2023,08:00,Mostly Cloudy,15°,6,100%,1016 hPa
+Friday 15 September 2023,08:30,Mostly Cloudy,15°,6,100%,1016 hPa
+Friday 15 September 2023,09:00,Mostly Cloudy,16°,4,94%,1015 hPa
+Friday 15 September 2023,09:30,Mostly Cloudy,16°,6,94%,1014 hPa
+Friday 15 September 2023,10:00,Mostly Cloudy,17°,7,94%,1015 hPa
+Friday 15 September 2023,10:30,Partly Cloudy,18°,13,88%,1015 hPa
+Friday 15 September 2023,11:00,Partly Cloudy,18°,9,88%,1015 hPa
+Friday 15 September 2023,11:30,Clear,19°,4,78%,1015 hPa
+Friday 15 September 2023,12:00,Clear,20°,Calm,73%,1015 hPa
+Friday 15 September 2023,12:30,Clear,21°,4,69%,1015 hPa
+Friday 15 September 2023,13:00,Clear,21°,2,73%,1015 hPa
+Friday 15 September 2023,13:30,Clear,22°,7,69%,1015 hPa
+Friday 15 September 2023,14:00,Clear,23°,9,>,32 69% 1014 hPa
+Friday 15 September 2023,14:30,Clear,24°,7,65%,1014 hPa
+Friday 15 September 2023,15:00,Partly Cloudy,24°,7,61%,1013 hPa
+Friday 15 September 2023,15:30,Partly Cloudy,23°,11,65%,1013 hPa
+Friday 15 September 2023,16:00,Partly Cloudy,24°,7,61%,1012 hPa
+Friday 15 September 2023,16:30,Fair,25°,4,57%,1012 hPa
+Friday 15 September 2023,17:00,Fair,25°,9,61%,1012 hPa
+Friday 15 September 2023,17:30,Fair,26°,9,51%,1012 hPa
+Friday 15 September 2023,18:00,Fair,25°,11,50%,1011 hPa
+Friday 15 September 2023,18:30,Fair,25°,9,50%,1011 hPa
+Friday 15 September 2023,19:00,Fair,25°,9,50%,1011 hPa
+Friday 15 September 2023,19:30,Fair,25°,11,54%,1011 hPa
+Friday 15 September 2023,20:00,Fair,24°,7,57%,1011 hPa
+Friday 15 September 2023,20:30,T-Storm,24°,9,54%,1011 hPa
+Friday 15 September 2023,21:00,T-Storm,24°,7,54%,1011 hPa
+Friday 15 September 2023,21:30,Chance of Showers,23°,7,61%,1011 hPa
+Friday 15 September 2023,22:00,Chance of Showers,22°,6,69%,1011 hPa
+Friday 15 September 2023,22:30,T-Storm,19°,37,78%,1013 hPa
+Friday 15 September 2023,23:00,T-Storm,18°,17,88%,1012 hPa
+Friday 15 September 2023,23:15,Chance of Showers,18°,7,88%,1012 hPa
+Friday 15 September 2023,23:30,Chance of Showers,17°,9,94%,1012 hPa
+Saturday 16 September 2023,00:00,Chance of Showers,17°,9,94%,1013 hPa
+Saturday 16 September 2023,00:30,Chance of Showers,17°,2,94%,1013 hPa
+Saturday 16 September 2023,01:00,Partly Cloudy,17°,Calm,94%,1013 hPa
+Saturday 16 September 2023,01:30,Fair,17°,4,94%,1012 hPa
+Saturday 16 September 2023,02:00,Chance of Showers,17°,4,94%,1013 hPa
+Saturday 16 September 2023,02:30,Chance of Showers,17°,4,94%,1012 hPa
+Saturday 16 September 2023,02:47,Chance of Showers,17°,4,94%,1012 hPa
+Saturday 16 September 2023,03:00,Chance of Showers,17°,4,94%,1012 hPa
+Saturday 16 September 2023,03:30,Chance of Showers,17°,6,94%,1012 hPa
+Saturday 16 September 2023,04:00,Mostly Cloudy,17°,4,94%,1012 hPa
+Saturday 16 September 2023,04:30,Partly Cloudy,17°,7,94%,1012 hPa
+Saturday 16 September 2023,05:00,Partly Cloudy,17°,7,94%,1012 hPa
+Saturday 16 September 2023,05:30,Partly Cloudy,17°,Calm,94%,1012 hPa
+Saturday 16 September 2023,06:00,Mostly Cloudy,16°,Calm,100%,1012 hPa
+Saturday 16 September 2023,06:30,Partly Cloudy,16°,2,100%,1011 hPa
+Saturday 16 September 2023,07:00,Partly Cloudy,16°,4,100%,1011 hPa
+Saturday 16 September 2023,07:30,Partly Cloudy,16°,2,94%,1012 hPa
+Saturday 16 September 2023,08:00,Partly Cloudy,16°,Calm,100%,1012 hPa
+Saturday 16 September 2023,08:30,Mostly Cloudy,16°,4,100%,1012 hPa
+Saturday 16 September 2023,09:00,Mostly Cloudy,17°,4,94%,1012 hPa
+Saturday 16 September 2023,09:30,Mostly Cloudy,17°,7,94%,1013 hPa
+Saturday 16 September 2023,10:00,Mostly Cloudy,18°,6,88%,1013 hPa
+Saturday 16 September 2023,10:30,Mostly Cloudy,18°,9,88%,1013 hPa
+Saturday 16 September 2023,11:00,Mostly Cloudy,19°,11,83%,1013 hPa
+Saturday 16 September 2023,11:30,Mostly Cloudy,19°,15,83%,1013 hPa
+Saturday 16 September 2023,12:00,Mostly Cloudy,19°,15,83%,1013 hPa
+Saturday 16 September 2023,12:30,Cloudy,20°,13,>,35 78% 1014 hPa
+Saturday 16 September 2023,13:00,Cloudy,20°,9,78%,1014 hPa
+Saturday 16 September 2023,13:30,Mostly Cloudy,21°,11,73%,1014 hPa
+Saturday 16 September 2023,14:00,Partly Cloudy,21°,9,73%,1013 hPa
+Saturday 16 September 2023,14:30,Partly Cloudy,22°,9,69%,1013 hPa
+Saturday 16 September 2023,15:00,Partly Cloudy,22°,7,64%,1013 hPa
+Saturday 16 September 2023,15:30,Partly Cloudy,22°,9,64%,1013 hPa
+Saturday 16 September 2023,16:00,Mostly Cloudy,22°,7,64%,1013 hPa
+Saturday 16 September 2023,16:30,Mostly Cloudy,22°,11,64%,1012 hPa
+Saturday 16 September 2023,17:00,Mostly Cloudy,22°,9,69%,1012 hPa
+Saturday 16 September 2023,17:30,Partly Cloudy,23°,11,61%,1012 hPa
+Saturday 16 September 2023,18:00,Partly Cloudy,23°,11,61%,1012 hPa
+Saturday 16 September 2023,18:30,Partly Cloudy,23°,15,53%,1012 hPa
+Saturday 16 September 2023,19:00,Partly Cloudy,23°,13,57%,1012 hPa
+Saturday 16 September 2023,19:30,Partly Cloudy,23°,9,57%,1012 hPa
+Saturday 16 September 2023,20:00,Partly Cloudy,22°,11,57%,1012 hPa
+Saturday 16 September 2023,20:30,Fair,21°,6,64%,1012 hPa
+Saturday 16 September 2023,21:00,Fair,21°,4,64%,1012 hPa
+Saturday 16 September 2023,21:30,Fair,21°,6,64%,1013 hPa
+Saturday 16 September 2023,22:00,Fair,21°,7,60%,1013 hPa
+Saturday 16 September 2023,22:30,Clear,19°,4,78%,1013 hPa
+Saturday 16 September 2023,23:00,Clear,19°,2,73%,1013 hPa
+Saturday 16 September 2023,23:30,Clear,19°,6,73%,1013 hPa
+Sunday 17 September 2023,00:00,Clear,19°,4,73%,1013 hPa
+Sunday 17 September 2023,00:30,Clear,19°,6,78%,1013 hPa
+Sunday 17 September 2023,01:00,Clear,19°,2,78%,1013 hPa
+Sunday 17 September 2023,01:30,Clear,19°,6,78%,1013 hPa
+Sunday 17 September 2023,02:00,Fair,20°,7,68%,1013 hPa
+Sunday 17 September 2023,02:30,Fair,19°,7,78%,1014 hPa
+Sunday 17 September 2023,03:00,Fair,18°,6,88%,1013 hPa
+Sunday 17 September 2023,03:30,Fair,18°,2,83%,1013 hPa
+Sunday 17 September 2023,04:00,Fair,18°,11,88%,1013 hPa
+Sunday 17 September 2023,04:01,Rain,18°,7,88%,1013 hPa
+Sunday 17 September 2023,04:22,Drizzle,17°,Calm,94%,1013 hPa
+Sunday 17 September 2023,04:30,Drizzle,17°,2,94%,1013 hPa
+Sunday 17 September 2023,05:00,Mostly Cloudy,17°,Calm,94%,1013 hPa
+Sunday 17 September 2023,05:30,Light Rain,17°,2,94%,1012 hPa
+Sunday 17 September 2023,06:00,Light Rain,16°,2,100%,1013 hPa
+Sunday 17 September 2023,06:30,Fair,16°,6,100%,1012 hPa
+Sunday 17 September 2023,07:00,Mostly Cloudy,17°,4,94%,1012 hPa
+Sunday 17 September 2023,07:30,Mostly Cloudy,17°,6,94%,1012 hPa
+Sunday 17 September 2023,08:00,Mostly Cloudy,17°,6,94%,1012 hPa
+Sunday 17 September 2023,09:00,Light Rain,17°,9,88%,1013 hPa
+Sunday 17 September 2023,09:30,Light Rain,16°,6,94%,1013 hPa
+Sunday 17 September 2023,10:00,Fair,17°,7,94%,1013 hPa
+Sunday 17 September 2023,10:30,Light Rain,17°,6,88%,1014 hPa
+Sunday 17 September 2023,11:00,Light Rain,17°,6,88%,1014 hPa
+Sunday 17 September 2023,11:30,Light Rain,17°,9,88%,1014 hPa
+Sunday 17 September 2023,12:00,Rain,17°,9,88%,1014 hPa
+Sunday 17 September 2023,12:17,Light Rain,17°,9,94%,1014 hPa
+Sunday 17 September 2023,12:30,Light Rain,17°,9,94%,1014 hPa
+Sunday 17 September 2023,13:00,Drizzle,18°,15,88%,1015 hPa
+Sunday 17 September 2023,13:30,Light Rain,18°,20,88%,1014 hPa
+Sunday 17 September 2023,14:00,Light Rain,18°,19,88%,1014 hPa
+Sunday 17 September 2023,14:28,Rain,17°,30,88%,1015 hPa
+Sunday 17 September 2023,14:30,Light Rain,17°,28,88%,1015 hPa
+Sunday 17 September 2023,15:00,Light Rain,17°,13,>,32 88% 1014 hPa
+Sunday 17 September 2023,15:30,Mostly Cloudy,18°,19,>,37 83% 1015 hPa
+Sunday 17 September 2023,16:00,Mostly Cloudy,19°,15,83%,1014 hPa
+Sunday 17 September 2023,16:30,Partly Cloudy,19°,19,78%,1015 hPa
+Sunday 17 September 2023,17:00,Partly Cloudy,19°,17,78%,1014 hPa
+Sunday 17 September 2023,17:30,Partly Cloudy,20°,17,73%,1014 hPa
+Sunday 17 September 2023,18:00,Partly Cloudy,19°,15,73%,1014 hPa
+Sunday 17 September 2023,18:30,Partly Cloudy,19°,13,83%,1014 hPa
+Sunday 17 September 2023,19:00,Fair,19°,15,78%,1014 hPa
+Sunday 17 September 2023,19:30,Fair,19°,15,73%,1015 hPa
+Sunday 17 September 2023,20:00,Fair,18°,11,77%,1015 hPa
+Sunday 17 September 2023,20:30,Fair,18°,9,77%,1015 hPa
+Sunday 17 September 2023,21:00,Fair,18°,11,77%,1015 hPa
+Sunday 17 September 2023,21:30,Fair,17°,9,82%,1015 hPa
+Sunday 17 September 2023,22:00,Clear,17°,11,82%,1016 hPa
+Sunday 17 September 2023,22:30,Clear,17°,13,82%,1016 hPa
+Sunday 17 September 2023,23:00,Clear,16°,13,88%,1016 hPa
+Sunday 17 September 2023,23:30,Clear,15°,6,88%,1017 hPa
+Monday 18 September 2023,00:00,Clear,16°,11,88%,1017 hPa
+Monday 18 September 2023,00:30,Clear,16°,7,88%,1017 hPa
+Monday 18 September 2023,01:00,Partly Cloudy,15°,Calm,88%,1017 hPa
+Monday 18 September 2023,01:30,Fair,15°,6,88%,1017 hPa
+Monday 18 September 2023,02:00,Partly Cloudy,14°,2,94%,1017 hPa
+Monday 18 September 2023,02:30,Partly Cloudy,15°,13,88%,1017 hPa
+Monday 18 September 2023,03:00,Partly Cloudy,15°,4,88%,1017 hPa
+Monday 18 September 2023,03:30,Partly Cloudy,15°,2,88%,1017 hPa
+Monday 18 September 2023,04:00,Partly Cloudy,14°,4,94%,1017 hPa
+Monday 18 September 2023,04:30,Partly Cloudy,14°,4,94%,1017 hPa
+Monday 18 September 2023,05:00,Partly Cloudy,14°,4,94%,1017 hPa
+Monday 18 September 2023,05:30,Partly Cloudy,14°,4,94%,1017 hPa
+Monday 18 September 2023,06:00,Partly Cloudy,14°,6,94%,1017 hPa
+Monday 18 September 2023,06:30,Mostly Cloudy,15°,7,88%,1017 hPa
+Monday 18 September 2023,07:00,Mostly Cloudy,15°,13,88%,1017 hPa
+Monday 18 September 2023,07:30,Mostly Cloudy,15°,9,88%,1017 hPa
+Monday 18 September 2023,08:00,Mostly Cloudy,15°,6,88%,1018 hPa
+Monday 18 September 2023,08:30,Partly Cloudy,15°,7,88%,1018 hPa
+Monday 18 September 2023,09:00,Partly Cloudy,15°,13,94%,1018 hPa
+Monday 18 September 2023,09:30,Partly Cloudy,16°,6,82%,1019 hPa
+Monday 18 September 2023,10:00,Partly Cloudy,17°,11,77%,1019 hPa
+Monday 18 September 2023,10:30,Partly Cloudy,17°,11,82%,1019 hPa
+Monday 18 September 2023,11:00,Mostly Cloudy,17°,13,82%,1020 hPa
+Monday 18 September 2023,11:30,Mostly Cloudy,18°,13,77%,1020 hPa
+Monday 18 September 2023,12:00,Mostly Cloudy,18°,9,>,30 73% 1020 hPa
+Monday 18 September 2023,12:30,Partly Cloudy,19°,7,68%,1020 hPa
+Monday 18 September 2023,13:00,Partly Cloudy,19°,9,73%,1020 hPa
+Monday 18 September 2023,13:30,Partly Cloudy,20°,9,68%,1020 hPa
+Monday 18 September 2023,14:00,Partly Cloudy,20°,9,>,28 68% 1020 hPa
+Monday 18 September 2023,14:30,Partly Cloudy,20°,11,64%,1019 hPa
+Monday 18 September 2023,15:00,Mostly Cloudy,20°,13,>,37 68% 1019 hPa
+Monday 18 September 2023,15:30,Mostly Cloudy,20°,13,68%,1019 hPa
+Monday 18 September 2023,16:00,Mostly Cloudy,21°,13,>,32 60% 1019 hPa
+Monday 18 September 2023,16:30,Mostly Cloudy,21°,15,64%,1019 hPa
+Monday 18 September 2023,17:00,Mostly Cloudy,21°,13,>,32 64% 1019 hPa
+Monday 18 September 2023,17:30,Mostly Cloudy,21°,17,64%,1019 hPa
+Monday 18 September 2023,18:00,Mostly Cloudy,20°,13,68%,1019 hPa
+Monday 18 September 2023,18:30,Partly Cloudy,20°,11,68%,1019 hPa
+Monday 18 September 2023,19:00,Fair,20°,7,64%,1019 hPa
+Monday 18 September 2023,19:30,Fair,21°,9,60%,1019 hPa
+Monday 18 September 2023,20:00,Fair,20°,6,64%,1019 hPa
+Monday 18 September 2023,20:30,Fair,20°,6,64%,1020 hPa
+Monday 18 September 2023,21:00,Clear,19°,7,73%,1020 hPa
+Monday 18 September 2023,21:30,Clear,19°,7,73%,1020 hPa
+Monday 18 September 2023,22:00,Clear,19°,6,68%,1020 hPa
+Monday 18 September 2023,22:30,Clear,19°,6,68%,1021 hPa
+Monday 18 September 2023,23:00,Clear,16°,2,88%,1021 hPa
+Monday 18 September 2023,23:30,Clear,16°,4,88%,1021 hPa
+Tuesday 19 September 2023,00:00,Clear,16°,Calm,88%,1021 hPa
+Tuesday 19 September 2023,00:30,Clear,16°,6,88%,1021 hPa
+Tuesday 19 September 2023,01:00,Clear,15°,2,88%,1021 hPa
+Tuesday 19 September 2023,01:30,Clear,14°,4,94%,1021 hPa
+Tuesday 19 September 2023,02:00,Clear,14°,4,94%,1021 hPa
+Tuesday 19 September 2023,02:30,Clear,14°,Calm,94%,1021 hPa
+Tuesday 19 September 2023,03:00,Clear,14°,Calm,94%,1021 hPa
+Tuesday 19 September 2023,03:30,Clear,14°,Calm,94%,1021 hPa
+Tuesday 19 September 2023,04:00,Clear,14°,Calm,94%,1021 hPa
+Tuesday 19 September 2023,04:30,Clear,13°,4,100%,1021 hPa
+Tuesday 19 September 2023,05:00,Clear,14°,4,94%,1020 hPa
+Tuesday 19 September 2023,05:30,Clear,14°,2,94%,1020 hPa
+Tuesday 19 September 2023,06:00,Clear,13°,2,100%,1020 hPa
+Tuesday 19 September 2023,06:30,Clear,13°,4,100%,1020 hPa
+Tuesday 19 September 2023,07:00,Clear,13°,2,94%,1020 hPa
+Tuesday 19 September 2023,07:30,Clear,12°,Calm,100%,1020 hPa
+Tuesday 19 September 2023,08:00,Clear,12°,Calm,100%,1020 hPa
+Tuesday 19 September 2023,08:30,Clear,13°,6,94%,1020 hPa
+Tuesday 19 September 2023,09:00,Clear,13°,4,100%,1020 hPa
+Tuesday 19 September 2023,09:30,Clear,15°,4,94%,1020 hPa
+Tuesday 19 September 2023,10:00,Clear,16°,2,82%,1020 hPa
+Tuesday 19 September 2023,10:30,Partly Cloudy,17°,6,82%,1020 hPa
+Tuesday 19 September 2023,11:00,Partly Cloudy,18°,2,83%,1021 hPa
+Tuesday 19 September 2023,11:30,Partly Cloudy,19°,6,78%,1020 hPa
+Tuesday 19 September 2023,12:00,Partly Cloudy,19°,4,78%,1020 hPa
+Tuesday 19 September 2023,12:30,Partly Cloudy,20°,9,73%,1020 hPa
+Tuesday 19 September 2023,13:00,Partly Cloudy,21°,7,69%,1020 hPa
+Tuesday 19 September 2023,13:30,Fair,22°,7,64%,1019 hPa
+Tuesday 19 September 2023,14:00,Fair,23°,6,57%,1019 hPa
+Tuesday 19 September 2023,14:30,Fair,23°,4,53%,1018 hPa
+Tuesday 19 September 2023,15:00,Mostly Cloudy,24°,6,47%,1018 hPa
+Tuesday 19 September 2023,15:30,Mostly Cloudy,24°,4,44%,1018 hPa
+Tuesday 19 September 2023,16:00,Mostly Cloudy,23°,6,44%,1017 hPa
+Tuesday 19 September 2023,16:30,Partly Cloudy,24°,6,44%,1017 hPa
+Tuesday 19 September 2023,17:00,Partly Cloudy,24°,4,41%,1017 hPa
+Tuesday 19 September 2023,17:30,Partly Cloudy,25°,4,41%,1016 hPa
+Tuesday 19 September 2023,18:00,Partly Cloudy,24°,6,41%,1016 hPa
+Tuesday 19 September 2023,18:30,Partly Cloudy,24°,11,41%,1016 hPa
+Tuesday 19 September 2023,19:00,Fair,25°,2,39%,1016 hPa
+Tuesday 19 September 2023,19:30,Fair,24°,4,41%,1016 hPa
+Tuesday 19 September 2023,20:00,Fair,23°,Calm,50%,1016 hPa
+Tuesday 19 September 2023,20:30,Fair,21°,7,56%,1016 hPa
+Tuesday 19 September 2023,21:00,Fair,20°,Calm,60%,1016 hPa
+Tuesday 19 September 2023,21:30,Fair,20°,2,56%,1016 hPa
+Tuesday 19 September 2023,22:00,Fair,21°,4,56%,1016 hPa
+Tuesday 19 September 2023,22:30,Fair,19°,7,64%,1017 hPa
+Tuesday 19 September 2023,23:00,Fair,18°,7,68%,1017 hPa
+Tuesday 19 September 2023,23:30,Fair,18°,6,68%,1017 hPa
+Wednesday 20 September 2023,00:00,Fair,17°,2,72%,1017 hPa
+Wednesday 20 September 2023,00:30,Clear,16°,7,77%,1017 hPa
+Wednesday 20 September 2023,01:00,Clear,16°,4,77%,1017 hPa
+Wednesday 20 September 2023,01:30,Clear,16°,7,77%,1017 hPa
+Wednesday 20 September 2023,02:00,Clear,15°,4,82%,1016 hPa
+Wednesday 20 September 2023,02:30,Clear,15°,4,77%,1016 hPa
+Wednesday 20 September 2023,03:00,Clear,15°,2,77%,1016 hPa
+Wednesday 20 September 2023,03:30,Clear,14°,2,82%,1016 hPa
+Wednesday 20 September 2023,04:00,Clear,14°,Calm,82%,1016 hPa
+Wednesday 20 September 2023,04:30,Clear,14°,4,82%,1016 hPa
+Wednesday 20 September 2023,05:00,Clear,13°,Calm,88%,1016 hPa
+Wednesday 20 September 2023,05:30,Clear,14°,6,88%,1015 hPa
+Wednesday 20 September 2023,06:00,Clear,13°,4,88%,1015 hPa
+Wednesday 20 September 2023,06:30,Clear,13°,7,88%,1015 hPa
+Wednesday 20 September 2023,07:00,Clear,13°,4,88%,1015 hPa
+Wednesday 20 September 2023,07:30,Clear,12°,4,94%,1016 hPa
+Wednesday 20 September 2023,08:00,Clear,12°,2,100%,1016 hPa
+Wednesday 20 September 2023,08:30,Clear,12°,2,94%,1016 hPa
+Wednesday 20 September 2023,09:00,Clear,13°,6,94%,1016 hPa
+Wednesday 20 September 2023,09:30,Clear,14°,4,88%,1016 hPa
+Wednesday 20 September 2023,10:00,Clear,16°,Calm,77%,1016 hPa
+Wednesday 20 September 2023,10:30,Clear,17°,2,77%,1016 hPa
+Wednesday 20 September 2023,11:00,Clear,18°,4,73%,1016 hPa
+Wednesday 20 September 2023,11:30,Clear,19°,2,68%,1016 hPa
+Wednesday 20 September 2023,12:00,Clear,20°,2,68%,1016 hPa
+Wednesday 20 September 2023,12:30,Clear,21°,6,69%,1016 hPa
+Wednesday 20 September 2023,13:00,Clear,21°,13,60%,1016 hPa
+Wednesday 20 September 2023,13:30,Clear,23°,17,>,35 53% 1016 hPa
+Wednesday 20 September 2023,14:00,Fair,24°,19,>,41 47% 1015 hPa
+Wednesday 20 September 2023,14:30,Fair,24°,22,47%,1015 hPa
+Wednesday 20 September 2023,15:00,Fair,24°,24,44%,1015 hPa
+Wednesday 20 September 2023,15:30,Fair,24°,24,44%,1014 hPa
+Wednesday 20 September 2023,16:00,Fair,24°,20,>,46 41% 1014 hPa
+Wednesday 20 September 2023,16:30,Fair,24°,30,38%,1014 hPa
+Wednesday 20 September 2023,17:00,Fair,24°,30,38%,1014 hPa
+Wednesday 20 September 2023,17:30,Clear,25°,26,>,57 36% 1013 hPa
+Wednesday 20 September 2023,18:00,Clear,24°,26,38%,1013 hPa
+Wednesday 20 September 2023,18:30,Clear,24°,28,38%,1013 hPa
+Wednesday 20 September 2023,19:00,Clear,24°,22,41%,1013 hPa
+Wednesday 20 September 2023,19:30,Clear,24°,22,38%,1013 hPa
+Wednesday 20 September 2023,20:00,Clear,23°,22,38%,1013 hPa
+Wednesday 20 September 2023,20:30,Clear,23°,20,>,41 38% 1013 hPa
+Wednesday 20 September 2023,21:00,Clear,22°,15,43%,1013 hPa
+Wednesday 20 September 2023,21:30,Clear,22°,19,41%,1013 hPa
+Wednesday 20 September 2023,22:00,Clear,21°,17,43%,1013 hPa
+Wednesday 20 September 2023,22:30,Clear,21°,19,43%,1014 hPa
+Wednesday 20 September 2023,23:00,Fair,21°,15,43%,1014 hPa
+Wednesday 20 September 2023,23:30,Fair,20°,11,46%,1014 hPa
+Thursday 21 September 2023,00:00,Fair,20°,11,46%,1013 hPa
+Thursday 21 September 2023,00:30,Clear,19°,13,49%,1013 hPa
+Thursday 21 September 2023,01:00,Fair,19°,9,46%,1013 hPa
+Thursday 21 September 2023,01:30,Fair,17°,11,55%,1013 hPa
+Thursday 21 September 2023,02:00,Fair,18°,13,52%,1013 hPa
+Thursday 21 September 2023,02:30,Fair,17°,13,55%,1013 hPa
+Thursday 21 September 2023,03:00,Clear,16°,11,63%,1013 hPa
+Thursday 21 September 2023,03:30,Fair,16°,13,63%,1013 hPa
+Thursday 21 September 2023,04:00,Fair,15°,11,72%,1012 hPa
+Thursday 21 September 2023,04:30,Fair,16°,13,72%,1012 hPa
+Thursday 21 September 2023,05:00,Fair,17°,13,68%,1011 hPa
+Thursday 21 September 2023,05:30,Clear,16°,13,72%,1011 hPa
+Thursday 21 September 2023,06:00,Clear,16°,11,72%,1011 hPa
+Thursday 21 September 2023,06:30,Fair,16°,15,77%,1011 hPa
+Thursday 21 September 2023,07:00,Partly Cloudy,16°,20,77%,1011 hPa
+Thursday 21 September 2023,07:30,Partly Cloudy,16°,19,>,37 77% 1011 hPa
+Thursday 21 September 2023,08:00,Partly Cloudy,15°,22,82%,1011 hPa
+Thursday 21 September 2023,08:30,Partly Cloudy,15°,20,82%,1011 hPa
+Thursday 21 September 2023,09:00,Mostly Cloudy,16°,20,77%,1011 hPa
+Thursday 21 September 2023,09:30,Mostly Cloudy,16°,20,77%,1011 hPa
+Thursday 21 September 2023,10:00,Mostly Cloudy,16°,28,77%,1011 hPa
+Thursday 21 September 2023,10:30,Mostly Cloudy,17°,28,72%,1011 hPa
+Thursday 21 September 2023,11:00,Mostly Cloudy,17°,22,72%,1011 hPa
+Thursday 21 September 2023,11:30,Cloudy,17°,22,>,46 72% 1011 hPa
+Thursday 21 September 2023,12:00,Cloudy,17°,24,>,43 72% 1011 hPa
+Thursday 21 September 2023,12:30,Cloudy,18°,20,>,41 68% 1011 hPa
+Thursday 21 September 2023,13:00,Drizzle,18°,26,>,48 68% 1011 hPa
+Thursday 21 September 2023,13:09,Rain,17°,26,>,50 77% 1011 hPa
+Thursday 21 September 2023,13:30,Chance of Rain,17°,24,>,43 82% 1011 hPa
+Thursday 21 September 2023,14:00,Chance of Rain,17°,26,>,44 82% 1011 hPa
+Thursday 21 September 2023,14:30,Drizzle,17°,22,82%,1011 hPa
+Thursday 21 September 2023,15:00,Mostly Cloudy,18°,20,77%,1010 hPa
+Thursday 21 September 2023,15:30,Cloudy,19°,20,>,41 73% 1010 hPa
+Thursday 21 September 2023,16:00,Cloudy,19°,22,73%,1010 hPa
+Thursday 21 September 2023,16:30,Cloudy,19°,19,73%,1009 hPa
+Thursday 21 September 2023,16:41,Rain,19°,26,73%,1009 hPa
+Thursday 21 September 2023,17:00,Rain,19°,24,73%,1009 hPa
+Thursday 21 September 2023,17:30,Cloudy,19°,24,>,46 78% 1009 hPa
+Thursday 21 September 2023,18:00,Mostly Cloudy,19°,22,78%,1009 hPa
+Thursday 21 September 2023,18:30,Mostly Cloudy,19°,20,78%,1009 hPa
+Thursday 21 September 2023,19:00,Mostly Cloudy,19°,24,73%,1009 hPa
+Thursday 21 September 2023,19:30,Mostly Cloudy,19°,22,73%,1009 hPa
+Thursday 21 September 2023,19:42,Mostly Cloudy,19°,26,56%,1010 hPa
+Thursday 21 September 2023,20:00,Mostly Cloudy,18°,26,59%,1010 hPa
+Thursday 21 September 2023,20:30,Mostly Cloudy,18°,19,56%,1010 hPa
+Thursday 21 September 2023,21:00,Mostly Cloudy,18°,20,56%,1010 hPa
+Thursday 21 September 2023,21:30,Mostly Cloudy,18°,17,56%,1011 hPa
+Thursday 21 September 2023,22:00,Partly Cloudy,18°,17,52%,1011 hPa
+Thursday 21 September 2023,22:30,Fair,18°,17,52%,1012 hPa
+Thursday 21 September 2023,23:00,Fair,17°,17,55%,1012 hPa
+Thursday 21 September 2023,23:30,Partly Cloudy,17°,17,55%,1012 hPa
+Friday 22 September 2023,00:00,Fair,17°,19,52%,1012 hPa
+Friday 22 September 2023,00:30,Partly Cloudy,17°,20,52%,1012 hPa
+Friday 22 September 2023,01:00,Partly Cloudy,16°,17,55%,1012 hPa
+Friday 22 September 2023,01:30,Partly Cloudy,16°,15,55%,1012 hPa
+Friday 22 September 2023,02:00,Partly Cloudy,16°,20,59%,1012 hPa
+Friday 22 September 2023,02:30,Partly Cloudy,15°,17,63%,1012 hPa
+Friday 22 September 2023,03:00,Fair,14°,15,67%,1012 hPa
+Friday 22 September 2023,03:30,Fair,14°,13,67%,1012 hPa
+Friday 22 September 2023,04:00,Fair,13°,13,72%,1012 hPa
+Friday 22 September 2023,04:30,Clear,14°,22,63%,1012 hPa
+Friday 22 September 2023,05:00,Clear,13°,4,67%,1012 hPa
+Friday 22 September 2023,05:30,Clear,12°,13,76%,1012 hPa
+Friday 22 September 2023,06:00,Clear,11°,2,76%,1012 hPa
+Friday 22 September 2023,06:30,Clear,12°,7,71%,1013 hPa
+Friday 22 September 2023,07:00,Clear,11°,Calm,76%,1013 hPa
+Friday 22 September 2023,07:30,Clear,10°,Calm,82%,1013 hPa
+Friday 22 September 2023,08:00,Clear,9°,4,87%,1014 hPa
+Friday 22 September 2023,08:30,Clear,9°,2,87%,1014 hPa
+Friday 22 September 2023,09:00,Clear,11°,4,87%,1015 hPa
+Friday 22 September 2023,09:30,Clear,13°,2,77%,1015 hPa
+Friday 22 September 2023,10:00,Clear,14°,4,72%,1015 hPa
+Friday 22 September 2023,10:30,Clear,15°,4,63%,1016 hPa
+Friday 22 September 2023,11:00,Clear,16°,2,55%,1016 hPa
+Friday 22 September 2023,11:30,Clear,16°,7,63%,1016 hPa
+Friday 22 September 2023,12:00,Fair,17°,6,55%,1016 hPa
+Friday 22 September 2023,12:30,Fair,17°,9,52%,1016 hPa
+Friday 22 September 2023,13:00,Fair,18°,6,52%,1016 hPa
+Friday 22 September 2023,13:30,Fair,18°,6,52%,1016 hPa
+Friday 22 September 2023,14:00,Fair,18°,7,49%,1016 hPa
+Friday 22 September 2023,14:30,Fair,20°,2,53%,1016 hPa
+Friday 22 September 2023,15:00,Fair,20°,7,46%,1016 hPa
+Friday 22 September 2023,15:30,Fair,19°,4,43%,1016 hPa
+Friday 22 September 2023,16:00,Fair,20°,6,43%,1016 hPa
+Friday 22 September 2023,16:30,Fair,20°,6,46%,1016 hPa
+Friday 22 September 2023,17:00,Fair,20°,6,40%,1015 hPa
+Friday 22 September 2023,17:30,Fair,21°,2,43%,1016 hPa
+Friday 22 September 2023,18:00,Fair,20°,7,43%,1016 hPa
+Friday 22 September 2023,18:30,Partly Cloudy,21°,4,38%,1016 hPa
+Friday 22 September 2023,19:00,Partly Cloudy,20°,13,40%,1016 hPa
+Friday 22 September 2023,19:30,Partly Cloudy,20°,11,40%,1016 hPa
+Friday 22 September 2023,20:00,Fair,19°,6,46%,1016 hPa
+Friday 22 September 2023,20:30,Fair,18°,2,49%,1017 hPa
+Friday 22 September 2023,21:00,Partly Cloudy,17°,7,52%,1017 hPa
+Friday 22 September 2023,21:30,Partly Cloudy,17°,7,52%,1018 hPa
+Friday 22 September 2023,22:00,Partly Cloudy,16°,6,55%,1018 hPa
+Friday 22 September 2023,22:30,Partly Cloudy,15°,2,59%,1018 hPa
+Friday 22 September 2023,23:00,Partly Cloudy,15°,Calm,59%,1018 hPa
+Friday 22 September 2023,23:30,Partly Cloudy,14°,Calm,67%,1018 hPa
+Saturday 23 September 2023,00:00,Partly Cloudy,14°,Calm,63%,1019 hPa
+Saturday 23 September 2023,00:30,Partly Cloudy,13°,Calm,67%,1019 hPa
+Saturday 23 September 2023,01:00,Partly Cloudy,14°,4,63%,1019 hPa
+Saturday 23 September 2023,01:30,Partly Cloudy,13°,6,72%,1019 hPa
+Saturday 23 September 2023,02:00,Partly Cloudy,12°,2,76%,1019 hPa
+Saturday 23 September 2023,02:30,Partly Cloudy,11°,4,82%,1019 hPa
+Saturday 23 September 2023,03:00,Partly Cloudy,11°,6,82%,1019 hPa
+Saturday 23 September 2023,03:30,Partly Cloudy,10°,2,87%,1019 hPa
+Saturday 23 September 2023,04:00,Partly Cloudy,11°,6,82%,1019 hPa
+Saturday 23 September 2023,04:30,Partly Cloudy,10°,4,87%,1019 hPa
+Saturday 23 September 2023,05:00,Partly Cloudy,10°,6,87%,1019 hPa
+Saturday 23 September 2023,05:30,Partly Cloudy,9°,6,93%,1019 hPa
+Saturday 23 September 2023,06:00,Clear,9°,6,87%,1019 hPa
+Saturday 23 September 2023,06:30,Clear,9°,4,87%,1020 hPa
+Saturday 23 September 2023,07:00,Clear,9°,6,87%,1020 hPa
+Saturday 23 September 2023,07:30,Clear,8°,Calm,93%,1020 hPa
+Saturday 23 September 2023,08:00,Clear,8°,4,93%,1020 hPa
+Saturday 23 September 2023,08:30,Clear,8°,Calm,93%,1021 hPa
+Saturday 23 September 2023,09:00,Clear,9°,4,93%,1021 hPa
+Saturday 23 September 2023,09:30,Clear,11°,6,82%,1022 hPa
+Saturday 23 September 2023,10:00,Clear,13°,Calm,72%,1022 hPa
+Saturday 23 September 2023,10:30,Clear,14°,4,72%,1022 hPa
+Saturday 23 September 2023,11:00,Clear,16°,2,63%,1023 hPa
+Saturday 23 September 2023,11:30,Clear,16°,Calm,63%,1023 hPa
+Saturday 23 September 2023,12:00,Clear,18°,2,52%,1023 hPa
+Saturday 23 September 2023,12:30,Clear,19°,4,52%,1023 hPa
+Saturday 23 September 2023,13:00,Clear,19°,4,49%,1023 hPa
+Saturday 23 September 2023,13:30,Clear,20°,4,46%,1023 hPa
+Saturday 23 September 2023,14:00,Clear,20°,6,46%,1022 hPa
+Saturday 23 September 2023,14:30,Clear,20°,7,46%,1022 hPa
+Saturday 23 September 2023,15:00,Clear,21°,7,40%,1022 hPa
+Saturday 23 September 2023,15:30,Clear,22°,Calm,38%,1022 hPa
+Saturday 23 September 2023,16:00,Clear,21°,7,40%,1022 hPa
+Saturday 23 September 2023,16:30,Clear,22°,4,43%,1022 hPa
+Saturday 23 September 2023,17:00,Clear,22°,7,38%,1022 hPa
+Saturday 23 September 2023,17:30,Clear,22°,6,43%,1021 hPa
+Saturday 23 September 2023,18:00,Clear,23°,2,36%,1021 hPa
+Saturday 23 September 2023,18:30,Clear,23°,2,38%,1021 hPa
+Saturday 23 September 2023,19:00,Clear,22°,6,41%,1021 hPa
+Saturday 23 September 2023,19:30,Clear,22°,4,41%,1021 hPa
+Saturday 23 September 2023,20:00,Clear,21°,Calm,40%,1021 hPa
+Saturday 23 September 2023,20:30,Clear,19°,Calm,46%,1022 hPa
+Saturday 23 September 2023,21:00,Clear,19°,Calm,46%,1022 hPa
+Saturday 23 September 2023,21:30,Clear,18°,Calm,49%,1022 hPa
+Saturday 23 September 2023,22:00,Clear,16°,Calm,55%,1022 hPa
+Saturday 23 September 2023,22:30,Clear,16°,Calm,59%,1023 hPa
+Saturday 23 September 2023,23:00,Clear,16°,6,68%,1023 hPa
+Saturday 23 September 2023,23:30,Clear,15°,6,72%,1023 hPa
+Sunday 24 September 2023,00:00,Clear,15°,6,72%,1023 hPa
+Sunday 24 September 2023,00:30,Clear,14°,6,77%,1023 hPa
+Sunday 24 September 2023,01:00,Clear,14°,6,77%,1023 hPa
+Sunday 24 September 2023,01:30,Clear,14°,6,77%,1023 hPa
+Sunday 24 September 2023,02:00,Clear,13°,6,82%,1023 hPa
+Sunday 24 September 2023,02:30,Clear,13°,6,82%,1023 hPa
+Sunday 24 September 2023,03:00,Clear,12°,6,88%,1023 hPa
+Sunday 24 September 2023,03:30,Clear,12°,6,88%,1023 hPa
+Sunday 24 September 2023,04:00,Clear,11°,4,87%,1023 hPa
+Sunday 24 September 2023,04:30,Clear,11°,4,94%,1023 hPa
+Sunday 24 September 2023,05:00,Clear,11°,Calm,87%,1023 hPa
+Sunday 24 September 2023,05:30,Clear,11°,6,87%,1022 hPa
+Sunday 24 September 2023,06:00,Clear,11°,4,87%,1022 hPa
+Sunday 24 September 2023,06:30,Clear,10°,6,93%,1022 hPa
+Sunday 24 September 2023,07:00,Clear,10°,6,93%,1022 hPa
+Sunday 24 September 2023,07:30,Clear,10°,4,93%,1023 hPa
+Sunday 24 September 2023,08:00,Clear,10°,2,87%,1023 hPa
+Sunday 24 September 2023,08:30,Clear,9°,2,93%,1023 hPa
+Sunday 24 September 2023,09:00,Clear,11°,Calm,94%,1023 hPa
+Sunday 24 September 2023,09:30,Clear,13°,Calm,82%,1023 hPa
+Sunday 24 September 2023,10:00,Clear,14°,4,77%,1024 hPa
+Sunday 24 September 2023,10:30,Clear,15°,2,72%,1024 hPa
+Sunday 24 September 2023,11:00,Clear,17°,4,63%,1024 hPa
+Sunday 24 September 2023,11:30,Clear,18°,4,64%,1024 hPa
+Sunday 24 September 2023,12:00,Clear,20°,Calm,53%,1024 hPa
+Sunday 24 September 2023,12:30,Clear,20°,2,53%,1024 hPa
+Sunday 24 September 2023,13:00,Clear,23°,Calm,44%,1024 hPa
+Sunday 24 September 2023,13:30,Clear,23°,Calm,47%,1023 hPa
+Sunday 24 September 2023,14:00,Clear,23°,4,41%,1023 hPa
+Sunday 24 September 2023,14:30,Clear,25°,2,39%,1023 hPa
+Sunday 24 September 2023,15:00,Clear,24°,4,38%,1023 hPa
+Sunday 24 September 2023,15:30,Clear,25°,2,36%,1022 hPa
+Sunday 24 September 2023,16:00,Clear,26°,2,32%,1022 hPa
+Sunday 24 September 2023,16:30,Clear,26°,6,32%,1022 hPa
+Sunday 24 September 2023,17:00,Clear,26°,6,39%,1021 hPa
+Sunday 24 September 2023,17:30,Clear,26°,4,30%,1021 hPa
+Sunday 24 September 2023,18:00,Clear,26°,4,34%,1021 hPa
+Sunday 24 September 2023,18:30,Clear,26°,4,28%,1021 hPa
+Sunday 24 September 2023,19:00,Clear,27°,Calm,37%,1021 hPa
+Sunday 24 September 2023,19:30,Clear,25°,2,39%,1021 hPa
+Sunday 24 September 2023,20:00,Clear,24°,Calm,36%,1021 hPa
+Sunday 24 September 2023,20:30,Clear,23°,6,33%,1021 hPa
+Sunday 24 September 2023,21:00,Clear,20°,6,49%,1021 hPa
+Sunday 24 September 2023,21:30,Clear,21°,6,43%,1021 hPa
+Sunday 24 September 2023,22:00,Clear,20°,4,46%,1022 hPa
+Sunday 24 September 2023,22:30,Clear,18°,4,59%,1022 hPa
+Sunday 24 September 2023,23:00,Clear,18°,7,59%,1022 hPa
+Sunday 24 September 2023,23:30,Clear,17°,11,68%,1022 hPa
+Monday 25 September 2023,00:00,Clear,17°,6,63%,1022 hPa
+Monday 25 September 2023,00:30,Clear,16°,4,68%,1022 hPa
+Monday 25 September 2023,01:00,Clear,15°,4,77%,1022 hPa
+Monday 25 September 2023,01:30,Clear,15°,4,77%,1022 hPa
+Monday 25 September 2023,02:00,Clear,14°,4,77%,1022 hPa
+Monday 25 September 2023,02:30,Clear,14°,4,77%,1022 hPa
+Monday 25 September 2023,03:00,Clear,14°,2,77%,1022 hPa
+Monday 25 September 2023,03:30,Clear,14°,6,77%,1022 hPa
+Monday 25 September 2023,04:00,Clear,13°,4,82%,1022 hPa
+Monday 25 September 2023,04:30,Clear,12°,6,88%,1022 hPa
+Monday 25 September 2023,05:00,Clear,12°,4,88%,1022 hPa
+Monday 25 September 2023,05:30,Clear,12°,6,82%,1022 hPa
+Monday 25 September 2023,06:00,Clear,12°,6,82%,1021 hPa
+Monday 25 September 2023,06:30,Clear,11°,2,87%,1021 hPa
+Monday 25 September 2023,07:00,Clear,11°,4,87%,1022 hPa
+Monday 25 September 2023,07:30,Clear,11°,2,87%,1022 hPa
+Monday 25 September 2023,08:00,Clear,11°,Calm,87%,1022 hPa
+Monday 25 September 2023,08:30,Clear,10°,Calm,93%,1022 hPa
+Monday 25 September 2023,09:00,Clear,12°,4,88%,1022 hPa
+Monday 25 September 2023,09:30,Clear,15°,Calm,77%,1022 hPa
+Monday 25 September 2023,10:00,Clear,15°,4,77%,1022 hPa
+Monday 25 September 2023,10:30,Clear,16°,6,68%,1023 hPa
+Monday 25 September 2023,11:00,Clear,18°,Calm,64%,1023 hPa
+Monday 25 September 2023,11:30,Clear,20°,2,56%,1023 hPa
+Monday 25 September 2023,12:00,Clear,21°,2,53%,1023 hPa
+Monday 25 September 2023,12:30,Clear,23°,2,44%,1022 hPa
+Monday 25 September 2023,13:00,Clear,24°,Calm,41%,1022 hPa
+Monday 25 September 2023,13:30,Clear,24°,4,44%,1022 hPa
+Monday 25 September 2023,14:00,Clear,26°,4,39%,1022 hPa
+Monday 25 September 2023,14:30,Clear,26°,6,32%,1021 hPa
+Monday 25 September 2023,15:00,Clear,27°,2,28%,1021 hPa
+Monday 25 September 2023,15:30,Clear,27°,4,30%,1021 hPa
+Monday 25 September 2023,16:00,Clear,28°,6,28%,1020 hPa
+Monday 25 September 2023,16:30,Clear,28°,6,23%,1020 hPa
+Monday 25 September 2023,17:00,Clear,28°,4,28%,1020 hPa
+Monday 25 September 2023,17:30,Clear,28°,6,28%,1020 hPa
+Monday 25 September 2023,18:00,Clear,29°,6,29%,1020 hPa
+Monday 25 September 2023,18:30,Clear,29°,6,23%,1020 hPa
+Monday 25 September 2023,19:00,Clear,28°,9,25%,1020 hPa
+Monday 25 September 2023,19:30,Clear,28°,6,26%,1020 hPa
+Monday 25 September 2023,20:00,Clear,27°,7,28%,1020 hPa
+Monday 25 September 2023,20:30,Clear,25°,4,32%,1020 hPa
+Monday 25 September 2023,21:00,Clear,22°,Calm,41%,1020 hPa
+Monday 25 September 2023,21:30,Clear,21°,6,43%,1020 hPa
+Monday 25 September 2023,22:00,Clear,20°,6,49%,1020 hPa
+Monday 25 September 2023,22:30,Clear,20°,7,56%,1021 hPa
+Monday 25 September 2023,23:00,Clear,19°,6,60%,1021 hPa
+Monday 25 September 2023,23:30,Clear,17°,7,68%,1021 hPa
+Tuesday 26 September 2023,00:00,Clear,17°,7,68%,1021 hPa
+Tuesday 26 September 2023,00:30,Clear,17°,2,68%,1021 hPa
+Tuesday 26 September 2023,01:00,Clear,15°,6,77%,1021 hPa
+Tuesday 26 September 2023,01:30,Clear,15°,4,77%,1021 hPa
+Tuesday 26 September 2023,02:00,Clear,16°,6,68%,1021 hPa
+Tuesday 26 September 2023,02:30,Clear,16°,6,68%,1021 hPa
+Tuesday 26 September 2023,03:00,Clear,15°,9,72%,1021 hPa
+Tuesday 26 September 2023,03:30,Clear,14°,11,77%,1022 hPa
+Tuesday 26 September 2023,04:00,Clear,14°,17,72%,1022 hPa
+Tuesday 26 September 2023,04:30,Clear,14°,13,77%,1022 hPa
+Tuesday 26 September 2023,05:00,Clear,14°,11,77%,1022 hPa
+Tuesday 26 September 2023,05:30,Clear,14°,7,72%,1021 hPa
+Tuesday 26 September 2023,06:00,Clear,13°,4,77%,1022 hPa
+Tuesday 26 September 2023,06:30,Clear,12°,6,82%,1022 hPa
+Tuesday 26 September 2023,07:00,Clear,13°,4,77%,1022 hPa
+Tuesday 26 September 2023,07:30,Clear,12°,4,82%,1022 hPa
+Tuesday 26 September 2023,08:00,Clear,12°,2,82%,1022 hPa
+Tuesday 26 September 2023,08:30,Clear,12°,6,82%,1022 hPa
+Tuesday 26 September 2023,09:00,Clear,13°,2,77%,1022 hPa
+Tuesday 26 September 2023,09:30,Clear,15°,Calm,72%,1022 hPa
+Tuesday 26 September 2023,10:00,Clear,16°,4,68%,1022 hPa
+Tuesday 26 September 2023,10:30,Clear,17°,4,68%,1022 hPa
+Tuesday 26 September 2023,11:00,Clear,18°,6,64%,1022 hPa
+Tuesday 26 September 2023,11:30,Clear,20°,6,60%,1023 hPa
+Tuesday 26 September 2023,12:00,Clear,21°,2,56%,1022 hPa
+Tuesday 26 September 2023,12:30,Clear,22°,Calm,53%,1022 hPa
+Tuesday 26 September 2023,13:00,Clear,24°,2,50%,1022 hPa
+Tuesday 26 September 2023,13:30,Clear,24°,4,47%,1022 hPa
+Tuesday 26 September 2023,14:00,Clear,24°,6,47%,1022 hPa
+Tuesday 26 September 2023,14:30,Clear,26°,4,45%,1021 hPa
+Tuesday 26 September 2023,15:00,Clear,25°,6,44%,1021 hPa
+Tuesday 26 September 2023,15:30,Clear,26°,2,42%,1020 hPa
+Tuesday 26 September 2023,16:00,Clear,27°,Calm,39%,1020 hPa
+Tuesday 26 September 2023,16:30,Clear,27°,2,37%,1020 hPa
+Tuesday 26 September 2023,17:00,Clear,28°,4,32%,1020 hPa
+Tuesday 26 September 2023,17:30,Clear,29°,2,33%,1020 hPa
+Tuesday 26 September 2023,18:00,Clear,28°,4,35%,1020 hPa
+Tuesday 26 September 2023,18:30,Clear,28°,6,37%,1019 hPa
+Tuesday 26 September 2023,19:00,Clear,28°,6,37%,1019 hPa
+Tuesday 26 September 2023,19:30,Clear,27°,6,37%,1019 hPa
+Tuesday 26 September 2023,20:00,Clear,25°,6,41%,1019 hPa
+Tuesday 26 September 2023,20:30,Clear,24°,6,44%,1020 hPa
+Tuesday 26 September 2023,21:00,Clear,23°,2,47%,1020 hPa
+Tuesday 26 September 2023,21:30,Clear,21°,Calm,56%,1020 hPa
+Tuesday 26 September 2023,22:00,Clear,20°,2,60%,1020 hPa
+Tuesday 26 September 2023,22:30,Clear,20°,4,64%,1020 hPa
+Tuesday 26 September 2023,23:00,Clear,20°,6,64%,1020 hPa
+Tuesday 26 September 2023,23:30,Clear,19°,6,73%,1021 hPa
+Wednesday 27 September 2023,00:00,Clear,18°,7,77%,1021 hPa
+Wednesday 27 September 2023,00:30,Clear,18°,6,73%,1021 hPa
+Wednesday 27 September 2023,01:00,Clear,18°,7,73%,1021 hPa
+Wednesday 27 September 2023,01:30,Clear,17°,6,77%,1020 hPa
+Wednesday 27 September 2023,02:00,Clear,17°,4,77%,1021 hPa
+Wednesday 27 September 2023,02:30,Clear,16°,4,82%,1021 hPa
+Wednesday 27 September 2023,03:00,Clear,16°,Calm,77%,1020 hPa
+Wednesday 27 September 2023,03:30,Clear,15°,6,82%,1020 hPa
+Wednesday 27 September 2023,04:00,Clear,15°,2,88%,1020 hPa
+Wednesday 27 September 2023,04:30,Clear,14°,7,88%,1021 hPa
+Wednesday 27 September 2023,05:00,Clear,14°,4,88%,1020 hPa
+Wednesday 27 September 2023,05:30,Clear,14°,2,88%,1020 hPa
+Wednesday 27 September 2023,06:00,Clear,14°,6,88%,1020 hPa
+Wednesday 27 September 2023,06:30,Clear,14°,9,88%,1020 hPa
+Wednesday 27 September 2023,07:00,Clear,14°,7,82%,1020 hPa
+Wednesday 27 September 2023,07:30,Clear,14°,13,82%,1021 hPa
+Wednesday 27 September 2023,08:00,Clear,13°,9,88%,1021 hPa
+Wednesday 27 September 2023,08:30,Clear,13°,6,88%,1021 hPa
+Wednesday 27 September 2023,09:00,Clear,14°,6,82%,1021 hPa
+Wednesday 27 September 2023,09:30,Clear,15°,Calm,82%,1021 hPa
+Wednesday 27 September 2023,10:00,Clear,16°,2,77%,1022 hPa
+Wednesday 27 September 2023,10:30,Clear,18°,Calm,64%,1022 hPa
+Wednesday 27 September 2023,11:00,Clear,19°,4,68%,1022 hPa
+Wednesday 27 September 2023,11:30,Clear,22°,Calm,60%,1022 hPa
+Wednesday 27 September 2023,12:00,Clear,23°,4,57%,1022 hPa
+Wednesday 27 September 2023,12:30,Clear,23°,7,61%,1022 hPa
+Wednesday 27 September 2023,13:00,Clear,24°,4,61%,1022 hPa
+Wednesday 27 September 2023,13:30,Clear,25°,6,50%,1022 hPa
+Wednesday 27 September 2023,14:00,Clear,25°,7,54%,1021 hPa
+Wednesday 27 September 2023,14:30,Clear,26°,2,51%,1021 hPa
+Wednesday 27 September 2023,15:00,Clear,26°,4,48%,1020 hPa
+Wednesday 27 September 2023,15:30,Clear,27°,4,42%,1020 hPa
+Wednesday 27 September 2023,16:00,Clear,27°,7,48%,1020 hPa
+Wednesday 27 September 2023,16:30,Clear,28°,2,42%,1019 hPa
+Wednesday 27 September 2023,17:00,Clear,28°,7,40%,1019 hPa
+Wednesday 27 September 2023,17:30,Clear,29°,9,37%,1019 hPa
+Wednesday 27 September 2023,18:00,Clear,28°,11,35%,1019 hPa
+Wednesday 27 September 2023,18:30,Clear,28°,9,32%,1019 hPa
+Wednesday 27 September 2023,19:00,Clear,28°,11,32%,1019 hPa
+Wednesday 27 September 2023,19:30,Clear,27°,9,32%,1019 hPa
+Wednesday 27 September 2023,20:00,Clear,27°,7,32%,1019 hPa
+Wednesday 27 September 2023,20:30,Clear,26°,6,37%,1019 hPa
+Wednesday 27 September 2023,21:00,Clear,21°,Calm,53%,1019 hPa
+Wednesday 27 September 2023,21:30,Clear,21°,Calm,53%,1020 hPa
+Wednesday 27 September 2023,22:00,Clear,21°,Calm,49%,1020 hPa
+Wednesday 27 September 2023,22:30,Clear,20°,Calm,56%,1020 hPa
+Wednesday 27 September 2023,23:00,Clear,20°,4,56%,1020 hPa
+Wednesday 27 September 2023,23:30,Clear,19°,6,68%,1020 hPa
+Thursday 28 September 2023,00:00,Clear,19°,6,73%,1020 hPa
+Thursday 28 September 2023,00:30,Clear,18°,2,73%,1020 hPa
+Thursday 28 September 2023,01:00,Clear,17°,4,77%,1020 hPa
+Thursday 28 September 2023,01:30,Clear,17°,7,82%,1020 hPa
+Thursday 28 September 2023,02:00,Clear,16°,Calm,82%,1020 hPa
+Thursday 28 September 2023,02:30,Clear,17°,4,77%,1020 hPa
+Thursday 28 September 2023,03:00,Clear,16°,4,82%,1020 hPa
+Thursday 28 September 2023,03:30,Clear,16°,4,82%,1020 hPa
+Thursday 28 September 2023,04:00,Clear,16°,6,82%,1020 hPa
+Thursday 28 September 2023,04:30,Clear,15°,6,88%,1020 hPa
+Thursday 28 September 2023,05:00,Clear,15°,6,88%,1020 hPa
+Thursday 28 September 2023,05:30,Clear,15°,4,88%,1020 hPa
+Thursday 28 September 2023,06:00,Clear,14°,4,88%,1020 hPa
+Thursday 28 September 2023,06:30,Clear,14°,4,88%,1020 hPa
+Thursday 28 September 2023,07:00,Clear,13°,4,94%,1020 hPa
+Thursday 28 September 2023,07:30,Clear,14°,6,88%,1021 hPa
+Thursday 28 September 2023,08:00,Clear,13°,6,94%,1021 hPa
+Thursday 28 September 2023,08:30,Clear,14°,6,88%,1021 hPa
+Thursday 28 September 2023,09:00,Clear,14°,4,88%,1021 hPa
+Thursday 28 September 2023,09:30,Clear,15°,4,82%,1021 hPa
+Thursday 28 September 2023,10:00,Clear,16°,Calm,82%,1022 hPa
+Thursday 28 September 2023,10:30,Clear,18°,Calm,73%,1022 hPa
+Thursday 28 September 2023,11:00,Clear,19°,4,73%,1022 hPa
+Thursday 28 September 2023,11:30,Clear,22°,Calm,57%,1022 hPa
+Thursday 28 September 2023,12:00,Clear,22°,4,53%,1022 hPa
+Thursday 28 September 2023,12:30,Clear,24°,2,50%,1022 hPa
+Thursday 28 September 2023,13:00,Clear,25°,Calm,47%,1022 hPa
+Thursday 28 September 2023,13:30,Clear,26°,2,45%,1022 hPa
+Thursday 28 September 2023,14:00,Clear,27°,4,45%,1021 hPa
+Thursday 28 September 2023,14:30,Clear,27°,6,45%,1021 hPa
+Thursday 28 September 2023,15:00,Clear,28°,11,40%,1021 hPa
+Thursday 28 September 2023,15:30,Clear,28°,11,42%,1021 hPa
+Thursday 28 September 2023,16:00,Clear,28°,9,40%,1020 hPa
+Thursday 28 September 2023,16:30,Clear,29°,11,33%,1020 hPa
+Thursday 28 September 2023,17:00,Clear,29°,13,33%,1020 hPa
+Thursday 28 September 2023,17:30,Clear,29°,6,33%,1020 hPa
+Thursday 28 September 2023,18:00,Clear,29°,4,35%,1020 hPa
+Thursday 28 September 2023,18:30,Clear,29°,6,35%,1020 hPa
+Thursday 28 September 2023,19:00,Clear,29°,6,35%,1020 hPa
+Thursday 28 September 2023,19:30,Clear,28°,6,32%,1020 hPa
+Thursday 28 September 2023,20:00,Clear,26°,6,37%,1020 hPa
+Thursday 28 September 2023,20:30,Clear,25°,6,39%,1020 hPa
+Thursday 28 September 2023,21:00,Clear,26°,6,37%,1021 hPa
+Thursday 28 September 2023,21:30,Clear,26°,2,42%,1021 hPa
+Thursday 28 September 2023,22:00,Clear,22°,7,57%,1021 hPa
+Thursday 28 September 2023,22:30,Clear,21°,6,64%,1022 hPa
+Thursday 28 September 2023,23:00,Clear,21°,9,64%,1022 hPa
+Thursday 28 September 2023,23:30,Clear,21°,11,69%,1022 hPa
+Friday 29 September 2023,00:00,Clear,20°,13,68%,1022 hPa
+Friday 29 September 2023,00:30,Clear,19°,2,73%,1022 hPa
+Friday 29 September 2023,01:00,Clear,18°,2,77%,1022 hPa
+Friday 29 September 2023,01:30,Clear,18°,4,77%,1022 hPa
+Friday 29 September 2023,02:00,Clear,18°,4,77%,1023 hPa
+Friday 29 September 2023,02:30,Clear,17°,4,82%,1023 hPa
+Friday 29 September 2023,03:00,Clear,17°,4,77%,1023 hPa
+Friday 29 September 2023,03:30,Clear,17°,6,77%,1023 hPa
+Friday 29 September 2023,04:00,Clear,16°,4,82%,1023 hPa
+Friday 29 September 2023,04:30,Clear,16°,4,82%,1023 hPa
+Friday 29 September 2023,05:00,Clear,15°,2,88%,1023 hPa
+Friday 29 September 2023,05:30,Clear,15°,2,82%,1023 hPa
+Friday 29 September 2023,06:00,Clear,14°,4,82%,1023 hPa
+Friday 29 September 2023,06:30,Clear,15°,4,82%,1023 hPa
+Friday 29 September 2023,07:00,Clear,14°,6,82%,1023 hPa
+Friday 29 September 2023,07:30,Clear,14°,6,82%,1024 hPa
+Friday 29 September 2023,08:00,Clear,13°,4,88%,1024 hPa
+Friday 29 September 2023,08:30,Clear,13°,6,88%,1024 hPa
+Friday 29 September 2023,09:00,Clear,14°,7,82%,1024 hPa
+Friday 29 September 2023,09:30,Clear,15°,11,77%,1025 hPa
+Friday 29 September 2023,10:00,Clear,17°,11,68%,1025 hPa
+Friday 29 September 2023,10:30,Clear,18°,6,68%,1025 hPa
+Friday 29 September 2023,11:00,Clear,20°,9,60%,1025 hPa
+Friday 29 September 2023,11:30,Clear,22°,9,60%,1025 hPa
+Friday 29 September 2023,12:00,Clear,23°,9,53%,1025 hPa
+Friday 29 September 2023,12:30,Clear,25°,7,50%,1025 hPa
+Friday 29 September 2023,13:00,Clear,26°,7,51%,1025 hPa
+Friday 29 September 2023,13:30,Clear,27°,6,42%,1025 hPa
+Friday 29 September 2023,14:00,Clear,28°,6,40%,1025 hPa
+Friday 29 September 2023,14:30,Clear,29°,9,43%,1025 hPa
+Friday 29 September 2023,15:00,Clear,29°,6,37%,1024 hPa
+Friday 29 September 2023,15:30,Clear,30°,9,35%,1024 hPa
+Friday 29 September 2023,16:00,Clear,30°,7,31%,1024 hPa
+Friday 29 September 2023,16:30,Clear,30°,6,33%,1023 hPa
+Friday 29 September 2023,17:00,Clear,31°,4,27%,1023 hPa
+Friday 29 September 2023,17:30,Clear,30°,6,27%,1023 hPa
+Friday 29 September 2023,18:00,Clear,31°,4,29%,1023 hPa
+Friday 29 September 2023,18:30,Clear,31°,4,33%,1023 hPa
+Friday 29 September 2023,19:00,Clear,30°,2,35%,1023 hPa
+Friday 29 September 2023,19:30,Clear,29°,4,33%,1023 hPa
+Friday 29 September 2023,20:00,Clear,26°,4,42%,1023 hPa
+Friday 29 September 2023,20:30,Clear,25°,6,41%,1024 hPa
+Friday 29 September 2023,21:00,Clear,24°,6,47%,1024 hPa
+Friday 29 September 2023,21:30,Clear,23°,4,50%,1024 hPa
+Friday 29 September 2023,22:00,Clear,23°,2,50%,1024 hPa
+Friday 29 September 2023,22:30,Clear,21°,6,56%,1024 hPa
+Friday 29 September 2023,23:00,Clear,22°,9,57%,1025 hPa
+Friday 29 September 2023,23:30,Clear,21°,7,60%,1025 hPa
+Saturday 30 September 2023,00:00,Clear,20°,6,64%,1025 hPa
+Saturday 30 September 2023,00:30,Clear,20°,11,64%,1025 hPa
+Saturday 30 September 2023,01:00,Clear,19°,9,68%,1025 hPa
+Saturday 30 September 2023,01:30,Clear,19°,6,68%,1025 hPa
+Saturday 30 September 2023,02:00,Clear,18°,4,73%,1026 hPa
+Saturday 30 September 2023,02:30,Clear,17°,Calm,77%,1026 hPa
+Saturday 30 September 2023,03:00,Clear,17°,6,77%,1026 hPa
+Saturday 30 September 2023,03:30,Clear,17°,2,77%,1026 hPa
+Saturday 30 September 2023,04:00,Clear,17°,4,72%,1026 hPa
+Saturday 30 September 2023,04:30,Clear,16°,6,77%,1026 hPa
+Saturday 30 September 2023,05:00,Clear,16°,6,77%,1026 hPa
+Saturday 30 September 2023,05:30,Clear,15°,6,82%,1026 hPa
+Saturday 30 September 2023,06:00,Clear,15°,4,82%,1026 hPa
+Saturday 30 September 2023,06:30,Clear,15°,6,82%,1026 hPa
+Saturday 30 September 2023,07:00,Clear,15°,4,82%,1026 hPa
+Saturday 30 September 2023,07:30,Clear,15°,6,82%,1026 hPa
+Saturday 30 September 2023,08:00,Clear,15°,6,82%,1027 hPa
+Saturday 30 September 2023,08:30,Clear,14°,6,88%,1027 hPa
+Saturday 30 September 2023,09:00,Clear,15°,6,82%,1027 hPa
+Saturday 30 September 2023,09:30,Clear,16°,9,82%,1027 hPa
+Saturday 30 September 2023,10:00,Clear,18°,6,73%,1027 hPa
+Saturday 30 September 2023,10:30,Clear,19°,4,68%,1027 hPa
+Saturday 30 September 2023,11:00,Clear,21°,Calm,69%,1028 hPa
+Saturday 30 September 2023,11:30,Clear,22°,4,60%,1028 hPa
+Saturday 30 September 2023,12:00,Clear,24°,2,54%,1027 hPa
+Saturday 30 September 2023,12:30,Clear,25°,Calm,54%,1027 hPa
+Saturday 30 September 2023,13:00,Clear,27°,2,48%,1027 hPa
+Saturday 30 September 2023,13:30,Clear,27°,4,42%,1027 hPa
+Saturday 30 September 2023,14:00,Clear,28°,6,42%,1027 hPa
+Saturday 30 September 2023,14:30,Clear,29°,4,37%,1026 hPa
+Saturday 30 September 2023,15:00,Clear,29°,4,40%,1026 hPa
+Saturday 30 September 2023,15:30,Clear,29°,4,37%,1026 hPa
+Saturday 30 September 2023,16:00,Clear,30°,4,33%,1025 hPa
+Saturday 30 September 2023,16:30,Clear,30°,2,38%,1025 hPa
+Saturday 30 September 2023,17:00,Clear,31°,2,33%,1025 hPa
+Saturday 30 September 2023,17:30,Clear,32°,Calm,29%,1024 hPa
+Saturday 30 September 2023,18:00,Clear,31°,2,33%,1024 hPa
+Saturday 30 September 2023,18:30,Clear,31°,Calm,33%,1024 hPa
+Saturday 30 September 2023,19:00,Clear,30°,4,40%,1024 hPa
+Saturday 30 September 2023,19:30,Clear,29°,Calm,40%,1024 hPa
+Saturday 30 September 2023,20:00,Clear,27°,6,45%,1024 hPa
+Saturday 30 September 2023,20:30,Clear,26°,7,48%,1024 hPa
+Saturday 30 September 2023,21:00,Clear,23°,7,61%,1024 hPa
+Saturday 30 September 2023,21:30,Clear,24°,Calm,54%,1024 hPa
+Saturday 30 September 2023,22:00,Clear,23°,9,61%,1025 hPa
+Saturday 30 September 2023,22:30,Clear,22°,6,64%,1025 hPa
+Saturday 30 September 2023,23:00,Clear,21°,6,69%,1025 hPa
+Saturday 30 September 2023,23:30,Clear,21°,6,69%,1025 hPa
