@@ -41,7 +41,7 @@ Below, the sources and tools used in each of the stages of the project will be b
 <details close>
 <summary>EXTRACT STAGE</summary>
 <br>
-  
+ 
 <details close>
 <summary>Fligth Departures Records</summary>
 <br>
@@ -81,6 +81,7 @@ The main tools used have been Pandas and Excel.
 <summary>Fligth Departures Records</summary>
 <br>
 In this stage the flight records obtained previously had been cleaned. The final result of the cleanup is a DataFrame with the following columns:
+  
 <img width="556" alt="flights" src="https://github.com/arromeral/ETL-MAD-arromeral/assets/138980560/2e92310e-ad76-4c94-a42b-57e7d48bc696">
 
   - **flight_id:** Column with a unique id for each flight, to be able to relate it later with the rest of the data.
