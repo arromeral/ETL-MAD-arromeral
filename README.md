@@ -17,15 +17,15 @@ Additionally, [METAR](https://skybrary.aero/articles/meteorological-aerodrome-re
 The contents of the project are as follows:
 
 - [**data**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/data): Folder that contains the main data used in the project, both extracted and transformed for later loading.
-   - [**eurocontrol_MAD_data**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/data/eurocontrol_MAD_data): Folder with data relating to air traffic obtained from Eurocontrol      
-   - [**flights**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/data/flights): Folder with data referring to flight records obtained from flightera
-   - [**metar**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/data/metar): Folder with data referring to the METAR reports obtained from tutiempo.net
+   - [**eurocontrol_MAD_data**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/data/eurocontrol_MAD_data): Folder with data relating to air traffic obtained from Eurocontrol.      
+   - [**flights**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/data/flights): Folder with data referring to flight records obtained from flightera.
+   - [**metar**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/data/metar): Folder with data referring to the METAR reports obtained from tutiempo.net.
 - [**images**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/main/images): Folder with the images used in this document.
 - [**Jupyter Notebooks**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/Jupyter%20Notebooks): Folder with the Jupyter Notebooks used during de Extraction and Transforming stages.
    - [**flights_extraction.ipynb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/Jupyter%20Notebooks/flights_extraction.ipynb): Jupyter notebook in which the process of extracting the target flight records is developed.
    - [**parallel_webscrapping_metars.ipynb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/Jupyter%20Notebooks/parallel_webscrapping_metars.ipynb): Jupyter notebook in which the extraction process of the target METAR reports is developed.
    - [**eurocontrol_extract_cleaning.ipynb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/Jupyter%20Notebooks/eurocontrol_extract_cleaning.ipynb): Jupyter notebook in which the extraction and cleaning process of daily airport information data is developed.
-   - [**flights_cleaning.ipynb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/Jupyter%20Notebooks/flights_cleaning.ipynb): Jupyter notebook in which the transformation and cleaning process of the extracted flight records is developed
+   - [**flights_cleaning.ipynb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/Jupyter%20Notebooks/flights_cleaning.ipynb): Jupyter notebook in which the transformation and cleaning process of the extracted flight records is developed.
    - [**metar_cleaning.ipynb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/Jupyter%20Notebooks/metar_cleaning.ipynb): Jupyter notebook in which the transformation and cleaning process of the extracted METAR reports is developed.
    - [**cross_tables.ipynb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/Jupyter%20Notebooks/cross_tables.ipynb): Jupyter notebook in which the flight records are crossed with the METAR and with the daily airport data to be able to have each of the flights with its closest previous meteorological report and with the air traffic information of the same day.
 - [**src**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/src):
