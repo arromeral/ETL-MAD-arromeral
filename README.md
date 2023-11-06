@@ -38,18 +38,18 @@ The contents of the project are as follows:
 ## Methodology & Sources
 Below, the sources and tools used in each of the stages of the project will be briefly explained.
 
-<details open>
+<details close>
 <summary>EXTRACT STAGE</summary>
 <br>
   
-<details open>
+<details close>
 <summary>Fligth Departures Records</summary>
 <br>
 To extract the records of the desired flights, the webscrapping technique has been used on the flightera website (https://www.flightera.net/en/) , which maintains a rich record of flights since at least 2017.
 The main tools used have been Selenium and Pandas.
 </details>
 
-<details open>
+<details close>
 <summary>METARs</summary>
 <br>
 To extract the desired METAR reports, the webscrapping technique has been used on the tutiempo website (https://www.tutiempo.net/registros/lemd) , which maintains a rich record of METAR reports since many years ago. 
@@ -57,7 +57,7 @@ Furthermore, the structure of said website allows the parallelization of the pro
 The main tools used have been Joblib, Selenium and Pandas.
 </details>
 
-<details open>
+<details close>
 <summary>Daily MAD Airport traffic data</summary>
 <br>
 To extract de desired daily traffic data for the MAD Airport the Eurocontrol website (https://www.eurocontrol.int/Economics/DailyTrafficVariation-States.html) has been used, which has an interesting dashboard with valuable information about air traffic in the main European airports.
@@ -66,7 +66,71 @@ The website also allows downloading many of the data shown in XLSX format.
 Two documents have been downloaded, one related to daily operations at each airport and another with punctuality data.
 Once downloaded, the most relevant information has been filtered and a single DataFrame has been generated.
 
-The main tools used have been Pandas and Excel
+<img width="563" alt="mad_info" src="https://github.com/arromeral/ETL-MAD-arromeral/assets/138980560/44352796-768b-4ef1-9f27-dee495a1a655">
+
+The main tools used have been Pandas and Excel.
+</details>
+</details>
+</details>
+
+<details close>
+<summary>TRANSFORM STAGE</summary>
+<br>
+  
+<details close>
+<summary>Fligth Departures Records</summary>
+<br>
+In this stage the flight records obtained previously had been cleaned. The final result of the cleanup is a DataFrame with the following columns:
+<img width="556" alt="flights" src="https://github.com/arromeral/ETL-MAD-arromeral/assets/138980560/2e92310e-ad76-4c94-a42b-57e7d48bc696">
+
+  - **flight_id:** Column with a unique id for each flight, to be able to relate it later with the rest of the data.
+  - **Departure_date_time:** Column in Datetime format with the date and time scheduled for flight departure.
+  - **cod_flight_IATA:** IATA flight code.
+  - **cod_flight_ICAO:** ICAO code of the flight.
+  - **day:** Column in Datetime format with the day of the flight.
+  - **week_day:** Column with the day of the week.
+  - **status:** Column with the status of the flight (Landed, Cancelled, Derived...).
+  - **airliner:** Name of the flight operator.
+  - **cod_airliner_IATA:** IATA code of the company.
+  - **cod_airliner_ICAO:** ICAO code of the company.
+  - **Scheduled_dep:** Scheduled time for flight departure.
+  - **depart_time:** Actual flight departure time.
+  - **dep_situation:** Flight departure status (late, early, on time...).
+  - **dep_mins_of_delay:** Minutes late or early in the flight departure.
+  - **city:** City of the destination airport.
+  - **cod_airport_IATA:** IATA code of the destination airport.
+  - **cod_airport_ICAO:** ICAO code of the destination airport.
+  - **arrival:** Local time of flight arrival.
+  - **arr_situation:** Flight arrival status (late, early, on time..).
+  - **arr_mins_of_delay:** Minutes late or early in the arrival of the flight.
+  - **duration:** Duration of the flight rounded to hours.
+  - **subtraction:** Column that subtracts from p_mins_of_delay and arr_mins_of_delay to detect anomalies in the records.
+
+After the cleaning process, a data frame with **176596 recorded flights** and **22 columns** has been obtained.
+
+
+</details>
+
+<details close>
+<summary>METARs</summary>
+<br>
+In this stage the METAR reports obtained previously will be cleaned. The final result of the cleanup is a DataFrame with the following columns:
+
+<img width="415" alt="metars" src="https://github.com/arromeral/ETL-MAD-arromeral/assets/138980560/7e1022d2-d587-407e-b495-a46cc3487e63">
+
+
+  - **Metar_id:** Column with a unique id for each Metar part, to be able to later relate it to the flights.
+  - **Date_time:** Column in Datetime format with the date and time of issue of the report.
+  - **Day:** Column with the day on which the report was issued in YYYY-MM-DD format.
+  - **Hour:** Time in which the report was issued in HH:MM format.
+  - **Condition:** Meteorological condition of the report.
+  - **Temperature:** Temperature in degrees Celsius [º].
+  - **Wind:** Wind speed in knots or nautical miles per hour [knots].
+  - **Gusts:** Gust speed if any in knots or nautical miles per hour [knots].
+  - **Relative_hum:** Relative humidity in percent [%].
+  - **Pressure:** Atmospheric pressure in hectopascals [hPa].
+
+After the cleaning process, a data frame with **17722 recorded flights** and **10 columns** has been obtained.
 </details>
 </details>
 </details>
