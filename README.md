@@ -81,8 +81,10 @@ The main tools used have been Pandas and Excel.
 <summary>Fligth Departures Records</summary>
 <br>
 In this stage the flight records obtained previously had been cleaned. The final result of the cleanup is a DataFrame with the following columns:
+
   
 <img width="556" alt="flights" src="https://github.com/arromeral/ETL-MAD-arromeral/assets/138980560/2e92310e-ad76-4c94-a42b-57e7d48bc696">
+
 
   - **flight_id:** Column with a unique id for each flight, to be able to relate it later with the rest of the data.
   - **Departure_date_time:** Column in Datetime format with the date and time scheduled for flight departure.
@@ -116,6 +118,7 @@ After the cleaning process, a data frame with **176596 recorded flights** and **
 <summary>METARs</summary>
 <br>
 In this stage the METAR reports obtained previously will be cleaned. The final result of the cleanup is a DataFrame with the following columns:
+
 
 <img width="415" alt="metars" src="https://github.com/arromeral/ETL-MAD-arromeral/assets/138980560/7e1022d2-d587-407e-b495-a46cc3487e63">
 
