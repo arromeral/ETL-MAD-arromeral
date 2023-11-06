@@ -34,3 +34,39 @@ The contents of the project are as follows:
 - [**sql**](https://github.com/arromeral/ETL-MAD-arromeral/tree/main/sql):
    - [**flights_EERD_structure.mwb**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/sql/flights_EERD_structure.mwb): File with the EER Diagram of the relational Database created.
    - [**mad_flights.sql**](https://github.com/arromeral/ETL-MAD-arromeral/blob/main/sql/mad_flights.sql): File to import the Database created.
+
+## Methodology & Sources
+Below, the sources and tools used in each of the stages of the project will be briefly explained.
+
+<details open>
+<summary>EXTRACT STAGE</summary>
+<br>
+  
+<details open>
+<summary>Fligth Departures Records</summary>
+<br>
+To extract the records of the desired flights, the webscrapping technique has been used on the flightera website (https://www.flightera.net/en/) , which maintains a rich record of flights since at least 2017.
+The main tools used have been Selenium and Pandas.
+</details>
+
+<details open>
+<summary>METARs</summary>
+<br>
+To extract the desired METAR reports, the webscrapping technique has been used on the tutiempo website (https://www.tutiempo.net/registros/lemd) , which maintains a rich record of METAR reports since many years ago. 
+Furthermore, the structure of said website allows the parallelization of the process, which has considerably reduced the extraction time.
+The main tools used have been Joblib, Selenium and Pandas.
+</details>
+
+<details open>
+<summary>Daily MAD Airport traffic data</summary>
+<br>
+To extract de desired daily traffic data for the MAD Airport the Eurocontrol website (https://www.eurocontrol.int/Economics/DailyTrafficVariation-States.html) has been used, which has an interesting dashboard with valuable information about air traffic in the main European airports.
+The website also allows downloading many of the data shown in XLSX format.
+
+Two documents have been downloaded, one related to daily operations at each airport and another with punctuality data.
+Once downloaded, the most relevant information has been filtered and a single DataFrame has been generated.
+
+The main tools used have been Pandas and Excel
+</details>
+</details>
+</details>
