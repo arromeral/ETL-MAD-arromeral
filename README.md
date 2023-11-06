@@ -134,3 +134,14 @@ After the cleaning process, a data frame with **17722 recorded flights** and **1
 </details>
 </details>
 </details>
+
+<details close>
+<summary>LOAD STAGE</summary>
+<br>
+Once the three tables have been generated and cleaned, the relational database has been generated. To do this, the flight table has been crossed with the METAR table to add a column to the flight records with the id of the previous weather report closest to the time of the flight.
+Similarly, the flight table has been crossed with the airport's daily air traffic information table to include the record of the flight day report.
+
+Once the tables have been related, the database has been generated in MySQL and the data has been loaded.
+In the image below is the EERD diagram of the database.
+![EERD](https://github.com/arromeral/ETL-MAD-arromeral/assets/138980560/f25c87eb-9fda-4053-8b45-723cd99a3fd0)
+</details>
